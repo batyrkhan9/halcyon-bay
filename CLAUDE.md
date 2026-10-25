@@ -2,6 +2,8 @@
 
 Cal Hacks 13.0 project. An autonomous system of work that runs the patient billing office of a fictional California nonprofit hospital, Halcyon Bay Community Hospital. It works every self-pay account, screens patients for financial assistance under federal 501(r) and California law, learns the hospital's policies from 18 months of history, turns staff corrections into new rules, and logs every step.
 
+Full context, ownership, contracts and timeline: @PRD.md
+
 ## Who owns what
 
 Three people build this at the same time.
