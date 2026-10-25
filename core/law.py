@@ -73,11 +73,14 @@ def check_collection_action(
     on: date,
     notice_sent: date | None,
     screened_for_assistance: bool,
+    application_pending: bool = False,
 ) -> list[Violation]:
     """Every law an agency action on `on` would break. Empty means it is allowed."""
     if action not in EXTRAORDINARY_ACTIONS:
         return []
     found = []
+    if application_pending:
+        found.append(Violation("IRS 501(r)", "A financial assistance application is pending."))
     if action == CREDIT_REPORT and on >= SB_1061_EFFECTIVE:
         found.append(Violation("SB 1061", "Medical debt can't be reported to credit bureaus."))
     earliest = first_bill + timedelta(days=ECA_WAIT_DAYS)

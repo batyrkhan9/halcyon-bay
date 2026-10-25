@@ -17,16 +17,16 @@ from datetime import date, timedelta
 
 from . import law
 from .config import DEFAULT_DB
+from .coverage import approved_directly, covering_approval, pending_application, screened
 from .gateway import Gateway
 from .model import (
-    AGENT, BLOCK_AGENCY_ACTION, COUNSELOR, DISCOUNT, FREE_CARE, NEEDS_INFO, NEW, PAUSE_COLLECTIONS, PAYMENT_PLAN,
-    SCREENING,
+    AGENT, BLOCK_AGENCY_ACTION, CLOSED, COLLECTIONS_REFERRAL, COUNSELOR, DISCOUNT, FREE_CARE, NEEDS_INFO, NEW,
+    PAUSE_COLLECTIONS, SCREENING,
 )
-from .policy import STATED, screen
+from .policy import STATED, discounted, screen
 from .reader import Reader, Reading, ReadFailed, ReplyCache, call_claude, case_file
 from .store import Store
 
-ASSISTANCE_KINDS = (FREE_CARE, DISCOUNT, PAYMENT_PLAN)
 WAIT_FOR_DOCUMENTS_DAYS = 14
 PARALLEL_READS = 6
 
@@ -45,6 +45,9 @@ class Agent:
         self.me = store.actor(AGENT)
 
     def work_open_items(self, parallel: int = PARALLEL_READS) -> list[Result]:
+        # Agency requests are answered every day, whatever state the account's work is in.
+        for row in self.store.all("SELECT DISTINCT account_id FROM agency_requests WHERE status = 'OPEN'"):
+            self.stop_illegal_collections(self.store.account(row["account_id"]), None)
         ids = [row["id"] for row in self.store.all("SELECT id FROM work_items WHERE state IN (?, ?) ORDER BY id",
                                                    NEW, SCREENING)]
         self.prefetch(ids, parallel)
@@ -53,9 +56,10 @@ class Agent:
     def prefetch(self, item_ids: list[str], parallel: int) -> None:
         """Read every case at once, so the work that follows finds each reading saved. Reading changes nothing;
         all acting stays one item at a time, in order."""
-        if len(item_ids) < 2 or parallel < 2:
+        accounts = [self.store.work_item(i)["account_id"] for i in item_ids]
+        cases = [case_file(self.store, a) for a in accounts if self.needs_reading(a)]
+        if len(cases) < 2 or parallel < 2:
             return
-        cases = [case_file(self.store, self.store.work_item(i)["account_id"]) for i in item_ids]
         with ThreadPoolExecutor(max_workers=parallel) as pool:
             for future in [pool.submit(self.reader.read, case) for case in cases]:
                 try:
@@ -71,6 +75,8 @@ class Agent:
         self.stop_illegal_collections(account, item_id)  # safe, so it never waits for the item's turn
         if item["state"] not in (NEW, SCREENING):
             return Result(item_id, account["id"], "WAITING", f"The work item is {item['state']}, so there is nothing to do.")
+        if not self.needs_reading(account["id"]):
+            return self.work_without_application(account, item)
 
         reading = self.reader.read(case_file(self.store, account["id"]))
         if item["state"] == NEW:
@@ -78,22 +84,64 @@ class Agent:
         self.record(account, item_id, reading)
         return self.decide(account, item_id, reading)
 
-    def stop_illegal_collections(self, account: dict, item_id: str) -> None:
+    def needs_reading(self, account_id: str) -> bool:
+        """Claude reads an account when an application waits on it. Accounts from the seed, which has no
+        source records, are read on their documents alone."""
+        return self.store.record("account", account_id) is None or pending_application(self.store, account_id) is not None
+
+    def work_without_application(self, account: dict, item: dict) -> Result:
+        """No application waits: apply an approval that covers the visit, send a lawful agency request to the
+        director, or close the item. No reading needed."""
+        item_id = item["id"]
+        if item["state"] == NEW:
+            self.gateway.move(self.me, item_id, SCREENING, "Checking the account")
+        if approval := covering_approval(self.store, account["id"]):
+            billed = account["billed_cents"]
+            kind, adjustment = ((FREE_CARE, billed) if approval["decision"] == "FREE"
+                                else (DISCOUNT, billed - discounted(billed)))
+            proposal_id = self.gateway.propose(
+                self.me, item_id, kind, amount_cents=adjustment,
+                rationale=f"Approval {approval['application_id']} ({approval['decision'].lower()}) on "
+                          f"{approval['decision_date']} covers every visit for 12 months, and this visit is inside them.",
+                evidence=[{"source": "fa_system", "application": approval["application_id"],
+                           "decision": approval["decision"], "decision_date": approval["decision_date"]}])
+            return Result(item_id, account["id"], "PROPOSED",
+                          f"{proposal_id}: {kind} adjusting ${adjustment / 100:,.2f} under {approval['application_id']}.")
+        if lawful := self.store.open_agency_requests(account["id"]):
+            request = lawful[0]
+            proposal_id = self.gateway.propose(
+                self.me, item_id, COLLECTIONS_REFERRAL, amount_cents=0, subject=f"agency_request:{request['id']}",
+                rationale=f"The agency asks to {law.ACTION_NAMES.get(request['action'], request['action'])}. "
+                          "The law allows it: the patient was screened, the notice went out and the waiting periods "
+                          "have passed. The director decides.",
+                evidence=[{"source": "agency_file", "request": request["id"], "action": request["action"],
+                           "requested_on": request["requested_on"], "notice_sent_on": request["notice_sent_on"]}])
+            return Result(item_id, account["id"], "PROPOSED", f"{proposal_id}: collections referral for {request['id']}.")
+        self.gateway.move(self.me, item_id, CLOSED, "No application waits and no lawful request is open: nothing to change.")
+        return Result(item_id, account["id"], "CLOSED", "Nothing to change.")
+
+    def stop_illegal_collections(self, account: dict, item_id: str | None) -> None:
         requests = self.store.open_agency_requests(account["id"])
         if not requests:
             return
         today = self.store.today()
         first_bill = date.fromisoformat(account["first_bill_on"]) if account["first_bill_on"] else None
-        screened = self.store.one(
-            "SELECT 1 AS yes FROM proposals WHERE account_id = ? AND status = 'POSTED' AND kind IN (?, ?, ?)",
-            account["id"], *ASSISTANCE_KINDS) is not None
+        pending = pending_application(self.store, account["id"]) is not None
+        was_screened = screened(self.store, account["id"])
+        approval = approved_directly(self.store, account["id"]) or covering_approval(self.store, account["id"])
         for request in requests:
             if first_bill is None:
                 violations = [law.Violation("IRS 501(r)", "The first bill date is unknown, so the waiting period can't be checked.")]
             else:
                 notice = date.fromisoformat(request["notice_sent_on"]) if request["notice_sent_on"] else None
                 violations = law.check_collection_action(request["action"], first_bill=first_bill, on=today,
-                                                         notice_sent=notice, screened_for_assistance=screened)
+                                                         notice_sent=notice, screened_for_assistance=was_screened,
+                                                         application_pending=pending)
+            if approval:
+                violations.append(law.Violation(
+                    "Financial assistance policy",
+                    f"Approved {approval['decision'].lower()} on {approval['decision_date']} "
+                    f"({approval['application_id']}); an approved account isn't collected."))
             if violations:
                 self.gateway.act_safe(
                     self.me, account["id"], BLOCK_AGENCY_ACTION, item_id=item_id,
@@ -103,9 +151,11 @@ class Agent:
                     evidence=[{"source": "agency_file", "request": request["id"], "action": request["action"],
                                "requested_on": request["requested_on"]}],
                 )
-        if not account["collections_paused"]:
+        if (pending or approval or not self.store.open_agency_requests(account["id"])) and \
+                not self.store.account(account["id"])["collections_paused"]:
             self.gateway.act_safe(self.me, account["id"], PAUSE_COLLECTIONS, item_id=item_id,
-                                  rationale="Financial assistance screening is open, so collections wait.")
+                                  rationale="Collections wait while assistance is pending or approved, and after an "
+                                            "illegal request.")
 
     def record(self, account: dict, item_id: str, reading: Reading) -> None:
         self.gateway.note(
@@ -140,26 +190,21 @@ class Agent:
         if result.question and not reading.income_from_staff:
             return self.ask(account, item_id, result.question)
 
-        pattern = None
         if reading.applicant.income_proof == STATED and result.outcome in (FREE_CARE, DISCOUNT):
+            # Help is never given on the patient's word alone. Wait for documents, then ask for them.
             if waiting := self.wait_for_documents(account, item_id):
                 return waiting
-            pattern = f"{result.outcome}_WITHOUT_INCOME_DOCUMENTS"
-            if earlier := self.store.rejected_pattern(pattern):
-                return self.ask(account, item_id,
-                                f"Only the patient's word is on file for income. {earlier['rejected_by']} said no to "
-                                f"{pattern.replace('_', ' ').lower()} on {earlier['rejected_on']}, so I won't propose it. "
-                                "Can the patient send pay stubs or any other proof of income?")
+            return self.ask(account, item_id,
+                            "Only the patient's own word is on file for income. Can the patient send pay stubs or other "
+                            "proof: a tax return, an employer or benefit letter, or a signed self-attestation?")
 
         rationale = result.reason
-        if pattern:
-            rationale += " Income is only what the patient told staff; there are no income documents."
         if staff := self.store.staff_for_patient(account["patient_id"]):
             rationale += f" The patient is staff member {staff['name']} ({staff['id']}), who can't decide this account."
         if reading.untrusted_documents:
             rationale += f" Ignored hidden instructions in {', '.join(sorted(reading.untrusted_documents))}."
         proposal_id = self.gateway.propose(self.me, item_id, result.outcome, amount_cents=result.adjustment_cents,
-                                           rationale=rationale, evidence=reading.evidence, pattern=pattern)
+                                           rationale=rationale, evidence=reading.evidence)
         return Result(item_id, account["id"], "PROPOSED",
                       f"{proposal_id}: {result.outcome} adjusting ${result.adjustment_cents / 100:,.2f}. {result.reason}")
 

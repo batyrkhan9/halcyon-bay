@@ -213,7 +213,7 @@ def test_with_only_the_forms_numbers_the_agent_waits_for_documents(tmp_path):
     assert store.one("SELECT pattern FROM proposals WHERE account_id = 'HB26000001'")["pattern"] is None
 
 
-def test_after_the_wait_it_proposes_on_the_forms_numbers_for_a_person_to_judge(tmp_path):
+def test_after_the_wait_it_asks_for_documents_instead_of_proposing(tmp_path):
     store = Store()
     sync = Sync(store, sources=[stub_arrives_on(tmp_path, "2026-09-30")])
     sync.onboard()
@@ -225,9 +225,8 @@ def test_after_the_wait_it_proposes_on_the_forms_numbers_for_a_person_to_judge(t
         sync.day(day)
         day = date.fromordinal(day.toordinal() + 1)
     assert day == date(2026, 7, 16)                                        # back to work after 14 days
-    assert agent.work(item).did == "PROPOSED"
-    assert store.one("SELECT pattern FROM proposals WHERE account_id = 'HB26000001'")["pattern"] == \
-        "FREE_CARE_WITHOUT_INCOME_DOCUMENTS"
+    assert agent.work(item).did == "ASKED"
+    assert store.one("SELECT * FROM proposals WHERE account_id = 'HB26000001'") is None
 
 
 def test_the_agent_works_a_synced_account_end_to_end(synced):
@@ -246,3 +245,46 @@ def test_the_agent_works_a_synced_account_end_to_end(synced):
     used = {e["document_id"] for e in proposal["evidence"]}
     assert "DOC-100001" in used and "FA-26-00001" in used                 # the stub's income, the form's household
     assert proposal["pattern"] is None                                    # documents beat what the form claimed
+
+
+def test_coverage_lawful_requests_and_approved_accounts(tmp_path):
+    rows = dict(BASE)
+    rows["fa/applications.csv"] = [
+        dict(recorded_on="2026-03-01", application_id="FA-26-00002", applicant_id="APL-2", mrn_given="M1000009",
+             accounts_given="HB26000009", first_name="Lee", last_name="Kim", household_size="1", income_stated="9000",
+             received_on="2026-02-20", form_version="2025", status="APPROVED", decision="FREE",
+             decision_date="2026-03-01", decided_by="S-001"),
+        dict(recorded_on="2026-01-10", application_id="FA-26-00003", applicant_id="APL-3", mrn_given="M1000001",
+             accounts_given="HB26000001", first_name="Ana", last_name="Reyes", household_size="1",
+             income_stated="120000", received_on="2026-01-05", form_version="2025", status="DENIED",
+             decision="DENIED", decision_date="2026-01-10", decided_by="S-001"),
+    ]
+    rows["billing/accounts.csv"] = BASE["billing/accounts.csv"][1:2] + [
+        account("2025-12-01", "HB26000001", "M1000001", "3300.00", status="IN_COLLECTIONS", first_bill="2025-12-01"),
+        account("2026-05-01", "HB26000009", "M1000009", "1200.00", status="IN_COLLECTIONS"),
+        dict(account("2026-07-01", "HB26000010", "M1000009", "800.00"), service_date="2026-06-28"),
+    ]
+    rows["billing/statements.csv"] = [
+        dict(recorded_on="2026-05-01", statement_id="ST1", account_no="HB26000001", sent_on="2026-05-01",
+             kind="FINAL_NOTICE", amount_due="3300.00"),
+    ]
+    rows["agency/requests.csv"] = [
+        dict(recorded_on="2026-07-01", request_id="GCR-R-1", client_account="26000001", requested_action="LAWSUIT",
+             requested_date="07/01/2026"),
+        dict(recorded_on="2026-07-01", request_id="GCR-R-2", client_account="HB26000009", requested_action="LIEN",
+             requested_date="07/01/2026"),
+    ]
+    rows["documents/index.csv"], rows["fa/notes.csv"] = [], []
+    store = Store()
+    sync = Sync(store, sources=[world(tmp_path, rows)])
+    sync.onboard()
+    sync.day(date(2026, 7, 1))
+    results = {r.account_id: r for r in Agent(store, sync.gateway, Reader(store, call=ScriptedClaude({}))).work_open_items()}
+
+    covered = store.one("SELECT * FROM proposals WHERE account_id = 'HB26000010'")
+    assert (covered["kind"], covered["amount_cents"]) == ("FREE_CARE", 800_00)          # the March approval covers it
+    referral = store.one("SELECT * FROM proposals WHERE account_id = 'HB26000001'")
+    assert (referral["kind"], referral["subject"]) == ("COLLECTIONS_REFERRAL", "agency_request:GCR-R-1")
+    assert store.one("SELECT status FROM agency_requests WHERE id = 'GCR-R-2'")["status"] == "BLOCKED"
+    assert store.account("HB26000009")["collections_paused"] is True
+    assert results["HB26000009"].did == "CLOSED"                                        # already approved: no change

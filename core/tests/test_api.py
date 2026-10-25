@@ -19,8 +19,8 @@ def client():
 def test_state_counts_work_items(client):
     body = client.get("/state").json()
     assert body["today"] == "2026-07-01"
-    assert body["work_items_by_state"]["PROPOSED"] == 7
-    assert body["work_items_by_state"]["NEEDS_INFO"] == 3
+    assert body["work_items_by_state"]["PROPOSED"] == 6
+    assert body["work_items_by_state"]["NEEDS_INFO"] == 4
 
 
 def test_inbox_only_shows_what_each_person_may_decide(client):
@@ -29,9 +29,9 @@ def test_inbox_only_shows_what_each_person_may_decide(client):
 
     assert proposals("S-001") == {"ACC-1001", "ACC-1004", "ACC-1006", "ACC-1009"}
     assert proposals("S-004") == {"ACC-1001", "ACC-1004", "ACC-1009"}          # not their own account
-    assert proposals("S-002") == {"ACC-1001", "ACC-1002", "ACC-1004", "ACC-1006", "ACC-1008", "ACC-1009"}
+    assert proposals("S-002") == {"ACC-1001", "ACC-1002", "ACC-1004", "ACC-1006", "ACC-1009"}
     assert proposals("S-003") == {"ACC-0907"}
-    assert len(client.get("/inbox/S-001").json()["questions"]) == 3
+    assert len(client.get("/inbox/S-001").json()["questions"]) == 4
 
 
 def test_decision_posts_or_returns_403_with_the_reason(client):

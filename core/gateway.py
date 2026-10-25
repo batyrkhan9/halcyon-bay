@@ -9,7 +9,7 @@ from __future__ import annotations
 import json
 
 from .model import (
-    APPROVED, BLOCK_AGENCY_ACTION, NEEDS_INFO, NEXT_STATES, PAUSE_COLLECTIONS, POSTED, PROPOSAL_KINDS,
+    APPROVED, BLOCK_AGENCY_ACTION, CLOSED, NEEDS_INFO, NEXT_STATES, PAUSE_COLLECTIONS, POSTED, PROPOSAL_KINDS,
     PROPOSED, REJECTED, SAFE_KINDS, SCREENING,
 )
 from .permissions import (
@@ -85,7 +85,7 @@ class Gateway:
             raise KeyError(item_id)
         resource = Resource(account_id=item["account_id"], status=item["state"])
         self._check(actor, MOVE_WORK_ITEM, resource, item_id)
-        if state not in (SCREENING, NEEDS_INFO) or state not in NEXT_STATES[item["state"]]:
+        if state not in (SCREENING, NEEDS_INFO, CLOSED) or state not in NEXT_STATES[item["state"]]:
             self._refuse(actor, MOVE_WORK_ITEM, item_id, item["account_id"],
                          f"Can't move a work item from {item['state']} to {state} directly.")
         with self.store.tx():
@@ -97,7 +97,7 @@ class Gateway:
 
     def propose(self, actor: Actor, item_id: str, kind: str, *, amount_cents: int, rationale: str,
                 evidence: list | None = None, pattern: str | None = None,
-                legal_question: bool = False, reverses: str | None = None) -> str:
+                legal_question: bool = False, reverses: str | None = None, subject: str | None = None) -> str:
         if kind not in PROPOSAL_KINDS or kind in SAFE_KINDS:
             raise ValueError(f"{kind} can't be proposed; safe actions go through act_safe()")
         item = self.store.work_item(item_id)
@@ -117,10 +117,10 @@ class Gateway:
             proposal_id = self.store.next_id("P")
             self.store.run(
                 "INSERT INTO proposals (id, work_item_id, account_id, kind, amount_cents, rationale, evidence, "
-                "pattern, legal_question, reverses, status, proposed_by, proposed_on) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'PROPOSED', ?, ?)",
+                "pattern, legal_question, reverses, subject, status, proposed_by, proposed_on) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'PROPOSED', ?, ?)",
                 proposal_id, item_id, account_id, kind, amount_cents, rationale, _json(evidence or []),
-                pattern, int(legal_question), reverses, actor.id, self.store.today().isoformat(),
+                pattern, int(legal_question), reverses, subject, actor.id, self.store.today().isoformat(),
             )
             self._set_state(item_id, PROPOSED)
             self.store.log(actor, PROPOSE, target=proposal_id, account_id=account_id, allowed=True,

@@ -79,23 +79,11 @@ def test_staff_patient_is_flagged_in_the_proposal(office):
     assert "staff member Tomas Brandt (S-004)" in proposal(store, "ACC-1006")["rationale"]
 
 
-def test_stated_income_is_proposed_once_and_a_no_is_remembered(office):
-    store, fake, _ = office
-    stated = proposal(store, "ACC-1008")
-    assert stated["pattern"] == "DISCOUNT_WITHOUT_INCOME_DOCUMENTS"
-    gw = Gateway(store)
-    gw.decide(store.actor("S-002"), stated["id"], approve=False, note="We need some proof of income.")
-
-    # Another patient with only a stated income: the agent asks instead of proposing again.
-    store.upsert_account("ACC-2000", patient_id="PAT-2000", patient_name="New Patient", billed_cents=9_000_00,
-                         first_bill_on=None, sources={})
-    store.add_document("DOC-9000", "ACC-2000", "NOTE", "fa_system", None, "pt says she makes $80,000 a year, household of 3")
-    fake.scripts["ACC-2000"] = lambda w: reading(w, household=("household of 3", 3),
-                                                 income=[("Wages", [("makes $80,000 a year", 80000, "ANNUAL")])])
-    item = gw.open_work_item(store.actor("sync"), "ACC-2000", "New balance")
-    result = Agent(store, gw, Reader(store, call=fake)).work(item)
-    assert result.did == "ASKED"
-    assert "won't propose it" in question(store, "ACC-2000")["question"]
+def test_help_is_never_proposed_on_the_patients_word_alone(office):
+    store, _, results = office
+    assert results["ACC-1008"].did == "ASKED"
+    assert proposal(store, "ACC-1008") is None
+    assert "own word" in question(store, "ACC-1008")["question"]
 
 
 def test_a_staff_answer_settles_the_question_and_the_agent_proposes(office):

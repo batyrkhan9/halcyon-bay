@@ -22,7 +22,6 @@ from __future__ import annotations
 
 import csv
 import os
-import re
 import sys
 from collections import defaultdict
 from datetime import date, timedelta
@@ -31,6 +30,7 @@ from pathlib import Path
 
 from .agent import WAIT_FOR_DOCUMENTS_DAYS, Agent
 from .config import DEFAULT_DB, ROOT
+from .coverage import account_number, covering_approval
 from .gateway import Gateway
 from .model import COMPLIANCE, COUNSELOR, DIRECTOR, NEEDS_INFO, SCREENING, SYNC
 from .reader import APPLICATION, BILLING, NOTE
@@ -68,12 +68,6 @@ OPEN_ITEM_STATES = ("NEW", "SCREENING", "NEEDS_INFO", "PROPOSED", "APPROVED", "R
 
 def cents(dollars: str) -> int:
     return int(Decimal(dollars or "0") * 100)
-
-
-def account_number(written: str) -> str | None:
-    """The agency and applicants write account numbers many ways: 26107411, HB-2610-7411, hb26107411."""
-    digits = re.sub(r"\D", "", written or "")
-    return f"HB{digits}" if len(digits) == 8 else None
 
 
 def us_date(written: str) -> str | None:
@@ -215,6 +209,12 @@ class Sync:
             request = self.store.one("SELECT account_id FROM agency_requests WHERE id = ?", request_id)
             if request:
                 reasons.setdefault(request["account_id"], f"The agency sent request {request_id}")
+        for account_no in sorted(changed["account"]):
+            row = self.store.record("account", account_no)
+            if row["status"] in WORKABLE_ACCOUNTS and cents(row["patient_responsibility"]) > 0 and \
+                    not self.store.one("SELECT 1 AS seen FROM work_items WHERE account_id = ?", account_no) and \
+                    (approval := covering_approval(self.store, account_no)):
+                reasons.setdefault(account_no, f"Visit covered by approval {approval['application_id']}")
         for kind in ("document", "note"):
             for doc_id in sorted(changed[kind]):
                 doc = self.store.one("SELECT account_id, application_id FROM documents WHERE id = ?", doc_id)
