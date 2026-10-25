@@ -39,7 +39,7 @@ This report separates what the code does, checked by running it, from what `PRD.
 
 **Strongest verified result.** On day one, the system read 18 months of synthetic history: 909 decided applications and 1,710 accounts. It found **32 patients who were denied financial assistance illegally**: 24 should have received free care and 8 a discount. It also found 8 more denials that gave an illegal reason, although the outcome itself was right. For each of the 32 it proposed a reversal for the compliance officer. Together they total **$222,032.72** of patient charges that should be forgiven, including **$31,789.89** the patients had already paid and must get back. The separate score script agrees with the hidden answer key on **40 of 40** findings, with 0 extra.
 
-> Dollar caution: the screens, CLI, README and handoff show **$253,822.61** as the discovery total, and the handoff's wow line says "30 patients, **$227,778** owed back". Both figures add the refund to the write-off, but the refund is already part of the write-off, so they count the same dollars twice. See Section 9. The figures that hold up are **$222,032.72 for all 32**, and **$195,988.56 for the 30 under AB 2297** (of which $31,789.89 is refunds). The 2 AB 1020 cases are $26,044.16 and have no refunds.
+> Dollar note (fixed at `5b374ec`): the discovery total used to add the refund to the write-off, but the refund is already part of the write-off, so it counted the same dollars twice ($253,822.61 overall, $227,778 for AB 2297). The core, screens, README and handoff now show the right figures: **$222,032.72 for all 32**, and **$195,988.56 for the 30 under AB 2297** (of which $31,789.89 is refunds). The 2 AB 1020 cases are $26,044.16 and have no refunds.
 
 ---
 
@@ -148,7 +148,7 @@ What is **not** new or general: the learning step only knows one rule type (enro
 - **Money involved:** $222,032.72 in charges that should be forgiven (24 free care, 8 discount), of which $31,789.89 the patients already paid and are owed back.
 - **Patterns:** learned (with evidence counts) free care at or under 200% (420), discount from 200% to 400% (250), Medi-Cal free (40), homeless free (25). Flagged as illegal: savings denials (18), late denials (15), no pay stubs (5), over income at or under 400% (2).
 - **Independent check:** the score script found 40 of 40 findings right (same case, kind, outcome and dollars), with 0 extra.
-- **To reproduce:** `HALCYON_DB=/tmp/x.db core/.venv/bin/python -m core.sync onboard`, which prints `Day-one discovery: 40 findings, $253,822.61, 4 patterns learned, 4 flagged`. Explain the dollar figure as described in Section 9.
+- **To reproduce:** `HALCYON_DB=/tmp/x.db core/.venv/bin/python -m core.sync onboard`, which prints `Day-one discovery: 40 findings, $222,032.72, 4 patterns learned, 4 flagged`.
 
 ### Self-learning
 
@@ -247,7 +247,7 @@ All runs used scratch databases. "Simulated" means synthetic data; none of these
 
 | Metric | Value | Calculation | Command | Kind |
 |---|---|---|---|---|
-| Core unit tests | **99 passed, 0 failed** | pytest | `core/.venv/bin/python -m pytest core/tests -q` | Test |
+| Core unit tests | **100 passed, 0 failed** | pytest | `core/.venv/bin/python -m pytest core/tests -q` | Test |
 | CRS client tests | **22 passed** (offline) | unittest | `core/.venv/bin/python -m unittest data/crs/test_crs.py` | Test |
 | Data validator | **all checks passed**, including determinism (1,607 files, sha256) and core agreement (229 FREE/DISCOUNT rows) | | `python3 data/generate/validate.py` | Test |
 | UI build | **passes** (tsc + vite) | | `cd ui && npm ci && npm run build` | Test |
@@ -280,7 +280,7 @@ All runs used scratch databases. "Simulated" means synthetic data; none of these
 **Ways the score can overstate**
 - `/score` → `violations_prevented` counts **every refused approval or post**, including demo clicks and tests, as a "violation prevented". A clean full run gives 24 (23 blocks + 1 injection). My manual test added 5. If anyone clicks during the demo, the number goes up.
 - The full-run numbers come from saved readings, so they show the core's code working on Claude readings made earlier. That's fair to say, and the handoff already says it.
-- Discovery `total_cents` counts refunds twice (Section 9).
+- Discovery `total_cents` used to count refunds twice; fixed at `5b374ec` (Section 9).
 
 ---
 
@@ -343,7 +343,7 @@ The commit history (25 commits: 14 by batyrkhan9, 11 by Marstronix218) records r
 **Privacy and security:** keys only in `.env` (gitignored). **No user authentication** on the API, and CORS is open. There's no encryption at rest (a local SQLite file).
 
 **Known limitations and claims to avoid**
-1. **Discovery dollars counted twice.** `total_cents = adjustment + refund`, but the refund is already inside the adjustment. Example: FA-24-04117 owed $5,877.80 and paid all of it. The right outcome is that the patient pays $1,763.34. Both the write-off and the refund are shown as $4,114.46, but the patient's real relief is $4,114.46, not $8,228.92. The answer key uses the same definition, so the score still matches. **Say "$222K in relief to 32 patients, including $31.8K in refunds", not "$254K". For the AB 2297 line, say "$196K", not "$227,778".** The double-counted figures are in the README, the handoff and the Day one screen. Tell Batyrkhan and Noriaki.
+1. **Discovery dollars (fixed at `5b374ec`).** The total used to be `adjustment + refund`, but the refund is already inside the adjustment. Example: FA-24-04117 owed $5,877.80 and paid all of it. The right outcome is that the patient pays $1,763.34, so the patient's real relief is $4,114.46 (all of it refunded), not $8,228.92. The total now counts write-offs only. The answer key's per-finding columns were already right, so the score still matches 40 of 40. **Say "$222K in relief to 32 patients, including $31.8K in refunds", and "$196K" for the AB 2297 line.**
 2. Merging duplicate accounts isn't implemented (0/12 in the full run, and part of 12 of the 24 misses).
 3. Payment plans are a proposal kind only: no schedule and nothing collected. "Kept on payment plans" is fair; "collected" isn't.
 4. Learning uses one rule type and 4 fixed pattern templates. Don't claim general policy learning.
@@ -372,7 +372,7 @@ core/.venv/bin/python -m core.demo --day 2026-09-14     # open http://localhost:
 
 | # | Time | Do | Expected |
 |---|---|---|---|
-| 1 | 0:00–0:20 | **Open on Day one** | 32 illegal denials found in 18 months of history, the AB 2297 banner. Say "$222K to 32 patients" (or "$196K to 30 under AB 2297"), **not** the $253,822.61 on screen, until the team fixes it. **This is the opening for the video.** |
+| 1 | 0:00–0:20 | **Open on Day one** | 32 illegal denials found in 18 months of history, the AB 2297 banner. The screen shows $195,989 for the 30 under AB 2297: say "$196K to 30 patients" (or "$222K to 32" with the AB 1020 two). **This is the opening for the video.** |
 | 2 | 0:20–0:40 | Press `1` (Dana, counselor) and try to approve a reversal, then press `3` (Priya, compliance) and approve | Red 403: "only the compliance officer decides it", then POSTED |
 | 3 | 0:40–1:10 | Today → Run next day | Sep 15 synced. Open one account story to show the quotes next to the documents. |
 | 4 | 1:10–1:50 | A waiting CalFresh account. As Dana: "She's on CalFresh, so she qualifies for free care." Then Learned, and as Luis (`2`) approve. | Precedent, then a rule backtested on history (the handoff reports 10 cases, $59,235). The waiting CalFresh accounts get free care. *(Needs the API key, since it's a new reading. Not run in this audit.)* |
@@ -407,7 +407,7 @@ core/.venv/bin/python -m core.demo --day 2026-09-14     # open http://localhost:
 
 **Challenges.** Keeping a language model away from money decisions without losing its ability to read messy paperwork: we made it report quoted facts and nothing else, and code throws out any fact whose quote doesn't match. Encoding laws that changed partway through the history. Defending against instructions hidden in uploaded documents. Making every refusal as visible as every success. *(The team should add its own story.)*
 
-**Accomplishments.** 40/40 on the day-one discovery against an independent answer key. 94.3% precision and 292 of 316 accounts right over the full simulated run, with $1.56M in charity care proposed for patients who qualify. The planted attack, a pay stub telling "the AI reviewer" to approve 100% charity, was ignored and logged. 99 core tests, 22 CRS tests and a determinism check, all passing. A permission system where the AI provably can't approve or post (shown live with 403s). Every fact tied to a quote in the source document.
+**Accomplishments.** 40/40 on the day-one discovery against an independent answer key. 94.3% precision and 292 of 316 accounts right over the full simulated run, with $1.56M in charity care proposed for patients who qualify. The planted attack, a pay stub telling "the AI reviewer" to approve 100% charity, was ignored and logged. 100 core tests, 22 CRS tests and a determinism check, all passing. A permission system where the AI provably can't approve or post (shown live with 403s). Every fact tied to a quote in the source document.
 
 **What we learned (supported by the code).** Letting code decide and the model read makes the AI's work checkable. A reply cache and a spending cap that holds across runs made iterating on paid model calls safe. *(Personal reflections: ask the team.)*
 
@@ -422,7 +422,7 @@ core/.venv/bin/python -m core.demo --day 2026-09-14     # open http://localhost:
 
 ## 12. Missing information checklist (in priority order)
 
-1. **Agree the discovery dollar figure** with Batyrkhan and Noriaki: $222K (32 patients) or $196K (30 under AB 2297), not $254K or $227,778. It's in the README, the handoff and the Day one screen.
+1. ~~Agree the discovery dollar figure~~ **Done:** fixed at `5b374ec` in the core, the screens, the README and the handoff: $222K (32 patients), $196K (30 under AB 2297).
 2. ~~Full-replay score numbers~~ **Done:** reproduced 292/316, 94.3%, 91.4%, $1,555,458.25, $420,697.30, 23 blocks (Section 6).
 3. **Demo video link**, recorded against the live core (no "sample data" tags).
 4. **Repo URL** and whether it's public.
