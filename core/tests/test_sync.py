@@ -288,3 +288,39 @@ def test_coverage_lawful_requests_and_approved_accounts(tmp_path):
     assert store.one("SELECT status FROM agency_requests WHERE id = 'GCR-R-2'")["status"] == "BLOCKED"
     assert store.account("HB26000009")["collections_paused"] is True
     assert results["HB26000009"].did == "CLOSED"                                        # already approved: no change
+
+
+def test_an_open_bankruptcy_stops_a_lawful_request_and_goes_to_the_director(tmp_path):
+    rows = dict(BASE)
+    rows["billing/patients.csv"] = [dict(BASE["billing/patients.csv"][1], ssn="666701007")]
+    rows["billing/accounts.csv"] = [account("2025-12-01", "HB26000001", "M1000001", "3300.00",
+                                            status="IN_COLLECTIONS", first_bill="2025-12-01")]
+    rows["billing/statements.csv"] = [dict(recorded_on="2026-05-01", statement_id="ST1", account_no="HB26000001",
+                                           sent_on="2026-05-01", kind="FINAL_NOTICE", amount_due="3300.00")]
+    rows["fa/applications.csv"] = [dict(recorded_on="2026-01-10", application_id="FA-26-00003", mrn_given="M1000001",
+                                        accounts_given="HB26000001", household_size="1", income_stated="120000",
+                                        received_on="2026-01-05", status="DENIED", decision="DENIED",
+                                        decision_date="2026-01-10")]
+    rows["agency/requests.csv"] = [dict(recorded_on="2026-07-01", request_id="GCR-R-1", client_account="26000001",
+                                        requested_action="LAWSUIT", requested_date="07/01/2026")]
+    rows["documents/index.csv"], rows["fa/notes.csv"] = [], []
+    store = Store()
+    sync = Sync(store, sources=[world(tmp_path, rows)])
+    sync.onboard()
+    sync.day(date(2026, 7, 1))
+    asked = []
+
+    def fake_crs(person):
+        asked.append(person["ssn"])
+        return {"sent": True, "source": "recorded", "identity": {"result": "PASS", "problems": []}, "deceased": False,
+                "bankruptcy": {"open": True, "records": [{"chapter": "13", "status": "OPEN", "case_number": "25-50877"}]},
+                "contact": {"found": False}}
+
+    agent = Agent(store, sync.gateway, Reader(store, call=ScriptedClaude({})), crs_check=fake_crs)
+    result = agent.work_open_items()[0]
+    assert store.one("SELECT status FROM agency_requests WHERE id = 'GCR-R-1'")["status"] == "BLOCKED"
+    assert store.account("HB26000001")["collections_paused"] is True
+    assert result.did == "ASKED" and "to the director" in result.detail
+    assert store.one("SELECT * FROM proposals WHERE kind = 'COLLECTIONS_REFERRAL'") is None
+    assert asked == ["666701007"]                                  # checked once, then from the saved record
+    assert store.one("SELECT reason FROM audit_log WHERE action = 'crs_check'")["reason"].startswith("CRS (recorded)")

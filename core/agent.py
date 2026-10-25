@@ -15,13 +15,13 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import date, timedelta
 
-from . import law
+from . import crs_checks, law
 from .config import DEFAULT_DB
 from .coverage import approved_directly, covering_approval, pending_application, screened
 from .gateway import Gateway
 from .model import (
     AGENT, BLOCK_AGENCY_ACTION, CLOSED, COLLECTIONS_REFERRAL, COUNSELOR, DISCOUNT, FREE_CARE, NEEDS_INFO, NEW,
-    PAUSE_COLLECTIONS, SCREENING,
+    DIRECTOR, PAUSE_COLLECTIONS, SCREENING,
 )
 from .policy import STATED, discounted, screen
 from .reader import Reader, Reading, ReadFailed, ReplyCache, call_claude, case_file
@@ -40,9 +40,16 @@ class Result:
 
 
 class Agent:
-    def __init__(self, store: Store, gateway: Gateway, reader: Reader):
-        self.store, self.gateway, self.reader = store, gateway, reader
+    def __init__(self, store: Store, gateway: Gateway, reader: Reader, crs_check=crs_checks.live_check):
+        self.store, self.gateway, self.reader, self.crs_check = store, gateway, reader, crs_check
         self.me = store.actor(AGENT)
+
+    def crs(self, account: dict) -> dict:
+        """What CRS says about the patient: checked once, only for patients in the source records."""
+        if not account["patient_id"] or self.store.record("patient", account["patient_id"]) is None:
+            return {}
+        return crs_checks.check_patient(self.store, self.gateway, self.me, account["patient_id"], account["id"],
+                                        self.crs_check)
 
     def work_open_items(self, parallel: int = PARALLEL_READS) -> list[Result]:
         # Agency requests are answered every day, whatever state the account's work is in.
@@ -95,6 +102,17 @@ class Agent:
         item_id = item["id"]
         if item["state"] == NEW:
             self.gateway.move(self.me, item_id, SCREENING, "Checking the account")
+        if stops := self.crs_violations(account):
+            return self.ask(account, item_id, f"{stops[0].text} Collections are paused and the agency's request is "
+                                              "blocked. How should the hospital proceed (proof of claim, or the estate)?",
+                            to_role=DIRECTOR)
+        returned = self.store.records("statement", "json_extract(data, '$.account_no') = ? AND "
+                                      "json_extract(data, '$.returned_mail') = 'Y'", account["id"])
+        if returned and (address := crs_checks.current_address(self.crs(account))):
+            return self.ask(account, item_id,
+                            f"{len(returned)} statements came back undeliverable, so no notice reached the patient. "
+                            f"CRS has a current address: {address}. Please confirm it, and mail a financial "
+                            "assistance application there.")
         if approval := covering_approval(self.store, account["id"]):
             billed = account["billed_cents"]
             kind, adjustment = ((FREE_CARE, billed) if approval["decision"] == "FREE"
@@ -137,6 +155,8 @@ class Agent:
                 violations = law.check_collection_action(request["action"], first_bill=first_bill, on=today,
                                                          notice_sent=notice, screened_for_assistance=was_screened,
                                                          application_pending=pending)
+            for found in self.crs_violations(account):
+                violations.append(found)
             if approval:
                 violations.append(law.Violation(
                     "Financial assistance policy",
@@ -156,6 +176,17 @@ class Agent:
             self.gateway.act_safe(self.me, account["id"], PAUSE_COLLECTIONS, item_id=item_id,
                                   rationale="Collections wait while assistance is pending or approved, and after an "
                                             "illegal request.")
+
+    def crs_violations(self, account: dict) -> list[law.Violation]:
+        result = self.crs(account)
+        found = []
+        if case := crs_checks.bankruptcy_open(result):
+            found.append(law.Violation(
+                "US Bankruptcy Code", f"CRS shows an open chapter {case.get('chapter')} bankruptcy "
+                f"(case {case.get('case_number', '?')}): the automatic stay stops all collection."))
+        if crs_checks.deceased(result):
+            found.append(law.Violation("Estate", "CRS reports the patient deceased: the estate is handled by the director."))
+        return found
 
     def record(self, account: dict, item_id: str, reading: Reading) -> None:
         self.gateway.note(
@@ -198,6 +229,13 @@ class Agent:
                             "Only the patient's own word is on file for income. Can the patient send pay stubs or other "
                             "proof: a tax return, an employer or benefit letter, or a signed self-attestation?")
 
+        if problem := crs_checks.identity_problem(self.crs(account)):
+            # A failed identity check never withholds help. A person verifies, then the help is proposed.
+            return self.ask(account, item_id,
+                            f"The documents show {result.outcome.replace('_', ' ').lower()} "
+                            f"(${result.adjustment_cents / 100:,.2f}). CRS identity check: {problem}. Please verify "
+                            "the patient's identity; help isn't withheld because of this.")
+
         rationale = result.reason
         if staff := self.store.staff_for_patient(account["patient_id"]):
             rationale += f" The patient is staff member {staff['name']} ({staff['id']}), who can't decide this account."
@@ -208,9 +246,9 @@ class Agent:
         return Result(item_id, account["id"], "PROPOSED",
                       f"{proposal_id}: {result.outcome} adjusting ${result.adjustment_cents / 100:,.2f}. {result.reason}")
 
-    def ask(self, account: dict, item_id: str, question: str) -> Result:
-        question_id = self.gateway.ask(self.me, item_id, COUNSELOR, question)
-        return Result(item_id, account["id"], "ASKED", f"{question_id} to the counselor: {question}")
+    def ask(self, account: dict, item_id: str, question: str, to_role: str = COUNSELOR) -> Result:
+        question_id = self.gateway.ask(self.me, item_id, to_role, question)
+        return Result(item_id, account["id"], "ASKED", f"{question_id} to the {to_role}: {question}")
 
     def wait_for_documents(self, account: dict, item_id: str) -> Result | None:
         """Documents usually follow a new form within days. Wait for them instead of asking a person or
