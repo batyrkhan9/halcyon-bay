@@ -19,13 +19,14 @@ import type {
   JudgeBoxResult,
   Proposal,
   Question,
+  WorkResult,
   WorkItem,
   WorkState,
 } from './types';
 import { normalizeDiscovery, normalizeLearned, normalizeScore } from './normalize';
-import { Denied, HttpError, Unreachable } from './errors';
+import { AgentUnavailable, Denied, HttpError, Unreachable } from './errors';
 
-export { Denied, HttpError, Unreachable };
+export { AgentUnavailable, Denied, HttpError, Unreachable };
 
 export const CORE_URL = String(import.meta.env.VITE_CORE_URL || 'http://localhost:8000').replace(/\/+$/, '');
 export const FORCE_MOCK = ['1', 'true', 'yes'].includes(String(import.meta.env.VITE_MOCK || '').toLowerCase());
@@ -78,6 +79,10 @@ async function call<T>(method: 'GET' | 'POST', path: string, body?: unknown): Pr
     throw new Unreachable(e instanceof Error ? e.message : String(e));
   }
   setReach('up');
+  if (res.status === 503) {
+    const j = (await res.json().catch(() => ({}))) as { detail?: string };
+    throw new AgentUnavailable(j.detail || 'The agent is unavailable right now.');
+  }
   if (res.status === 403) {
     const j = (await res.json().catch(() => ({}))) as { reason?: string; detail?: string };
     throw new Denied(j.reason || j.detail || 'The gateway refused this action.');
@@ -148,6 +153,26 @@ export function unpinSample(screen: string) {
 }
 export function isPinned(screen: string): boolean {
   return FORCE_MOCK || pinned.has(screen);
+}
+
+// ---- feature detection: which endpoints does this core have? (FastAPI lists them in /openapi.json)
+let pathsPromise: Promise<Set<string>> | null = null;
+let pathsAt = 0;
+export function corePaths(): Promise<Set<string>> {
+  if (FORCE_MOCK) return Promise.resolve(new Set());
+  if (!pathsPromise || Date.now() - pathsAt > 15_000) {
+    pathsAt = Date.now();
+    pathsPromise = call<{ paths?: Record<string, unknown> }>('GET', '/openapi.json')
+      .then((o) => new Set(Object.keys(o.paths ?? {})))
+      .catch(() => new Set<string>());
+  }
+  return pathsPromise;
+}
+
+/** Can "work it now" run for data from this source? */
+export async function canWork(source: Source): Promise<boolean> {
+  if (useSample(source)) return true;
+  return (await corePaths()).has('/work-items/{item_id}/work');
 }
 
 export const api = {
@@ -230,6 +255,15 @@ export const api = {
     }
   },
 
+  /** The agent works one item now (core db1e42d). 503 means Claude is unreachable or the cap is hit: nothing changed. */
+  work: async (itemId: string, source: Source): Promise<WorkResult> => {
+    try {
+      return useSample(source) ? await mock.work(itemId) : await call<WorkResult>('POST', `/work-items/${encodeURIComponent(itemId)}/work`);
+    } finally {
+      announceChange();
+    }
+  },
+
   // ---------- Coming ----------
   advance: async (days = 1): Promise<Sourced<CoreState>> => {
     const out = await coming(() => call<CoreState>('POST', '/sim/advance', { days }), () => mock.advance(days));
@@ -277,6 +311,7 @@ export const api = {
 
 export function errorText(e: unknown): string {
   if (e instanceof Denied) return e.reason;
+  if (e instanceof AgentUnavailable) return e.message;
   if (e instanceof Unreachable) return `The core isn't reachable at ${CORE_URL}.`;
   if (e instanceof HttpError) return e.status === 404 ? `Not found: ${e.message}` : `${e.status}: ${e.message}`;
   if (e instanceof Error) return e.message;

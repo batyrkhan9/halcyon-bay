@@ -46,6 +46,41 @@ export interface WorkItem {
 
 export type Evidence = Record<string, unknown>;
 
+/** Evidence from the Claude reader (core db1e42d): a fact, the document it came from and the exact quote. */
+export interface EvidenceFact {
+  fact: string;
+  document_id: string | null;
+  quote: string;
+}
+
+export function isFact(e: Evidence): e is Evidence & EvidenceFact {
+  return typeof e.fact === 'string' && typeof e.quote === 'string';
+}
+
+/** A raw document export on the account (core db1e42d). Show `text` as-is. */
+export interface CaseDocument {
+  id: string;
+  account_id: string;
+  kind: string;
+  source: string;
+  dated: string | null;
+  text: string;
+}
+
+export interface AgencyRequest {
+  id: string;
+  account_id: string;
+  action: string;
+  requested_on: string | null;
+  notice_sent_on: string | null;
+  status: 'OPEN' | 'BLOCKED' | string;
+}
+
+export interface WorkResult {
+  result: { work_item_id: string; account_id: string; did: 'PROPOSED' | 'ASKED' | 'WAITING' | string; detail: string };
+  work_item: WorkItem | null;
+}
+
 export interface Proposal {
   id: string;
   work_item_id: string | null;
@@ -57,6 +92,8 @@ export interface Proposal {
   pattern: string | null;
   legal_question: boolean;
   reverses: string | null;
+  /** What a safe action acts on, e.g. agency_request:AR-1005-1 (core db1e42d). */
+  subject?: string | null;
   status: ProposalStatus;
   proposed_by: string;
   proposed_on: string;
@@ -120,6 +157,9 @@ export interface Account {
 
 export interface AccountStory {
   account: Account;
+  /** Present from core db1e42d on. */
+  documents?: CaseDocument[];
+  agency_requests?: AgencyRequest[];
   work_items: WorkItem[];
   proposals: Proposal[];
   questions: Question[];

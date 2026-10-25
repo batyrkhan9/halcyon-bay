@@ -28,6 +28,7 @@ VITE_MOCK=1 npm run dev                           # no core at all
 - "Live now" endpoints always come from the core. If the core can't be reached, the screen falls back to the sample world.
 - "Coming" endpoints (`/sim/advance`, `/discovery`, `/learned`, `/corrections`, `/score`, `/judge-box`) are called too. A 404 falls back to the sample world. Once the core ships one, its screen switches to live data by itself (missing endpoints are re-checked every 15 seconds).
 - Any screen showing sample data carries a small dashed **sample data** tag, so a recording stays honest.
+- The sample world is the real simulated hospital: `npm run extract-sample` copies `../data` (world, answer key, CRS recordings) into `src/mock/real.json`. Re-run it if the data changes. Outcomes come from the answer key, so it plays a perfect core.
 - The sample world lives in memory: a full page reload resets it, which is handy between takes. Moving between screens keeps it.
 
 ## Screens

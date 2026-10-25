@@ -7,14 +7,14 @@ import { cx, Empty, ErrorNote, Loading, Page, SampleTag } from '../components/ui
 import { count } from '../lib/format';
 import { useResource } from '../lib/useResource';
 
-const TRY = ['HB70017007', 'SB 1061', 'CalFresh', 'own account', 'Only the gateway', 'hidden instructions', 'AB 2297', 'Not proposed again'];
+const TRY = ['hidden', 'Chapter 13', 'SB 1061', 'CalFresh', 'own account', 'Only the gateway', 'AB 2297', 'Not proposed again'];
 
 export default function Audit() {
   const [params, setParams] = useSearchParams();
   const sample = params.get('sample') === '1';
   const [q, setQ] = useState(params.get('q') ?? '');
   const [debounced, setDebounced] = useState(q);
-  const [blockedOnly, setBlockedOnly] = useState(params.get('blocked') === '1');
+  const [blockedOnly, setBlockedOnly] = useState(params.get('blocked') === '1' || params.get('allowed') === 'false');
 
   useEffect(() => {
     const t = window.setTimeout(() => setDebounced(q.trim()), 250);

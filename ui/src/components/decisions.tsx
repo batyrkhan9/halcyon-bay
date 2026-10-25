@@ -1,11 +1,11 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { api, Denied, errorText, type Source } from '../api/client';
-import type { Proposal, Question } from '../api/types';
+import { AgentUnavailable, api, canWork, Denied, errorText, type Source } from '../api/client';
+import type { Proposal, Question, WorkResult } from '../api/types';
 import { amountMeaning, day, deciderRole, kindLabel, money, ROLE_LABEL, SAFE_KINDS, titleCase } from '../lib/format';
 import { usePeople } from '../lib/people';
 import { IconCheck, IconQuestion, IconShield, IconX } from './icons';
-import { Badge, Button, cx } from './ui';
+import { Badge, Button, cx, Kbd } from './ui';
 import { EvidenceList } from './sources';
 
 export interface Refusal {
@@ -124,7 +124,8 @@ export function ProposalCard({ proposal: p, source, compact, showAccount }: { pr
           <div className="flex flex-wrap items-center gap-2 text-[0.8125rem] font-medium text-ink3">
             <span className="font-mono text-[0.78rem]">{p.id}</span>
             {p.legal_question && <Badge tone="warn">How the law applies</Badge>}
-            {p.pattern && p.kind === 'NEW_RULE' && <Badge>pattern {p.pattern}</Badge>}
+            {p.pattern && <Badge>{p.pattern}</Badge>}
+            {p.subject && <span className="font-mono text-[0.78rem] text-ink3">on {p.subject}</span>}
             {showAccount && p.account_id && (
               <Link to={`/accounts/${p.account_id}`} className="font-mono text-[0.78rem] text-accent hover:underline">
                 {p.account_id}
@@ -203,12 +204,17 @@ export function ProposalCard({ proposal: p, source, compact, showAccount }: { pr
   );
 }
 
-export function QuestionCard({ question: q, source, showAccount }: { question: Question; source: Source; showAccount?: boolean }) {
-  const { current, nameOf } = usePeople();
+export function QuestionCard({ question: q, source, showAccount, showWork = true }: { question: Question; source: Source; showAccount?: boolean; showWork?: boolean }) {
+  const { current, nameOf, people, setCurrent } = usePeople();
+  const forMe = current?.role === q.to_role;
+  const addressee = people.find((p) => p.role === q.to_role);
+  const addresseeKey = addressee ? people.indexOf(addressee) + 1 : null;
+  const roleWords = ROLE_LABEL[q.to_role]?.toLowerCase() ?? q.to_role;
   const [answer, setAnswer] = useState('');
   const [busy, setBusy] = useState(false);
   const [refusal, setRefusal] = useState<Refusal | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const work = useWorkRun(q.work_item_id);
   const open = q.answer === null;
 
   const send = async () => {
@@ -219,6 +225,8 @@ export function QuestionCard({ question: q, source, showAccount }: { question: Q
     try {
       await api.answer(q.id, current.id, answer.trim(), source);
       setAnswer('');
+      // The answer puts the item back in SCREENING: have the agent pick it up now.
+      if (await canWork(source)) void runWork(q.work_item_id, source);
     } catch (e) {
       if (e instanceof Denied) setRefusal({ reason: e.reason, who: current.name, role: ROLE_LABEL[current.role] ?? current.role, at: new Date(), action: 'answer', target: q.id });
       else setError(errorText(e));
@@ -233,8 +241,9 @@ export function QuestionCard({ question: q, source, showAccount }: { question: Q
         <IconQuestion size={16} className={open ? 'text-warn' : 'text-ink3'} />
         <span className="font-mono text-[0.78rem]">{q.id}</span>
         <span>
-          asked by {nameOf(q.asked_by)} on {day(q.asked_on)}, for the {ROLE_LABEL[q.to_role]?.toLowerCase() ?? q.to_role}
+          asked by {nameOf(q.asked_by)} on {day(q.asked_on)}
         </span>
+        <Badge tone="warn">To the {roleWords}</Badge>
         {showAccount && (
           <Link to={`/accounts/${q.account_id}`} className="font-mono text-[0.78rem] text-accent hover:underline">
             {q.account_id}
@@ -242,7 +251,25 @@ export function QuestionCard({ question: q, source, showAccount }: { question: Q
         )}
       </div>
       <p className="mt-2.5 text-[1.1875rem] font-medium leading-relaxed text-ink">{q.question}</p>
-      {open ? (
+      {open && !forMe ? (
+        <div className="mt-4 flex flex-wrap items-center justify-between gap-3 rounded-xl border border-dashed border-warn/40 bg-white/70 px-4 py-3">
+          <span className="text-[1rem] text-ink2">
+            Asked to the <b className="font-semibold text-ink">{roleWords}</b>
+            {addressee ? (
+              <>
+                : switch to {addressee.name} ({addresseeKey}) to answer.
+              </>
+            ) : (
+              '.'
+            )}
+          </span>
+          {addressee && (
+            <Button onClick={() => setCurrent(addressee.id)}>
+              Act as {addressee.name} <Kbd>{addresseeKey}</Kbd>
+            </Button>
+          )}
+        </div>
+      ) : open ? (
         <form
           className="mt-4 flex flex-wrap items-start gap-2"
           onSubmit={(e) => {
@@ -268,6 +295,7 @@ export function QuestionCard({ question: q, source, showAccount }: { question: Q
           </p>
         </div>
       )}
+      {showWork && work && <WorkOutcome work={work} />}
       {refusal && <GatewayRefusal refusal={refusal} onDismiss={() => setRefusal(null)} />}
       {error && <p className="mt-3 text-[0.9375rem] text-danger">{error}</p>}
     </article>
@@ -307,4 +335,67 @@ export function useDecision(source: Source) {
     }
   };
   return { decide, busy, refusal, setRefusal, error };
+}
+
+export type WorkRun = { state: 'working' } | { state: 'done'; r: WorkResult } | { state: 'unavailable'; text: string } | { state: 'error'; text: string };
+
+const DID_WORDS: Record<string, string> = { PROPOSED: 'Proposed', ASKED: 'Asked a person', WAITING: 'Nothing to do yet' };
+
+/** "Work it now": a few seconds of reading, then what the agent did. A 503 is calm: nothing changed. */
+export function WorkOutcome({ work }: { work: WorkRun }) {
+  if (work.state === 'working') {
+    return (
+      <div className="mt-4 flex items-center gap-3 rounded-xl bg-accent-tint px-4 py-3 text-[1rem] text-accent-strong">
+        <span className="h-2 w-2 animate-pulse-dot rounded-full bg-accent" />
+        The agent is reading the case: documents, notes and any staff answers…
+      </div>
+    );
+  }
+  if (work.state === 'done') {
+    return (
+      <div className="mt-4 rounded-xl border border-accent/25 bg-surface px-4 py-3">
+        <div className="text-eyebrow font-bold uppercase text-accent-strong">{DID_WORDS[work.r.result.did] ?? work.r.result.did}</div>
+        <p className="mt-1 text-[1rem] leading-relaxed text-ink">{work.r.result.detail}</p>
+      </div>
+    );
+  }
+  if (work.state === 'unavailable') {
+    return (
+      <div className="mt-4 rounded-xl border border-warn/30 bg-warn-tint/60 px-4 py-3 text-[1rem] text-ink2">
+        <b className="font-semibold text-ink">The agent can't work right now.</b> {work.text} Nothing changed; try again in a minute.
+      </div>
+    );
+  }
+  return <p className="mt-4 text-[0.9375rem] text-danger">{work.text}</p>;
+}
+
+// Work runs live outside the cards: an answered question moves sections (and remounts), the result must stay.
+const runs = new Map<string, WorkRun>();
+const runListeners = new Set<() => void>();
+function setRun(itemId: string, w: WorkRun) {
+  runs.set(itemId, w);
+  runListeners.forEach((f) => f());
+}
+
+export function useWorkRun(itemId: string | null | undefined): WorkRun | null {
+  const [, force] = useState(0);
+  useEffect(() => {
+    const f = () => force((n) => n + 1);
+    runListeners.add(f);
+    return () => {
+      runListeners.delete(f);
+    };
+  }, []);
+  return itemId ? (runs.get(itemId) ?? null) : null;
+}
+
+export async function runWork(itemId: string, source: Source) {
+  if (runs.get(itemId)?.state === 'working') return;
+  setRun(itemId, { state: 'working' });
+  try {
+    setRun(itemId, { state: 'done', r: await api.work(itemId, source) });
+  } catch (e) {
+    if (e instanceof AgentUnavailable) setRun(itemId, { state: 'unavailable', text: e.message });
+    else setRun(itemId, { state: 'error', text: errorText(e) });
+  }
 }

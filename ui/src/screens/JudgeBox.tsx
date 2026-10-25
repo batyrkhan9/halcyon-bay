@@ -23,7 +23,9 @@ export default function JudgeBox() {
     setError(null);
     try {
       const r = await api.judgeBox(text.trim());
-      navigate(`/accounts/${encodeURIComponent(r.data.account_id)}?live=1`);
+      // A core judge box returns the new work item: the account page works it live (POST /work-items/{id}/work).
+      const work = r.source === 'core' && r.data.work_item_id ? `&work=${encodeURIComponent(r.data.work_item_id)}` : '';
+      navigate(`/accounts/${encodeURIComponent(r.data.account_id)}?live=1${work}`);
     } catch (e) {
       setError(errorText(e));
       setBusy(false);

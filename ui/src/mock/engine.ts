@@ -32,12 +32,15 @@ import type {
   Role,
   Score,
   WorkItem,
+  WorkResult,
   WorkState,
+  CaseDocument,
+  AgencyRequest,
 } from '../api/types';
 import { WORK_STATES } from '../api/types';
 import { Denied, HttpError } from '../api/errors';
 import { parseJudgeText, povertyLine, screen, type Applicant } from './law';
-import { seedWorld } from './seed';
+import { arrivals, liveRow, seedWorld, workItem, workLive } from './seed';
 
 const STAFF_ROLES: Role[] = ['counselor', 'director', 'compliance'];
 const SAFE_KINDS: ProposalKind[] = ['PAUSE_COLLECTIONS', 'BLOCK_AGENCY_ACTION'];
@@ -128,6 +131,7 @@ export class MockOffice {
   rules: RuleRecord[] = [];
   waiting = new Set<string>();
   pendingFollow = new Set<string>();
+  followUps = new Map<string, { follow: FollowUp; answer: string; by: string; question: string }>();
   history = { from: '2025-01-01', to: '2026-06-30', applications: 1412, accounts: 1906 };
   planCollectedCents = 18_340_00;
   rand: () => number = mulberry32(20261025);
@@ -296,7 +300,7 @@ export class MockOffice {
     return id;
   }
 
-  actSafe(accountId: string, kind: ProposalKind, rationale: string, evidence: Evidence[] = [], itemId: string | null = null): string {
+  actSafe(accountId: string, kind: ProposalKind, rationale: string, evidence: Evidence[] = [], itemId: string | null = null, subject: string | null = null): string {
     const id = this.next('P');
     const reason = 'Stopping a collection is always safe, so it needs no approval.';
     this.proposals.push({
@@ -310,6 +314,7 @@ export class MockOffice {
       pattern: null,
       legal_question: false,
       reverses: null,
+      subject,
       status: 'APPROVED',
       proposed_by: 'agent',
       proposed_on: this.today,
@@ -485,8 +490,19 @@ export class MockOffice {
   account(id: string): AccountStory {
     const account = this.accounts.get(id);
     if (!account) throw new HttpError(404, `No account ${id}`);
+    const src = account.sources as { documents?: Array<Record<string, string>>; agency?: { requests?: Array<Record<string, string>> } };
+    const documents: CaseDocument[] = (src.documents ?? [])
+      .filter((d) => d.excerpt)
+      .map((d) => ({ id: d.doc_id, account_id: id, kind: d.doc_type, source: 'mailroom', dated: d.received_on ?? null, text: d.excerpt }));
+    const agency_requests: AgencyRequest[] = (src.agency?.requests ?? []).map((r) => {
+      const [m, d, y] = String(r.requested_date ?? '').split('/');
+      const blocked = this.proposals.some((p) => p.kind === 'BLOCK_AGENCY_ACTION' && p.subject === `agency_request:${r.request_id}` && p.status === 'POSTED');
+      return { id: r.request_id, account_id: id, action: r.requested_action, requested_on: y ? `${y}-${m}-${d}` : null, notice_sent_on: null, status: blocked ? 'BLOCKED' : 'OPEN' };
+    });
     return clone({
       account,
+      documents,
+      agency_requests,
       work_items: this.items.filter((i) => i.account_id === id),
       proposals: this.proposals.filter((p) => p.account_id === id),
       questions: this.questions.filter((q) => q.account_id === id).map(stripFollow),
@@ -537,20 +553,47 @@ export class MockOffice {
     const wasWaiting = item?.state === 'NEEDS_INFO';
     if (item && wasWaiting) this.setState(item, 'SCREENING');
     this.log(actor.id, 'answer', { target: q.id, account_id: q.account_id, reason: text });
-    const follow = q.follow;
-    if (item && wasWaiting && follow) {
-      this.pendingFollow.add(item.id);
-      setTimeout(() => {
-        this.pendingFollow.delete(item.id);
-        if (item.state !== 'SCREENING') return;
-        this.propose(item.id, follow.kind, follow.amount_cents, `${follow.rationale} ${actor.name} answered: “${text}”`, {
-          evidence: [...(follow.evidence ?? []), { source: 'answer', question: q.id, answered_by: actor.id, answer: text }],
-        });
-        this.emit();
-      }, 1400);
-    }
+    if (item && wasWaiting && q.follow) this.followUps.set(item.id, { follow: q.follow, answer: text, by: actor.name, question: q.id });
     this.emit();
     return stripFollow(clone(q));
+  }
+
+  /** POST /work-items/{id}/work: read the case, then propose or ask. Takes a moment, like a Claude read. */
+  async work(itemId: string): Promise<WorkResult> {
+    const item = this.item(itemId);
+    if (!item) throw new HttpError(404, `Not found: ${itemId}`);
+    await new Promise((r) => setTimeout(r, 1500));
+    const done = (did: string, detail: string): WorkResult => {
+      this.emit();
+      return { result: { work_item_id: itemId, account_id: item.account_id, did, detail }, work_item: clone(item) };
+    };
+    if (item.state !== 'NEW' && item.state !== 'SCREENING') return done('WAITING', `${itemId} is ${item.state}, so there was nothing to work.`);
+    const before = new Set(this.proposals.map((p) => p.id));
+    const asked = new Set(this.questions.map((q) => q.id));
+    const f = this.followUps.get(itemId);
+    if (f) {
+      this.followUps.delete(itemId);
+      this.log('agent', 'read_case', {
+        target: itemId,
+        account_id: item.account_id,
+        reason: `Read the case again with ${f.by}'s answer to ${f.question}.`,
+        detail: { model: 'sample', cached: false, facts: [{ fact: `staff answer from ${f.by}`, document_id: null, quote: f.answer }], not_used: [], conflicts: [], missing: [] },
+      });
+      if (item.state === 'NEW') this.move(itemId, 'SCREENING', 'Checking for financial assistance');
+      this.propose(itemId, f.follow.kind, f.follow.amount_cents, `${f.follow.rationale} ${f.by} answered: “${f.answer}”`, {
+        evidence: [...(f.follow.evidence ?? []), { fact: `answer from ${f.by}`, document_id: null, quote: f.answer }],
+      });
+    } else {
+      const l = liveRow(item.account_id);
+      this.waiting.delete(itemId);
+      if (l) workItem(this, itemId, l, this.isRuleApproved('CALFRESH_FREE_CARE'));
+      else this.workClear(item);
+    }
+    const proposed = this.proposals.find((p) => !before.has(p.id) && p.work_item_id === itemId);
+    if (proposed) return done('PROPOSED', `${proposed.id}: ${proposed.kind}${proposed.amount_cents ? ` adjusting ${usd(proposed.amount_cents)}` : ''}. ${proposed.rationale}`);
+    const q = this.questions.find((x) => !asked.has(x.id) && x.work_item_id === itemId);
+    if (q) return done('ASKED', `${q.id} to the ${q.to_role}: ${q.question}`);
+    return done('WAITING', 'Nothing new to propose yet.');
   }
 
   advance(days = 1): CoreState {
@@ -561,57 +604,19 @@ export class MockOffice {
 
   private runDay() {
     this.today = addDays(this.today, 1);
-    const fresh = 4 + Math.floor(this.rand() * 4);
-    const requests = 1 + Math.floor(this.rand() * 2);
+    const fresh = arrivals(this.today);
     this.log('sync', 'sync_day', {
-      reason: `Synced ${shortDate(this.today)} from billing, financial assistance, the agency file and the mailroom: ${fresh} new self-pay accounts, ${fresh + 3} documents, ${requests} agency requests.`,
-      detail: { new_accounts: fresh, documents: fresh + 3, agency_requests: requests },
+      reason: `Synced ${shortDate(this.today)} from billing, financial assistance, the agency file and the mailroom: ${fresh.length} accounts need work.`,
+      detail: { accounts: fresh.length },
     });
-
-    for (const it of this.items.filter((i) => i.state === 'NEW').slice(0, 5)) {
-      this.move(it.id, 'SCREENING', 'Checking for financial assistance');
-      this.workClear(it);
-    }
-    for (const it of this.items.filter((i) => i.state === 'SCREENING' && !this.waiting.has(i.id) && !this.pendingFollow.has(i.id)).slice(0, 3)) this.workClear(it);
-
-    for (let k = 0; k < fresh; k++) {
-      const g = generateAccount(this);
-      const itemId = this.openItem(g.id, 'Self-pay balance with no financial assistance decision');
-      const r = this.rand();
-      if (r < 0.2) continue; // stays NEW until tomorrow
-      this.move(itemId, 'SCREENING', 'Checking for financial assistance');
-      if (r < 0.32) {
-        this.waiting.add(itemId);
-        this.log('agent', 'wait', { target: itemId, account_id: g.id, reason: 'Application received; waiting for the income documents the patient said are in the mail.' });
-        continue;
-      }
-      this.workClear(this.item(itemId)!);
-    }
-
-    for (let k = 0; k < requests; k++) {
-      const g = generateAccount(this, { inCollections: true });
-      const itemId = this.openItem(g.id, 'Agency asked to report the balance to credit bureaus');
-      this.move(itemId, 'SCREENING', "Checking the agency's request against the law");
-      const req = `GCR-R-${String(400 + Math.floor(this.rand() * 500)).padStart(5, '0')}`;
-      this.actSafe(
-        g.id,
-        'BLOCK_AGENCY_ACTION',
-        `Agency asked to credit report (${req}). SB 1061: Medical debt can't be reported to credit bureaus. IRS 501(r): The patient must be checked for financial assistance first.`,
-        [{ source: 'agency_file', request_id: req, requested_action: 'CREDIT_REPORT' }],
-        itemId,
-      );
-      this.actSafe(g.id, 'PAUSE_COLLECTIONS', 'Financial assistance screening is open.', [], itemId);
-      this.workClear(this.item(itemId)!);
-    }
+    const calfreshRule = this.isRuleApproved('CALFRESH_FREE_CARE');
+    for (const l of fresh) workLive(this, l, calfreshRule);
 
     const blocked = this.rejected[0];
     if (blocked) {
-      const target = this.items.find((i) => {
-        const a = this.applicants.get(i.account_id);
-        return i.state === 'NEEDS_INFO' && !!a && a.proof === 'NONE' && !a.calfresh;
-      });
+      const target = this.items.find((i) => i.state === 'NEEDS_INFO' && !this.pendingFollow.has(i.id));
       if (target) {
-        this.propose(target.id, 'DISCOUNT', Math.round((this.accounts.get(target.account_id)?.billed_cents ?? 0) * 0.7), 'Discount without income documents, as in 14 past cases.', {
+        this.propose(target.id, 'DISCOUNT', Math.round((this.accounts.get(target.account_id)?.billed_cents ?? 0) * 0.7), 'Discount without income documents, as in past cases.', {
           pattern: blocked.pattern,
         });
       }
@@ -653,7 +658,7 @@ export class MockOffice {
       ...f,
       proposal: f.proposal_id ? (this.proposals.find((p) => p.id === f.proposal_id) ?? null) : null,
     }));
-    const reversals = findings.filter((f) => f.kind === 'ILLEGAL_DENIAL');
+    const reversals = findings.filter((f) => f.kind === 'ILLEGAL_DENIAL' && f.law === 'AB 2297');
     return clone({
       as_of: '2026-06-30',
       history: this.history,

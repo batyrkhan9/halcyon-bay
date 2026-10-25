@@ -13,24 +13,24 @@ Nothing more needed. The UI diffs the state before and after to say what the day
 ```json
 {
   "as_of": "2026-06-30",
-  "history": {"from": "2025-01-01", "to": "2026-06-30", "applications": 1412, "accounts": 1906},
+  "history": {"from": "2025-01-01", "to": "2026-06-30", "applications": 979, "accounts": 1710},
   "law": {"id": "AB 2297", "name": "California AB 2297", "effective": "2025-01-01",
           "text": "From January 1, 2025, savings and other monetary assets can't be counted, there can be no application deadline, and other proof of income must be accepted."},
-  "total_cents": 19689000,
-  "patterns_learned": 7,
-  "patterns_flagged": 4,
+  "total_cents": 22777845,
+  "patterns_learned": 8,
+  "patterns_flagged": 3,
   "findings": [
-    {"id": "F-001", "kind": "ILLEGAL_DENIAL", "application_id": "FA-25-00140", "account_ids": ["HB70012345"],
-     "patient_name": "Ana Lucero", "decision_date": "2025-03-14", "decided_by": "S-001",
-     "stated_reason": "denied - savings over 10k (bank stmt shows $14,212)", "reason_code": "SAVINGS_OVER_LIMIT",
-     "fpl_pct": 143.1, "correct_outcome": "FREE", "law": "AB 2297", "law_text": "Savings and other monetary assets can't be counted.",
-     "adjustment_cents": 640000, "refund_cents": 0,
+    {"id": "F-001", "kind": "ILLEGAL_DENIAL", "application_id": "FA-24-04117", "account_ids": ["HB24310922"],
+     "patient_name": "Brianna Novak", "decision_date": "2025-01-12", "decided_by": "S-006",
+     "stated_reason": "over asset limit (chk/sav approx 47k)", "reason_code": "SAVINGS_OVER_LIMIT",
+     "fpl_pct": 378.9, "correct_outcome": "DISCOUNT", "law": "AB 2297", "law_text": "...",
+     "adjustment_cents": 411446, "refund_cents": 411446,
      "proposal": {"id": "P-0003", "kind": "REVERSAL", "status": "PROPOSED", "legal_question": true, "...": "the full Proposal object"}}
   ]
 }
 ```
 
-- `kind` is `ILLEGAL_DENIAL` (reverse it) or `ILLEGAL_REASON_SAME_OUTCOME` (reason broke the law, outcome stands, `proposal: null`).
+- `kind` is `ILLEGAL_DENIAL` (reverse it) or `ILLEGAL_REASON_SAME_OUTCOME` (reason broke the law, outcome stands, `proposal: null`). The headline counts the `law: "AB 2297"` denials (rules that changed in January 2025) with adjustment + refund; the screen mentions the AB 1020 ones ("over income" at or under 400%) separately, so set `law` per finding.
 - Please embed the whole REVERSAL Proposal in `proposal`, so the compliance officer approves from this screen through `POST /proposals/{id}/decision` (the "Approve all" button sends one decision per proposal).
 
 ### `GET /learned`
@@ -95,30 +95,21 @@ Nothing more needed. The UI diffs the state before and after to say what the day
 
 Please return as soon as the account and work item exist, then work it in the background. The UI opens `/accounts/{id}` and polls it every second, so each audit row appears as the agent writes it. If the call blocks until the agent is done, it still works, but the judge sees the result at once instead of the steps.
 
-## Things the UI needs that INTERFACE.md doesn't give yet
+## Supported now from `origin/core` (db1e42d)
 
-1. **`account.sources`**. Any JSON renders, but these keys get proper layouts. Each system in its own words:
-   ```json
-   {
-     "billing":   {"patient": {"mrn", "name", "dob", "address", "phone"},
-                   "account": {"account_no", "service_date", "service_type", "payer", "total_charges", "patient_responsibility", "first_statement_date", "status"},
-                   "statements": [{"statement_id", "sent_on", "kind", "amount_due", "returned_mail"}],
-                   "payment_plans": [{"plan_id", "monthly_amount", "months", "status", "missed_payments"}]},
-     "fa":        {"applications": [{"application_id", "household_size", "income_stated", "income_verified", "income_proof", "monetary_assets",
-                                     "medi_cal", "homeless", "received_on", "form_version", "status", "decision", "decision_date", "decided_by", "reason"}],
-                   "notes": [{"note_id", "author", "written_on", "text"}]},
-     "agency":    {"placements": [{"agency_ref", "client_account", "placed_date", "current_balance", "status", "last_activity"}],
-                   "requests": [{"request_id", "requested_action", "requested_date", "agency_note", "answer": "BLOCKED"}]},
-     "documents": [{"doc_id", "doc_type", "name_on_document", "received_on", "excerpt", "flags": ["HIDDEN_INSTRUCTIONS"], "handling": "Treated as evidence, not instructions."}],
-     "staff":     {"staff_id", "name", "role", "match": "Same name, birth date and address as the patient"},
-     "crs":       "the data/crs check_person() result, unchanged"
-   }
-   ```
-   - Dollar fields can stay as the CSV's dollar strings (`"4210.50"`); keys ending `_cents` are read as cents. SSNs are always masked on screen, but better not to send them at all.
-   - `documents[].flags: ["HIDDEN_INSTRUCTIONS"]` turns the card red with "Hidden instructions: ignored and logged". That is the injection demo moment.
-   - `crs.source` `"live"` shows "Live from the CRS sandbox" with each check's `request_id`; `"recorded"` says so; `sent: false` explains "not a sandbox persona".
-2. **Audit rows for the story.** The UI labels these actions if the agent logs them: `crs_check`, `read_document`, `flag_document`, `match_identity`, `learn_pattern`, `flag_pattern`, `discover`, `sync_day`, `apply_rule`. The hidden-instructions moment needs a `flag_document` row (reason says it was ignored), so `/audit?q=hidden instructions` finds it.
-3. **NEW_RULE without a work item.** `Gateway.propose()` needs a work item id, but a rule belongs to no account. The UI handles `work_item_id: null, account_id: null` on NEW_RULE proposals.
-4. **One-query "why" by person.** `/audit?q=` searches reason, target, detail and account_id, so `q=S-004` misses rows where S-004 is only the actor. Adding `actor_id` to the `q` search makes "what did Tomas try?" one query.
-5. **Wording.** `permissions.py` says "The AI proposes and never approves. A agent can't approve." Suggest "The agent can't approve." It shows on screen as written.
-6. **Names.** `patient_name` is shown title-cased ("MARCUS BELLAMY" → "Marcus Bellamy"). Please send first name first, not billing's "BELLAMY, MARCUS".
+The UI already handles these and lights up as soon as the branch merges; against today's main core it simply doesn't show them (`/work` is detected through `/openapi.json`).
+
+- `POST /work-items/{id}/work`: "Work it now" on the account story for NEW/SCREENING items, called automatically after a person answers a question, and on the judge box's new work item. A 503 shows as a calm "The agent can't work right now" with your `detail`.
+- `documents[]` (raw text in monospace, quoted evidence highlighted, hidden-instruction quotes in red) and `agency_requests[]` (OPEN/BLOCKED) on `GET /accounts/{id}`.
+- Evidence `{fact, document_id, quote}` (fact, quote, link to the document), `pattern` and `subject` badges.
+- Audit `read_case` (expandable: facts with quotes, "refused by code" with `why`, conflicts by `description`, missing) and `follow_hidden_instructions` (red "Hidden instructions ignored" row; `/audit?allowed=false` shows them).
+
+## Still needed
+
+1. **CRS on the account.** Please put the `data/crs` `check_person()` result, unchanged, in `account.sources.crs` (including `source: "live" | "recorded"`). The card says "Live from the CRS sandbox" only when `source` is `live`, "Recorded CRS sandbox answer" when `recorded`. A `crs_check` audit row makes "why are collections paused?" one search.
+2. **`account.sources` from sync.** Any JSON renders; `billing`, `fa`, `agency`, `documents` and `staff` get proper layouts (shapes in the sample world: `ui/src/mock/real.json` is extracted from `data/` by `npm run extract-sample`).
+3. **Judge box returns `work_item_id`.** The UI then opens the account and calls `/work` on it, so the judge watches it get read.
+4. **NEW_RULE without a work item.** `Gateway.propose()` needs a work item, but a rule belongs to no account. The UI handles `work_item_id: null, account_id: null`.
+5. **One-query "why" by person.** `/audit?q=` doesn't search `actor_id`, so `q=S-004` misses rows where S-004 is only the actor.
+6. **Wording.** `permissions.py` still says "The AI proposes and never approves. A agent can't approve." Suggest "The agent can't approve."
+7. **Names.** Send `patient_name` first name first ("Marcus Bellamy", not billing's "BELLAMY, MARCUS").

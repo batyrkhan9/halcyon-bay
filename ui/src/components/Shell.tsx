@@ -123,7 +123,7 @@ function RoleSwitcher() {
           aria-label="More people"
           value=""
           onChange={(e) => e.target.value && setCurrent(e.target.value)}
-          className="h-10 rounded-xl border border-line bg-surface px-2 text-[0.875rem] font-medium text-ink2 outline-none hover:text-ink focus:border-accent"
+          className="h-10 w-[6.5rem] shrink-0 rounded-xl border border-line bg-surface px-2 text-[0.875rem] font-medium text-ink2 outline-none hover:text-ink focus:border-accent"
         >
           <option value="">+{more.length} more</option>
           {more.map((p) => (

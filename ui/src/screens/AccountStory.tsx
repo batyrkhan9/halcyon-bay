@@ -1,13 +1,13 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
-import { api, Denied, errorText, type Source } from '../api/client';
-import type { AccountStory as Story, CorrectionResult } from '../api/types';
+import { api, canWork, Denied, errorText, type Source } from '../api/client';
+import { isFact, type AccountStory as Story, type CaseDocument, type CorrectionResult } from '../api/types';
 import { AuditList } from '../components/audit';
-import { GatewayRefusal, ProposalCard, QuestionCard, type Refusal } from '../components/decisions';
+import { GatewayRefusal, ProposalCard, QuestionCard, runWork, useWorkRun, WorkOutcome, type Refusal } from '../components/decisions';
 import { IconArrowLeft, IconArrowRight } from '../components/icons';
 import { Sources } from '../components/sources';
 import { Badge, Button, ErrorNote, Loading, Page, SampleTag, Section, StatePill } from '../components/ui';
-import { day, dayShort, kindLabel, money, ROLE_LABEL, titleCase } from '../lib/format';
+import { day, dayShort, humanize, kindLabel, money, ROLE_LABEL, titleCase } from '../lib/format';
 import { usePeople } from '../lib/people';
 import { useResource } from '../lib/useResource';
 
@@ -34,7 +34,7 @@ export default function AccountStory() {
       </Page>
     );
   }
-  return <StoryView story={r.data} source={r.source ?? 'core'} live={live} />;
+  return <StoryView story={r.data} source={r.source ?? 'core'} live={live} autoWork={params.get('work')} />;
 }
 
 function BackLink() {
@@ -45,8 +45,26 @@ function BackLink() {
   );
 }
 
-function StoryView({ story, source, live }: { story: Story; source: Source; live: boolean }) {
+function StoryView({ story, source, live, autoWork }: { story: Story; source: Source; live: boolean; autoWork: string | null }) {
   const { account, work_items, proposals, questions, ledger, audit } = story;
+  const documents = story.documents ?? [];
+  const agencyRequests = story.agency_requests ?? [];
+  const [workable, setWorkable] = useState(false);
+  useEffect(() => {
+    let alive = true;
+    void canWork(source).then((ok) => alive && setWorkable(ok));
+    return () => {
+      alive = false;
+    };
+  }, [source]);
+  // The judge box opens the account with ?work=<item>: work it once, live.
+  const autoStarted = useRef(false);
+  useEffect(() => {
+    if (autoWork && workable && !autoStarted.current) {
+      autoStarted.current = true;
+      void runWork(autoWork, source);
+    }
+  }, [autoWork, workable, source]);
   const item = work_items[work_items.length - 1];
   const open = proposals.filter((p) => p.status === 'PROPOSED');
   const openQ = questions.filter((q) => q.answer === null);
@@ -56,6 +74,8 @@ function StoryView({ story, source, live }: { story: Story; source: Source; live
   const blocked = audit.filter((a) => !a.allowed).length;
   const done = !!item && ['POSTED', 'PROPOSED', 'NEEDS_INFO', 'REJECTED'].includes(item.state);
   const mrn = account.patient_id;
+  const workItemNow = item && (item.state === 'NEW' || item.state === 'SCREENING') ? item : undefined;
+  const run = useWorkRun(autoWork ?? item?.id);
 
   return (
     <Page>
@@ -104,13 +124,29 @@ function StoryView({ story, source, live }: { story: Story; source: Source; live
         <Section className="mt-12" title="Waiting on a person" aside="Approve, reject or answer as the person picked at the top">
           <div className="space-y-5">
             {openQ.map((q) => (
-              <QuestionCard key={q.id} question={q} source={source} />
+              <QuestionCard key={q.id} question={q} source={source} showWork={false} />
             ))}
             {open.map((p) => (
               <ProposalCard key={p.id} proposal={p} source={source} />
             ))}
           </div>
         </Section>
+      )}
+
+      {(run || (workable && workItemNow)) && (
+        <div className="mt-8">
+          {workable && workItemNow && run?.state !== 'working' && (
+            <div className="flex flex-wrap items-center gap-4">
+              <Button tone="primary" onClick={() => void runWork(workItemNow.id, source)}>
+                Work it now
+              </Button>
+              <span className="text-[0.9375rem] text-ink3">
+                {workItemNow.id} is {workItemNow.state === 'NEW' ? 'new' : 'being screened'}. The agent reads the documents, then proposes or asks.
+              </span>
+            </div>
+          )}
+          {run && <WorkOutcome work={run} />}
+        </div>
       )}
 
       {live && (
@@ -126,7 +162,35 @@ function StoryView({ story, source, live }: { story: Story; source: Source; live
               <ProposalCard key={p.id} proposal={p} source={source} />
             ))}
             {answered.map((q) => (
-              <QuestionCard key={q.id} question={q} source={source} />
+              <QuestionCard key={q.id} question={q} source={source} showWork={false} />
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {agencyRequests.length > 0 && (
+        <Section className="mt-12" title="Agency requests" aside="The agency asks before it acts; illegal requests are blocked">
+          <ul className="divide-y divide-line/70 overflow-hidden rounded-2xl border border-line bg-surface">
+            {agencyRequests.map((r) => (
+              <li key={r.id} className={r.status === 'BLOCKED' ? 'flex flex-wrap items-center justify-between gap-3 bg-danger-tint/60 px-6 py-4' : 'flex flex-wrap items-center justify-between gap-3 px-6 py-4'}>
+                <div>
+                  <div className="text-[1.0625rem] font-semibold text-ink">{AGENCY_WORDS[r.action] ?? humanize(r.action)}</div>
+                  <div className="text-[0.875rem] text-ink3">
+                    <span className="font-mono">{r.id}</span> · asked {day(r.requested_on)} · {r.notice_sent_on ? `30-day notice sent ${day(r.notice_sent_on)}` : 'no 30-day notice sent'}
+                  </div>
+                </div>
+                <Badge tone={r.status === 'BLOCKED' ? 'danger' : 'neutral'}>{r.status === 'BLOCKED' ? 'Blocked' : humanize(r.status)}</Badge>
+              </li>
+            ))}
+          </ul>
+        </Section>
+      )}
+
+      {documents.length > 0 && (
+        <Section className="mt-12" title="Documents, as exported" aside="Raw text. Quoted evidence is highlighted; hidden instructions in red">
+          <div className="space-y-5">
+            {documents.map((d) => (
+              <DocumentBlock key={d.id} doc={d} story={story} />
             ))}
           </div>
         </Section>
@@ -278,4 +342,59 @@ function Correction({ accountId, source }: { accountId: string; source: Source }
       {error && <p className="mt-3 text-danger">{error}</p>}
     </Section>
   );
+}
+
+const AGENCY_WORDS: Record<string, string> = { CREDIT_REPORT: 'Report to credit bureaus', LAWSUIT: 'File a lawsuit', SELL_DEBT: 'Sell the debt', LIEN: 'Place a lien' };
+
+/** A raw document with every quoted span marked: evidence in the accent, hidden instructions in red. */
+function DocumentBlock({ doc, story }: { doc: CaseDocument; story: Story }) {
+  const quotes: Array<{ q: string; tone: 'accent' | 'danger' }> = [];
+  for (const p of story.proposals) for (const e of p.evidence ?? []) if (isFact(e) && e.document_id === doc.id && e.quote) quotes.push({ q: e.quote, tone: 'accent' });
+  for (const a of story.audit) {
+    const quote = (a.detail as { quote?: unknown; document_id?: unknown }) ?? {};
+    if (a.action === 'follow_hidden_instructions' && a.target === doc.id && typeof quote.quote === 'string') quotes.push({ q: quote.quote, tone: 'danger' });
+  }
+  const hasHidden = quotes.some((x) => x.tone === 'danger');
+  return (
+    <article id={`doc-${doc.id}`} className={hasHidden ? 'scroll-mt-24 rounded-2xl border border-danger/30 bg-surface' : 'scroll-mt-24 rounded-2xl border border-line bg-surface'}>
+      <header className="flex flex-wrap items-center gap-2 border-b border-line/70 px-5 py-3 text-[0.875rem]">
+        <span className="font-mono font-semibold text-ink">{doc.id}</span>
+        <Badge>{humanize(doc.kind)}</Badge>
+        <span className="text-ink3">
+          from {humanize(doc.source).toLowerCase()}
+          {doc.dated ? ` · ${day(doc.dated)}` : ''}
+        </span>
+        {hasHidden && <Badge tone="danger">Hidden instructions ignored</Badge>}
+      </header>
+      <pre className="max-h-96 overflow-auto whitespace-pre-wrap break-words px-5 py-4 font-mono text-[0.8125rem] leading-relaxed text-ink2">{highlight(doc.text, quotes)}</pre>
+    </article>
+  );
+}
+
+function highlight(text: string, quotes: Array<{ q: string; tone: 'accent' | 'danger' }>): ReactNode {
+  const marks: Array<{ start: number; end: number; tone: 'accent' | 'danger' }> = [];
+  const lower = text.toLowerCase();
+  for (const { q, tone } of quotes) {
+    const needle = q.trim();
+    if (!needle) continue;
+    let at = text.indexOf(needle);
+    if (at < 0) at = lower.indexOf(needle.toLowerCase());
+    if (at >= 0) marks.push({ start: at, end: at + needle.length, tone });
+  }
+  if (!marks.length) return text;
+  marks.sort((a, b) => a.start - b.start);
+  const out: ReactNode[] = [];
+  let pos = 0;
+  marks.forEach((m, i) => {
+    if (m.start < pos) return;
+    if (m.start > pos) out.push(text.slice(pos, m.start));
+    out.push(
+      <mark key={i} className={m.tone === 'danger' ? 'rounded bg-danger/15 px-0.5 text-danger' : 'rounded bg-accent/15 px-0.5 text-ink'}>
+        {text.slice(m.start, m.end)}
+      </mark>,
+    );
+    pos = m.end;
+  });
+  if (pos < text.length) out.push(text.slice(pos));
+  return out;
 }
