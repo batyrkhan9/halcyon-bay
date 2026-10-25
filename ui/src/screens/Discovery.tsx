@@ -35,12 +35,12 @@ export default function Discovery() {
   const denials = d.findings.filter((f) => f.kind === 'ILLEGAL_DENIAL');
   const headline = denials.filter((f) => f.law === d.law.id);
   const otherLaw = denials.filter((f) => f.law !== d.law.id);
-  const headlineCents = headline.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0);
-  const otherCents = otherLaw.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0);
+  const headlineCents = headline.reduce((s, f) => s + f.adjustment_cents, 0);
+  const otherCents = otherLaw.reduce((s, f) => s + f.adjustment_cents, 0);
   const same = d.findings.filter((f) => f.kind === 'ILLEGAL_REASON_SAME_OUTCOME');
   const open = denials.filter((f) => f.proposal?.status === 'PROPOSED');
   const approved = denials.filter((f) => f.proposal && (f.proposal.status === 'POSTED' || f.proposal.status === 'APPROVED'));
-  const movedCents = approved.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0);
+  const movedCents = approved.reduce((s, f) => s + f.adjustment_cents, 0);
   const compliance = firstWithRole('compliance');
   const isCompliance = current?.role === 'compliance';
   const complianceKey = compliance ? people.indexOf(compliance) + 1 : 3;
@@ -81,7 +81,7 @@ export default function Discovery() {
 
       <div className="mt-14 grid grid-cols-2 gap-x-10 gap-y-10 xl:grid-cols-[0.8fr_1.35fr_1fr_1fr]">
         <Stat value={headline.length} label="patients to make whole" format={(v) => count(Math.round(v))} />
-        <Stat value={headlineCents} label="back to patients, as charity care and refunds" format={(v) => money(Math.round(v), { whole: true })} accent />
+        <Stat value={headlineCents} label="back to patients, refunds included" format={(v) => money(Math.round(v), { whole: true })} accent />
         <Stat value={approved.length} label={`reversed so far (${money(movedCents, { whole: true })})`} format={(v) => count(Math.round(v))} />
         <Stat value={d.patterns_flagged} label={`patterns flagged, not learned (${d.patterns_learned} learned)`} format={(v) => count(Math.round(v))} link="/learned" />
       </div>
@@ -215,7 +215,7 @@ function FindingRow({ f, source }: { f: DiscoveryFinding; source: Source }) {
         </td>
         <td className="tnum px-4 py-4 text-right">
           <div className="text-[1.125rem] font-semibold text-ink">{money(f.adjustment_cents)}</div>
-          {f.refund_cents > 0 && <div className="text-[0.875rem] text-ink3">+ {money(f.refund_cents)} refund</div>}
+          {f.refund_cents > 0 && <div className="text-[0.875rem] text-ink3">{money(f.refund_cents)} of it refunded</div>}
         </td>
         <td className="px-6 py-4 text-right">
           {!p ? (
