@@ -18,12 +18,12 @@ from datetime import date
 from decimal import Decimal
 
 from . import law
-from .config import CLAUDE_EFFORT, CLAUDE_MODEL, DEFAULT_DB
+from .config import DEFAULT_DB
 from .coverage import account_number
 from .gateway import Gateway
 from .model import AGENT, REVERSAL, SCREENING, SYNC
 from .policy import DISCOUNT_UP_TO_PCT, FREE_UP_TO_PCT, discounted
-from .reader import ReadFailed, ReplyCache, call_claude, request_key
+from .reader import ReadFailed, ask_structured, call_claude
 from .store import Store
 
 REASON_CODES = (law.DENIED_INCOME, law.DENIED_SAVINGS, law.DENIED_LATE, law.DENIED_NO_PAY_STUBS,
@@ -64,21 +64,9 @@ def classify_reasons(reasons: list[str], call=call_claude, cache=None) -> dict[s
     distinct = sorted({r.strip() for r in reasons if r.strip()})
     if not distinct:
         return {}
-    request = {
-        "model": CLAUDE_MODEL, "max_tokens": 16000,
-        "output_config": {"effort": CLAUDE_EFFORT, "format": {"type": "json_schema", "schema": CLASSIFY_SCHEMA}},
-        "system": [{"type": "text", "text": CLASSIFY_PROMPT, "cache_control": {"type": "ephemeral"}}],
-        "messages": [{"role": "user", "content": "\n".join(f"{i}. {r}" for i, r in enumerate(distinct))}],
-    }
-    if not CLAUDE_MODEL.startswith("claude-haiku"):
-        request.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
-    cache = cache or ReplyCache()
-    key = request_key(request)
-    reply = cache.cached_reply(key)
-    if reply is None:
-        reply = call(request)
-        cache.save_reply(key, reply)
-    codes = {int(r["id"]): r["code"] for r in reply["output"]["reasons"] if r["id"].isdigit()}
+    output = ask_structured(CLASSIFY_PROMPT, "\n".join(f"{i}. {r}" for i, r in enumerate(distinct)),
+                            CLASSIFY_SCHEMA, call=call, cache=cache)
+    codes = {int(r["id"]): r["code"] for r in output["reasons"] if r["id"].isdigit()}
     return {text: codes.get(i, "OTHER") for i, text in enumerate(distinct)}
 
 

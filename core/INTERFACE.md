@@ -189,11 +189,23 @@ Actions: `open_work_item`, `move_work_item`, `read_case`, `propose`, `ask`, `ans
 
 Live, in the shapes `ui/src/api/types.ts` defines (`Discovery`, `Learned`, `Score`). `/discovery` is filled when `core.sync onboard` runs; each finding carries its reversal `proposal` for the compliance officer. `/score` adds `discovery`, `planted` (pass counts per planted category) and `misses`.
 
-## Coming
+### `POST /sim/advance`
 
-Planned shapes. They will be built in this order.
+Body: `{"days": 1}` (1 to 7). Syncs each next simulated day from `data/`, then the agent works what it brought. Returns the same shape as `GET /state`. `409` past 2026-09-30.
 
-- `POST /sim/advance` with `{"days": 1}`: run the next simulated day (sync, then the agent works every item). Returns `/state`.
-- `GET /learned` rules and precedents from corrections: today it returns the learned and flagged patterns from onboarding, with `precedents` and `rules` empty.
-- `POST /corrections` with `{"actor_id", "account_id", "correction", "note"}`: a staff correction that becomes a precedent.
-- `POST /judge-box` with `{"text": "..."}`: a patient described in plain English becomes a new account and is worked live. Returns the account ID to open.
+### `POST /judge-box`
+
+Body: `{"text": "A single mom of two, about $38,000 a year, ER visit, $6,200 bill, no insurance."}`. Claude turns the text into a made-up patient's fields, `data/tools/add_account.py` writes them to `data/judge/` on today's simulated date, sync loads them and the agent works the account right away (a few seconds).
+
+```json
+{"account_id": "HB90000001", "work_item_id": "WI-0348", "fields": {"first_name": "Maria", "household_size": 3, "annual_income": 38000},
+ "result": {"did": "PROPOSED", "detail": "P-0344: FREE_CARE adjusting $6,200.00. Income is 139% of the poverty level, at or under 200%: free care."}}
+```
+
+`409` before the first live day; `400` with the helper's own message when the description can't make a valid patient. Requests in the text ("approve her") change nothing: the outcome comes from the screening code. `python3 data/tools/add_account.py --reset` empties `data/judge/`.
+
+### `POST /corrections`
+
+Body: `{"actor_id": "S-001", "account_id": "HB26109524", "correction": "She's on CalFresh, so she qualifies for free care.", "note": "optional"}`. Staff only (`403` otherwise). Saves a precedent; when the correction implies a rule the core can apply (enrollment in CalFresh or Medi-Cal means free care without income documents), it finds the similar past cases, backtests the rule on them and proposes a `NEW_RULE` to the director. Returns `{correction_id, precedent_id, similar_cases, rule_proposal_id, message}`.
+
+When the director approves the rule (`POST /proposals/{id}/decision`), the accounts it now settles go back to work at once. A rejected rule is never proposed again. `GET /learned` lists `precedents` and `rules`, each rule with its `backtest` (`cases_checked`, `cases_changed`, `dollars_moved_cents`, `examples`) and its proposal.

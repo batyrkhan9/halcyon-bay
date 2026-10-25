@@ -7,21 +7,26 @@ from __future__ import annotations
 
 import os
 from dataclasses import asdict
+from datetime import date, timedelta
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
-from . import discovery
+from . import discovery, learning
 from .agent import Agent
 from .config import DEFAULT_DB
 from .gateway import Denied, Gateway
+from .judge_box import FIRST_LIVE_DAY, JudgeBoxError, add_account, fields_from_text
 from .model import PROPOSED, STAFF_ROLES, WORK_ITEM_STATES
 from .permissions import APPROVE, can
 from .reader import Reader, ReadFailed, ReplyCache
 from .score import score
 from .store import Store
+from .sync import SOURCES, Sync
+
+LAST_LIVE_DAY = date(2026, 9, 30)
 
 
 class DecisionIn(BaseModel):
@@ -35,9 +40,28 @@ class AnswerIn(BaseModel):
     answer: str
 
 
-def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
+class AdvanceIn(BaseModel):
+    days: int = 1
+
+
+class JudgeBoxIn(BaseModel):
+    text: str
+
+
+class CorrectionIn(BaseModel):
+    actor_id: str
+    account_id: str
+    correction: str
+    note: str = ""
+
+
+def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_check=None,
+               claude_call=None) -> FastAPI:
+    """claude_call stands in for Claude in the judge box and corrections, for tests."""
     gateway = Gateway(store)
-    agent = Agent(store, gateway, reader or Reader(store, cache=ReplyCache()))
+    agent = Agent(store, gateway, reader or Reader(store, cache=ReplyCache()),
+                  **({"crs_check": crs_check} if crs_check else {}))
+    sync = Sync(store, sources=sources)
     app = FastAPI(title="Halcyon Bay core")
     app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
@@ -70,6 +94,36 @@ def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
             "open_proposals": store.one("SELECT COUNT(*) AS n FROM proposals WHERE status = 'PROPOSED'")["n"],
             "open_questions": store.one("SELECT COUNT(*) AS n FROM questions WHERE answer IS NULL")["n"],
         }
+
+    @app.post("/sim/advance")
+    def advance(body: AdvanceIn):
+        """Run the next simulated day or days: sync each one, then the agent works what it brought."""
+        for _ in range(max(1, min(body.days, 7))):
+            day = store.today() + timedelta(days=1)
+            if day > LAST_LIVE_DAY:
+                raise HTTPException(409, f"The simulation already reached its last day, {LAST_LIVE_DAY}.")
+            sync.day(day)
+            agent.work_open_items()
+        return state()
+
+    @app.post("/judge-box")
+    def judge_box(body: JudgeBoxIn):
+        """A patient in plain English becomes a new account today, and the agent works it right away."""
+        if store.today().isoformat() < FIRST_LIVE_DAY:
+            raise HTTPException(409, "Advance to the first live day before adding a patient.")
+        if not body.text.strip():
+            raise HTTPException(400, "Describe the patient first.")
+        fields = fields_from_text(body.text, call=claude_call)
+        try:
+            added = add_account(store.today().isoformat(), fields)
+        except JudgeBoxError as e:
+            raise HTTPException(400, str(e)) from None
+        sync.refresh()
+        sync.reload_today()
+        item = store.one("SELECT id FROM work_items WHERE account_id = ? ORDER BY id DESC", added["account_no"])
+        result = agent.work(item["id"]) if item else None
+        return {"account_id": added["account_no"], "work_item_id": item["id"] if item else None,
+                "fields": fields, "result": asdict(result) if result else None}
 
     @app.get("/actors")
     def actors():
@@ -105,7 +159,16 @@ def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
 
     @app.post("/proposals/{proposal_id}/decision")
     def decide(proposal_id: str, body: DecisionIn):
-        return gateway.decide(actor_or_404(body.actor_id), proposal_id, body.approve, body.note)
+        decided = gateway.decide(actor_or_404(body.actor_id), proposal_id, body.approve, body.note)
+        if decided["kind"] == "NEW_RULE" and decided["status"] == "POSTED":
+            agent.reconsider()  # the accounts the new rule settles go back to work right away
+        return decided
+
+    @app.post("/corrections")
+    def correction(body: CorrectionIn):
+        """A staff correction becomes a precedent, and a general rule proposed to the director when it implies one."""
+        return learning.correct(store, actor_or_404(body.actor_id), body.account_id, body.correction, body.note,
+                                call=claude_call)
 
     @app.post("/questions/{question_id}/answer")
     def answer(question_id: str, body: AnswerIn):
@@ -153,8 +216,8 @@ def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
         found = discovery.saved(store) or {"patterns": []}
         return {
             "patterns": found["patterns"],
-            "precedents": [],
-            "rules": [],
+            "precedents": store.records("precedent"),
+            "rules": learning.learned_rules(store),
             "rejected": store.all("SELECT * FROM rejected_patterns ORDER BY rejected_on"),
         }
 

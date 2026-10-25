@@ -86,3 +86,47 @@ def test_work_returns_503_when_claude_is_down():
     item = Gateway(store).open_work_item(store.actor("sync"), "ACC-1", "New balance")
     response = client.post(f"/work-items/{item}/work")
     assert response.status_code == 503 and "Claude" in response.json()["detail"]
+
+
+def test_sim_advance_syncs_a_day_and_the_agent_works_it(tmp_path):
+    from core.sync import Sync
+    from core.tests.test_sync import BASE, world
+
+    root = world(tmp_path, BASE)
+    store = Store()
+    Sync(store, sources=[root]).onboard()
+    scripts = {a: (lambda w: {**SEED_SCRIPTS["ACC-1001"](w), "household_size": None}) for a in ("HB26000001", "HB26000002")}
+    client = TestClient(create_app(store, Reader(store, call=ScriptedClaude(scripts)), sources=[root],
+                                   crs_check=lambda person: {"sent": False}))
+    body = client.post("/sim/advance", json={"days": 1}).json()
+    assert body["today"] == "2026-07-01"
+    worked = sum(n for state, n in body["work_items_by_state"].items() if state not in ("NEW", "SCREENING"))
+    assert worked == 2                                     # both accounts the application reaches were worked
+
+
+def test_a_correction_becomes_a_rule_and_approval_settles_the_waiting_calfresh_case():
+    store = Store()
+    reader = Reader(store, call=ScriptedClaude(dict(SEED_SCRIPTS)))
+    seed(store, reader)
+    rule = {"kind": "CATEGORICAL_PROGRAM", "program": "CALFRESH",
+            "text": "Patients enrolled in CalFresh get free care without income documents."}
+    app_client = TestClient(create_app(store, reader, claude_call=lambda request: {"model": "scripted", "output": rule}))
+    made = app_client.post("/corrections", json={
+        "actor_id": "S-001", "account_id": "ACC-1005", "correction": "She's on CalFresh, so she qualifies for free care.",
+        "note": "CalFresh already checked her income."}).json()
+    assert made["rule_proposal_id"] and made["precedent_id"]
+
+    learned = app_client.get("/learned").json()
+    assert learned["rules"][0]["status"] == "PROPOSED" and learned["precedents"][0]["rule_id"] == learned["rules"][0]["id"]
+    denied = app_client.post(f"/proposals/{made['rule_proposal_id']}/decision", json={"actor_id": "S-001", "approve": True})
+    assert denied.status_code == 403                                  # a counselor can't approve a new rule
+    assert app_client.post(f"/proposals/{made['rule_proposal_id']}/decision",
+                           json={"actor_id": "S-002", "approve": True}).json()["status"] == "POSTED"
+    free = [p for p in app_client.get("/accounts/ACC-1005").json()["proposals"] if p["kind"] == "FREE_CARE"]
+    assert free and free[0]["amount_cents"] == 6_500_00               # the waiting case is settled by the rule
+
+    again = app_client.post("/corrections", json={"actor_id": "S-001", "account_id": "ACC-1005",
+                                                  "correction": "CalFresh means free care."}).json()
+    assert "already proposed" in again["message"]
+    assert app_client.post("/corrections", json={"actor_id": "agent", "account_id": "ACC-1005",
+                                                 "correction": "x"}).status_code == 403

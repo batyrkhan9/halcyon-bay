@@ -329,6 +329,26 @@ class ReplyCache:
         return {key: json.loads(reply) for key, reply in rows}
 
 
+def ask_structured(system: str, user: str, schema: dict, call=None, cache=None) -> dict:
+    """One structured-output request to Claude, replayed from the cache when it's been asked before.
+    Goes through the same spending cap as every other call."""
+    request = {
+        "model": CLAUDE_MODEL, "max_tokens": 16000,
+        "output_config": {"effort": CLAUDE_EFFORT, "format": {"type": "json_schema", "schema": schema}},
+        "system": [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
+        "messages": [{"role": "user", "content": user}],
+    }
+    if not CLAUDE_MODEL.startswith("claude-haiku"):
+        request.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+    cache = cache or ReplyCache()
+    key = request_key(request)
+    reply = cache.cached_reply(key)
+    if reply is None:
+        reply = (call or call_claude)(request)
+        cache.save_reply(key, reply)
+    return reply["output"]
+
+
 class Reader:
     def __init__(self, store: Store, call=call_claude, model: str = CLAUDE_MODEL, effort: str = CLAUDE_EFFORT,
                  cache=None):

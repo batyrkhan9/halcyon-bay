@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import date, timedelta
 
-from . import crs_checks, law
+from . import crs_checks, law, learning
 from .config import DEFAULT_DB
 from .coverage import approved_directly, covering_approval, pending_application, screened
 from .gateway import Gateway
@@ -268,8 +268,22 @@ class Agent:
         return date.fromisoformat(max(received)) if received else None
 
     def learned_programs(self) -> frozenset[str]:
-        """Programs that approved rules add to free care without income documents. Learning fills this in."""
-        return frozenset()
+        """Programs that approved rules add to free care without income documents."""
+        return learning.approved_programs(self.store)
+
+    def reconsider(self) -> list[Result]:
+        """After a rule is approved, put the accounts it now settles back to work: those waiting on
+        information whose last reading found the program."""
+        programs = self.learned_programs()
+        results = []
+        for item in self.store.all("SELECT * FROM work_items WHERE state = ? ORDER BY id", NEEDS_INFO):
+            read = self.store.one("SELECT detail FROM audit_log WHERE action = 'read_case' AND account_id = ? "
+                                  "ORDER BY seq DESC", item["account_id"])
+            facts = read["detail"]["facts"] if read else []
+            if any(fact["fact"] == f"enrolled in {program}" for program in programs for fact in facts):
+                self.gateway.move(self.me, item["id"], SCREENING, "An approved rule now settles this account")
+                results.append(self.work(item["id"]))
+        return results
 
 
 def main() -> None:

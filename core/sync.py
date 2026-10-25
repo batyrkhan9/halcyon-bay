@@ -82,20 +82,29 @@ class Sync:
     def __init__(self, store: Store, sources=SOURCES):
         self.store, self.gateway = store, Gateway(store)
         self.me = store.actor(SYNC)
-        self.sources = [Path(s) for s in sources if Path(s).is_dir()]
+        self.sources = [Path(s) for s in sources]  # data/judge/ may only appear later, when the judge box adds a patient
         self._files: dict[str, list[tuple[Path, dict]]] = {}
 
     def rows(self, file: str) -> list[tuple[Path, dict]]:
         """Every row of a file across the sources, in replay order, read once."""
         if file not in self._files:
             found = []
-            for source in self.sources:
+            for source in (s for s in self.sources if s.is_dir()):
                 path = source / file
                 if path.is_file():
                     with path.open(newline="") as f:
                         found += [(source, row) for row in csv.DictReader(f)]
             self._files[file] = sorted(found, key=lambda pair: pair[1]["recorded_on"])
         return self._files[file]
+
+    def refresh(self) -> None:
+        """Forget the files read so far, so rows added since (the judge box) are seen."""
+        self._files.clear()
+
+    def reload_today(self) -> dict:
+        """Load today's rows again: what was already loaded is unchanged, and anything new comes in."""
+        today = self.store.today()
+        return self._load(lambda day: day == today.isoformat(), today)
 
     def onboard(self) -> dict:
         return self._load(lambda day: day <= ONBOARDING_THROUGH.isoformat(), ONBOARDING_THROUGH)
