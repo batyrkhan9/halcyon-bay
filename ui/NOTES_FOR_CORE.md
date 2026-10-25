@@ -16,7 +16,7 @@ Nothing more needed. The UI diffs the state before and after to say what the day
   "history": {"from": "2025-01-01", "to": "2026-06-30", "applications": 979, "accounts": 1710},
   "law": {"id": "AB 2297", "name": "California AB 2297", "effective": "2025-01-01",
           "text": "From January 1, 2025, savings and other monetary assets can't be counted, there can be no application deadline, and other proof of income must be accepted."},
-  "total_cents": 22777845,
+  "total_cents": 19598856,
   "patterns_learned": 8,
   "patterns_flagged": 3,
   "findings": [
@@ -30,7 +30,7 @@ Nothing more needed. The UI diffs the state before and after to say what the day
 }
 ```
 
-- `kind` is `ILLEGAL_DENIAL` (reverse it) or `ILLEGAL_REASON_SAME_OUTCOME` (reason broke the law, outcome stands, `proposal: null`). The headline counts the `law: "AB 2297"` denials (rules that changed in January 2025) with adjustment + refund; the screen mentions the AB 1020 ones ("over income" at or under 400%) separately, so set `law` per finding.
+- `kind` is `ILLEGAL_DENIAL` (reverse it) or `ILLEGAL_REASON_SAME_OUTCOME` (reason broke the law, outcome stands, `proposal: null`). The headline counts the `law: "AB 2297"` denials (rules that changed in January 2025) with the adjustment only (a refund is the part of the adjustment the patient already paid, so adding it would count it twice); the screen mentions the AB 1020 ones ("over income" at or under 400%) separately, so set `law` per finding.
 - Please embed the whole REVERSAL Proposal in `proposal`, so the compliance officer approves from this screen through `POST /proposals/{id}/decision` (the "Approve all" button sends one decision per proposal).
 
 ### `GET /learned`

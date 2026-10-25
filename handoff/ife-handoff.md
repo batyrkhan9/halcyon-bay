@@ -15,12 +15,12 @@ Halcyon Bay is an autonomous system of work that runs the patient billing office
 | Clear cases handled without asking anyone | 91.4% |
 | Moved to charity care for patients who qualify | $1,555,458.25 |
 | Kept on interest-free payment plans instead of written off | $420,697.30 |
-| Day one: past illegal denials found | 40 of 40, $253,822.61 back to patients |
+| Day one: past illegal denials found | 40 of 40, $222,032.72 back to patients (including $31,789.89 in refunds) |
 | Illegal agency actions blocked (credit reports, early lawsuits, sales) | 23 |
 | Attacks stopped (hidden instructions in a pay stub, a staff member approving their own account) | all |
 | Claude cost for the whole build and all runs | about $15 |
 
-The wow moment for the video: on day one it reads 18 months of history and finds 30 patients denied under rules California changed in January 2025, $227,778 owed back, and asks the compliance officer to reverse each one.
+The wow moment for the video: on day one it reads 18 months of history and finds 30 patients denied under rules California changed in January 2025, $196K owed back, and asks the compliance officer to reverse each one.
 
 ## The score
 
@@ -62,7 +62,7 @@ It does the work of two seats: a **billing specialist** and a **financial assist
 
 Three minutes, following the PRD's eight steps. Start the demo on September 14, 2026 (`--day 2026-09-14`): by then every demo moment has arrived, with 16 live days still to run. Switch people with keys 1 (Dana, counselor), 2 (Luis, director), 3 (Priya, compliance) and 4 (Tomas, a counselor who is also a patient).
 
-1. **Day one (Day one tab).** "On its first day it read 18 months of history and found 30 patients denied under rules California changed in January 2025: $227,778 owed back." Point at the reasons as staff typed them. As Priya, click Approve on one reversal: only the compliance officer can.
+1. **Day one (Day one tab).** "On its first day it read 18 months of history and found 30 patients denied under rules California changed in January 2025: $196K owed back." Point at the reasons as staff typed them. As Priya, click Approve on one reversal: only the compliance officer can.
 2. **A live day (Today, Run next day).** It syncs September 15 from every system: clear cases go to a decision, unclear ones to the right person. Open one account to show the evidence: every fact quotes its document.
 3. **Self-improving (any waiting CalFresh account, then Learned).** As Dana, correct it: "She's on CalFresh, so she qualifies for free care." It becomes a precedent and a rule, backtested on history (10 cases, $59,235). As Luis, approve it: the waiting CalFresh accounts get free care at once.
 4. **Handling a no (Learned).** As Luis, reject a proposed rule: it's stored and never proposed again. For a dry run, reject the CalFresh rule instead of approving it.

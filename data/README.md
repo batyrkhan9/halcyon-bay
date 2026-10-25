@@ -14,7 +14,7 @@ The simulated hospital, the answer key and the CRS sandbox calls. Owner: Noriaki
 
 Nothing in `world/` is labeled. The core has to find the problems on its own, including:
 
-- 30 patients denied in the history under the rules that changed in January 2025: $227,778.45 to make them whole. Two more were denied as over income when they were under 400%.
+- 30 patients denied in the history under the rules that changed in January 2025: $195,988.56 to make them whole, including $31,789.89 they already paid and get back. Two more were denied as over income when they were under 400%.
 - 8 denials with an illegal stated reason but the right outcome, which must not be reversed.
 - A CalFresh rule the office never wrote down: it changes 10 past cases worth $59,235.30.
 - Duplicates, mismatched names, missing documents with other proof, stopped payment plans and a 12-month approval that should cover a later visit.

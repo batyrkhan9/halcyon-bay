@@ -50,7 +50,7 @@ It is built for patients who owe a nonprofit hospital after insurance or have no
 
 Every GIF here is the real core on the real simulated data, not sample screens: `core.demo` replayed to 2026-09-30, CRS answers live from the sandbox, and the correction and the judge's patient read live by Claude.
 
-**Day one** (above). It reads 18 months of history and checks every denial against the law in force on its date. It finds 32 illegal denials worth $253,822.61 to make right, and leaves alone 8 denials whose stated reason was illegal but whose outcome was right. Each reversal goes to the compliance officer. A counselor who tries to approve one is refused.
+**Day one** (above). It reads 18 months of history and checks every denial against the law in force on its date. It finds 32 illegal denials worth $222,032.72 to make right (including $31,789.89 the patients already paid and get back), and leaves alone 8 denials whose stated reason was illegal but whose outcome was right. Each reversal goes to the compliance officer. A counselor who tries to approve one is refused.
 
 **A bankruptcy it catches.** The collection agency asks to sue Marcus Bellamy. A live CRS check finds an open Chapter 13 case. The agent blocks the lawsuit request and pauses collections on its own, because stopping a collection is always safe, then asks the director how the hospital should proceed.
 
@@ -189,7 +189,7 @@ The real core on the real data: `core.demo` replayed every live day to 2026-09-3
 
 Day one in detail:
 
-- 32 illegal denials, $253,822.61 to make right: 30 under AB 2297 ($227,778.45) and 2 under AB 1020 ($26,044.16).
+- 32 illegal denials, $222,032.72 to make right, including $31,789.89 in refunds: 30 under AB 2297 ($195,988.56) and 2 under AB 1020 ($26,044.16).
 - 8 denials with an illegal stated reason but the right outcome, correctly left alone.
 - 4 patterns learned: free care at or under 200% (420 decisions), the discount from 200% to 400% (250), Medi-Cal free care (40), homeless free care (25).
 - 4 flagged as illegal: late applications (15 decisions), savings (18), no pay stubs when other proof was sent (5), over income at or under 400% (2).

@@ -45,7 +45,7 @@ export function normalizeDiscovery(raw: unknown): Discovery {
       effective: str(law.effective, '2025-01-01'),
       text: str(law.text),
     },
-    total_cents: num(r.total_cents, findings.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0)),
+    total_cents: num(r.total_cents, findings.reduce((s, f) => s + f.adjustment_cents, 0)),
     findings,
     patterns_learned: num(r.patterns_learned),
     patterns_flagged: num(r.patterns_flagged),

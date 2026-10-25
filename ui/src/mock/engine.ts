@@ -668,7 +668,7 @@ export class MockOffice {
         effective: '2025-01-01',
         text: "From January 1, 2025, savings and other monetary assets can't be counted, there can be no application deadline, and other proof of income must be accepted.",
       },
-      total_cents: reversals.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0),
+      total_cents: reversals.reduce((s, f) => s + f.adjustment_cents, 0),
       findings,
       patterns_learned: this.patterns.filter((p) => p.legal).length,
       patterns_flagged: this.patterns.filter((p) => !p.legal).length,

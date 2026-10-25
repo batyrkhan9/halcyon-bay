@@ -153,7 +153,9 @@ def discover(store: Store, call=call_claude, cache=None) -> dict:
         "law": {"id": "AB 2297", "name": "California AB 2297", "effective": law.AB_2297_EFFECTIVE.isoformat(),
                 "text": "From January 1, 2025: savings can't be counted, there can be no application deadline, "
                         "and other proof of income must be accepted."},
-        "total_cents": sum(f["adjustment_cents"] + f["refund_cents"] for f in findings),
+        # A refund is the paid part of the write-off, so adding it again would count those dollars twice.
+        "total_cents": sum(f["adjustment_cents"] for f in findings),
+        "refund_cents": sum(f["refund_cents"] for f in findings),
         "findings": findings,
         "patterns": learned_patterns(apps, flagged),
     }
