@@ -10,6 +10,31 @@ Built at Cal Hacks 13.0. The hospital, its staff and every patient are synthetic
 
 **What's new.** It reads the office's own history before it starts work and checks each habit against the law first. Legal habits are kept with their evidence counts. Illegal ones are flagged and become reversals, never rules.
 
+## Run the demo
+
+You need Python 3.12, [uv](https://docs.astral.sh/uv/) and Node.js. No API key is needed.
+
+1. Install the core once:
+
+   ```bash
+   uv venv core/.venv --python 3.12
+   uv pip install --python core/.venv/bin/python -r core/requirements.txt
+   ```
+
+2. Start the demo, then open http://localhost:8000:
+
+   ```bash
+   core/.venv/bin/python -m core.demo --day 2026-07-14
+   ```
+
+It loads the history, finds the day-one discoveries, replays the live days to the day you pick and serves the screens. The first run also builds the screens. Use `--day 2026-09-30` to show the final score. Only the judge box and new staff corrections call Claude live; they need `ANTHROPIC_API_KEY` in `.env`. To reset between takes, run `python3 data/tools/add_account.py --reset`, then start the demo again.
+
+## Setup for development
+
+1. Clone the repo.
+2. Copy `.env.example` to `.env` and add your keys. Never commit `.env`.
+3. Run `git pull --rebase` before every push.
+
 ## The problem
 
 Nonprofit hospitals must give free or discounted care to patients who qualify, and must follow strict rules before any extraordinary collection action: selling the debt, credit reporting, a lawsuit or a lien. California changed the rules again on January 1, 2025. Savings can't be counted, there can be no application deadline, other proof of income must be accepted (AB 2297), and medical debt can't be reported to credit bureaus (SB 1061).
@@ -183,31 +208,6 @@ What it still misses:
 - **Duplicates, 0 of 12.** The help it proposes is usually right, but it never merges the two records.
 - **Stopped payment plans, 0 of 4.** A plan stopped without the required call or notice should be put back. Today it closes the work item, or never opens one.
 - Of the 15 precision misses, 9 are duplicates with the right help but no merge, and 6 should have asked a person first (5 documents disagree, 1 CalFresh). Every one is still a proposal waiting for a person. Nothing posts without an approval.
-
-## Run the demo
-
-You need Python 3.12, [uv](https://docs.astral.sh/uv/) and Node.js. No API key is needed.
-
-1. Install the core once:
-
-   ```bash
-   uv venv core/.venv --python 3.12
-   uv pip install --python core/.venv/bin/python -r core/requirements.txt
-   ```
-
-2. Start the demo, then open http://localhost:8000:
-
-   ```bash
-   core/.venv/bin/python -m core.demo --day 2026-07-14
-   ```
-
-It loads the history, finds the day-one discoveries, replays the live days to the day you pick and serves the screens. The first run also builds the screens. Use `--day 2026-09-30` to show the final score. Only the judge box and new staff corrections call Claude live; they need `ANTHROPIC_API_KEY` in `.env`. To reset between takes, run `python3 data/tools/add_account.py --reset`, then start the demo again.
-
-## Setup for development
-
-1. Clone the repo.
-2. Copy `.env.example` to `.env` and add your keys. Never commit `.env`.
-3. Run `git pull --rebase` before every push.
 
 ## Keys and commands
 
