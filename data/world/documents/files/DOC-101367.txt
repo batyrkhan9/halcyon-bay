@@ -1,20 +1,20 @@
-BLUE KELP S0FTWARE LLC
-8020 MARKET WAY   CA
+ ARROYO VERDE NURSERY
+6650 INDUSTRIAL WAY    CA
                          EARNINGS STATEMENT
-Employee: LINDA PARK-PEREIRA        Emp ID: 98876
-Position: Software engineer
-    Pay Period: 06/05/2026 - 06/19/2026     Pay Date: 06/24/2026
-    Pay Frequency: Semi-Monthly
+Employee: RAJNI COLEMAN        Emp ID: 98477
+Position: Nursery worker
+Pay Period: 12/29/2025 - 01/04/2026     Pay Date: 01/09/2026
+Pay Frequency: Weekly
     --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             48.20     86.67       4,177.49     50,129.88
-GROSS PAY                                  4,177.49     50,129.88
+Regular             18.07     23.00         415.61        831.22
+GROSS PAY                                    415.61        831.22
 DEDUCTIONS
-  Federal Income Tax                       375.97
-  Social Security                          259.00
-  Medicare                                  60.57
-  CA SDI                                    45.95
-    NET PAY                                  3,436.00
+  Federal Income Tax                        41.56
+  Social Security                           25.76
+  Medicare                                   6.02
+  CA SDI                                     4.57
+NET PAY                                    337.70
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/17/2026]
+RECEIVED JAN 26 2026  - mailroom

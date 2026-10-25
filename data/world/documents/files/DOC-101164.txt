@@ -1,21 +1,20 @@
-   COASTAL VALLEY ENERGY
-4156 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-Employee: GUADALUPE XU        Emp ID: 60887
-Position: Field technician
-Pay Period: 04/14/2026 - 04/20/2026      Pay Date: 04/25/2026
-_ _ _ _
-Pay Frequency: Weekly
-    --------------------------------------------------------------
- EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regu1ar             16.91     40.00         676.40     11,498.80
-GROSS PAY                                    676.40     11,498.80
-DEDUCTION5
-  Federal Inc0me Tax                        67.64
-   Social Security                           41.93
-  Medicare                                   9.80
-  CA SDI                                     7.44
-NET PAY                                    549.59
+BAYLINE LOGISTICS INC
+6910 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: GARY FREEMAN        Emp ID: 80800
+ Position: Warehouse associate
+Pay Period: 10/12/2025 - 10/26/2025     Pay Date: 10/31/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             36.16     86.67       3,133.99     65,813.79
+GROSS PAY                                  3,133.99     65,813.79
+  DEDUCTIONS
+  Federal Income Tax                       125.35
+  Social Security                          194.30
+  Medicare                                  45.44
+  CA SDI                                    34.47
+   NET PAY                                  2,734.43
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/13/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/06/2025]

@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3527 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SHARON ALLEN        Emp ID: 41423
+Position: Medical receptionist
+Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      2,495.31     37,429.65
+GROSS PAY                                  2,495.31     37,429.65
+DEDUCTIONS
+  Federal Income Tax                       149.71
+  Social Security                          154.70
+     Medicare                                  36.18
+  CA SDI                                    27.44
+NET PAY                                  2,127.28
+--------------------------------------------------------------
+
+FAX RECEIVED 08/15/2026 10:25   P.01

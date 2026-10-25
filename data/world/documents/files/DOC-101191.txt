@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+1544 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+  Employee: RAFAEL GUTIERREZ        Emp ID: 65352
+Position: Medical receptionist
+    Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             33.08     80.00       2,646.40     58,220.80
+GROSS PAY                                  2,646.40     58,220.80
+DEDUCTIONS
+  Federal Income Tax                       132.32
+  Social Security                          164.07
+  Medicare                                  38.37
+  CA SDI                                    29.11
+NET PAY                                   2,282.53
+--------------------------------------------------------------
+
+-- scanned 11/14/2025 HBCH mailroom  pg 1/1 --

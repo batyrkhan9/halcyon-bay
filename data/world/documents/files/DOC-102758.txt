@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+6467 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+  Employee: JIAN XU        Emp ID: 16344
+Position: Medical receptionist
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     6,848.99    123,281.82
+GROSS PAY                                  6,848.99    123,281.82
+DEDUCTIONS
+  Federal Income Tax                       753.38
+  Social Security                          424.63
+  Medicare                                  99.31
+     CA SDI                                    75.33
+NET PAY                                  5,496.34
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]

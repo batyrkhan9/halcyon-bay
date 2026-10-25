@@ -1,20 +1,20 @@
-  SEASIDE DENTAL GROUP
-8444 INDUSTRIAL WAY   CA
+BAYLINE LOGISTICS INC
+8854 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TUAN HARRIS        Emp ID: 80190
-Position: Dental assistant
-Pay Period: 06/13/2026 - 06/26/2026     Pay Date: 07/01/2026
+Employee: CHLOE IBARRA        Emp ID: 58737
+Position: Warehouse associate
+Pay Period: 01/09/2026 - 01/22/2026     Pay Date: 01/27/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,877.44     50,406.72
-GROSS PAY                                  3,877.44     50,406.72
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.62     39.75         740.14      1,480.28
+GROSS PAY                                    740.14      1,480.28
 DEDUCTIONS
-  Federal Income Tax                       232.64
-  Social Security                          240.40
-  Medicare                                  56.22
-     CA SDI                                    42.65
-NET PAY                                  3,305.53
+      Federal Income Tax                        81.41
+  Social Security                           45.88
+  Medicare                                  10.73
+  CA SDI                                     8.14
+NET PAY                                    593.98
 --------------------------------------------------------------
 
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

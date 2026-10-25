@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+   566 MARKET WAY   CA
+~ ~ .  ,
+                         EARNINGS STATEMENT
+Employee: ARJUN WHITE        Emp ID: 58797
+Position: Driver
+Pay Period: 08/02/2026 - 08/08/2026     Pay Date: 08/13/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             98.94     40.00       3,957.60    130,600.80
+   GROSS PAY                                  3,957.60    130,600.80
+ DEDUCTIONS
+  Federal Income Tax                       395.76
+  Social Security                          245.37
+     Medicare                                  57.38
+      CA SDI                                    43.53
+NET PAY                                  3,215.56
+--------------------------------------------------------------
+
+-- scanned 09/04/2026 HBCH mailroom  pg 1/1 --

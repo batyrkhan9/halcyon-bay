@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-941 HARBOR WAY   CA
+    ELLERY HARDWARE SUPPLY
+1506 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DENNIS CARTER        Emp ID: 90703
-Position: Line worker
-Pay Period: 06/23/2025 - 07/07/2025     Pay Date: 07/12/2025
-Pay Frequency: Semi-Monthly
+Employee: JESSICA FONOTI        Emp ID: 19674
+Position: Sales associate
+Pay Period: 03/30/2025 - 04/05/2025     Pay Date: 04/10/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             54.91     86.67       4,759.05     61,867.65
-GROSS PAY                                  4,759.05     61,867.65
-  DEDUCTIONS
-   Federal Income Tax                       428.31
-  Social Security                          295.06
-  Medicare                                  69.00
-  CA SDI                                    52.35
-NET PAY                                  3,914.33
-    --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.00     40.00         800.00     12,000.00
+GROSS PAY                                    800.00     12,000.00
+DEDUCTIONS
+  Federal Income Tax                        56.00
+  Social Security                           49.60
+    Medicare                                  11.60
+  CA SDI                                     8.80
+NET PAY                                    674.00
+--------------------------------------------------------------
 
-FAX RECEIVED 07/22/2025 10:17   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/03/2025]

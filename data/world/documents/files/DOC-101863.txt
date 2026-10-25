@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-  6419 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ETHAN RAMIREZ        Emp ID: 28641
-Position: Custodian
-Pay Period: 07/23/2026 - 08/06/2026     Pay Date: 08/11/2026
-Pay Frequency: Semi-Monthly
+MIRADOR GROCERY CO-OP
+9618 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+Employee: RACHEL JEFFERSON        Emp ID: 79054
+   Position: Cashier
+Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular            128.11     86.67      11,103.29    166,549.35
-GROSS PAY                                 11,103.29    166,549.35
-    DEDUCTIONS
-  Federal Income Tax                     1,110.32
-  Social Security                          688.40
-  Medicare                                 160.99
-  CA SDI                                   122.13
-NET PAY                                  9,021.45
-    --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      7,497.17     97,463.21
+GROSS PAY                                  7,497.17     97,463.21
+DEDUCTIONS
+  Federal Income Tax                       674.74
+  Social Security                          464.82
+  Medicare                                 108.70
+  CA SDI                                    82.46
+NET PAY                                  6,166.45
+--------------------------------------------------------------
 
-RECEIVED SEP 08 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/02/2026]

@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+6485 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SARAH WILSON        Emp ID: 42821
+Position: Field supervisor
+Pay Period: 06/05/2026 - 07/04/2026     Pay Date: 07/09/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,865.18     27,056.26
+GROSS PAY                                  3,865.18     27,056.26
+DEDUCTIONS
+   Federal Income Tax                       154.60
+   Social Security                          239.64
+  Medicare                                  56.04
+  CA SDI                                    42.51
+NET PAY                                  3,372.39
+--------------------------------------------------------------
+
+FAX RECEIVED 07/26/2026 10:23   P.01

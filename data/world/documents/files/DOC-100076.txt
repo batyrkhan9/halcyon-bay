@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+7428 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAI RUIZ        Emp ID: 75623
+Position: Field technician
+Pay Period: 12/12/2024 - 12/25/2024     Pay Date: 12/30/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             70.34     80.00       5,627.20    151,934.40
+GROSS PAY                                  5,627.20    151,934.40
+DEDUCTIONS
+  Federal Income Tax                       618.99
+  Social Security                          348.88
+    Medicare                                  81.59
+  CA SDI                                    61.89
+NET PAY                                  4,515.85
+--------------------------------------------------------------
+
+FAX RECEIVED 01/03/2025 10:21   P.01

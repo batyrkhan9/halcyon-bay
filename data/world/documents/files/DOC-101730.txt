@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-  5654 INDUSTRIAL WAY   CA
+GOLDEN HOUR SENIOR LIVING
+7129 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: BRANDON LEE        Emp ID: 47212
-Position: Dental assistant
-Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
-Pay Frequency: Bi-Weekly
+Employee: FRANK ITO        Emp ID: 17194
+ Position: Caregiver
+Pay Period: 03/15/2026 - 04/13/2026     Pay Date: 04/18/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             57.25     80.00       4,580.00     77,860.00
- GRO5S PAY                                  4,580.00     77,860.00
-DEDUCT1ONS
-   Federal Income Tax                       503.80
-  Social Security                          283.96
-    Medicare                                  66.41
-  CA SDI                                    50.38
- NET PAY                                  3,675.45
+Regular             18.70     75.75       1,416.52      5,666.08
+GROSS PAY                                  1,416.52      5,666.08
+DEDUCTIONS
+  Federal Income Tax                        84.99
+  Social Security                           87.82
+  Medicare                                  20.54
+    CA SD1                                    15.58
+NET PAY                                  1,207.59
 --------------------------------------------------------------
 
-RECEIVED AUG 20 2026  - mailroom
+RECEIVED MAY 02 2026  - mailroom

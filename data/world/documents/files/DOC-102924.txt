@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+ 112 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: ETHAN SCOTT        Emp ID: 37397
+Position: Warehouse associate
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,301.87     39,131.79
+GRO5S PAY                                  2,301.87     39,131.79
+DEDUCTIONS
+  Federal Income Tax                       161.13
+  Social Security                          142.71
+  Medicare                                  33.37
+  CA SDI                                    25.32
+NET PAY                                  1,939.34
+   --------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

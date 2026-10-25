@@ -1,21 +1,20 @@
-   ELLERY HARDWARE SUPPLY
-| |   .
-1093 COMMERCE WAY   CA
+PEACHTREE FREIGHT SYSTEMS
+1244 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ANDREW HERNANDEZ        Emp ID: 60852
-Position: Sales associate
-Pay Period: 06/13/2026 - 07/12/2026     Pay Date: 07/17/2026
-Pay Frequency: Monthly
+Employee: MARCUS BELLAMY        Emp ID: 24731
+Position: Regional sales manager
+    Pay Period: 01/09/2026 - 01/23/2026     Pay Date: 01/28/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    17,982.36    125,876.52
-GROSS PAY                                 17,982.36    125,876.52
+Salary                                     4,515.45      9,030.90
+GROSS PAY                                  4,515.45      9,030.90
 DEDUCTIONS
-     Federal Income Tax                     1,978.05
-  Social Security                        1,114.90
-  Medicare                                 260.74
-    CA SDI                                   197.80
-NET PAY                                 14,430.87
+  Federal Income Tax                       451.54
+  Social Security                          279.95
+    Medicare                                  65.47
+   CA SDI                                    49.67
+NET PAY                                  3,668.82
 --------------------------------------------------------------
 
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 02/09/2026 10:22   P.01

@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-9451 COMMERCE WAY   CA
+OTTER BAY AQUARIUM
+1812 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSE ROBINSON        Emp ID: 38873
-Position: Laborer
-Pay Period: 08/15/2025 - 08/28/2025     Pay Date: 09/02/2025
+Employee: RAYMOND MITCHELL        Emp ID: 85864
+Position: Guest services
+Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.65     14.00         233.10      4,195.80
-   GROSS PAY                                    233.10      4,195.80
+ Regular             18.30     43.75         800.62      8,006.20
+GROSS PAY                                    800.62      8,006.20
 DEDUCTIONS
-  Federal Income Tax                        18.64
-  Social Security                           14.45
-  Medicare                                   3.38
-    CA SDI                                     2.56
-NET PAY                                    194.07
+  Federal Income Tax                        88.06
+  Social Security                           49.63
+  Medicare                                  11.60
+  CA SDI                                     8.80
+   NET PAY                                    642.53
 --------------------------------------------------------------
 
--- scanned 09/08/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/28/2025]

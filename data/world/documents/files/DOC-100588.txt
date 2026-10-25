@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+2852 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMANDA ZAMORA        Emp ID: 90817
+Position: Housekeeper
+Pay Period: 04/29/2025 - 05/12/2025     Pay Date: 05/17/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+     EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+    Regular             18.21     80.00       1,456.80     14,568.00
+GR0SS PAY                                  1,456.80     14,568.00
+DEDUCTIONS
+  Federal Income Tax                       131.11
+       Social Security                           90.32
+  Medicare                                  21.12
+  CA SDI                                    16.02
+NET PAY                                  1,198.23
+--------------------------------------------------------------
+
+-- scanned 05/26/2025 HBCH mailroom  pg 1/1 --

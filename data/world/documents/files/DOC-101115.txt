@@ -1,21 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-5550 INDUSTRIAL WAY   CA
-_ _ _ _
+CYPRESS FLATS AUTO BODY
+9566 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: NOOR LIU        Emp ID: 28823
-Position: Instructional aide
-Pay Period: 03/27/2026 - 04/02/2026     Pay Date: 04/07/2026
-Pay Frequency: Weekly
+Employee: ANDREW LEE        Emp ID: 44052
+ Position: Technician
+Pay Period: 09/04/2025 - 09/17/2025     Pay Date: 09/22/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       795.07     11,130.98
-GROSS PAY                                    795.07     11,130.98
-DEDUCTIONS
-  Federa1 Income Tax                        55.65
-  Social Security                           49.29
-   Medicare                                  11.52
-  CA SDI                                     8.74
-NET PAY                                     669.87
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar              20.86     80.00       1,668.80     31,707.20
+GROSS PAY                                  1,668.80     31,707.20
+  DEDUCTIONS
+  Federal Income Tax                        83.44
+  Social Security                          103.46
+  Medicare                                  24.19
+  CA SDI                                    18.35
+NET PAY                                  1,439.36
 --------------------------------------------------------------
 
-RECEIVED APR 21 2026  - mailroom
+RECEIVED OCT 24 2025  - mailroom

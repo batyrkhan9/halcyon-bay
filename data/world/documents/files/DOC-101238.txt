@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY CO
-  1289 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: PAOLA SILVA        Emp ID: 24366
-Position: Line worker
-Pay Period: 06/11/2026 - 06/17/2026     Pay Date: 06/22/2026
+CALDER FREIGHT LINES
+3206 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ABIGAIL THOMPSON        Emp ID: 55251
+Position: Driver
+Pay Period: 10/28/2025 - 11/03/2025     Pay Date: 11/08/2025
 Pay Frequency: Weekly
---------------------------------------------------------------
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.35     12.25         224.79      5,619.75
-GROSS PAY                                    224.79      5,619.75
+Regular             27.74     40.00       1,109.60     49,932.00
+GROSS PAY                                  1,109.60     49,932.00
 DEDUCTIONS
-  Federal Income Tax                        11.23
-  Social Security                           13.93
-   Medicare                                   3.25
-  CA SDI                                     2.47
-NET PAY                                    193.91
+  Federal Income Tax                        44.38
+| |   .
+    Social Security                           68.79
+  Medicare                                  16.08
+  CA SDI                                    12.20
+NET PAY                                    968.15
 --------------------------------------------------------------
 
-FAX RECEIVED 07/02/2026 10:41   P.01
+RECEIVED DEC 02 2025  - mailroom

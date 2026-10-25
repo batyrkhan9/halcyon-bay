@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+    3648 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMINA MEHTA        Emp ID: 90793
+Position: Sales associate
+Pay Period: 05/27/2026 - 06/10/2026     Pay Date: 06/15/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.13     86.67       1,744.67     20,936.04
+GROSS PAY                                  1,744.67     20,936.04
+DEDUCTIONS
+  Federal Income Tax                        87.23
+  Social Security                          108.17
+  Medicare                                  25.29
+  CA SDI                                    19.19
+   NET PAY                                  1,504.79
+--------------------------------------------------------------
+
+-- scanned 07/05/2026 HBCH mailroom  pg 1/1 --

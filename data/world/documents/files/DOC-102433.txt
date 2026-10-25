@@ -1,0 +1,18 @@
+Form 1040   U.S. Individual Income Tax Return   2025
+  (copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  ROHAN LIU
+Your social security number: XXX-XX-1274
+ Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    48,734.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    48,734.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    48,734.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Rohan Liu        Date: 04/14/2026
+
+FAX RECEIVED 08/09/2026 10:27   P.01

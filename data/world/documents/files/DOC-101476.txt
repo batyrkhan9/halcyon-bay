@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+4249 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ESPERANZA HO        Emp ID: 47665
+Position: Dental assistant
+Pay Period: 01/23/2026 - 02/06/2026     Pay Date: 02/11/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.12     86.67       1,830.47      5,491.41
+GROSS PAY                                  1,830.47      5,491.41
+   DEDUCTIONS
+  Federal Income Tax                       183.04
+| |   .
+  Social Security                          113.48
+     Medicare                                  26.54
+  CA SDI                                    20.13
+NET PAY                                  1,487.28
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/22/2026]

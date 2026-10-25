@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+5781 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND CHAVEZ        Emp ID: 81912
+  . : .
+Position: Teacher
+  Pay Period: 02/19/2025 - 03/05/2025     Pay Date: 03/10/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             18.21     86.67       1,578.26      7,891.30
+GROSS PAY                                  1,578.26      7,891.30
+DEDUCTIONS
+  Federal Income Tax                        78.91
+  Social Security                           97.85
+  Medicare                                  22.88
+  CA SDI                                    17.36
+NET PAY                                  1,361.26
+--------------------------------------------------------------
+
+RECEIVED APR 10 2025  - mailroom

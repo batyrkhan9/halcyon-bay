@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+8941 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: KAI SCOTT        Emp ID: 51160
+Position: Technician
+Pay Period: 07/26/2025 - 08/09/2025     Pay Date: 08/14/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             57.44     86.67       4,978.32     79,653.12
+GROSS PAY                                  4,978.32     79,653.12
+DEDUCTIONS
+  Federal Income Tax                       497.83
+  Social Security                          308.65
+  Medicare                                  72.18
+  CA SDI                                    54.76
+NET PAY                                  4,044.90
+   --------------------------------------------------------------
+
+-- scanned 08/25/2025 HBCH mailroom  pg 1/1 --

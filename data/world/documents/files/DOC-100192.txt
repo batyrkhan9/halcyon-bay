@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-8584 COMMERCE WAY   CA
+VISTA SERENA MEDICAL OFFICES
+  6625 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: MADISON KELLY        Emp ID: 95508
-Position: Guest services
-Pay Period: 03/27/2025 - 04/02/2025     Pay Date: 04/07/2025
-Pay Frequency: Weekly
+Employee: ARACELI HUSSAIN        Emp ID: 59001
+Position: Medical receptionist
+Pay Period: 01/15/2025 - 01/28/2025     Pay Date: 02/02/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Salary                                       499.82      6,997.48
-GROSS PAY                                    499.82      6,997.48
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       239.07        717.21
+GROSS PAY                                    239.07        717.21
 DEDUCTIONS
-  Federal Income Tax                        29.98
-  Social Security                           30.98
-   Medicare                                   7.24
-  CA SDI                                     5.49
-NET PAY                                    426.13
+  Federal Income Tax                        14.34
+    Social Security                           14.82
+  Medicare                                   3.46
+  CA SDI                                     2.63
+NET PAY                                    203.82
 --------------------------------------------------------------
 
--- scanned 04/18/2025 HBCH mailroom  pg 1/1 --
+-- scanned 02/08/2025 HBCH mailroom  pg 1/1 --

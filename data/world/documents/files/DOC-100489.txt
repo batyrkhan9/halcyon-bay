@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1036 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: HUNG ZAMORA        Emp ID: 96027
+Position: Technician
+Pay Period: 03/17/2025 - 03/30/2025     Pay Date: 04/04/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             55.27     80.00       4,421.60     30,951.20
+GROSS PAY                                  4,421.60     30,951.20
+DEDUCTIONS
+  Federal 1ncome Tax                       353.72
+  Social Security                          274.13
+      Medicare                                  64.11
+   CA SDI                                    48.63
+NET PAY                                  3,681.01
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/01/2025]

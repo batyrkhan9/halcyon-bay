@@ -1,20 +1,20 @@
-  POINT CORRIN BOATWORKS
-6762 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ARTURO DANG        Emp ID: 51654
-Position: Mechanic
-Pay Period: 04/06/2025 - 04/12/2025     Pay Date: 04/17/2025
-Pay Frequency: Weekly
+CALDER FREIGHT LINES
+   5118 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: ALEJANDRO TUIASOSOPO        Emp ID: 11795
+Position: Driver
+Pay Period: 01/04/2025 - 01/17/2025     Pay Date: 01/22/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             18.88     40.00         755.20     12,083.20
-GROSS PAY                                    755.20     12,083.20
+Regular             17.85     40.00         714.00      1,428.00
+GROSS PAY                                    714.00      1,428.00
 DEDUCTIONS
-  Federal Income Tax                        83.07
-  Social Security                           46.82
-  Medicare                                  10.95
-  CA SDI                                     8.30
-NET PAY                                    606.06
+  Federal Income Tax                        35.70
+  Social Security                           44.26
+  Medicare                                  10.35
+  CA SDI                                     7.85
+NET PAY                                    615.84
 --------------------------------------------------------------
 
--- scanned 04/24/2025 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 17 2025  - mailroom

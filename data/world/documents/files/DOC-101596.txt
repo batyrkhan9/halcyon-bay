@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-2282 HARBOR WAY   CA
+PORT ELLERY CANNERY CO
+578 MARKET WAY   CA
                          EARNINGS STATEMENT
-| |   .
-Employee: SOFIA IVANOVA        Emp ID: 99340
-   Position: Laborer
-Pay Period: 06/28/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Monthly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             46.55    173.33       8,068.51     64,548.08
-  GROSS PAY                                  8,068.51     64,548.08
-    DEDUCTIONS
-  Federal Income Tax                       887.53
-  Social Security                          500.24
-      Medicare                                 116.99
-  CA SDI                                    88.75
-    NET PAY                                  6,475.00
+   Employee: JOSEFINA MILLER        Emp ID: 63376
+Position: Line worker
+   Pay Period: 02/21/2026 - 03/06/2026     Pay Date: 03/11/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.68     23.00         406.64      2,033.20
+GROSS PAY                                    406.64      2,033.20
+DEDUCTIONS
+   Federal Income Tax                        20.33
+     Social Security                           25.21
+   Medicare                                   5.89
+     CA SDI                                     4.47
+NET PAY                                    350.74
+    --------------------------------------------------------------
 
--- scanned 08/08/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 29 2026  - mailroom

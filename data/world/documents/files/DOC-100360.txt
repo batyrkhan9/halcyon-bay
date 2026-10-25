@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+4887 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA KING        Emp ID: 47449
+Position: Teacher
+Pay Period: 02/24/2025 - 03/02/2025     Pay Date: 03/07/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             17.39     40.00         695.60      6,956.00
+GROSS PAY                                    695.60      6,956.00
+DEDUCTIONS
+  Federal Income Tax                        34.78
+  Social Security                           43.12
+  Medicare                                  10.08
+  CA SDI                                     7.65
+NET PAY                                    599.97
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/30/2025]

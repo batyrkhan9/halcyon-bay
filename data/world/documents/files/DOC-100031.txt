@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-7986 MARKET WAY   CA
+TIDEWATER CONSTRUCTION
+6529 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: GUADALUPE IYER        Emp ID: 60844
-Position: Cashier
-Pay Period: 12/09/2024 - 12/23/2024     Pay Date: 12/28/2024
-Pay Frequency: Semi-Monthly
+Empl0yee: JIAN CHAVEZ        Emp ID: 28491
+P0sition: Laborer
+Pay Period: 10/23/2024 - 11/05/2024     Pay Date: 11/10/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.93     51.75         979.63     24,490.75
-GROSS PAY                                    979.63     24,490.75
-   DEDUCTIONS
-   Federal Income Tax                        68.57
-      Social Security                           60.73
-  Medicare                                  14.20
-    CA SDI                                    10.77
-NET PAY                                    825.36
-    --------------------------------------------------------------
+Salary                                     2,643.93     60,810.39
+GROSS PAY                                  2,643.93     60,810.39
+DEDUCTIONS
+  Federal Income Tax                       290.83
+  Social Security                          163.92
+   Medicare                                  38.33
+  CA SDI                                    29.08
+NET PAY                                  2,121.77
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/07/2025]
+RECEIVED DEC 19 2024  - mailroom

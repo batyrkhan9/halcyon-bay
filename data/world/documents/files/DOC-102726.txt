@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCH0OL DIST
+3777 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ALYSSA PEREZ        Emp ID: 41531
+Position: 1nstructional aide
+Pay Period: 08/05/2026 - 08/11/2026     Pay Date: 08/16/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      4,864.28    160,521.24
+GROSS PAY                                  4,864.28    160,521.24
+    DEDUCTIONS
+  Federal Income Tax                       486.42
+  Social Security                          301.58
+  Medicare                                  70.53
+  CA SDI                                    53.50
+NET PAY                                  3,952.25
+--------------------------------------------------------------
+
+-- scanned 08/31/2026 HBCH mailroom  pg 1/1 --

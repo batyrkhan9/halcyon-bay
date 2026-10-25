@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+| |   .
+9989 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: JIA CHAVEZ        Emp ID: 51367
+Position: Guest services
+Pay Period: 07/06/2026 - 07/19/2026     Pay Date: 07/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             35.68     80.00       2,854.40     42,816.00
+GROSS PAY                                  2,854.40     42,816.00
+DEDUCTIONS
+  Federal Income Tax                       199.80
+     Social Security                          176.97
+  Medicare                                  41.38
+  CA SDI                                    31.39
+NET PAY                                  2,404.86
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/05/2026]

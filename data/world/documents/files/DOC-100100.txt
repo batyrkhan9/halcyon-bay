@@ -1,16 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNI0N
-Statement Period 02/01/2025 - 02/22/2025
-    Member: KAYLA MURPHY       Account ending 5952
+MIRADOR PUBLIC LIBRARY
+3483 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+   Employee: LINDA CASTILLO        Emp ID: 87575
+_ _ _ _
+  Position: Library assistant
+Pay Period: 12/03/2024 - 12/09/2024     Pay Date: 12/14/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.83     40.00       2,353.20    117,660.00
+    GROSS PAY                                  2,353.20    117,660.00
+DEDUCTI0NS
+  Federal Income Tax                        94.12
+  Social Security                          145.89
+   Medicare                                  34.12
+  CA SDI                                    25.88
+NET PAY                                  2,053.19
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              815.70
-  Deposits                     5,355.80
-  Withdrawals                 -5,302.24
-  Ending balance                 869.26
-
-DEPOSITS AND CREDIT5
-  02/22  PAYROLL DIR DEP CALDER FREIGHT LIN       5,355.80
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/04/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/13/2025]

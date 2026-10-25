@@ -1,20 +1,11 @@
-BLUE KELP SOFTWARE LLC
-8599 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: YESENIA DAVIS        Emp ID: 37867
-Position: Software engineer
-Pay Period: 07/16/2026 - 07/22/2026     Pay Date: 07/27/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             19.50     40.00         780.00     23,400.00
-GROSS PAY                                    780.00     23,400.00
-  DEDUCT1ONS
-   Federal Income Tax                        78.00
-  Social Security                           48.36
-  Medicare                                  11.31
-  CA SDI                                     8.58
-NET PAY                                    633.75
---------------------------------------------------------------
+HALCYON BAY COMMUNITY HOSPITAL
+Financial Assistance Program - Self-Attestation of Income
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/14/2026]
+I, Antonio Perez-Nguyen, live in a household of 5 people.
+My household's total income is about $2,160.00 per month from day labor.
+I do not have pay stubs or other income documents to send.
+I declare under penalty of perjury that the information above is true.
+
+Signature: Antonio Perez-Nguyen            Date: 04/05/2026
+
+-- scanned 04/10/2026 HBCH mailroom  pg 1/1 --

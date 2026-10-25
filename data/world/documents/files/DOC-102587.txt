@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+933 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMAL ANDERSON        Emp ID: 22422
+Position: Housekeeper
+Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.74     30.75         514.76      8,236.16
+   GROSS PAY                                    514.76      8,236.16
+DEDUCTIONS
+     Federal Income Tax                        46.32
+  Social Security                           31.91
+  Medicare                                   7.46
+  CA SDI                                     5.66
+NET PAY                                    423.41
+--------------------------------------------------------------
+
+RECEIVED AUG 22 2026  - mailroom

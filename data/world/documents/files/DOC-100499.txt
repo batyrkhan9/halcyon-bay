@@ -1,20 +1,20 @@
- VISTA SERENA MEDICAL OFFICES
-4329 COMMERCE WAY   CA
+ELLERY HARDWARE SUPPLY
+3026 HARBOR WAY   CA
                          EARNINGS STATEMENT
-    Employee: IMANI CLARK        Emp ID: 51087
-Position: Medical receptionist
-Pay Period: 05/19/2025 - 06/02/2025     Pay Date: 06/07/2025
-Pay Frequency: Semi-Monthly
+Employee: JESSICA FONOTI        Emp ID: 19674
+Position: Sales associate
+Pay Period: 04/06/2025 - 04/12/2025     Pay Date: 04/17/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.71     86.67       2,488.30     27,371.30
-GROSS PAY                                  2,488.30     27,371.30
-DEDUCTIONS
-  Federal Income Tax                        99.53
-  Social Security                          154.27
-  Medicare                                  36.08
-    CA SDI                                    27.37
-  NET PAY                                  2,171.05
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             20.00     40.00         800.00     12,800.00
+GROSS PAY                                    800.00     12,800.00
+  DEDUCTIONS
+  Federal Inc0me Tax                        88.00
+  Social Security                           49.60
+  Medicare                                  11.60
+  CA SDI                                     8.80
+NET PAY                                    642.00
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2025]
+FAX RECEIVED 05/03/2025 10:44   P.01

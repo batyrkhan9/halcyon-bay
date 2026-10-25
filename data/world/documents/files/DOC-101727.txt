@@ -1,21 +1,11 @@
-HARBOR POINT HOTEL
-8234 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: MIGUEL QUINN        Emp ID: 38095
-Position: Housekeeper
-Pay Period: 06/02/2026 - 07/01/2026     Pay Date: 07/06/2026
-   Pay Frequency: Monthly
-_ _ _ _
---------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              23.62    173.33       4,094.05     28,658.35
-   GROSS PAY                                  4,094.05     28,658.35
-DEDUCTIONS
-  Federal Income Tax                       368.46
-  Social Security                          253.83
-  Medicare                                  59.36
-  CA SDI                                    45.03
-NET PAY                                  3,367.37
-  --------------------------------------------------------------
+HALCYON BAY COMMUNITY HOSPITAL
+Financial Assistance Program - Self-Attestation of Income
 
--- scanned 08/20/2026 HBCH mailroom  pg 1/1 --
+I, Jorge Kim, live in a household of 1 people.
+My household's total income is about $2,190.00 per month from odd jobs and help from family.
+I do not have pay stubs or other income documents to send.
+I declare under penalty of perjury that the information above is true.
+
+Signature: Jorge Kim            Date: 04/28/2026
+
+FAX RECEIVED 05/01/2026 10:17   P.01

@@ -1,20 +1,17 @@
-PORT ELLERY CANNERY CO
-  4822 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAJNI ZHANG        Emp ID: 22462
-Position: Line worker
-Pay Period: 03/30/2025 - 04/13/2025     Pay Date: 04/18/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             67.16     86.67       5,820.76     46,566.08
-GROSS PAY                                  5,820.76     46,566.08
-DEDUCTIONS
-  Federal Income Tax                       582.07
-  Social Security                          360.88
-   Medicare                                  84.40
-     CA SDI                                    64.02
-NET PAY                                  4,729.39
-  --------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 02/01/2025 - 02/06/2025
+Member: MARIO KAHANANUI       Account ending 4765
 
-FAX RECEIVED 05/01/2025 10:17   P.01
+CHECKING SUMMARY
+  Beginning balance            2,917.65
+  Deposits                     7,196.06
+  Withdrawals                 -6,908.21
+  Ending balance               3,205.50
+
+DEPOSITS AND CREDITS
+    02/06  PAYROLL DIR DEP ELLERY HARDWARE SU       3,598.03
+  01/23  PAYROLL DIR DEP ELLERY HARDWARE SU       3,598.03
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/19/2025]

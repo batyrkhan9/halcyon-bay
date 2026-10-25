@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-    790 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
- Employee: GREGORY WALKER        Emp ID: 48847
-Position: Cashier
-    Pay Period: 04/19/2025 - 05/02/2025     Pay Date: 05/07/2025
+   ARROYO VERDE NURSERY
+9533 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+ Employee: ERNESTO ALLEN        Emp ID: 35730
+Position: Nursery worker
+Pay Period: 01/27/2025 - 02/09/2025     Pay Date: 02/14/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.76     37.00         694.12      6,941.20
-GROSS PAY                                    694.12      6,941.20
+Salary                                     5,367.84     21,471.36
+GRO5S PAY                                  5,367.84     21,471.36
 DEDUCTIONS
-  Federal Income Tax                        55.52
-  Social Security                           43.03
-  Medicare                                  10.06
-  CA SDI                                     7.63
-NET PAY                                    577.88
+  Federal Income Tax                       536.78
+  Social Security                          332.80
+      Medicare                                  77.83
+  CA SDI                                    59.04
+NET PAY                                  4,361.39
 --------------------------------------------------------------
 
-RECEIVED MAY 24 2025  - mailroom
+RECEIVED MAR 10 2025  - mailroom

@@ -1,20 +1,20 @@
-    MARISOL CLEANING SERVICES
-8377 MARKET WAY   CA
+VISTA SERENA MEDICAL OFFICES
+3793 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: RAVI WILLIAMS        Emp ID: 88565
-Position: Cleaner
-Pay Period: 08/30/2026 - 09/12/2026     Pay Date: 09/17/2026
-   Pay Frequency: Bi-Weekly
+Employee: ETHAN DESAI        Emp ID: 49263
+Position: Medical recepti0nist
+   Pay Peri0d: 06/23/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOUR5     TH1S PERIOD        YTD
-Salary                                       370.44      7,038.36
-GROSS PAY                                    370.44      7,038.36
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             56.35     86.67       4,883.85     63,490.05
+GROSS PAY                                  4,883.85     63,490.05
 DEDUCTIONS
-  Federal Income Tax                        22.22
-  Social 5ecurity                           22.96
-      Medicare                                   5.37
-  CA SDI                                     4.07
-NET PAY                                    315.82
+  Federal Income Tax                       390.70
+  Social Security                          302.79
+  Medicare                                  70.81
+  CA SDI                                    53.72
+NET PAY                                  4,065.83
 --------------------------------------------------------------
 
-RECEIVED SEP 21 2026  - mailroom
+FAX RECEIVED 07/16/2026 10:41   P.01

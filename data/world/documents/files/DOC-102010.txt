@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-3522 INDUSTRIAL WAY   CA
+BLUE KELP SOFTWARE LLC
+7146 COMMERCE WAY   CA
                          EARNINGS STATEMENT
- Employee: JOSE TRAN        Emp ID: 86555
-Position: Nursery worker
-Pay Period: 07/29/2026 - 08/12/2026     Pay Date: 08/17/2026
-Pay Frequency: Semi-Monthly
+Employee: ANDRE IYER        Emp ID: 82307
+    Position: Software engineer
+ Pay Period: 06/18/2026 - 06/24/2026     Pay Date: 06/29/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,275.54     84,408.64
-   GROSS PAY                                  5,275.54     84,408.64
-DEDUCTIONS
-  Federal Income Tax                       263.77
-  Social Security                          327.08
-  Medicare                                  76.49
-  CA SDI                                    58.03
-NET PAY                                  4,550.17
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              32.38     40.00       1,295.20     33,675.20
+GROSS PAY                                  1,295.20     33,675.20
+  DEDUCTIONS
+  Federal Income Tax                       142.47
+  Social Security                           80.30
+  Medicare                                  18.78
+  CA SDI                                    14.24
+NET PAY                                  1,039.41
+~ ~ .  ,
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/17/2026]
+-- scanned 07/15/2026 HBCH mailroom  pg 1/1 --

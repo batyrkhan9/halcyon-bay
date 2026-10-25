@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+4871 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER FREEMAN        Emp ID: 21220
+Position: Software engineer
+Pay Period: 02/09/2025 - 02/22/2025     Pay Date: 02/27/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       999.67      4,998.35
+GROSS PAY                                    999.67      4,998.35
+DEDUCTIONS
+  Federal Income Tax                        59.98
+  Social Security                           61.98
+  Medicare                                  14.49
+  CA SDI                                    10.99
+NET PAY                                    852.23
+--------------------------------------------------------------
+
+-- scanned 03/20/2025 HBCH mailroom  pg 1/1 --

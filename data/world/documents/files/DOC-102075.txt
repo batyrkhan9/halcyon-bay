@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-5618 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: YESENIA O'BRIEN        Emp ID: 15280
- Position: Software engineer
-Pay Period: 08/19/2026 - 09/02/2026     Pay Date: 09/07/2026
-Pay Frequency: Semi-Monthly
+SANTA LUCITA FARMS
+6179 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: PEDRO CARTER        Emp ID: 46648
+Position: Field supervisor
+   Pay Period: 05/11/2026 - 06/09/2026     Pay Date: 06/14/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
+  . : .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             25.17     86.67       2,181.48     37,085.16
-GR0SS PAY                                  2,181.48     37,085.16
+Regular              45.69    173.33       7,919.45     47,516.70
+GROSS PAY                                   7,919.45     47,516.70
 DEDUCTIONS
-  Federal Income Tax                       152.70
-  Social Security                          135.25
-     Medicare                                  31.63
-  CA SDI                                    23.99
- NET PAY                                  1,837.91
+  Federal Income Tax                       791.94
+  Social Security                          491.00
+  Medicare                                 114.83
+     CA SDI                                    87.11
+NET PAY                                  6,434.57
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/25/2026]
+FAX RECEIVED 07/19/2026 10:15   P.01

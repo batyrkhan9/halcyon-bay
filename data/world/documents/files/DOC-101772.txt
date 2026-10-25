@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+6758 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DAVID MOORE        Emp ID: 16359
+Position: Line worker
+Pay Period: 03/24/2026 - 04/06/2026     Pay Date: 04/11/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             79.17     80.00       6,333.60     50,668.80
+GROSS PAY                                  6,333.60     50,668.80
+DEDUCTIONS
+  Federal Income Tax                       506.68
+  Social Security                          392.68
+  Medicare                                  91.83
+  CA SDI                                    69.67
+ NET PAY                                  5,272.74
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

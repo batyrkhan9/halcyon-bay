@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+9001 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CALEB GREEN        Emp ID: 31726
+Position: Cashier
+Pay Period: 04/07/2025 - 05/06/2025     Pay Date: 05/11/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,952.24     19,761.20
+GROSS PAY                                  3,952.24     19,761.20
+DEDUCTIONS
+   Federal Income Tax                       316.17
+  Social Security                          245.03
+  Medicare                                  57.30
+   CA SDI                                    43.47
+NET PAY                                  3,290.27
+--------------------------------------------------------------
+
+FAX RECEIVED 06/14/2025 10:50   P.01

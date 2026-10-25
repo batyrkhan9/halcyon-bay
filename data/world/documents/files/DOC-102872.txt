@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+4288 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LETICIA RUIZ        Emp ID: 69884
+_ _ _ _
+Position: Mechanic
+Pay Period: 06/28/2026 - 07/27/2026     Pay Date: 08/01/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             76.10    173.33      13,190.41    105,523.28
+  GROSS PAY                                 13,190.41    105,523.28
+DEDUCTIONS
+  Federal Income Tax                     1,450.94
+      Social Security                          817.80
+  Medicare                                 191.26
+   CA SDI                                   145.09
+NET PAY                                 10,585.32
+--------------------------------------------------------------
+
+-- scanned 09/07/2026 HBCH mailroom  pg 1/1 --

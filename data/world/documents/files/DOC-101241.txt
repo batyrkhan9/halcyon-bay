@@ -1,21 +1,16 @@
-PORT ELLERY CANNERY CO
-1294 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-| |   .
-Employee: PAOLA SILVA        Emp ID: 24366
-    Position: Line worker
-Pay Period: 06/04/2026 - 06/10/2026     Pay Date: 06/15/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.35     12.25         224.79      5,394.96
-GROSS PAY                                    224.79      5,394.96
-DEDUCTIONS
-    Federal Income Tax                        24.72
-  Social Security                           13.93
-      Medicare                                   3.25
-   CA SDI                                     2.47
-NET PAY                                    180.42
---------------------------------------------------------------
+   MIRADOR GROCERY CO-OP
+3113 HARBOR ST
 
-RECEIVED JUL 02 2026  - mailroom
+ December 03, 2025
+
+    To Whom It May Concern:
+
+This letter confirms that Hoa Xu has been employed with Mirador Grocery Co-Op since
+March 2019 in the position of Cashier. Their rate of pay is $18.52 per hour, for a regular schedule of 12 hours per week.
+Employment is ongoing. Please contact our office with any questi0ns.
+
+   Sincerely,
+Arjun Jackson
+Human Resources
+
+-- scanned 12/05/2025 HBCH mailroom  pg 1/1 --

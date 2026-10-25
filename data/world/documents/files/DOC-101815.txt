@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+1616 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: PAOLA WALKER        Emp ID: 10265
+Position: Mechanic
+Pay Period: 04/22/2026 - 05/05/2026     Pay Date: 05/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Salary                                      1,420.73     14,207.30
+GROSS PAY                                  1,420.73     14,207.30
+DEDUCTIONS
+    Federal Income Tax                        99.45
+  Social Security                           88.08
+  Medicare                                  20.60
+  CA SDI                                    15.62
+NET PAY                                  1,196.98
+--------------------------------------------------------------
+
+-- scanned 05/15/2026 HBCH mailroom  pg 1/1 --

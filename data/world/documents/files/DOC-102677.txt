@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+7355 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE WASHINGTON        Emp ID: 89915
+Position: Laborer
+   Pay Period: 07/10/2026 - 07/24/2026     Pay Date: 07/29/2026
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.11     86.67       1,569.59     21,974.26
+GROSS PAY                                  1,569.59     21,974.26
+DEDUCTIONS
+  Federal Income Tax                       172.65
+  Social Security                           97.31
+  Medicare                                  22.75
+  CA SDI                                    17.26
+NET PAY                                  1,259.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2026]

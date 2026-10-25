@@ -1,21 +1,21 @@
-SUNSET COAST HOME CARE
-3864 COMMERCE WAY   CA
-                         EARN1NGS STATEMENT
-Employee: TYLER RODRIGUEZ        Emp ID: 28462
-Position: Home care aide
-Pay Period: 07/19/2026 - 07/25/2026     Pay Date: 07/30/2026
-   Pay Frequency: Weekly
---------------------------------------------------------------
+HARBOR POINT HOTEL
+7912 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEBORAH BELL        Emp ID: 31323
+  Position: Housekeeper
+Pay Period: 03/01/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             45.37     40.00       1,814.80     56,258.80
-GROSS PAY                                   1,814.80     56,258.80
- DEDUCTION5
-  Federal Income Tax                       145.18
-  Social Security                          112.51
-  Medicare                                  26.31
-~ ~ .  ,
-  CA SDI                                    19.96
-NET PAY                                  1,510.84
+Salary                                     2,243.92     13,463.52
+| |   .
+GROSS PAY                                  2,243.92     13,463.52
+DEDUCTI0NS
+  Federal Income Tax                       157.07
+   Social Security                          139.12
+  Medicare                                  32.53
+  CA SDI                                    24.68
+NET PAY                                   1,890.52
 --------------------------------------------------------------
 
-RECEIVED AUG 15 2026  - mailroom
+-- scanned 04/16/2026 HBCH mailroom  pg 1/1 --

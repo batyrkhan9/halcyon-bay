@@ -1,0 +1,18 @@
+   Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  KAREN BANKS
+Your social security number: XXX-XX-3352
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   170,941.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   170,941.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   170,941.00
+   12  Standard deduction ..............................    21,900.00
+
+ Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Karen Banks        Date: 04/07/2026
+
+RECEIVED AUG 15 2026  - mailroom

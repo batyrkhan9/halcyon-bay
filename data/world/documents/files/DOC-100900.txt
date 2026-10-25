@@ -1,20 +1,20 @@
-   MIRADOR GROCERY CO-OP
-4075 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANDRE SMITH        Emp ID: 70188
-Position: Cashier
-Pay Period: 12/10/2025 - 12/23/2025     Pay Date: 12/28/2025
+MARISOL CLEANING SERVICES
+  9307 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: TUAN MENDOZA        Emp ID: 72413
+Position: Cleaner
+  Pay Period: 07/04/2025 - 07/17/2025     Pay Date: 07/22/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             80.98     80.00       6,478.40    168,438.40
-GROSS PAY                                  6,478.40    168,438.40
+Regular             18.46     15.75         290.74      4,361.10
+   GROSS PAY                                    290.74      4,361.10
 DEDUCTIONS
-  Federal Inc0me Tax                       518.27
-  Social Security                          401.66
-   Medicare                                  93.93
-  CA SDI                                    71.26
-NET PAY                                  5,393.28
+  Federal Income Tax                        31.98
+  5ocial Security                           18.02
+  Medicare                                   4.21
+  CA SDI                                     3.19
+NET PAY                                    233.34
 --------------------------------------------------------------
 
-RECEIVED JAN 25 2026  - mailroom
+FAX RECEIVED 08/17/2025 10:25   P.01

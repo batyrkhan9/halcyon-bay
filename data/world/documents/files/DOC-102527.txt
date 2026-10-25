@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO B0DY
+  9823 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUSUF RODRIGUEZ        Emp ID: 63223
+   Position: Technician
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,940.00     31,040.00
+ GROSS PAY                                  1,940.00     31,040.00
+DEDUCTIONS
+  Federal Income Tax                       116.40
+  Social Security                          120.28
+      Medicare                                  28.13
+  CA SDI                                    21.34
+  NET PAY                                  1,653.85
+  --------------------------------------------------------------
+
+-- scanned 08/15/2026 HBCH mailroom  pg 1/1 --

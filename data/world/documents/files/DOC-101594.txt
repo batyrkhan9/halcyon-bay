@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-  5619 INDUSTRIAL WAY   CA
+   HALCYON BAY UNIFIED SCHOOL DIST
+ 9072 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MARQUIS DANG        Emp ID: 92023
-Position: Housekeeper
-Pay Period: 07/11/2026 - 07/17/2026     Pay Date: 07/22/2026
+  Employee: LUCIA DO        Emp ID: 76409
+Position: Instructional aide
+Pay Period: 03/08/2026 - 03/14/2026     Pay Date: 03/19/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.44     28.00         516.32     14,973.28
-GROSS PAY                                    516.32     14,973.28
-DEDUCTIONS
-  Federal Income Tax                        25.81
-  Social Security                           32.01
-   Medicare                                   7.48
-  CA SDI                                     5.68
-NET PAY                                    445.34
+Regular             17.14     25.50         437.07      5,244.84
+GROSS PAY                                    437.07      5,244.84
+DEDUCTION5
+  Federal Income Tax                        34.96
+  Social Security                           27.09
+  Medicare                                   6.33
+  CA SDI                                     4.80
+NET PAY                                    363.89
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/28/2026]

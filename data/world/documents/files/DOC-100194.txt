@@ -1,20 +1,20 @@
-    GOLDEN HOUR SENIOR LIVING
-3058 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: DENNIS LE        Emp ID: 49656
-Position: Caregiver
-Pay Period: 03/14/2025 - 03/27/2025     Pay Date: 04/01/2025
+VISTA SERENA MEDICAL OFFICES
+7561 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: ARACELI HUSSAIN        Emp ID: 59001
+Position: Medical receptionist
+ Pay Period: 01/01/2025 - 01/14/2025     Pay Date: 01/19/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       190.46      1,333.22
-GROSS PAY                                    190.46      1,333.22
- DEDUCTIONS
-  Federal Income Tax                        11.42
-  Social Security                           11.80
-  Medicare                                   2.76
-  CA SDI                                     2.09
-NET PAY                                    162.39
-   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Salary                                       239.07        478.14
+GROSS PAY                                    239.07        478.14
+    DEDUCTIONS
+   Federal Income Tax                        19.12
+     Social Security                           14.82
+  Medicare                                   3.46
+  CA SDI                                     2.63
+NET PAY                                    199.04
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/18/2025]
+RECEIVED FEB 08 2025  - mailroom

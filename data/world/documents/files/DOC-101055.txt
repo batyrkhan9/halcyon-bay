@@ -1,20 +1,21 @@
- SUNSET COAST HOME CARE
-8839 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE ZHANG        Emp 1D: 87531
-Position: Home care aide
-Pay Period: 03/17/2026 - 03/23/2026     Pay Date: 03/28/2026
-  Pay Frequency: Weekly
+ SEASIDE DENTAL GROUP
+2935 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: KEISHA CARTER        Emp ID: 12174
+Position: Dental assistant
+Pay Period: 08/18/2025 - 08/31/2025     Pay Date: 09/05/2025
+  . : .
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-  Regular             78.75     40.00       3,150.00     40,950.00
-    GROSS PAY                                  3,150.00     40,950.00
-DEDUCTIONS
-  Federal Income Tax                       346.50
-  Social Security                          195.30
-  Medicare                                  45.67
-  CA SDI                                    34.65
-    NET PAY                                  2,527.88
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,194.77     39,505.86
+GROSS PAY                                  2,194.77     39,505.86
+   DEDUCTIONS
+  Federal Income Tax                       219.47
+  Social Security                          136.07
+  Medicare                                  31.82
+  CA SDI                                    24.14
+NET PAY                                  1,783.27
+--------------------------------------------------------------
 
-FAX RECEIVED 04/08/2026 10:31   P.01
+-- scanned 09/27/2025 HBCH mailroom  pg 1/1 --

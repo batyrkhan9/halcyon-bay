@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+1123 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: JENNIFER NGUYEN        Emp ID: 88720
+Position: Library assistant
+Pay Period: 05/21/2026 - 06/03/2026     Pay Date: 06/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.70     80.00       1,496.00     17,952.00
+GROSS PAY                                  1,496.00     17,952.00
+DEDUCTIONS
+    Federal Income Tax                       164.56
+  Social Security                           92.75
+  Medicare                                  21.69
+  CA SDI                                    16.45
+NET PAY                                  1,200.55
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]

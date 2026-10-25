@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/09/2026
-Member: TERESA HADDAD       Account ending 6596
+ELLERY HARDWARE SUPPLY
+1414 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA GREEN        Emp ID: 19445
+    Position: Sales associate
+Pay Period: 02/24/2026 - 03/09/2026     Pay Date: 03/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             89.42     80.00       7,153.60     42,921.60
+GROSS PAY                                  7,153.60     42,921.60
+DEDUCTIONS
+  Federal Income Tax                       786.89
+  Social Security                          443.52
+  Medicare                                 103.72
+    CA SDI                                    78.69
+NET PAY                                  5,740.78
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,234.79
-  Deposits                     5,693.92
-  Withdrawals                 -5,409.22
-  Ending balance               2,519.49
-
-   DEPOSITS AND CREDITS
-  08/09  PAYROLL DIR DEP OTTER BAY AQUARIUM       2,846.96
-  07/10  PAYROLL DIR DEP OTTER BAY AQUARIUM       2,846.96
-
-   Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/13/2026]
+FAX RECEIVED 04/05/2026 10:56   P.01

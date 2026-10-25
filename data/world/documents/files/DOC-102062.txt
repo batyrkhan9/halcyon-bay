@@ -1,21 +1,21 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-3529 HARBOR WAY   CA
+ MIRADOR GROCERY CO-OP
+7864 MARKET WAY   CA
+| |   .
                          EARNINGS STATEMENT
-_ _ _ _
-Employee: TERRELL CORTEZ        Emp ID: 59739
-Position: Instructional aide
-Pay Period: 07/08/2026 - 08/06/2026     Pay Date: 08/11/2026
-Pay Frequency: Monthly
+Employee: RODRIGO CASTILLO-MARTIN        Emp ID: 91446
+Position: Cashier
+Pay Period: 06/30/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.14    173.33       4,010.86     32,086.88
-GROSS PAY                                  4,010.86     32,086.88
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+   Regular             20.28     40.00         811.20     22,713.60
+GROSS PAY                                    811.20     22,713.60
 DEDUCTIONS
-  Federal Income Tax                       401.08
-    Social Security                          248.67
-  Medicare                                  58.15
-  CA SDI                                    44.11
-NET PAY                                  3,258.85
-  --------------------------------------------------------------
+  Federal Income Tax                        64.89
+  Social Security                           50.29
+  Medicare                                  11.76
+  CA SDI                                     8.92
+NET PAY                                    675.34
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/24/2026]
+-- scanned 07/18/2026 HBCH mailroom  pg 1/1 --

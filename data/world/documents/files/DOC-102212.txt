@@ -1,0 +1,21 @@
+    PORT ELLERY CANNERY CO
+  7364 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: GARY DESAI        Emp ID: 75736
+Position: Line worker
+Pay Period: 06/06/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,173.14     14,077.68
+GROSS PAY                                  1,173.14     14,077.68
+DEDUCTIONS
+  Federal Income Tax                        93.85
+  Social Security                           72.73
+| |   .
+  Medicare                                  17.01
+  CA SDI                                    12.90
+  NET PAY                                    976.65
+--------------------------------------------------------------
+
+-- scanned 07/27/2026 HBCH mailroom  pg 1/1 --

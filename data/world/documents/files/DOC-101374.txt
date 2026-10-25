@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-1965 HARBOR WAY   CA
+SUNSET COAST HOME CARE
+7127 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: NICOLE SMITH        Emp ID: 26361
-Position: Housekeeper
-Pay Period: 06/20/2026 - 06/26/2026     Pay Date: 07/01/2026
-Pay Frequency: Weekly
+Employee: RONALD PATEL        Emp ID: 54179
+  Position: Home care aide
+Pay Period: 12/28/2025 - 01/10/2026     Pay Date: 01/15/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       688.81     17,909.06
-GROSS PAY                                    688.81     17,909.06
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regu1ar              21.01     80.00       1,680.80      3,361.60
+GROSS PAY                                  1,680.80      3,361.60
 DEDUCTIONS
-      Federal Income Tax                        61.99
-  Social Security                           42.70
-      Medicare                                   9.98
-  CA SDI                                     7.57
-NET PAY                                    566.57
+  Federal Income Tax                       168.08
+  Social Security                          104.21
+    Medicare                                  24.37
+  CA SDI                                    18.48
+NET PAY                                  1,365.66
 --------------------------------------------------------------
 
-FAX RECEIVED 07/17/2026 10:30   P.01
+FAX RECEIVED 01/31/2026 10:16   P.01

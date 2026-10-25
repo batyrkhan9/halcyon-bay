@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+9093 1NDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: TYLER CHEN        Emp ID: 88089
+Position: Driver
+Pay Period: 06/30/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       268.19      4,022.85
+GROSS PAY                                     268.19      4,022.85
+   DEDUCTIONS
+    Federal Income Tax                        29.50
+  Social Security                           16.62
+  Medicare                                   3.88
+  CA SDI                                     2.95
+NET PAY                                    215.24
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/28/2026]

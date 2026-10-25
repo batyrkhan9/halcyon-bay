@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+   1357 MARKET WAY   CA
+                         EARNINGS STATEMENT
+ Employee: JOHN MCCARTHY-CLARK        Emp ID: 26832
+   Position: Warehouse associate
+Pay Period: 06/30/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular              18.52     11.75         217.61      6,093.08
+GROSS PAY                                    217.61      6,093.08
+DEDUCTIONS
+  Federal Income Tax                        17.40
+  Social Security                           13.49
+     Medicare                                   3.15
+  CA SDI                                     2.39
+NET PAY                                    181.18
+    --------------------------------------------------------------
+
+-- scanned 07/17/2026 HBCH mailroom  pg 1/1 --

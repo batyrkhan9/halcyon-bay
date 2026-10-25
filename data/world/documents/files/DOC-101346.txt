@@ -1,0 +1,20 @@
+ LAS BRISAS RESTAURANT GROUP
+1476 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: RODRIGO SULLIVAN        Emp ID: 13205
+Position: Line cook
+Pay Period: 12/26/2025 - 01/09/2026     Pay Date: 01/14/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            116.15     86.67      10,066.72     10,066.72
+GROSS PAY                                 10,066.72     10,066.72
+  DEDUCTIONS
+  Federal Income Tax                     1,006.67
+     Social Security                          624.13
+  Medicare                                 145.96
+  CA SDI                                   110.73
+NET PAY                                  8,179.23
+--------------------------------------------------------------
+
+FAX RECEIVED 01/22/2026 10:54   P.01

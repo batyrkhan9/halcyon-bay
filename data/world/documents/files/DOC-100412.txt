@@ -1,21 +1,21 @@
-SANTA LUCITA FARMS
-6791 HARBOR WAY   CA
+MIRADOR PUBLIC LIBRARY
+9390 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: AHMED KHALIL        Emp ID: 58211
-Position: Field supervisor
-Pay Period: 05/31/2025 - 06/14/2025     Pay Date: 06/19/2025
-Pay Frequency: Semi-Monthly
+_ _ _ _
+   Employee: PATRICIA JUNG        Emp ID: 11443
+Position: Library assistant
+Pay Period: 01/15/2025 - 02/13/2025      Pay Date: 02/18/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.01     86.67       3,207.66     38,491.92
-GROSS PAY                                  3,207.66     38,491.92
-    DEDUCTIONS
-      Federal Income Tax                       352.84
-  Social Security                          198.87
-    Medicare                                  46.51
-| |   .
-  CA SDI                                    35.28
-NET PAY                                  2,574.16
-  --------------------------------------------------------------
+Regular             16.75    134.75       2,257.06      4,514.12
+GROSS PAY                                  2,257.06      4,514.12
+DEDUCTIONS
+    Federal Income Tax                       112.85
+  Social Security                          139.93
+   Medicare                                  32.72
+  CA SDI                                    24.82
+NET PAY                                  1,946.74
+--------------------------------------------------------------
 
-FAX RECEIVED 06/29/2025 10:54   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/07/2025]

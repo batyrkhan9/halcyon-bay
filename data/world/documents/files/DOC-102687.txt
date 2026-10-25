@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+    6841 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PRISCILLA WANG        Emp ID: 78962
+Position: Warehouse associate
+Pay Period: 07/25/2026 - 08/08/2026     Pay Date: 08/13/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.39     51.25         942.49     14,137.35
+GROSS PAY                                    942.49     14,137.35
+| |   .
+DEDUCTIONS
+  Federal Income Tax                        94.24
+       Social Security                           58.43
+  Medicare                                  13.66
+  CA SDI                                    10.36
+NET PAY                                    765.80
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2026]

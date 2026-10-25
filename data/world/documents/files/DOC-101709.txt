@@ -1,21 +1,20 @@
-SEASIDE DENTAL GROUP
-   5664 MARKET WAY   CA
-| |   .
-                         EARNINGS STATEMENT
-Employee: ROSA FREEMAN        Emp ID: 74043
-Position: Dental assistant
-Pay Period: 07/17/2026 - 07/31/2026     Pay Date: 08/05/2026
+GOLDEN HOUR SENIOR LIVING
+9490 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: AIK0 RUIZ        Emp ID: 49592
+ Position: Caregiver
+Pay Period: 02/21/2026 - 03/07/2026     Pay Date: 03/12/2026
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             19.49     86.67       1,689.20     25,338.00
-GROSS PAY                                  1,689.20     25,338.00
+Salary                                       956.60      4,783.00
+GROSS PAY                                    956.60      4,783.00
 DEDUCTIONS
-   Federal 1ncome Tax                       152.02
-  Social Security                          104.73
-  Medicare                                  24.49
-      CA SDI                                    18.58
-NET PAY                                  1,389.38
+  Federal Income Tax                        66.96
+  Social Security                           59.30
+  Medicare                                  13.87
+  CA SDI                                    10.52
+  NET PAY                                    805.95
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2026]
+FAX RECEIVED 04/23/2026 10:34   P.01

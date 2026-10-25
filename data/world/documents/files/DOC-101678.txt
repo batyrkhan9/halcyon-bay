@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-9107 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: FATIMA MOORE        Emp ID: 72627
-Position: Line cook
-Pay Period: 06/28/2026 - 07/12/2026     Pay Date: 07/17/2026
-    Pay Frequency: Semi-Monthly
+ARROYO VERDE NURSERY
+1936 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO BROWN        Emp ID: 38132
+Position: Nursery worker
+Pay Period: 03/23/2026 - 03/29/2026     Pay Date: 04/03/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar             16.94     77.50       1,312.85     18,379.90
-GROSS PAY                                  1,312.85     18,379.90
-   DEDUCTIONS
-  Federal Income Tax                        65.64
-  Social Security                           81.39
-  Medicare                                  19.03
-  CA SD1                                    14.44
-NET PAY                                  1,132.35
+Regular             26.40     40.00       1,056.00     14,784.00
+GROSS PAY                                   1,056.00     14,784.00
+DEDUCTIONS
+  Federal Income Tax                       105.60
+  Social Security                           65.47
+  Medicare                                  15.31
+  CA SDI                                    11.61
+NET PAY                                    858.01
 --------------------------------------------------------------
 
--- scanned 08/15/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 04/19/2026 10:23   P.01

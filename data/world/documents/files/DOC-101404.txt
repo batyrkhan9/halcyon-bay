@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-8884 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: WEI SILVA        Emp ID: 29313
-Position: Teacher
-Pay Period: 06/01/2026 - 06/15/2026     Pay Date: 06/20/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+ COASTAL VALLEY ENERGY
+2777 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: CAROL CHEN-MEDINA        Emp ID: 44932
+Position: Field technician
+Pay Period: 01/06/2026 - 01/19/2026     Pay Date: 01/24/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              17.56     17.50         307.30      3,687.60
-GROSS PAY                                    307.30      3,687.60
+Salary                                        605.66      1,211.32
+GROSS PAY                                    605.66      1,211.32
 DEDUCTIONS
-      Federal Income Tax                        30.73
-      Social Security                           19.05
-  Medicare                                   4.45
-   CA SDI                                     3.38
-NET PAY                                    249.69
+      Federal Income Tax                        36.33
+  Social Security                           37.55
+  Medicare                                   8.78
+    CA SDI                                     6.66
+NET PAY                                    516.34
 --------------------------------------------------------------
 
--- scanned 07/20/2026 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 05 2026  - mailroom

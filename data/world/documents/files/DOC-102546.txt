@@ -1,0 +1,21 @@
+SANTA LUCITA FARMS
+3848 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: ASHLEY HUSSAIN        Emp ID: 29987
+Position: Field supervisor
+  Pay Period: 07/13/2026 - 07/26/2026     Pay Date: 07/31/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+  Regular             20.74     80.00       1,659.20     26,547.20
+  GROSS PAY                                  1,659.20     26,547.20
+  DEDUCT1ONS
+  Federal Income Tax                       182.51
+  Social Security                          102.87
+  Medicare                                  24.05
+  . : .
+  CA SDI                                    18.25
+NET PAY                                  1,331.52
+--------------------------------------------------------------
+
+FAX RECEIVED 08/16/2026 10:15   P.01

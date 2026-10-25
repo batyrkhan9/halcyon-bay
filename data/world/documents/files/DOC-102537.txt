@@ -1,0 +1,21 @@
+ VISTA SERENA MEDICAL OFFICES
+1331 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: SHARON ALLEN        Emp ID: 68291
+Position: Medical receptionist
+Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,632.37     42,117.92
+GROSS PAY                                  2,632.37     42,117.92
+DEDUCTIONS
+  Federal Income Tax                       131.61
+   Social Security                          163.20
+  Medicare                                  38.16
+  CA SDI                                    28.95
+NET PAY                                  2,270.45
+--------------------------------------------------------------
+  includes overtime 6.5 hrs
+
+-- scanned 08/15/2026 HBCH mailroom  pg 1/1 --

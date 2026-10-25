@@ -1,0 +1,20 @@
+ PORT ELLERY CANNERY CO
+2020 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: ROBERT SILVA         Emp ID: 14623
+Position: Line worker
+Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular            115.07     80.00       9,205.60    156,495.20
+GROSS PAY                                  9,205.60    156,495.20
+    DEDUCTIONS
+  Federal Income Tax                       828.50
+   Social Security                          570.74
+  Medicare                                 133.48
+  CA SDI                                   101.26
+NET PAY                                  7,571.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/01/2026]

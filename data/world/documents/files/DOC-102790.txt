@@ -1,0 +1,20 @@
+ TIDEWATER CONSTRUCTION
+9997 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: WEI ANDERSON        Emp ID: 22833
+Position: Laborer
+Pay Period: 07/29/2026 - 08/11/2026     Pay Date: 08/16/2026
+    Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             18.60     80.00       1,488.00     25,296.00
+GROSS PAY                                  1,488.00     25,296.00
+DEDUCTIONS
+   Federal Income Tax                        89.28
+  Social Security                           92.25
+  Medicare                                  21.57
+  CA SDI                                    16.36
+ NET PAY                                  1,268.54
+--------------------------------------------------------------
+
+FAX RECEIVED 09/03/2026 10:28   P.01

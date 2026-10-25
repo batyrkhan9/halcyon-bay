@@ -1,17 +1,20 @@
-COASTLINE SAV1NGS BANK
-Statement Period 07/01/2026 - 07/26/2026
-Member: JAMAL JONES       Account ending 7108
+SEASIDE DENTAL GROUP
+5984 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ERNESTO RUIZ         Emp ID: 55922
+Position: Dental assistant
+Pay Period: 02/11/2026 - 02/17/2026     Pay Date: 02/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       358.70      2,869.60
+GROSS PAY                                     358.70      2,869.60
+ DEDUCTIONS
+  Federal Income Tax                        35.87
+  Social Security                           22.23
+  Medicare                                   5.20
+  CA SDI                                     3.94
+NET PAY                                    291.46
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              772.70
-  Deposits                     4,407.92
-  Withdrawals                 -4,628.31
-  Ending balance                 552.31
-
-DEPOSITS AND CREDITS
-  07/26  PAYROLL DIR DEP GOLDEN HOUR SENIOR       2,203.96
-  07/12  PAYROLL DIR DEP GOLDEN HOUR SENIOR       2,203.96
-
-   Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/30/2026]
+-- scanned 03/11/2026 HBCH mailroom  pg 1/1 --

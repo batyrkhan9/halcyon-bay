@@ -1,21 +1,20 @@
-ARROYO VERDE NURSERY
-9213 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: BAO RAO        Emp ID: 12277
-Position: Nursery worker
-~ ~ .  ,
-Pay Period: 07/21/2025 - 08/03/2025     Pay Date: 08/08/2025
-  Pay Frequency: Bi-Weekly
+SEASIDE DENTAL GROUP
+8835 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: LEILA LEWIS        Emp ID: 40882
+Position: Dental assistant
+Pay Period: 04/18/2025 - 04/24/2025     Pay Date: 04/29/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.59     19.25         338.61      5,417.76
-GROSS PAY                                    338.61      5,417.76
+Salary                                     2,001.22     34,020.74
+GROSS PAY                                  2,001.22     34,020.74
 DEDUCTIONS
-  Federal Income Tax                        27.08
-  Social Security                           20.99
-  Medicare                                   4.91
-  CA SDI                                     3.72
-NET PAY                                    281.91
---------------------------------------------------------------
+   Federal Income Tax                       220.13
+      Social Security                          124.07
+  Medicare                                  29.01
+  CA SDI                                    22.01
+NET PAY                                  1,606.00
+  --------------------------------------------------------------
 
-RECEIVED AUG 18 2025  - mailroom
+FAX RECEIVED 05/22/2025 10:59   P.01

@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+7674 MARKET WAY   CA
+  . : .
+                         EARNINGS STATEMENT
+    Employee: HUNG JOSHI        Emp ID: 16749
+ Position: Library assistant
+    Pay Period: 08/22/2026 - 09/04/2026     Pay Date: 09/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,258.59     58,654.62
+GROSS PAY                                  3,258.59     58,654.62
+DEDUCTIONS
+  Federal Income Tax                       228.10
+  Social Security                          202.03
+  Medicare                                  47.25
+  CA SDI                                    35.84
+NET PAY                                  2,745.37
+--------------------------------------------------------------
+
+FAX RECEIVED 09/25/2026 10:47   P.01

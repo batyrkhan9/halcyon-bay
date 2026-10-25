@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+2645 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE QUINN        Emp ID: 95630
+Position: Laborer
+Pay Period: 06/21/2026 - 07/04/2026     Pay Date: 07/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             70.02     80.00       5,601.60     78,422.40
+GROSS PAY                                  5,601.60     78,422.40
+DEDUCTIONS
+  Federal Income Tax                       392.11
+  Social Security                          347.29
+  Medicare                                  81.22
+      CA SDI                                    61.61
+NET PAY                                  4,719.37
+--------------------------------------------------------------
+
+FAX RECEIVED 07/24/2026 10:22   P.01

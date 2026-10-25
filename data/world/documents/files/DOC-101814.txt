@@ -1,21 +1,20 @@
-CALDER FREIGHT LINES
-7842 INDUSTRIAL WAY   CA
+HARBOR POINT HOTEL
+7654 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MIN-JI KEALOHA        Emp ID: 60139
-~ ~ .  ,
-Position: Driver
-Pay Period: 07/21/2026 - 08/04/2026     Pay Date: 08/09/2026
-Pay Frequency: Semi-Monthly
+Employee: LINH HADDAD        Emp ID: 41120
+Position: Housekeeper
+Pay Period: 03/29/2026 - 04/11/2026     Pay Date: 04/16/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      6,991.14    104,867.10
-GROSS PAY                                  6,991.14    104,867.10
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.07     54.25         980.30      7,842.40
+GROSS PAY                                    980.30      7,842.40
 DEDUCTIONS
-  Federal Income Tax                       349.55
-  Social Security                          433.45
-      Medicare                                 101.37
-    CA SDI                                    76.90
-NET PAY                                  6,029.87
+  Federal Inc0me Tax                        68.62
+  Social 5ecurity                           60.77
+  Medicare                                  14.21
+  CA SDI                                    10.78
+NET PAY                                    825.92
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]
+RECEIVED MAY 15 2026  - mailroom

@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+9561 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MICHAEL GREEN        Emp ID: 74093
+Position: Warehouse associate
+Pay Period: 08/22/2026 - 09/04/2026     Pay Date: 09/09/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.00     80.00       6,000.00    108,000.00
+GROSS PAY                                  6,000.00    108,000.00
+DEDUCTIONS
+  Federal Income Tax                       240.00
+  Social 5ecurity                          372.00
+  Medicare                                  87.00
+  CA SDI                                    66.00
+NET PAY                                  5,235.00
+| |   .
+--------------------------------------------------------------
+
+FAX RECEIVED 09/24/2026 10:12   P.01

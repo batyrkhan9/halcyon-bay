@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+_ _ _ _
+8124 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: NOOR JACKSON        Emp ID: 75765
+    Position: Dental assistant
+Pay Peri0d: 07/02/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+  EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       205.30      5,748.40
+GROSS PAY                                    205.30      5,748.40
+  DEDUCTIONS
+   Federal Income Tax                        10.26
+  Social Security                           12.72
+    Medicare                                   2.97
+   CA SDI                                     2.25
+NET PAY                                    177.10
+--------------------------------------------------------------
+
+FAX RECEIVED 07/31/2026 10:48   P.01

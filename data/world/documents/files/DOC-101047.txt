@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-3762 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: JORGE SINGH        Emp ID: 15593
-Position: Field technician
-Pay Period: 02/28/2026 - 03/13/2026     Pay Date: 03/18/2026
+OTTER BAY AQUARIUM
+716 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+  Employee: ANTONIO RAO        Emp ID: 27110
+Position: Guest services
+Pay Period: 09/01/2025 - 09/14/2025     Pay Date: 09/19/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,862.62     17,175.72
-    GROSS PAY                                  2,862.62     17,175.72
-DEDUCTIONS
-  Federal Income Tax                       171.75
-  Social 5ecurity                          177.48
-  Medicare                                  41.50
-     CA SDI                                    31.48
-   NET PAY                                  2,440.41
+Regular             41.21     80.00       3,296.80     62,639.20
+  GROSS PAY                                  3,296.80     62,639.20
+    DEDUCT1ONS
+  Federal Income Tax                       263.74
+      Social Security                          204.40
+  Medicare                                  47.80
+  CA SDI                                    36.26
+NET PAY                                  2,744.60
 --------------------------------------------------------------
 
--- scanned 04/03/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/25/2025]

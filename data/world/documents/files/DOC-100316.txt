@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-8084 MARKET WAY   CA
+ARR0YO VERDE NURSERY
+4678 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA WALKER        Emp ID: 64794
-Position: Software engineer
-Pay Period: 04/22/2025 - 05/05/2025     Pay Date: 05/10/2025
-    Pay Frequency: Bi-Weekly
+ Employee: ARTURO VALENCIA        Emp ID: 60386
+Position: Nursery worker
+Pay Period: 02/12/2025 - 02/26/2025     Pay Date: 03/03/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-  Regular            142.40     80.00      11,392.00    113,920.00
-GROSS PAY                                 11,392.00    113,920.00
-DEDUCTI0NS
-  Federal Income Tax                       455.68
-  Social Security                          706.30
-  Medicare                                 165.18
-   CA SDI                                   125.31
-NET PAY                                  9,939.53
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.59     86.67       1,697.87      8,489.35
+GROSS PAY                                  1,697.87      8,489.35
+DEDUCTIONS
+  Federal Income Tax                       186.76
+    Social Security                          105.26
+  Medicare                                  24.61
+  CA SDI                                    18.67
+  NET PAY                                  1,362.57
 --------------------------------------------------------------
 
-FAX RECEIVED 05/28/2025 10:21   P.01
+-- scanned 03/15/2025 HBCH mailroom  pg 1/1 --

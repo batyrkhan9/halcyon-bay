@@ -1,21 +1,16 @@
-GOLDEN HOUR SENIOR LIVING
-1786 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: YUSUF LIN        Emp ID: 98161
-Position: Caregiver
-Pay Period: 07/03/2026 - 07/09/2026     Pay Date: 07/14/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                     1,953.76     54,705.28
-   GROSS PAY                                  1,953.76     54,705.28
-DEDUCTIONS
-   Federal Income Tax                        97.68
-  Social 5ecurity                          121.13
-    Medicare                                  28.33
-  CA SDI                                    21.49
-NET PAY                                  1,685.13
-| |   .
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 02/01/2026 - 02/28/2026
+Member: MARISOL DOYLE       Account ending 1733
 
-FAX RECEIVED 07/29/2026 10:47   P.01
+  CHECKING SUMMARY
+  Beginning balance              897.14
+  Deposits                     1,206.70
+  Withdrawals                 -1,049.82
+  Ending balance               1,054.02
+
+DEPOSITS AND CREDITS
+  02/28  PAYROLL DIR DEP LAS BRISAS RESTAUR       1,206.70
+
+   Thank you for banking with us.  Page 1 of 2
+
+-- scanned 03/06/2026 HBCH mailroom  pg 1/1 --

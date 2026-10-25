@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+4021 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND FLORES        Emp ID: 17981
+Position: Warehouse associate
+Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             36.70     40.00       1,468.00     44,040.00
+GROSS PAY                                  1,468.00     44,040.00
+DEDUCTIONS
+  Federal Income Tax                        58.72
+  Social Security                           91.01
+  Medicare                                  21.28
+  CA SDI                                    16.14
+NET PAY                                  1,280.85
+    --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/06/2026]

@@ -1,20 +1,20 @@
-5ANTA LUCITA FARMS
-5915 HARBOR WAY    CA
+   ARROYO VERDE NURSERY
+1431 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-    Employee: KAREN JIMENEZ        Emp ID: 38944
-Position: Field supervisor
-Pay Period: 08/31/2026 - 09/06/2026     Pay Date: 09/11/2026
-Pay Frequency: Weekly
+Employee: PAOLA WILLIAMS        Emp ID: 19892
+Position: Nursery worker
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.63     25.50         424.06     15,690.22
- GROSS PAY                                    424.06     15,690.22
-    DEDUCTIONS
-  Federal Income Tax                        16.96
-  Social Security                           26.29
-  Medicare                                   6.14
-  CA SDI                                     4.66
-NET PAY                                    370.01
+Regular             18.27     62.00       1,132.74     15,858.36
+GROSS PAY                                  1,132.74     15,858.36
+DEDUCTIONS
+  Federal Income Tax                        45.30
+  Social Security                           70.23
+     Medicare                                  16.42
+  CA SDI                                    12.46
+NET PAY                                    988.33
 --------------------------------------------------------------
 
-RECEIVED SEP 27 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]

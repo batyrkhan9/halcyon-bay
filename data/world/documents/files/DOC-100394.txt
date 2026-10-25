@@ -1,20 +1,16 @@
-VISTA SERENA MEDICAL OFFICES
-1914 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: MIGUEL FLORES        Emp ID: 95732
-Position: Medical receptionist
-  Pay Period: 05/16/2025 - 05/29/2025     Pay Date: 06/03/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.80     56.25       1,001.25     11,013.75
-GROSS PAY                                  1,001.25     11,013.75
-DEDUCTIONS
-  Federal Income Tax                        50.06
-  Social Security                           62.07
-      Medicare                                  14.51
-  CA SDI                                    11.01
-NET PAY                                    863.60
-   --------------------------------------------------------------
+   SEASIDE COMMUNITY CREDIT UNION
+Statement Period 03/01/2025 - 03/21/2025
+Member: MIN-JI GREEN       Account ending 2850
 
-FAX RECEIVED 06/23/2025 10:59   P.01
+CHECKING SUMMARY
+    Beginning balance            1,287.13
+      Deposits                       861.74
+  Withdrawals                   -827.27
+     Ending balance               1,321.60
+
+DEP0SITS AND CREDITS
+     03/21  PAYROLL DIR DEP MARISOL CLEANING S         861.74
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 04/04/2025 HBCH mailroom  pg 1/1 --

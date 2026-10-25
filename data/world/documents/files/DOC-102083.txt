@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+6274 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: RAVI FLORES        Emp ID: 42086
+Position: Laborer
+Pay Period: 06/29/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.71     37.75         630.80     17,662.40
+GROSS PAY                                    630.80     17,662.40
+DEDUCTIONS
+  Federal Income Tax                        69.38
+   Social Security                           39.11
+  Medicare                                   9.14
+  CA SDI                                     6.93
+NET PAY                                    506.24
+--------------------------------------------------------------
+
+FAX RECEIVED 07/20/2026 10:18   P.01

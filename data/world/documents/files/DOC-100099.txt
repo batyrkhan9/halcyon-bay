@@ -1,0 +1,21 @@
+    MIRADOR PUBLIC LIBRARY
+780 COMMERCE WAY   CA
+  . : .
+                         EARNINGS STATEMENT
+Employee: LINDA CASTILLO        Emp ID: 87575
+Position: Library assistant
+Pay Period: 12/10/2024 - 12/16/2024     Pay Date: 12/21/2024
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.83     40.00       2,353.20    120,013.20
+GROSS PAY                                  2,353.20    120,013.20
+DEDUCTIONS
+  Federal Income Tax                       258.85
+  Social Security                          145.89
+  Medicare                                  34.12
+     CA SDI                                    25.88
+NET PAY                                  1,888.46
+--------------------------------------------------------------
+
+FAX RECEIVED 01/13/2025 10:25   P.01

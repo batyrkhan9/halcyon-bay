@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 07/01/2026 - 07/29/2026
-Member: DESTINY WATANABE       Account ending 1423
+TIDEWATER CONSTRUCTION
+9651 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE BROWN        Emp ID: 99171
+Position: Laborer
+Pay Period: 03/04/2026 - 03/17/2026     Pay Date: 03/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ 5alary                                     1,402.54      8,415.24
+GROSS PAY                                  1,402.54      8,415.24
+DEDUCTIONS
+  Federal Income Tax                       126.22
+  Social Security                           86.95
+  Medicare                                  20.33
+     CA SDI                                    15.42
+   NET PAY                                  1,153.62
+  --------------------------------------------------------------
 
-   CHECKING SUMMARY
-     Beginning balance            2,821.76
-  Deposits                       633.56
-  Withdrawals                   -570.20
-  Ending balance               2,885.12
-
-DEPOSITS AND CREDITS
-  07/29  PAYROLL DIR DEP SEASIDE DENTAL GRO         316.78
-  07/14  PAYROLL DIR DEP SEASIDE DENTAL GRO         316.78
-
-   Thank you for banking with us.  Page 1 of 2
-
-RECEIVED AUG 14 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/09/2026]

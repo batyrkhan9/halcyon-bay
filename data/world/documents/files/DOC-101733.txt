@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+ 7754 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANK ITO        Emp ID: 17194
+Position: Caregiver
+Pay Period: 01/14/2026 - 02/12/2026     Pay Date: 02/17/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.70     75.75       1,416.52      2,833.04
+GROSS PAY                                  1,416.52      2,833.04
+DEDUCTIONS
+  Federal Income Tax                       127.48
+  Social Security                           87.82
+  Medicare                                  20.54
+  CA SDI                                    15.58
+NET PAY                                  1,165.10
+--------------------------------------------------------------
+
+-- scanned 05/02/2026 HBCH mailroom  pg 1/1 --

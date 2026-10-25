@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+  1409 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: BRENDA MARTINEZ        Emp ID: 37655
+Position: Driver
+Pay Period: 08/21/2026 - 08/27/2026     Pay Date: 09/01/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     1,916.60     67,081.00
+ GROSS PAY                                  1,916.60     67,081.00
+DEDUCTIONS
+      Federal Income Tax                       114.99
+    Social Security                          118.82
+  Medicare                                  27.79
+  CA SDI                                    21.08
+NET PAY                                  1,633.92
+--------------------------------------------------------------
+
+RECEIVED SEP 15 2026  - mailroom

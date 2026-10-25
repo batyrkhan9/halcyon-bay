@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-6852 MARKET WAY   CA
-                           EARNINGS STATEMENT
-Employee: MARIO SANCHEZ        Emp ID: 66008
-Position: Housekeeper
-Pay Period: 06/25/2025 - 07/24/2025     Pay Date: 07/29/2025
-   Pay Frequency: Monthly
+VISTA SERENA MEDICAL OFFICES
+    5458 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: CARMEN NGUYEN        Emp ID: 31016
+Position: Medical receptionist
+Pay Period: 04/22/2025 - 04/28/2025     Pay Date: 05/03/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             21.70    173.33       3,761.26     26,328.82
-GROSS PAY                                  3,761.26     26,328.82
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             17.99     40.00         719.60     12,952.80
+GROSS PAY                                    719.60     12,952.80
 DEDUCTIONS
-  Federal Income Tax                       376.12
-   Social Security                          233.19
-     Medicare                                  54.53
-  CA SDI                                    41.37
-NET PAY                                  3,056.05
+  Federal Income Tax                        79.15
+     Social Security                           44.61
+    Medicare                                  10.43
+  CA SDI                                     7.91
+NET PAY                                    577.50
 --------------------------------------------------------------
 
--- scanned 08/05/2025 HBCH mailroom  pg 1/1 --
+-- scanned 05/16/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+9072 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIO THOMPSON        Emp 1D: 68232
+  Position: Field technician
+Pay Period: 06/25/2026 - 07/09/2026      Pay Date: 07/14/2026
+Pay Frequency: Semi-M0nthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       780.14     10,141.82
+GROSS PAY                                    780.14     10,141.82
+DEDUCTIONS
+  Federal Income Tax                        46.80
+  Social Security                           48.36
+  Medicare                                  11.31
+  CA SDI                                     8.58
+NET PAY                                    665.09
+--------------------------------------------------------------
+
+-- scanned 08/01/2026 HBCH mailroom  pg 1/1 --

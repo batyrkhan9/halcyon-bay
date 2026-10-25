@@ -1,18 +1,21 @@
-  Form 1040   U.S. Individua1 Income Tax Return   2024
-(copy - summary page)
-Filing Status: Single
-Your first name and middle initial / Last name:  JENNIFER JIMENEZ
-Your social security number: XXX-XX-8792
-Dependents: 0
-Income
- 1a  Total am0unt from Form(s) W-2, b0x 1 ...........     7,697.00
- 8    Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................     7,697.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................     7,697.00
-     12  Standard deduction ..............................    14,600.00
+PACIFIC TIDE BANK
+Statement Period 07/01/2025 - 07/20/2025
+Member: BRANDON JONES       Account ending 5516
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Jennifer Jimenez        Date: 04/05/2025
+CHECKING SUMMARY
+  Beginning balance              835.83
+     Deposits                    15,858.20
+  Withdrawals                -16,333.94
+  Ending balance                 360.09
 
-FAX RECEIVED 12/02/2025 10:59   P.01
+DEPOSITS AND CREDITS
+  07/20  PAYROLL DIR DEP SANDPIPER CHILD CA       7,929.10
+  07/05  PAYROLL DIR DEP SANDPIPER CHILD CA       7,929.10
+
+SAVINGS SUMMARY  (Share Savings ending 4487)
+  Ending balance              20,131.22
+  Dividends paid                   8.05
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 07/23/2025 HBCH mailroom  pg 1/1 --

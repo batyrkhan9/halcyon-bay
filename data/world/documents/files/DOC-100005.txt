@@ -1,21 +1,20 @@
-    CYPRESS FLATS AUTO BODY
-2380 HARBOR WAY   CA
-                           EARNINGS STATEMENT
-Emp1oyee: SUNITA SILVA        Emp ID: 46229
-Position: Technician
-Pay Period: 10/22/2024 - 11/05/2024     Pay Date: 11/10/2024
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
+    ARROYO VERDE NURSERY
+8326 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+  Employee: MARIA JUNG        Emp ID: 54301
+Position: Nursery worker
+  Pay Period: 09/09/2024 - 09/22/2024     Pay Date: 09/27/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,283.40     68,951.40
-GROSS PAY                                  3,283.40     68,951.40
-DEDUCTIONS
-    Federal Income Tax                       164.17
-_ _ _ _
-    Social Security                          203.57
-  Medicare                                  47.60
-     CA SDI                                    36.11
-NET PAY                                  2,831.95
- --------------------------------------------------------------
+   Regular             33.94     80.00       2,715.20     54,304.00
+GROSS PAY                                  2,715.20     54,304.00
+ DEDUCTIONS
+  Federal Income Tax                       271.52
+  Social Security                          168.34
+   Medicare                                  39.37
+  CA SDI                                    29.86
+NET PAY                                  2,206.11
+   --------------------------------------------------------------
 
-FAX RECEIVED 11/30/2024 10:31   P.01
+RECEIVED OCT 18 2024  - mailroom

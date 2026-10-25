@@ -1,20 +1,20 @@
-   ELLERY HARDWARE SUPPLY
-7461 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANDREW HERNANDEZ        Emp ID: 60852
-Position: Sales associate
-Pay Period: 04/14/2026 - 05/13/2026     Pay Date: 05/18/2026
+MARISOL CLEANING SERVICES
+5872 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Employee: JENNIFER KOWALSKI        Emp ID: 44715
+Position: Cleaner
+Pay Period: 11/29/2025 - 12/28/2025     Pay Date: 01/02/2026
 Pay Frequency: Monthly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    17,982.36     89,911.80
-GROSS PAY                                 17,982.36     89,911.80
-DEDUCTIONS
-  Federal Income Tax                     1,618.41
-  Social Security                        1,114.90
-  Medicare                                 260.74
-  CA SDI                                   197.80
-NET PAY                                 14,790.51
-   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.58    130.75       2,167.84      2,167.84
+GROSS PAY                                  2,167.84      2,167.84
+ DEDUCTIONS
+      Federal Income Tax                       216.78
+  Social Security                          134.40
+      Medicare                                  31.43
+  CA SDI                                    23.84
+NET PAY                                  1,761.39
+ --------------------------------------------------------------
 
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/11/2026]

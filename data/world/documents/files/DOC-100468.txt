@@ -1,21 +1,21 @@
-   OTTER BAY AQUARIUM
-7431 1NDUSTRIAL WAY   CA
-                         EARN1NGS STATEMENT
-  Employee: NOOR CASTILLO        Emp ID: 11508
-Position: Guest services
-Pay Period: 06/24/2025 - 07/07/2025     Pay Date: 07/12/2025
+  SANTA LUCITA FARMS
+8085 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  . : .
+Employee: HASSAN FITZGERALD-DOYLE        Emp ID: 20760
+P0sition: Field supervisor
+Pay Period: 04/01/2025 - 04/14/2025     Pay Date: 04/19/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Regular             50.07     80.00       4,005.60     56,078.40
-GROSS PAY                                  4,005.60     56,078.40
+Regular             18.09     80.00       1,447.20     11,577.60
+GROSS PAY                                  1,447.20     11,577.60
 DEDUCTIONS
-  Federal Income Tax                       360.50
-  Social Security                          248.34
-  Medicare                                  58.08
-  CA SDI                                    44.06
-NET PAY                                  3,294.62
- --------------------------------------------------------------
+  Federal Income Tax                       144.72
+  Social Security                           89.72
+  Medicare                                  20.98
+  CA SDI                                    15.91
+NET PAY                                  1,175.87
+--------------------------------------------------------------
 
-FAX RECEIVED 07/15/2025 10:29   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2025]

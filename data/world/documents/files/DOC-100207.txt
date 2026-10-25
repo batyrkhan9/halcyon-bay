@@ -1,16 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 04/01/2025 - 04/13/2025
-    Member: VALERIA FALEOLO       Account ending 6994
+COASTLINE SAVINGS BANK
+Statement Period 02/01/2025 - 02/07/2025
+Member: EDUARDO ZHOU        Account ending 8804
 
 CHECKING SUMMARY
-      Beginning balance            1,256.71
-  Deposits                     1,243.60
-    Withdrawals                 -1,094.36
-  Ending balance               1,405.95
+  Beginning balance            1,228.44
+  Deposits                       638.19
+  Withdrawals                   -663.71
+  Ending balance               1,202.92
 
 DEPOSITS AND CREDITS
-  04/13  PAYROLL DIR DEP ELLERY HARDWARE SU       1,243.60
+   02/07  PAYROLL DIR DEP MIRADOR GROCERY CO         638.19
+
+SAVINGS SUMMARY  (Share Savings ending 7457)
+  Ending balance              24,102.78
+     Dividends paid                   9.64
 
 Thank you for banking with us.  Page 1 of 2
 
--- scanned 04/19/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 02/12/2025 10:32   P.01

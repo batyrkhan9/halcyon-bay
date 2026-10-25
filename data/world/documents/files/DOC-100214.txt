@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+4077 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROHAN ALMEIDA        Emp ID: 29012
+Position: Mechanic
+Pay Period: 01/07/2025 - 01/21/2025     Pay Date: 01/26/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             57.14     86.67       4,952.32      9,904.64
+GROSS PAY                                  4,952.32      9,904.64
+DEDUCT1ONS
+      Federal Income Tax                       544.75
+   Social Security                          307.04
+  Medicare                                  71.80
+  CA SDI                                    54.47
+NET PAY                                  3,974.26
+--------------------------------------------------------------
+
+-- scanned 02/17/2025 HBCH mailroom  pg 1/1 --

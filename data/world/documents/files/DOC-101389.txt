@@ -1,0 +1,21 @@
+HARBOR POINT HOTEL
+5745 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAJNI O'BRIEN        Emp ID: 97164
+Position: Housekeeper
+_ _ _ _
+Pay Period: 12/16/2025 - 12/29/2025     Pay Date: 01/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.72     80.00       1,577.60      1,577.60
+GROSS PAY                                  1,577.60      1,577.60
+DEDUCTIONS
+  Federal Income Tax                        78.88
+  Social Security                           97.81
+  Medicare                                  22.87
+  CA SDI                                    17.35
+NET PAY                                  1,360.69
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/02/2026]

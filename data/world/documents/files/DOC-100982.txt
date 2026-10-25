@@ -1,20 +1,21 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-6807 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE TRAN        Emp ID: 35060
-  Position: Instructional aide
-  Pay Period: 01/31/2026 - 02/13/2026     Pay Date: 02/18/2026
-Pay Frequency: Bi-Weekly
+GOLDEN HOUR SENIOR LIVING
+8303 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: TUAN CORTEZ        Emp ID: 87583
+Position: Caregiver
+  Pay Period: 08/12/2025 - 08/18/2025     Pay Date: 08/23/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular            109.39     80.00       8,751.20     35,004.80
-GROSS PAY                                  8,751.20     35,004.80
-DEDUCTIONS
-      Federal Income Tax                       437.56
-  Social Security                          542.57
-      Medicare                                 126.89
-  CA SDI                                    96.26
-NET PAY                                  7,547.92
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,229.09     41,789.06
+    GROSS PAY                                  1,229.09     41,789.06
+| |   .
+DEDUCTI0NS
+  Federal Income Tax                        61.45
+  Social Security                           76.20
+  Medicare                                  17.82
+  CA SDI                                    13.52
+NET PAY                                  1,060.10
 --------------------------------------------------------------
 
-FAX RECEIVED 03/01/2026 10:42   P.01
+FAX RECEIVED 09/06/2025 10:43   P.01

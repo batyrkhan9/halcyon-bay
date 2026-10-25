@@ -1,20 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-296 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN SANCHEZ        Emp ID: 93895
-Position: Line cook
-Pay Period: 06/11/2025 - 06/17/2025     Pay Date: 06/22/2025
-Pay Frequency: Week1y
+TIDEWATER CONSTRUCTION
+6614 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: R0SA BRYANT        Emp ID: 80667
+Position: Laborer
+Pay Period: 03/28/2025 - 04/10/2025     Pay Date: 04/15/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,513.14     37,828.50
-GROSS PAY                                  1,513.14     37,828.50
+    Salary                                       320.01      2,560.08
+  . : .
+GROSS PAY                                    320.01      2,560.08
 DEDUCTIONS
-  Federal Income Tax                       166.44
-  Social Security                           93.81
-  Medicare                                  21.94
-  CA SDI                                    16.64
-    NET PAY                                  1,214.31
+  Federal Income Tax                        35.20
+  Social Security                           19.84
+  Medicare                                   4.64
+      CA SDI                                     3.52
+NET PAY                                    256.81
 --------------------------------------------------------------
 
-RECEIVED JUL 16 2025  - mailroom
+RECEIVED APR 26 2025  - mailroom

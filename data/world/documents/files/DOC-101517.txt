@@ -1,20 +1,20 @@
-    SANDPIPER CHILD CARE CENTER
-7640 MARKET WAY   CA
+VISTA SERENA MEDICAL OFFICES
+8380 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: LOGAN GUPTA        Emp ID: 63026
-Position: Teacher
-Pay Period: 06/27/2026 - 07/10/2026     Pay Date: 07/15/2026
-Pay Frequency: Bi-Weekly
+Employee: FRANCISCO JACKSON        Emp ID: 70283
+Position: Medical receptionist
+Pay Period: 12/25/2025 - 01/23/2026     Pay Date: 01/28/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,967.07     27,538.98
-GROSS PAY                                  1,967.07     27,538.98
-DEDUCTION5
-  Federal Income Tax                       157.36
-  Social Security                          121.95
-  Medicare                                  28.52
-  CA SDI                                    21.63
-  NET PAY                                  1,637.61
-  --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             55.53    173.33       9,625.01      9,625.01
+  GROSS PAY                                  9,625.01      9,625.01
+DEDUCTIONS
+  Federal Income Tax                       866.25
+     Social Security                          596.75
+  Medicare                                 139.56
+  CA SDI                                   105.87
+NET PAY                                  7,916.58
+--------------------------------------------------------------
 
-FAX RECEIVED 07/30/2026 10:39   P.01
+RECEIVED MAR 09 2026  - mailroom

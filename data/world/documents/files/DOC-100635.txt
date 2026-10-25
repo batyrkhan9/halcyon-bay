@@ -1,21 +1,20 @@
-  PORT ELLERY CANNERY CO
-8657 INDUSTRIAL WAY   CA
+MIRADOR GROCERY CO-OP
+785 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: CARMEN SHAH        Emp ID: 84096
-Position: Line worker
-Pay Period: 09/06/2025 - 09/12/2025     Pay Date: 09/17/2025
-Pay Frequency: Weekly
+Employee: KEISHA WILS0N-MILLER        Emp ID: 70519
+Position: Cashier
+Pay Period: 04/26/2025 - 05/25/2025     Pay Date: 05/30/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.86     40.00         874.40     33,227.20
-| |   .
-GROSS PAY                                    874.40     33,227.20
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+    Regular             16.77     61.25       1,027.16      5,135.80
+GROSS PAY                                  1,027.16      5,135.80
 DEDUCTIONS
-  Federal Income Tax                        87.44
-  Social Security                           54.21
-  Medicare                                  12.67
-  CA SDI                                     9.61
-NET PAY                                    710.47
-    --------------------------------------------------------------
+  Federal Income Tax                        82.17
+  Social Security                           63.68
+   Medicare                                  14.89
+  CA SDI                                    11.29
+NET PAY                                     855.13
+--------------------------------------------------------------
 
-FAX RECEIVED 09/22/2025 10:52   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/05/2025]

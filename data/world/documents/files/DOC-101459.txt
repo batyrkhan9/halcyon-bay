@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+  4755 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMES RUIZ        Emp ID: 22007
+Position: Line worker
+Pay Period: 01/17/2026 - 01/23/2026     Pay Date: 01/28/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             46.62     40.00       1,864.80      7,459.20
+GROSS PAY                                  1,864.80      7,459.20
+DEDUCTIONS
+  Federal Income Tax                       205.12
+  Social Security                          115.61
+  Medicare                                  27.04
+  CA SDI                                    20.51
+NET PAY                                  1,496.52
+--------------------------------------------------------------
+
+RECEIVED FEB 17 2026  - mailroom

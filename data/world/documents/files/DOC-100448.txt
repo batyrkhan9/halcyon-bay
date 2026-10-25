@@ -1,21 +1,21 @@
-    SANTA LUCITA FARMS
-1348 MARKET WAY   CA
-                            EARNINGS STATEMENT
-Employee: AMANDA SULLIVAN        Emp ID: 34111
-Position: Field supervisor
-Pay Period: 06/09/2025 - 06/15/2025     Pay Date: 06/20/2025
+CALDER FREIGHT LINES
+2117 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HUNG KING        Emp ID: 93115
+    Position: Driver
+Pay Period: 03/26/2025 - 04/01/2025      Pay Date: 04/06/2025
 Pay Frequency: Weekly
---------------------------------------------------------------
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.90     16.75         283.08      7,077.00
-GROSS PAY                                    283.08      7,077.00
+Regular             16.99     26.75         454.48      6,362.72
+GROSS PAY                                    454.48      6,362.72
 DEDUCTIONS
-  Federal Income Tax                        22.64
-  Social Security                           17.55
-~ ~ .  ,
-  Medicare                                   4.10
-  CA SD1                                     3.11
-NET PAY                                    235.68
+  Federal Income Tax                        36.35
+  Social Security                           28.17
+  Medicare                                   6.59
+  CA SDI                                     4.99
+   NET PAY                                    378.38
+  . : .
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/04/2025]
+-- scanned 04/18/2025 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-5603 HARBOR WAY   CA
+MARISOL CLEANING SERVICES
+1069 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: JORGE WALKER        Emp ID: 82154
-  Position: Medical receptionist
-Pay Period: 02/28/2026 - 03/13/2026     Pay Date: 03/18/2026
+  . : .
+Employee: TOMASZ SOUZA        Emp ID: 46672
+Position: Cleaner
+Pay Period: 09/16/2025 - 09/29/2025     Pay Date: 10/04/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  . : .
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.69     23.50         415.72      2,494.32
-GROSS PAY                                    415.72      2,494.32
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.42     80.00       3,713.60     74,272.00
+GROSS PAY                                  3,713.60     74,272.00
 DEDUCTIONS
-  Federal Income Tax                        45.72
-  Social Security                           25.77
-  Medicare                                   6.02
-  CA SDI                                     4.57
-NET PAY                                    333.64
---------------------------------------------------------------
+  Federal Income Tax                       334.22
+  Social Security                          230.24
+  Medicare                                  53.84
+  CA SDI                                    40.85
+NET PAY                                  3,054.45
+ --------------------------------------------------------------
 
--- scanned 04/17/2026 HBCH mailroom  pg 1/1 --
+RECEIVED OCT 17 2025  - mailroom

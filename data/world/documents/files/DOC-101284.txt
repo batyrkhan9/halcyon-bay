@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-3875 INDUSTRIAL WAY    CA
+GOLDEN HOUR SENIOR LIVING
+3943 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIA WRIGHT-KOWALSKI        Emp ID: 16639
-Position: Dental assistant
-Pay Period: 05/24/2026 - 06/06/2026     Pay Date: 06/11/2026
-   Pay Frequency: Bi-Weekly
+Employee: JESSICA PHAM         Emp ID: 46585
+Position: Caregiver
+Pay Period: 11/27/2025 - 12/03/2025     Pay Date: 12/08/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,899.66     58,795.92
-   GROSS PAY                                  4,899.66     58,795.92
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             38.19     40.00       1,527.60     74,852.40
+GROSS PAY                                   1,527.60     74,852.40
 DEDUCTIONS
-  Federal Income Tax                       195.98
-  Social Security                          303.77
-  Medicare                                  71.04
-  CA SDI                                    53.89
-NET PAY                                  4,274.98
---------------------------------------------------------------
+  Federal Income Tax                       122.20
+  Social Security                           94.71
+  Medicare                                  22.15
+  CA SDI                                    16.80
+NET PAY                                  1,271.74
+  --------------------------------------------------------------
 
--- scanned 07/06/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/25/2025]

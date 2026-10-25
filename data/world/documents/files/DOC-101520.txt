@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 07/01/2026 - 07/15/2026
-Member: LOGAN GUPTA       Account ending 8518
+   SUNSET COAST HOME CARE
+1141 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA COSTA         Emp ID: 36025
+Position: Home care aide
+Pay Period: 02/02/2026 - 02/15/2026     Pay Date: 02/20/2026
+ Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.34     69.50       1,205.13      4,820.52
+GROSS PAY                                  1,205.13      4,820.52
+    DEDUCTIONS
+  Federal Income Tax                        96.41
+   Social Security                           74.71
+  Medicare                                  17.47
+  CA SDI                                    13.25
+NET PAY                                  1,003.29
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-    Beginning balance            1,004.02
-      Deposits                     3,068.62
-  Withdrawals                 -2,731.07
-  Ending balance               1,341.57
-
-    DEPOSITS AND CREDITS
-  07/15  PAYROLL DIR DEP SANDPIPER CHILD CA       1,534.31
-  07/01  PAYROLL DIR DEP SANDPIPER CHILD CA       1,534.31
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED JUL 30 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2026]

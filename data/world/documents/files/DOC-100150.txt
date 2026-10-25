@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+4439 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Employee: TANISHA HUSSAIN        Emp ID: 62762
+Position: Warehouse associate
+Pay Period: 12/27/2024 - 01/09/2025     Pay Date: 01/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.89     80.00       2,071.20      2,071.20
+GROSS PAY                                  2,071.20      2,071.20
+DEDUCTIONS
+  Federal Income Tax                       124.27
+  Social Security                          128.41
+  Medicare                                  30.03
+  CA SDI                                    22.78
+ NET PAY                                   1,765.71
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/31/2025]

@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+5004 MARKET WAY   CA
+                         EARN1NGS STATEMENT
+Employee: JAMAL ZAMORA        Emp ID: 47341
+Position: Technician
+Pay Period: 03/22/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Monthly
+| |   .
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.20    173.33       4,541.25     18,165.00
+GROSS PAY                                  4,541.25     18,165.00
+DEDUCTIONS
+  Federal Income Tax                       499.53
+    Social Security                          281.55
+  Medicare                                  65.84
+  CA SDI                                    49.95
+NET PAY                                  3,644.38
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

@@ -1,21 +1,20 @@
-MIRADOR GROCERY CO-OP
-7960 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: DYLAN KHALIL        Emp ID: 41602
-Position: Cashier
-Pay Period: 06/16/2026 - 06/30/2026     Pay Date: 07/05/2026
-_ _ _ _
-Pay Frequency: Semi-Monthly
-  --------------------------------------------------------------
+CYPRESS FLATS AUTO B0DY
+6047 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HIRO5HI TUIA5OSOPO        Emp ID: 82059
+   Position: Technician
+Pay Period: 12/19/2025 - 01/01/2026     Pay Date: 01/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             16.80     43.50         730.80      9,500.40
-GROSS PAY                                    730.80      9,500.40
+Regular             27.65     80.00       2,212.00      2,212.00
+GROSS PAY                                  2,212.00      2,212.00
 DEDUCTIONS
-  Federal Income Tax                        36.54
-  Social Security                           45.31
-  Medicare                                  10.59
-  CA SDI                                     8.03
-NET PAY                                    630.33
+   Federal Income Tax                       243.32
+      Social Security                          137.14
+  Medicare                                  32.07
+  CA SDI                                    24.33
+NET PAY                                  1,775.14
 --------------------------------------------------------------
 
--- scanned 07/14/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/15/2026]

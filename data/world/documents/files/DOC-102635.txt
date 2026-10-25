@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+5118 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO DESAI        Emp ID: 81211
+Position: Library assistant
+Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             44.65     80.00       3,572.00     60,724.00
+GROSS PAY                                  3,572.00     60,724.00
+DEDUCTIONS
+   Federal Income Tax                       285.76
+  Social Security                          221.46
+      Medicare                                  51.79
+  CA SDI                                    39.29
+NET PAY                                  2,973.70
+--------------------------------------------------------------
+
+RECEIVED AUG 24 2026  - mailroom

@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-9169 COMMERCE WAY   CA
+MARISOL CLEANING SERVICES
+6597 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: AHMED DELGADO        Emp ID: 14774
-Position: Home care aide
-Pay Period: 03/22/2025 - 03/28/2025     Pay Date: 04/02/2025
-Pay Frequency: Weekly
+Employee: JIA IBARRA        Emp ID: 84681
+  Position: Cleaner
+    Pay Period: 01/04/2025 - 01/17/2025     Pay Date: 01/22/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.86     40.00         794.40     11,121.60
-GROSS PAY                                    794.40     11,121.60
+Regular             18.42     19.75         363.80        727.60
+GROSS PAY                                    363.80        727.60
 DEDUCTIONS
-  Federa1 Income Tax                        55.60
-  Social Security                           49.25
-  Medicare                                  11.51
-  CA SDI                                     8.73
-NET PAY                                    669.31
+  Federal Income Tax                        40.01
+  Social Security                           22.55
+  Medicare                                   5.27
+  CA SDI                                     4.00
+NET PAY                                    291.97
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/16/2025]
+RECEIVED FEB 05 2025  - mailroom

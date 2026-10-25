@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+4838 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAREN R0DRIGUEZ        Emp ID: 36948
+Position: Technician
+Pay Period: 01/14/2026 - 01/20/2026     Pay Date: 01/25/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.33     20.50         355.26      1,421.04
+| |   .
+GROSS PAY                                    355.26      1,421.04
+DEDUCTIONS
+  Federal Income Tax                        14.21
+  Social Security                           22.02
+  Medicare                                   5.15
+  CA SDI                                     3.90
+NET PAY                                    309.98
+    --------------------------------------------------------------
+
+RECEIVED FEB 07 2026  - mailroom

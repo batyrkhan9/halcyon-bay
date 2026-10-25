@@ -1,18 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 05/01/2025 - 05/15/2025
-     Member: ANJALI ZHOU       Account ending 6444
+LAS BRISAS RESTAURANT GROUP
+7383 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: THAO LEE        Emp ID: 26308
+Position: Line cook
+Pay Period: 02/22/2025 - 03/07/2025     Pay Date: 03/12/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,107.99     12,647.94
+   GRO5S PAY                                  2,107.99     12,647.94
+DEDUCTIONS
+  Federal Income Tax                       147.55
+  Social Security                          130.69
+  Medicare                                  30.56
+  CA SD1                                    23.18
+   NET PAY                                  1,776.01
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,391.06
-  Deposits                     3,228.56
-  Withdrawals                 -2,744.27
-  Ending balance               1,875.35
-
-  . : .
-DEPOSITS AND CREDITS
-  05/15  PAYROLL DIR DEP PACIFIC RIM JANITO       1,614.28
-  05/01  PAYROLL DIR DEP PACIFIC RIM JANITO       1,614.28
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 05/28/2025 10:17   P.01
+FAX RECEIVED 03/15/2025 10:46   P.01

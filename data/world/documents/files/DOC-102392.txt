@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+465 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUSUF PATEL        Emp ID: 37774
+Position: Warehouse associate
+Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             68.80     80.00       5,504.00     77,056.00
+GROSS PAY                                  5,504.00     77,056.00
+DEDUCTION5
+  Federal Income Tax                       330.24
+  Social Security                          341.24
+  Medicare                                  79.80
+  CA 5DI                                    60.54
+  NET PAY                                  4,692.18
+--------------------------------------------------------------
+
+FAX RECEIVED 08/08/2026 10:26   P.01

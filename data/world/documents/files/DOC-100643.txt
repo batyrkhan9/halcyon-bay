@@ -1,20 +1,18 @@
-CYPRESS FLATS AUTO BODY
-313 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: N0AH MITCHELL        Emp ID: 97577
-Position: Technician
-Pay Period: 07/07/2025 - 08/05/2025     Pay Date: 08/10/2025
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.93    173.33       4,841.11     38,728.88
-   GROSS PAY                                  4,841.11     38,728.88
-DEDUCTIONS
-  Federal Income Tax                       484.11
-  Social Security                          300.14
-      Medicare                                  70.19
-  CA SDI                                    53.25
-NET PAY                                  3,933.42
- --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Married filing jointly
+   Your first name and middle initial / Last name:  LUIS IYER
+Your social security number: XXX-XX-8138
+   Dependents: 4
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    13,246.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+     9   Total income ....................................    13,246.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    13,246.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/24/2025]
+    Sign Here   Under penalties of perjury, I declare that I have examined this return...
+    Your signature: /s/ Luis Iyer        Date: 04/13/2025
+
+RECEIVED JUN 06 2025  - mailroom

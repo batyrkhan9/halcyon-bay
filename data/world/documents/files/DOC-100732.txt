@@ -1,20 +1,19 @@
-PACIFIC RIM JANITORIAL
-337 HARBOR WAY   CA
-                           EARNINGS STATEMENT
-Employee: PRISCILLA PATEL        Emp ID: 14182
-Position: Custodian
-Pay Period: 10/22/2025 - 10/28/2025     Pay Date: 11/02/2025
-    Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       216.25      9,515.00
-GROSS PAY                                    216.25      9,515.00
-DEDUCTIONS
-  Federal 1ncome Tax                        10.81
-   Social Security                           13.40
-  Medicare                                   3.13
-  CA SDI                                     2.37
-NET PAY                                    186.54
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  BEATRIZ ADAMS
+Your social security number: XXX-XX-4545
+    Dependents: 2
+  Income
+ 1a   Total amount from Form(s) W-2, box 1 ...........    91,493.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+  . : .
+ 9   Tota1 income ....................................    91,493.00
+ 10  Adjustments to income ...........................         0.00
+  11  Adjusted gross income ...........................    91,493.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 11/10/2025 10:39   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Beatriz Adams        Date: 04/03/2025
+
+-- scanned 07/04/2025 HBCH mailroom  pg 1/1 --

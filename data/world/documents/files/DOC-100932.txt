@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+8921 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: EDUARDO SILVA        Emp ID: 40786
+Position: Medical receptionist
+Pay Period: 07/04/2025 - 07/18/2025      Pay Date: 07/23/2025
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             26.82     86.67       2,324.49     32,542.86
+GROSS PAY                                  2,324.49     32,542.86
+DEDUCTIONS
+  Federal Income Tax                       255.69
+  Social Security                          144.11
+  Medicare                                  33.70
+  CA SDI                                    25.56
+   NET PAY                                  1,865.43
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/22/2025]

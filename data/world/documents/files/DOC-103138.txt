@@ -1,0 +1,19 @@
+Form 1040   U.S. Individual Income Tax Return   2025
+| |   .
+(copy - summary page)
+Filing Status: Head of household
+    Y0ur first name and middle initial / Last name:  ALYSSA BRYANT
+Your social security number: XXX-XX-4923
+Dependents: 4
+ Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    36,026.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9    Total income ....................................    36,026.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    36,026.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+ Your signature: /s/ Alyssa Bryant        Date: 04/02/2026
+
+RECEIVED SEP 27 2026  - mailroom

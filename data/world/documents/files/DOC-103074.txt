@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+   5169 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: TYLER WHITE        Emp 1D: 98737
+   Position: Laborer
+Pay Peri0d: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             18.05     49.75         897.99     16,163.82
+GROSS PAY                                    897.99     16,163.82
+     DEDUCTIONS
+   Federal Income Tax                        98.77
+  Social Security                           55.67
+  Medicare                                  13.02
+  CA SDI                                     9.87
+NET PAY                                    720.66
+--------------------------------------------------------------
+
+RECEIVED SEP 21 2026  - mailroom

@@ -1,20 +1,20 @@
-   MIRADOR PUBLIC LIBRARY
-3106 MARKET WAY   CA
+SEASIDE DENTAL GROUP
+4804 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: THAO SCOTT        Emp ID: 81797
-Position: Library assistant
-Pay Period: 06/14/2026 - 07/13/2026     Pay Date: 07/18/2026
-Pay Frequency: Monthly
+Employee: RAFAEL ROBINSON        Emp ID: 45674
+Position: Dental assistant
+Pay Period: 01/10/2026 - 01/23/2026     Pay Date: 01/28/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Salary                                    11,962.19     83,735.33
-GROSS PAY                                 11,962.19     83,735.33
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             38.27     80.00       3,061.60      6,123.20
+GROSS PAY                                  3,061.60      6,123.20
 DEDUCTIONS
-  Federal Income Tax                     1,076.59
-   Social Security                          741.65
-  Medicare                                 173.45
-  CA SDI                                   131.58
-NET PAY                                  9,838.92
---------------------------------------------------------------
+  Federal Income Tax                       306.16
+  Social Security                          189.81
+  Medicare                                  44.39
+  CA SDI                                    33.67
+NET PAY                                  2,487.57
+  --------------------------------------------------------------
 
--- scanned 07/24/2026 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 17 2026  - mailroom

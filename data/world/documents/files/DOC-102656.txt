@@ -1,0 +1,20 @@
+    PORT ELLERY CANNERY CO
+8048 MARKET WAY    CA
+                         EARNINGS STATEMENT
+  Employee: HASSAN MITCHELL        Emp ID: 70511
+Position: Line worker
+Pay Period: 07/18/2026 - 07/31/2026     Pay Date: 08/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,566.64     73,066.24
+GROSS PAY                                  4,566.64     73,066.24
+DEDUCTIONS
+  Federal Income Tax                       228.33
+  Social Security                          283.13
+  Medicare                                  66.21
+  CA SDI                                    50.23
+NET PAY                                   3,938.74
+--------------------------------------------------------------
+
+RECEIVED AUG 25 2026  - mailroom

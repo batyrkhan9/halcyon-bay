@@ -1,20 +1,21 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-1182 COMMERCE WAY   CA
+SANTA LUCITA FARMS
+7388 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ANJALI CONTRERAS        Emp ID: 50419
-Position: Instructional aide
-Pay Period: 08/16/2026 - 08/30/2026     Pay Date: 09/04/2026
- Pay Frequency: Semi-Monthly
+Employee: WILLIAM PEREZ        Emp ID: 81562
+    Position: Field supervisor
+Pay Period: 05/17/2026 - 05/30/2026     Pay Date: 06/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.91     86.67       3,372.33     57,329.61
-GROSS PAY                                  3,372.33     57,329.61
+Regular             17.43     44.00         766.92      9,203.04
+GROSS PAY                                    766.92      9,203.04
 DEDUCTIONS
-  Federal Income Tax                       303.50
-      Social Security                          209.08
-  Medicare                                  48.89
-  CA SDI                                    37.09
-NET PAY                                   2,773.77
+  Federal Income Tax                        61.35
+  . : .
+  Social Security                           47.54
+  Medicare                                  11.12
+  CA SDI                                     8.43
+NET PAY                                    638.48
 --------------------------------------------------------------
 
-FAX RECEIVED 09/12/2026 10:44   P.01
+-- scanned 07/06/2026 HBCH mailroom  pg 1/1 --

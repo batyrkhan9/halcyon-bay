@@ -1,21 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-9116 HARBOR WAY   CA
-_ _ _ _
+SEASIDE DENTAL GROUP
+1459 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JAE JEFFERSON        Emp ID: 48295
-Position: Caregiver
-Pay Period: 07/05/2026 - 07/11/2026     Pay Date: 07/16/2026
+Employee: ERNESTO RUIZ        Emp ID: 55922
+Position: Dental assistant
+Pay Period: 02/04/2026 - 02/10/2026     Pay Date: 02/15/2026
 Pay Frequency: Weekly
-  --------------------------------------------------------------
-EARNING5            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       431.21     12,505.09
-GROSS PAY                                    431.21     12,505.09
-   DEDUCTIONS
-  Federal Income Tax                        34.49
-  Social Security                           26.73
-  Medicare                                   6.25
-  CA SDI                                     4.74
-NET PAY                                    359.00
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       358.70      2,510.90
+GROSS PAY                                    358.70      2,510.90
+DEDUCTIONS
+  Federal Income Tax                        32.28
+   Socia1 5ecurity                           22.23
+      Medicare                                   5.20
+  CA SDI                                     3.94
+NET PAY                                    295.05
 --------------------------------------------------------------
 
-RECEIVED JUL 30 2026  - mailroom
+FAX RECEIVED 03/11/2026 10:27   P.01

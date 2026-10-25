@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-686 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: RICARDO MENDOZA-BROWN        Emp ID: 50245
-Position: Laborer
-Pay Period: 03/15/2025 - 03/28/2025     Pay Date: 04/02/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.77     34.00         570.18      3,991.26
-   GROSS PAY                                    570.18      3,991.26
-DEDUCTIONS
-  Federal Income Tax                        34.21
-  Socia1 Security                           35.35
-   Medicare                                   8.26
-    CA SDI                                     6.27
-  NET PAY                                    486.09
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 01/01/2025 - 01/20/2025
+Member: TOMASZ GUPTA       Account ending 9131
 
-FAX RECEIVED 04/12/2025 10:43   P.01
+CHECKING SUMMARY
+    Beginning balance              425.27
+  Deposits                    13,408.86
+  Withdrawals                -13,811.12
+  Ending balance                  23.01
+
+DEPOSITS AND CREDITS
+  01/20  PAYROLL DIR DEP MARISOL CLEANING S       6,704.43
+  12/21  PAYROLL DIR DEP MARISOL CLEANING S       6,704.43
+
+SAVINGS SUMMARY  (Share Savings ending 8299)
+  Ending balance              36,715.64
+  Dividends paid                  14.68
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 02/02/2025 10:26   P.01

@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+6368 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: THAO WALKER        Emp ID: 84854
+Position: Field supervisor
+Pay Period: 06/03/2025 - 06/16/2025     Pay Date: 06/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             24.27     80.00       1,941.60     25,240.80
+GROSS PAY                                  1,941.60     25,240.80
+DEDUCTIONS
+   Federal Income Tax                        77.66
+  Social Security                          120.37
+  Medicare                                  28.15
+  CA SDI                                    21.35
+  NET PAY                                  1,694.07
+--------------------------------------------------------------
+
+FAX RECEIVED 07/01/2025 10:34   P.01

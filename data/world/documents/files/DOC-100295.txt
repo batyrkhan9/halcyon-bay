@@ -1,20 +1,21 @@
-POINT CORRIN BOATWORKS
-7287 HARBOR WAY   CA
-                             EARNINGS STATEMENT
-   Employee: ASHLEY DESAI        Emp ID: 77158
-   Position: Mechanic
-Pay Period: 04/26/2025 - 05/09/2025     Pay Date: 05/14/2025
-Pay Frequency: Bi-Weekly
+SEASIDE DENTAL GROUP
+~ ~ .  ,
+2837 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: STEVEN WU        Emp ID: 78327
+Position: Dental assistant
+Pay Period: 02/25/2025 - 03/03/2025     Pay Date: 03/08/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.31     80.00       3,704.80     37,048.00
-GROSS PAY                                  3,704.80     37,048.00
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Salary                                     4,865.71     48,657.10
+GROSS PAY                                  4,865.71     48,657.10
 DEDUCTIONS
-   Federal Income Tax                       185.24
-  Social Security                          229.69
-  Medicare                                  53.72
-  CA SDI                                    40.75
-NET PAY                                  3,195.40
+     Federal Income Tax                       389.25
+  Social Security                          301.67
+  Medicare                                  70.55
+  CA SDI                                    53.52
+NET PAY                                  4,050.72
 --------------------------------------------------------------
 
-FAX RECEIVED 05/25/2025 10:23   P.01
+FAX RECEIVED 03/13/2025 10:25   P.01

@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-8951 COMMERCE WAY   CA
+GOLDEN HOUR SENIOR LIVING
+5390 MARKET WAY    CA
                          EARNINGS STATEMENT
-Employee: DARNELL FONOTI        Emp ID: 40337
-Position: Laborer
-Pay Period: 05/30/2026 - 06/28/2026     Pay Date: 07/03/2026
-Pay Frequency: Monthly
+Employee: AIKO RUIZ        Emp ID: 49592
+Position: Caregiver
+Pay Period: 03/23/2026 - 04/06/2026     Pay Date: 04/11/2026
+  Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     7,398.48     51,789.36
-   GROSS PAY                                  7,398.48     51,789.36
+Salary                                       956.60      6,696.20
+GROSS PAY                                    956.60      6,696.20
 DEDUCTIONS
-     Federal Income Tax                       591.87
-  Social Security                          458.70
-    Medicare                                 107.27
-  CA SDI                                    81.38
-NET PAY                                  6,159.26
+  Federal Income Tax                        38.26
+  Social Security                           59.30
+  Medicare                                  13.87
+  CA SDI                                    10.52
+    NET PAY                                    834.65
 --------------------------------------------------------------
 
-RECEIVED AUG 16 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2026]

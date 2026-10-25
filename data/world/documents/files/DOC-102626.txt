@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+9284 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: CALEB ZHOU        Emp ID: 76532
+Position: Software engineer
+Pay Period: 08/01/2026 - 08/15/2026      Pay Date: 08/20/2026
+Pay Frequency: Semi-Month1y
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       638.61     10,217.76
+GROSS PAY                                    638.61     10,217.76
+DEDUCTIONS
+  Federal Income Tax                        25.54
+  Social Security                           39.59
+  Medicare                                   9.26
+  CA 5DI                                     7.02
+   NET PAY                                    557.20
+--------------------------------------------------------------
+
+RECEIVED AUG 23 2026  - mailroom

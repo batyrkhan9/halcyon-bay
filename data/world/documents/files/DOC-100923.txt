@@ -1,21 +1,20 @@
-BAYLINE LOGISTICS INC
-5766 HARBOR WAY   CA
+SUNSET COAST HOME CARE
+8816 MARKET WAY   CA
                          EARNINGS STATEMENT
-    Employee: DAVID MARTIN        Emp ID: 14374
-Position: Warehouse associate
-~ ~ .  ,
-Pay Period: 12/15/2025 - 01/13/2026     Pay Date: 01/18/2026
-Pay Frequency: Monthly
+   Employee: RAYMOND ALMEIDA        Emp ID: 19890
+Position: Home care aide
+ Pay Period: 07/16/2025 - 07/29/2025     Pay Date: 08/03/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.94    168.25       2,850.16      2,850.16
-GROSS PAY                                  2,850.16      2,850.16
+Regular             18.36     80.00       1,468.80     23,500.80
+GROSS PAY                                  1,468.80     23,500.80
 DEDUCTIONS
-  Federal Income Tax                       171.00
-  Social Security                          176.71
-  Medicare                                  41.32
-  CA SDI                                    31.35
-NET PAY                                  2,429.78
---------------------------------------------------------------
+  Federal Income Tax                       132.19
+  Social Security                           91.06
+  Medicare                                  21.29
+  CA SDI                                    16.15
+NET PAY                                  1,208.11
+   --------------------------------------------------------------
 
-FAX RECEIVED 02/05/2026 10:59   P.01
+RECEIVED AUG 21 2025  - mailroom

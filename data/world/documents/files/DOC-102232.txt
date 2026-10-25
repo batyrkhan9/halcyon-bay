@@ -1,0 +1,21 @@
+MARISOL CLEANING SERV1CES
+  8387 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: STEVEN O'BRIEN        Emp ID: 33494
+Position: Cleaner
+| |   .
+Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.00     48.50         921.50     11,058.00
+GROSS PAY                                    921.50     11,058.00
+DEDUCTIONS
+  Federal Income Tax                        82.93
+  Social Security                           57.13
+   Medicare                                  13.36
+   CA 5DI                                    10.13
+ NET PAY                                    757.95
+    --------------------------------------------------------------
+
+RECEIVED JUL 29 2026  - mailroom

@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-5710 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: JOSE RAMOS        Emp ID: 81789
-  Position: Laborer
-Pay Period: 06/09/2025 - 06/15/2025     Pay Date: 06/20/2025
-Pay Frequency: Weekly
-| |   .
+COASTAL VALLEY ENERGY
+1278 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: RACHEL VASQUEZ        Emp ID: 60722
+Position: Field technician
+Pay Period: 03/05/2025 - 03/18/2025     Pay Date: 03/23/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.40      9.50         174.80      4,370.00
-GRO5S PAY                                    174.80      4,370.00
-DEDUCTIONS
-  Federal Income Tax                         6.99
-  Social Security                           10.83
-  Medicare                                   2.53
-   CA SDI                                     1.92
-    NET PAY                                    152.53
+Salary                                     1,450.89      8,705.34
+GROSS PAY                                  1,450.89      8,705.34
+DEDUCT1ONS
+  Federal Income Tax                        58.03
+   Social Security                           89.95
+      Medicare                                  21.03
+  CA SDI                                    15.96
+NET PAY                                  1,265.92
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/28/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/06/2025]

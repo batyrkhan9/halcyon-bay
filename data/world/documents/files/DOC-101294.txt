@@ -1,20 +1,21 @@
-OTTER BAY AQUARIUM
-  5874 COMMERCE WAY   CA
+SUNSET COAST HOME CARE
+ 8291 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DEBORAH CONTRERAS        Emp ID: 57488
-Position: Guest services
-Pay Period: 06/06/2026 - 06/20/2026     Pay Date: 06/25/2026
+Employee: BRIANNA WATANABE        Emp ID: 38591
+Position: Home care aide
+Pay Period: 11/26/2025 - 12/10/2025     Pay Date: 12/15/2025
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,123.71     37,484.52
-  GROSS PAY                                  3,123.71     37,484.52
+Salary                                     1,695.39     40,689.36
+GROSS PAY                                  1,695.39     40,689.36
 DEDUCTIONS
-  Federal Income Tax                       249.89
-  Social Security                          193.67
-  Medicare                                  45.29
-     CA SDI                                    34.36
-NET PAY                                  2,600.50
+  . : .
+  Federal Income Tax                       152.58
+     Social Security                          105.11
+  Medicare                                  24.58
+    CA SDI                                    18.64
+NET PAY                                  1,394.48
 --------------------------------------------------------------
 
-RECEIVED JUL 08 2026  - mailroom
+-- scanned 12/27/2025 HBCH mailroom  pg 1/1 --

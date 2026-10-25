@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-7564 INDUSTRIAL WAY   CA
+  HARBOR POINT HOTEL
+5055 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: KENNETH MITCHELL        Emp ID: 27230
-Position: Line worker
-Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
+Employee: VIKRAM MOORE-ROMERO        Emp ID: 56954
+Position: Housekeeper
+Pay Period: 12/18/2025 - 12/31/2025     Pay Date: 01/05/2026
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.09     53.25         963.29     13,486.06
- GROSS PAY                                    963.29     13,486.06
-DEDUCTIONS
-  Federal Income Tax                        77.06
-  Social Security                           59.72
-   Medicare                                  13.96
-  . : .
-  CA SDI                                    10.59
- NET PAY                                    801.96
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             31.70     80.00       2,536.00      2,536.00
+GROSS PAY                                  2,536.00      2,536.00
+ DEDUCTIONS
+  Federal Income Tax                       278.96
+  Social Security                          157.23
+  Medicare                                  36.77
+  CA SDI                                    27.89
+NET PAY                                  2,035.15
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]
+FAX RECEIVED 01/23/2026 10:34   P.01

@@ -1,0 +1,21 @@
+OTTER BAY AQUAR1UM
+   2845 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: ANTONIO RAO        Emp ID: 27110
+Position: Guest services
+Pay Period: 08/18/2025 - 08/31/2025     Pay Date: 09/05/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+| |   .
+Regular             41.21     80.00       3,296.80     59,342.40
+GROSS PAY                                  3,296.80     59,342.40
+DEDUCTIONS
+  Federal Income Tax                       230.77
+  Social Security                          204.40
+      Medicare                                  47.80
+  CA SDI                                    36.26
+NET PAY                                  2,777.57
+--------------------------------------------------------------
+
+RECEIVED SEP 25 2025  - mailroom

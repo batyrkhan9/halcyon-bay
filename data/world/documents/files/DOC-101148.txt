@@ -1,20 +1,18 @@
-ELLERY HARDWARE SUPPLY
-   929 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: LUIS CHEN        Emp ID: 20658
-Position: Sales associate
-Pay Period: 04/08/2026 - 04/22/2026     Pay Date: 04/27/2026
-Pay Frequency: Semi-Monthly
-  --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              30.05     86.67       2,604.43     20,835.44
-GROSS PAY                                  2,604.43     20,835.44
-DEDUCTIONS
-  Federal Income Tax                       260.44
-      Social Security                          161.47
-  Medicare                                  37.76
-  CA SDI                                    28.64
-NET PAY                                  2,116.12
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+   (copy - summary page)
+Filing 5tatus: Single
+Your first name and middle initial / Last name:  VIKRAM PHAM
+Your social security number: XXX-XX-1241
+Dependents: 0
+ Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    51,231.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    51,231.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    51,231.00
+ 12  Standard deduction ..............................    14,600.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Vikram Pham        Date: 04/13/2025
+
+RECEIVED OCT 31 2025  - mailroom

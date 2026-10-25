@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+3959 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MIGUEL ADAMS        Emp ID: 49949
+Position: Mechanic
+Pay Period: 02/26/2026 - 03/11/2026     Pay Date: 03/16/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,354.59     14,127.54
+GROSS PAY                                  2,354.59     14,127.54
+DEDUCTIONS
+  Federal Income Tax                        94.18
+  Social Security                          145.98
+   Medicare                                  34.14
+  CA SDI                                    25.90
+NET PAY                                  2,054.39
+--------------------------------------------------------------
+
+FAX RECEIVED 03/28/2026 10:59   P.01

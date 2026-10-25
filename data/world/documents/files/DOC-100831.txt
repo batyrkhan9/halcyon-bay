@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+3086 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: DANIELA C0NTRERAS        Emp ID: 83695
+Position: Dental assistant
+Pay Period: 06/26/2025 - 07/10/2025     Pay Date: 07/15/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             23.84     86.67       2,066.21     28,926.94
+GROSS PAY                                  2,066.21     28,926.94
+DEDUCTIONS
+  Federal Income Tax                       103.31
+  S0cial Security                          128.10
+  Medicare                                  29.96
+  CA SDI                                    22.72
+NET PAY                                  1,782.12
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2025]

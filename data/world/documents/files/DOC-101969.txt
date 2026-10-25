@@ -1,20 +1,21 @@
-ELLERY HARDWARE SUPPLY
-6061 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+2015 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: TAR1Q JOSHI        Emp ID: 90104
-Position: Sales associate
-    Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
-    Pay Frequency: Bi-Weekly
+Employee: LEILA RAMIREZ        Emp ID: 53654
+Position: Custodian
+  . : .
+Pay Period: 06/14/2026 - 06/28/2026     Pay Date: 07/03/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            100.66     80.00       8,052.80    144,950.40
-GROSS PAY                                  8,052.80    144,950.40
-    DEDUCTIONS
-  Federal Income Tax                       483.16
-     Social Security                          499.27
-  Medicare                                 116.76
-  CA SDI                                    88.58
-NET PAY                                  6,865.03
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+ Regular             18.62     73.00       1,359.26     17,670.38
+GR0SS PAY                                  1,359.26     17,670.38
+DEDUCTIONS
+  Federal Income Tax                       122.33
+  Social Security                           84.27
+  Medicare                                  19.70
+  CA SDI                                    14.95
+NET PAY                                   1,118.01
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]

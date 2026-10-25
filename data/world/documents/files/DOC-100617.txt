@@ -1,20 +1,17 @@
-BLUE KELP SOFTWARE LLC
-1357 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KAYLA ORTIZ        Emp ID: 52050
-Position: Software engineer
-Pay Period: 08/17/2025 - 08/30/2025     Pay Date: 09/04/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                     2,296.14     41,330.52
-GROSS PAY                                  2,296.14     41,330.52
-DEDUCTIONS
-  Federa1 Income Tax                       229.61
-  Social Security                          142.36
-  Medicare                                  33.29
-  CA SDI                                    25.25
-NET PAY                                  1,865.63
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 05/01/2025 - 05/22/2025
+    Member: LEILANI JOSHI       Account ending 7601
 
--- scanned 09/18/2025 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning balance            1,118.76
+  Deposits                    11,490.32
+  Withdrawals                -10,685.99
+  Ending balance               1,923.09
+
+DEPOSITS AND CREDITS
+  05/22  PAYROLL DIR DEP MIRADOR PUBLIC LIB       5,745.16
+  05/08  PAYROLL DIR DEP MIRADOR PUBLIC LIB       5,745.16
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/31/2025]

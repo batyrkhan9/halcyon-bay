@@ -1,21 +1,20 @@
-LAS BRI5AS RESTAURANT GROUP
-    3153 INDUSTRIAL WAY   CA
+5EASIDE DENTAL GROUP
+    298 HARBOR WAY   CA
                          EARNINGS STATEMENT
-    Employee: HASSAN GUTIERREZ        Emp ID: 86096
- Position: Line cook
-Pay Period: 06/28/2025 - 07/11/2025     Pay Date: 07/16/2025
+Employee: CHLOE HADDAD        Emp ID: 60778
+Position: Dental assistant
+Pay Period: 03/22/2025 - 04/04/2025     Pay Date: 04/09/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.88     80.00       3,030.40     45,456.00
-GROSS PAY                                  3,030.40     45,456.00
+ --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                      2,212.31     17,698.48
+GROSS PAY                                  2,212.31     17,698.48
 DEDUCTIONS
-    Federal Income Tax                       242.43
-  Social Security                          187.88
-  Medicare                                  43.94
-  CA SDI                                    33.33
-| |   .
-NET PAY                                  2,522.82
-    --------------------------------------------------------------
+  Federal Income Tax                       154.86
+  Social Security                          137.16
+    Medicare                                  32.07
+  CA SDI                                    24.33
+NET PAY                                   1,863.89
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2025]
+FAX RECEIVED 05/08/2025 10:12   P.01

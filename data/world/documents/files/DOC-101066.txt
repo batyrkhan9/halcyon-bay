@@ -1,20 +1,20 @@
- ARR0YO VERDE NURSERY
-6587 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: JAMAL QUINN        Emp ID: 61821
-Position: Nursery worker
-Pay Period: 01/20/2026 - 02/18/2026     Pay Date: 02/23/2026
-Pay Frequency: Monthly
+  SANDPIPER CHILD CARE CENTER
+   1005 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: JORGE CONTRERAS        Emp ID: 13944
+Position: Teacher
+Pay Period: 09/04/2025 - 09/17/2025     Pay Date: 09/22/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Regular             18.24     82.75       1,509.36      3,018.72
-GROSS PAY                                  1,509.36      3,018.72
-   DEDUCTIONS
-  Federal Income Tax                       120.74
-  Social Security                           93.58
-  Medicare                                  21.88
-  CA SDI                                    16.60
-NET PAY                                  1,256.56
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.98     53.75         912.68     17,340.92
+GROSS PAY                                    912.68     17,340.92
+DEDUCTIONS
+  Federal Income Tax                        54.76
+  Social Security                           56.58
+   Medicare                                  13.23
+  CA SDI                                    10.03
+NET PAY                                    778.08
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/09/2026]
+RECEIVED OCT 03 2025  - mailroom

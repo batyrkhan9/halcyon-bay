@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+304 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+    Employee: LARRY GOMEZ        Emp ID: 48380
+Position: Nursery worker
+Pay Period: 07/24/2026 - 08/06/2026     Pay Date: 08/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             49.40     80.00       3,952.00     63,232.00
+GROSS PAY                                  3,952.00     63,232.00
+    DEDUCTIONS
+   Federal Inc0me Tax                       197.60
+  5ocial Security                          245.02
+  Medicare                                  57.30
+  CA SDI                                    43.47
+NET PAY                                  3,408.61
+--------------------------------------------------------------
+
+FAX RECEIVED 08/16/2026 10:17   P.01

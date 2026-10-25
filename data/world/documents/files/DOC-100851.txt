@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+4930 COMMERCE WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: ARJUN FALEOLO        Emp ID: 75561
+Position: Line worker
+Pay Period: 06/19/2025 - 07/03/2025     Pay Date: 07/08/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.75     22.50         421.88      5,484.44
+GROSS PAY                                    421.88      5,484.44
+DEDUCTIONS
+  Federal Income Tax                        37.96
+  Social Security                           26.15
+  Medicare                                   6.11
+  CA SDI                                     4.64
+NET PAY                                    347.02
+ --------------------------------------------------------------
+
+-- scanned 08/06/2025 HBCH mailroom  pg 1/1 --

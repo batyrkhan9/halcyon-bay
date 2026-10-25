@@ -1,0 +1,21 @@
+M1RADOR GROCERY CO-OP
+5477 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: ROSA JIMENEZ        Emp ID: 42160
+    Position: Cashier
+ Pay Period: 06/26/2026 - 07/09/2026     Pay Date: 07/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,264.69     17,705.66
+GROSS PAY                                  1,264.69     17,705.66
+   DEDUCTIONS
+   Federal Income Tax                       101.17
+  Social Security                           78.41
+    Medicare                                  18.33
+  CA SDI                                    13.91
+NET PAY                                  1,052.87
+ --------------------------------------------------------------
+  includes overtime 6.5 hrs
+
+FAX RECEIVED 07/20/2026 10:13   P.01

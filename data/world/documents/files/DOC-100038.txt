@@ -1,20 +1,17 @@
-SEASIDE DENTAL GROUP
-5262 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: HASSAN DESAI        Emp ID: 79525
-  Position: Dental assistant
-   Pay Period: 12/18/2024 - 12/31/2024     Pay Date: 01/05/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             78.73     80.00       6,298.40      6,298.40
-GROSS PAY                                  6,298.40      6,298.40
-DEDUCTIONS
-  Federal Income Tax                       251.93
-  Social Security                          390.50
-  Medicare                                  91.32
-    CA SDI                                    69.28
-NET PAY                                  5,495.37
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 11/01/2024 - 11/30/2024
+Member: SUSAN FUENTES       Account ending 9363
 
--- scanned 01/11/2025 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning balance            2,142.89
+  Deposits                     1,877.76
+  Withdrawals                 -1,746.31
+  Ending balance               2,274.34
+
+DEPOSITS AND CREDITS
+   12/04  PAYROLL DIR DEP CALDER FREIGHT LIN         938.88
+   11/04  PAYROLL DIR DEP CALDER FREIGHT LIN         938.88
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 12/20/2024 HBCH mailroom  pg 1/1 --

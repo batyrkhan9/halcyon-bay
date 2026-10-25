@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+9976 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROHAN CORTEZ        Emp ID: 45854
+Position: Warehouse associate
+Pay Period: 03/03/2026 - 03/16/2026     Pay Date: 03/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,076.82      6,460.92
+ GROSS PAY                                  1,076.82      6,460.92
+DEDUCTIONS
+  Federal Income Tax                        43.07
+  5ocial Security                           66.76
+  Medicare                                  15.61
+  CA SDI                                    11.84
+NET PAY                                    939.54
+--------------------------------------------------------------
+
+FAX RECEIVED 03/29/2026 10:48   P.01

@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
- 4850 COMMERCE WAY   CA
+LAS BRISAS RESTAURANT GROUP
+7132 MARKET WAY   CA
                          EARNINGS STATEMENT
-   Employee: ALYSSA MOORE        Emp ID: 85102
-Position: Field supervisor
-Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+Employee: MANUEL PETROV        Emp ID: 57533
+    Position: Line cook
+Pay Period: 05/12/2026 - 05/25/2026     Pay Date: 05/30/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             61.36     80.00       4,908.80     83,449.60
-  GROSS PAY                                  4,908.80     83,449.60
+    Regular             18.97      9.00         170.73      1,878.03
+GROSS PAY                                    170.73      1,878.03
 DEDUCTIONS
-  Federal Inc0me Tax                       539.96
-     Social Security                          304.34
-  Medicare                                  71.17
-  CA SDI                                    53.99
-NET PAY                                  3,939.34
-   --------------------------------------------------------------
+  Federal Income Tax                        13.65
+  Social Security                           10.58
+  Medicare                                   2.47
+  CA SDI                                     1.87
+NET PAY                                     142.16
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/13/2026]
+RECEIVED JUL 08 2026  - mailroom

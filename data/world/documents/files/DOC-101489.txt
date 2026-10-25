@@ -1,20 +1,18 @@
-GOLDEN HOUR SENIOR LIVING
-   9812 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: PAOLA BUI        Emp ID: 84007
-Position: Caregiver
-Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             44.23     80.00       3,538.40     49,537.60
-GROSS PAY                                  3,538.40     49,537.60
-DEDUCTIONS
-   Federal Income Tax                       141.53
-  Social Security                          219.38
-  Medicare                                  51.30
-  CA SDI                                    38.92
-NET PAY                                  3,087.27
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head 0f househo1d
+ Your first name and middle initial / Last name:  JAE FREEMAN
+Your social security number: XXX-XX-8836
+Dependents: 2
+Income
+ 1a  Total amount from F0rm(s) W-2, box 1 ...........    87,151.00
+ 8   Additional income fr0m Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    87,151.00
+   10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    87,151.00
+ 12  Standard deduction ..............................    21,900.00
 
-RECEIVED JUL 27 2026  - mailroom
+Sign Here   Under penalties of perjury, I dec1are that I have examined this return...
+Your signature: /s/ Jae Freeman        Date: 04/09/2025
+
+-- scanned 02/26/2026 HBCH mailroom  pg 1/1 --

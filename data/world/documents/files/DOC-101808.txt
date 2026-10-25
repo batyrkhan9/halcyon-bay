@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+5997 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: EMILY ZAMORA        Emp ID: 93323
+Position: Field technician
+Pay Period: 04/14/2026 - 04/27/2026     Pay Date: 05/02/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             17.64     48.00         846.72      7,620.48
+GROSS PAY                                    846.72      7,620.48
+DEDUCTIONS
+      Federal Income Tax                        50.80
+  Social Security                           52.49
+  Medicare                                  12.27
+  CA SDI                                     9.31
+NET PAY                                    721.85
+--------------------------------------------------------------
+
+-- scanned 05/15/2026 HBCH mailroom  pg 1/1 --

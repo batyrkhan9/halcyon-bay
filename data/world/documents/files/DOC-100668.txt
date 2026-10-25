@@ -1,21 +1,17 @@
-ARROYO VERDE NURSERY
-5701 MARKET WAY   CA
-                         EARNINGS STATEMENT
-  Employee: MICHAEL JEFFERSON        Emp ID: 61800
-Position: Nursery worker
-Pay Period: 08/29/2025 - 09/11/2025     Pay Date: 09/16/2025
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.34     80.00       1,387.20     26,356.80
-GROSS PAY                                  1,387.20     26,356.80
-DEDUCTIONS
-  Federal Income Tax                        97.10
-  Social Security                           86.00
-  Medicare                                  20.11
-| |   .
-  CA SDI                                    15.25
-NET PAY                                  1,168.74
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 05/01/2025 - 05/31/2025
+   Member: LEILA ANDERSON       Account ending 7688
 
-RECEIVED SEP 29 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance              648.54
+  Deposits                     1,929.40
+  Withdrawals                 -1,775.04
+  Ending balance                 802.90
+
+DEPOSITS AND CREDITS
+     06/01  PAYROLL DIR DEP SEAS1DE DENTAL GRO         964.70
+  05/25  PAYROLL DIR DEP SEASIDE DENTAL GRO         964.70
+
+Thank you f0r banking with us.  Page 1 of 2
+
+RECEIVED JUN 14 2025  - mailroom

@@ -1,20 +1,21 @@
-   GOLDEN HOUR SENIOR LIVING
-5440 COMMERCE WAY   CA
+   BAYLINE LOGISTICS INC
+4010 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM JOSHI        Emp ID: 49723
-Position: Caregiver
-Pay Period: 01/29/2026 - 02/11/2026     Pay Date: 02/16/2026
- Pay Frequency: Bi-Weekly
+Employee: MANUEL PEREZ        Emp ID: 22067
+~ ~ .  ,
+Position: Warehouse associate
+Pay Period: 08/30/2025 - 09/05/2025     Pay Date: 09/10/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       519.12      2,076.48
- GROSS PAY                                    519.12      2,076.48
+Salary                                       710.65     26,294.05
+GR0SS PAY                                    710.65     26,294.05
 DEDUCTIONS
-  Federal Income Tax                        46.72
-  Social Security                           32.18
-  Medicare                                   7.52
-  CA SDI                                     5.71
-NET PAY                                    426.99
+  Federal Income Tax                        71.06
+  Social Security                           44.06
+  Medicare                                  10.30
+   CA SDI                                     7.81
+   NET PAY                                    577.42
 --------------------------------------------------------------
 
--- scanned 04/01/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 09/24/2025 10:57   P.01

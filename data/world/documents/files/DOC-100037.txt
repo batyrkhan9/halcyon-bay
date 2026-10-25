@@ -1,21 +1,20 @@
-HALCY0N BAY UNIFIED SCH0OL DIST
-6722 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: JAMES CRUZ        Emp ID: 15957
-Position: Instructional aide
-Pay Period: 12/11/2024 - 12/24/2024     Pay Date: 12/29/2024
-   Pay Frequency: Bi-Weekly
+CALDER FREIGHT LINES
+2475 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUSAN FUENTES        Emp ID: 68423
+Position: Driver
+Pay Period: 09/01/2024 - 09/30/2024     Pay Date: 10/05/2024
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             20.33     80.00       1,626.40     42,286.40
-GROSS PAY                                  1,626.40     42,286.40
-_ _ _ _
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.59     64.75       1,203.70     12,037.00
+GROSS PAY                                  1,203.70     12,037.00
 DEDUCTIONS
-  Federal Income Tax                       178.90
-  Social Security                          100.83
-  Medicare                                  23.58
-  CA SDI                                    17.89
-NET PAY                                  1,305.20
+  Federal Income Tax                        72.22
+  Social Security                           74.62
+  Medicare                                  17.45
+   CA SDI                                    13.24
+    NET PAY                                  1,026.17
 --------------------------------------------------------------
 
--- scanned 01/09/2025 HBCH mailroom  pg 1/1 --
+RECEIVED DEC 20 2024  - mailroom

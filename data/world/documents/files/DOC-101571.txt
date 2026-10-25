@@ -1,20 +1,20 @@
 BLUE KELP SOFTWARE LLC
-5585 MARKET WAY   CA
+8582 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: SERGIO KANG        Emp ID: 67940
+Employee: DAVID COSTA        Emp ID: 12408
 Position: Software engineer
-Pay Period: 05/15/2026 - 06/13/2026     Pay Date: 06/18/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             45.24    173.33       7,841.45     47,048.70
-GROSS PAY                                  7,841.45     47,048.70
-    DEDUCTIONS
-  Federa1 Income Tax                       784.14
-  Social Security                          486.17
-  Medicare                                 113.70
-  CA SDI                                    86.25
-   NET PAY                                  6,371.19
+Pay Period: 02/06/2026 - 02/20/2026     Pay Date: 02/25/2026
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+ EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.88     86.67       2,069.68      8,278.72
+   GROSS PAY                                  2,069.68      8,278.72
+DEDUCTIONS
+  Federal Income Tax                       186.27
+  Social Security                          128.32
+  Medicare                                  30.01
+  CA SDI                                    22.76
+NET PAY                                  1,702.32
 --------------------------------------------------------------
 
-FAX RECEIVED 08/02/2026 10:22   P.01
+RECEIVED MAR 19 2026  - mailroom

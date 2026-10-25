@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+2300 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEI DESAI        Emp ID: 69221
+Position: Laborer
+   Pay Period: 06/13/2026 - 06/26/2026     Pay Date: 07/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     8,139.07    105,807.91
+GROSS PAY                                  8,139.07    105,807.91
+DEDUCTION5
+  Federal Income Tax                       732.51
+  Social Security                          504.62
+  Medicare                                 118.01
+    CA SDI                                    89.53
+NET PAY                                  6,694.40
+--------------------------------------------------------------
+
+FAX RECEIVED 08/03/2026 10:29   P.01

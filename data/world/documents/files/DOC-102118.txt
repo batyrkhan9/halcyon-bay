@@ -1,21 +1,21 @@
-SUNSET COAST HOME CARE
-3922 COMMERCE WAY   CA
+  PACIFIC RIM JANITORIAL
+3652 HARBOR WAY   CA
                          EARNINGS STATEMENT
-   Employee: ISABEL RAO        Emp ID: 45990
-Position: Home care aide
-   Pay Period: 09/11/2026 - 09/17/2026     Pay Date: 09/22/2026
-   Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             22.80     40.00         912.00     34,656.00
-GROSS PAY                                    912.00     34,656.00
+Employee: ISABEL MITCHELL-LEWIS        Emp ID: 31303
+  Position: Custodian
+Pay Period: 04/07/2026 - 05/06/2026     Pay Date: 05/11/2026
+Pay Frequency: Monthly
+  --------------------------------------------------------------
+EARNINGS             RATE      HOURS     TH1S PER1OD        YTD
+Regular             16.86     63.50       1,070.61      5,353.05
+GROSS PAY                                  1,070.61      5,353.05
 DEDUCTIONS
-  Federal Income Tax                        82.08
-  Social Security                           56.54
-  . : .
-  Medicare                                  13.22
-  CA SDI                                    10.03
-NET PAY                                    750.13
+  Federal Income Tax                        53.53
+  Social Security                           66.37
+  Medicare                                  15.52
+~ ~ .  ,
+  CA SDI                                    11.77
+NET PAY                                    923.42
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+-- scanned 07/21/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+8663 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: AIKO GUPTA        Emp ID: 86144
+Position: Library assistant
+Pay Period: 08/09/2026 - 08/15/2026      Pay Date: 08/20/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,077.70     36,641.80
+    GROSS PAY                                  1,077.70     36,641.80
+DEDUCTIONS
+  Federal Income Tax                        96.99
+  Social Security                           66.81
+  Medicare                                  15.62
+  CA SDI                                    11.85
+NET PAY                                     886.43
+--------------------------------------------------------------
+
+FAX RECEIVED 09/02/2026 10:28   P.01

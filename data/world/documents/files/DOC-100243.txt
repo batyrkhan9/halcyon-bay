@@ -1,21 +1,21 @@
-PORT ELLERY CANNERY CO
-4130 MARKET WAY   CA
+MIRADOR GROCERY CO-OP
+6071 INDUSTRIAL WAY    CA
+| |   .
                          EARNINGS STATEMENT
-Employee: RODRIGO ZHOU        Emp ID: 94114
-Position: Line w0rker
-  Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
-Pay Frequency: Bi-Weekly
+Employee: JOSE PHAM        Emp ID: 27103
+Position: Cashier
+Pay Period: 02/02/2025 - 02/08/2025     Pay Date: 02/13/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Salary                                       864.06      8,640.60
-GROSS PAY                                    864.06      8,640.60
+    Salary                                       616.06      4,312.42
+   GROSS PAY                                    616.06      4,312.42
 DEDUCTIONS
-   Federal Income Tax                        60.48
-  Social Security                           53.57
-  Medicare                                  12.52
-  CA SDI                                     9.50
-  NET PAY                                    727.99
+     Federal Income Tax                        67.76
+  Social Security                           38.19
+  Medicare                                   8.93
+      CA SDI                                     6.77
+NET PAY                                    494.41
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2025]
+FAX RECEIVED 02/26/2025 10:29   P.01

@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+1667 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE FALEOLO        Emp ID: 17001
+Position: Housekeeper
+Pay Period: 07/05/2026 - 07/18/2026     Pay Date: 07/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,482.63     37,239.45
+    GROSS PAY                                  2,482.63     37,239.45
+  DEDUCTIONS
+  Federal Income Tax                       148.95
+   Social Security                          153.92
+  Medicare                                  35.99
+   CA SDI                                    27.30
+NET PAY                                  2,116.47
+--------------------------------------------------------------
+
+FAX RECEIVED 07/28/2026 10:36   P.01

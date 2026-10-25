@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-2686 HARBOR WAY   CA
+OTTER BAY AQUARIUM
+   6274 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: RAJNI ESPINOZA        Emp ID: 78722
-Position: Nursery worker
-Pay Period: 09/08/2025 - 09/22/2025     Pay Date: 09/27/2025
-Pay Frequency: Semi-Monthly
+Employee: PEDRO GREEN        Emp ID: 99362
+Position: Guest services
+Pay Period: 05/10/2025 - 05/23/2025     Pay Date: 05/28/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.69     86.67       1,446.52     26,037.36
-GROSS PAY                                  1,446.52     26,037.36
-DEDUCTIONS
-  Federal Income Tax                        57.86
-  Social Security                           89.68
-  Medicare                                  20.97
-  CA SDI                                    15.91
-NET PAY                                  1,262.10
-   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            104.16     80.00       8,332.80     91,660.80
+GROSS PAY                                  8,332.80     91,660.80
+DEDUCTI0NS
+  Federal Income Tax                       416.64
+  Social Security                          516.63
+~ ~ .  ,
+   Medicare                                 120.82
+  CA 5DI                                    91.66
+NET PAY                                  7,187.05
+    --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/18/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/26/2025]

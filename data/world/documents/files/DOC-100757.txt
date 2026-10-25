@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-  3615 COMMERCE WAY   CA
+CYPRESS FLATS AUTO BODY
+3755 HARBOR WAY    CA
                          EARNINGS STATEMENT
-Employee: LOGAN ALLEN        Emp ID: 68718
-Position: Teacher
-Pay Period: 10/14/2025 - 10/27/2025      Pay Date: 11/01/2025
-Pay Frequency: Bi-Weekly
+Employee: NOAH WILLIAMS        Emp ID: 93415
+Position: Technician
+Pay Period: 06/07/2025 - 06/21/2025     Pay Date: 06/26/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             23.15     80.00       1,852.00     40,744.00
-~ ~ .  ,
-GROSS PAY                                  1,852.00     40,744.00
-    DEDUCTIONS
-  Federal 1ncome Tax                       166.68
-  Social Security                          114.82
-    Medicare                                  26.85
-   CA SDI                                    20.37
-NET PAY                                  1,523.28
---------------------------------------------------------------
+Regular             30.22     86.67       2,619.17     31,430.04
+GROSS PAY                                  2,619.17     31,430.04
+DEDUCTIONS
+  Federal Income Tax                       261.91
+  Social Security                          162.38
+  Medicare                                  37.97
+  CA SDI                                    28.81
+NET PAY                                  2,128.10
+  --------------------------------------------------------------
 
-FAX RECEIVED 11/21/2025 10:32   P.01
+RECEIVED JUL 09 2025  - mailroom

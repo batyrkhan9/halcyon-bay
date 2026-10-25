@@ -1,21 +1,21 @@
-SEASIDE DENTAL GROUP
-1609 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: BRANDON LEE        Emp ID: 47212
-Position: Denta1 assistant
-Pay Period: 07/16/2026 - 07/29/2026     Pay Date: 08/03/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             57.25     80.00       4,580.00     73,280.00
-GROSS PAY                                  4,580.00     73,280.00
- DEDUCTI0NS
-      Federal Income Tax                       229.00
+GOLDEN HOUR SENIOR LIVING
 _ _ _ _
-  Social Security                          283.96
-  Medicare                                  66.41
-   CA SDI                                    50.38
-NET PAY                                  3,950.25
+   7313 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: FRANK ITO        Emp ID: 17194
+Position: Caregiver
+ Pay Period: 02/13/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.70     75.75       1,416.52      4,249.56
+GROSS PAY                                  1,416.52      4,249.56
+DEDUCTIONS
+     Federal Income Tax                       127.48
+  Social Security                           87.82
+  Medicare                                  20.54
+  CA SDI                                    15.58
+NET PAY                                  1,165.10
+    --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/20/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/02/2026]

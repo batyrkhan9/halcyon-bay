@@ -1,20 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-   7871 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: WEI SALAZAR        Emp ID: 89574
-Position: Medical receptionist
-Pay Period: 11/24/2024 - 11/30/2024     Pay Date: 12/05/2024
-Pay Frequency: Weekly
+SUNSET COAST HOME CARE
+5078 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: KIM GREEN        Emp ID: 36979
+Position: Home care aide
+Pay Period: 11/06/2024 - 11/19/2024     Pay Date: 11/24/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     1,171.26     57,391.74
-GROSS PAY                                  1,171.26     57,391.74
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     1,079.39     25,905.36
+GROSS PAY                                  1,079.39     25,905.36
 DEDUCTIONS
-  Federal Income Tax                        58.56
-  Social Security                           72.61
-  Medicare                                  16.98
-  CA SDI                                    12.88
-NET PAY                                  1,010.23
+     Federal Income Tax                        64.76
+   Social Security                           66.92
+  Medicare                                  15.65
+  CA SDI                                    11.87
+NET PAY                                    920.19
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/24/2024]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/18/2024]

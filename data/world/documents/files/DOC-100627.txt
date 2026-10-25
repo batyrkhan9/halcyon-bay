@@ -1,17 +1,20 @@
- SEASIDE DENTAL GROUP
-4005 HARBOR 5T
+MIRADOR PUBLIC LIBRARY
+4347 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: MINH DANG        Emp ID: 32642
+Position: Library assistant
+Pay Period: 04/20/2025 - 05/03/2025     Pay Date: 05/08/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             16.75     64.75       1,084.56     10,845.60
+GR0SS PAY                                  1,084.56     10,845.60
+DEDUCTIONS
+  Federal Income Tax                        54.22
+     Social Security                           67.24
+  Medicare                                  15.72
+  CA SDI                                    11.93
+NET PAY                                    935.45
+--------------------------------------------------------------
 
-September 04, 2025
-
-To Whom It May Concern:
-
-_ _ _ _
-This letter confirms that David Coleman has been employed with Seaside Dental Group since
-June 2020 in the position of Dental assistant. Their rate of pay is $22.53 per hour, for a regular schedule of 40 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Caleb Scott
-Human Resources
-
--- scanned 09/18/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/01/2025]

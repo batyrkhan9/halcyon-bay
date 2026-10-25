@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Single
-Your first name and middle initial / Last name:  VIKRAM HUANG
-Your social security number: XXX-XX-6299
-Dependents: 0
-Income
- 1a  Total am0unt from Form(s) W-2, box 1 ...........    91,505.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    91,505.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    91,505.00
- 12  Standard deduction ..............................    14,600.00
+   SEASIDE DENTAL GROUP
+9078 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: ARJUN GUPTA        Emp ID: 72908
+Position: Dental assistant
+Pay Period: 06/27/2025 - 07/10/2025     Pay Date: 07/15/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    11,751.42    164,519.88
+GROSS PAY                                 11,751.42    164,519.88
+DEDUCTIONS
+  Federal Income Tax                     1,292.65
+   Social Security                          728.58
+  Medicare                                 170.39
+  CA SDI                                   129.26
+NET PAY                                  9,430.54
+--------------------------------------------------------------
 
-  Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Vikram Huang        Date: 04/08/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/25/2025]
+-- scanned 07/20/2025 HBCH mailroom  pg 1/1 --

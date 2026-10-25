@@ -1,0 +1,18 @@
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  LAUREN L1
+Your social security number: XXX-XX-2935
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    73,949.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    73,949.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    73,949.00
+ 12  Standard deduction ..............................    14,600.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Lauren Li        Date: 04/03/2026
+
+-- scanned 09/07/2026 HBCH mailroom  pg 1/1 --

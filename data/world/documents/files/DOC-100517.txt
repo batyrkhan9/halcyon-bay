@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+8921 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER MARTINEZ        Emp ID: 96511
+Position: Sales associate
+Pay Period: 04/08/2025 - 04/21/2025     Pay Date: 04/26/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.25     80.00       1,460.00     13,140.00
+GROSS PAY                                   1,460.00     13,140.00
+DEDUCTIONS
+     Federal Income Tax                       146.00
+  Social Security                           90.52
+  Medicare                                  21.17
+     CA SDI                                    16.06
+NET PAY                                  1,186.25
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/06/2025]

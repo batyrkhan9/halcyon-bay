@@ -1,20 +1,20 @@
- OTTER BAY AQUARIUM
- 9648 COMMERCE WAY   CA
-                         EARNING5 STATEMENT
-Employee: DANIELA KOWALSKI        Emp ID: 39219
-    Position: Guest services
-Pay Period: 06/24/2026 - 07/08/2026     Pay Date: 07/13/2026
- Pay Frequency: Semi-Monthly
+PORT ELLERY CANNERY CO
+   5614 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA BUI        Emp ID: 64243
+Position: Line worker
+Pay Period: 01/17/2026 - 01/30/2026     Pay Date: 02/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             69.47     86.67       6,020.96     78,272.48
-GROSS PAY                                  6,020.96     78,272.48
+Regular             18.44     58.75       1,083.35      3,250.05
+GROSS PAY                                  1,083.35      3,250.05
 DEDUCTIONS
-  Federal Income Tax                       541.88
-  Social Security                          373.30
-  Medicare                                  87.30
-    CA SDI                                    66.23
- NET PAY                                  4,952.25
+  Federal Income Tax                       119.16
+  Social Security                           67.16
+   Medicare                                  15.70
+  CA SDI                                    11.91
+NET PAY                                    869.42
 --------------------------------------------------------------
 
-RECEIVED JUL 24 2026  - mailroom
+-- scanned 02/18/2026 HBCH mailroom  pg 1/1 --

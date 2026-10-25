@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+1917 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: ELENA WHITE        Emp 1D: 20558
+Position: Instructi0nal aide
+Pay Peri0d: 06/23/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             41.80     86.67       3,622.81     47,096.53
+GROSS PAY                                  3,622.81     47,096.53
+DEDUCTIONS
+  Federal Income Tax                       398.50
+  Social Security                          224.61
+   Medicare                                  52.53
+  CA SD1                                    39.85
+NET PAY                                   2,907.32
+--------------------------------------------------------------
+
+-- scanned 08/11/2026 HBCH mailroom  pg 1/1 --

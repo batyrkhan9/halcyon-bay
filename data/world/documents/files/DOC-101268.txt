@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-8171 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: XIMENA ALLEN        Emp ID: 10689
-Position: Cashier
-Pay Period: 05/05/2026 - 05/18/2026     Pay Date: 05/23/2026
+PACIFIC RIM JANITORIAL
+4280 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: MALIA NASSER        Emp ID: 93463
+Position: Custodian
+Pay Period: 10/28/2025 - 11/10/2025     Pay Date: 11/15/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,489.84     27,388.24
-GROSS PAY                                  2,489.84     27,388.24
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+| |   .
+Regular             17.81     25.00         445.25     10,240.75
+GR0SS PAY                                    445.25     10,240.75
 DEDUCTIONS
-  Federal Income Tax                       273.88
-  Social Security                          154.37
-  Medicare                                  36.10
-  CA SDI                                    27.38
-NET PAY                                  1,998.11
-    --------------------------------------------------------------
+  Federal Income Tax                        40.07
+  5ocial Security                           27.60
+    Medicare                                   6.45
+  CA SDI                                     4.89
+NET PAY                                    366.24
+--------------------------------------------------------------
 
-RECEIVED JUL 04 2026  - mailroom
+-- scanned 12/13/2025 HBCH mailroom  pg 1/1 --

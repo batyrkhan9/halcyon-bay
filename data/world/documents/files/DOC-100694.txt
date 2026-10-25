@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+3964 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: JOHN JACKSON        Emp ID: 71514
+Position: Housekeeper
+Pay Period: 05/24/2025 - 06/07/2025     Pay Date: 06/12/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.85     86.67       1,460.39     16,064.29
+GROSS PAY                                  1,460.39     16,064.29
+DEDUCTIONS
+  Federal Income Tax                        87.62
+  Social Security                           90.54
+   Medicare                                  21.17
+  CA SDI                                    16.06
+    NET PAY                                  1,245.00
+--------------------------------------------------------------
+
+-- scanned 06/24/2025 HBCH mailroom  pg 1/1 --

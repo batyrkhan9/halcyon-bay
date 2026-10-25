@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+5931 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: CARMEN KING-CHEN         Emp ID: 28052
+  Position: Dental assistant
+Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.28     45.75         790.56     11,067.84
+GROSS PAY                                    790.56     11,067.84
+DEDUCTIONS
+  Federal Income Tax                        71.15
+  Social Security                           49.01
+  Medicare                                  11.46
+  CA SDI                                     8.69
+NET PAY                                    650.25
+--------------------------------------------------------------
+
+-- scanned 07/29/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,21 @@
 OTTER BAY AQUARIUM
-981 INDUSTRIAL WAY   CA
+6102 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: HECTOR LEE        Emp ID: 87137
+Employee: JOSEFINA IYER        Emp ID: 33618
 Position: Guest services
-Pay Period: 12/01/2025 - 12/07/2025     Pay Date: 12/12/2025
+Pay Period: 07/09/2025 - 07/15/2025     Pay Date: 07/20/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             46.34     40.00       1,853.60     92,680.00
-    GROSS PAY                                  1,853.60     92,680.00
+Regular              18.59      8.00         148.72      4,312.88
+GROSS PAY                                    148.72      4,312.88
 DEDUCTIONS
-  Federal Income Tax                       111.21
-      Social Security                          114.92
-  Medicare                                  26.87
-  CA SDI                                    20.39
-NET PAY                                  1,580.21
+  Federal Income Tax                         7.43
+  Social Security                            9.22
+  Medicare                                   2.15
+~ ~ .  ,
+   CA SDI                                     1.63
+NET PAY                                    128.29
 --------------------------------------------------------------
 
-RECEIVED DEC 28 2025  - mailroom
+RECEIVED AUG 06 2025  - mailroom

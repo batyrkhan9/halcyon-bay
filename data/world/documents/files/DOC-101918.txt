@@ -1,21 +1,21 @@
-CYPRESS FLATS AUTO BODY
-  7003 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: AMANDA MARTIN        Emp ID: 44161
-Position: Technician
-Pay Period: 08/06/2026 - 08/20/2026     Pay Date: 08/25/2026
+   ELLERY HARDWARE SUPPLY
+9956 MARKET WAY    CA
+                            EARNINGS STATEMENT
+Employee: AMINA MEHTA        Emp ID: 90793
+Position: Sales associate
+   Pay Period: 05/12/2026 - 05/26/2026     Pay Date: 05/31/2026
 Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.73     86.67       3,270.06     52,320.96
-GROSS PAY                                  3,270.06     52,320.96
-DEDUCTIONS
-  Federal Income Tax                       359.70
-  5ocial Security                          202.74
-  Medicare                                  47.41
-  CA 5DI                                    35.97
-  . : .
-NET PAY                                  2,624.24
+Regular             20.13     86.67       1,744.67     19,191.37
+GROSS PAY                                  1,744.67     19,191.37
+DEDUCTI0NS
+  Federal Income Tax                       191.91
+| |   .
+  Social Security                          108.17
+  Medicare                                  25.29
+  CA SDI                                    19.19
+NET PAY                                  1,400.11
 --------------------------------------------------------------
 
--- scanned 09/11/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/05/2026 10:43   P.01

@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-6093 COMMERCE WAY   CA
+    ELLERY HARDWARE SUPPLY
+    6770 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-_ _ _ _
-Employee: LEILANI HUANG        Emp ID: 85702
-Position: Custodian
-Pay Period: 03/30/2025 - 04/05/2025     Pay Date: 04/10/2025
-   Pay Frequency: Weekly
+Employee: MARIO KAHANANUI        Emp ID: 30596
+Position: Sales associate
+Pay Period: 01/05/2025 - 01/18/2025     Pay Date: 01/23/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regu1ar             50.99     40.00       2,039.60     30,594.00
-GROSS PAY                                  2,039.60     30,594.00
- DEDUCTIONS
-      Federal Income Tax                       203.96
-     Social Security                          126.45
-  Medicare                                  29.57
-  CA SDI                                    22.43
-NET PAY                                  1,657.19
-  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,612.86      9,225.72
+GR0SS PAY                                  4,612.86      9,225.72
+DEDUCTIONS
+  Federal Income Tax                       369.02
+  Social Security                          285.99
+  Medicare                                  66.88
+  CA SDI                                    50.74
+NET PAY                                  3,840.23
+--------------------------------------------------------------
 
-RECEIVED APR 24 2025  - mailroom
+RECEIVED FEB 19 2025  - mailroom

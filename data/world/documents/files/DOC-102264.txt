@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+4789 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA KANG        Emp ID: 88473
+Position: Medical receptionist
+    Pay Period: 06/13/2026 - 06/27/2026     Pay Date: 07/02/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,730.34     87,494.42
+_ _ _ _
+GROSS PAY                                  6,730.34     87,494.42
+DEDUCTIONS
+   Federal Income Tax                       403.82
+  Social Security                          417.28
+   Medicare                                  97.59
+  CA SDI                                    74.03
+NET PAY                                  5,737.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2026]

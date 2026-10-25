@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-6106 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+9576 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: PAOLA DELGADO        Emp ID: 95861
-  Position: Caregiver
- Pay Period: 02/01/2025 - 02/14/2025     Pay Date: 02/19/2025
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
+Employee: ARACELI THOMAS-CONTRERAS        Emp ID: 55349
+   Position: Cashier
+Pay Period: 12/24/2024 - 12/30/2024      Pay Date: 01/04/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+~ ~ .  ,
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            119.37     80.00       9,549.60     38,198.40
-    GROSS PAY                                  9,549.60     38,198.40
+Salary                                       667.39        667.39
+GROSS PAY                                    667.39        667.39
 DEDUCTIONS
-  Federal Income Tax                       668.47
-  Social Security                          592.07
-    Medicare                                 138.46
-  CA SDI                                   105.04
-NET PAY                                  8,045.56
+  Federal Income Tax                        46.71
+   Social Security                           41.37
+  Medicare                                   9.67
+  CA SDI                                     7.34
+ NET PAY                                    562.30
 --------------------------------------------------------------
 
-FAX RECEIVED 03/19/2025 10:20   P.01
+RECEIVED JAN 20 2025  - mailroom

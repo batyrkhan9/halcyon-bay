@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-  1952 HARBOR WAY   CA
-                           EARN1NGS STATEMENT
-Employee: ROSA BAKER        Emp 1D: 86205
- Position: Teacher
-  Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.60     80.00       1,488.00     32,736.00
- GROSS PAY                                  1,488.00     32,736.00
-    DEDUCTIONS
-  Federal Income Tax                       163.68
-  Socia1 Security                           92.25
-   Medicare                                  21.57
-  CA SDI                                    16.36
- NET PAY                                  1,194.14
+OTTER BAY AQUARIUM
+9258 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+  Employee: GREGORY BANKS        Emp ID: 36840
+ Position: Guest services
+Pay Period: 05/09/2025 - 06/07/2025     Pay Date: 06/12/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Salary                                    19,777.85    118,667.10
+GROSS PAY                                 19,777.85    118,667.10
+  DEDUCTIONS
+  Federa1 Income Tax                     1,977.78
+  Social Security                        1,226.22
+  Medicare                                 286.77
+  CA SDI                                   217.55
+NET PAY                                 16,069.53
+   --------------------------------------------------------------
 
-RECEIVED DEC 01 2025  - mailroom
+-- scanned 07/22/2025 HBCH mailroom  pg 1/1 --

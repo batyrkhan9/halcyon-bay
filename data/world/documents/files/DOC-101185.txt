@@ -1,20 +1,17 @@
-LAS BRISAS RESTAURANT GROUP
-2110 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: TOMASZ MENDOZA        Emp ID: 27640
-Position: Line cook
-Pay Period: 04/19/2026 - 05/03/2026      Pay Date: 05/08/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.27     63.75       1,164.71     10,482.39
-GROSS PAY                                  1,164.71     10,482.39
-DEDUCTIONS
-    Federal Income Tax                        93.17
-  5ocial Security                           72.21
-  Medicare                                  16.88
-  CA SDI                                    12.81
-NET PAY                                    969.64
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Peri0d 10/01/2025 - 10/25/2025
+Member: ALY5SA FONOTI       Account ending 1546
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]
+CHECKING SUMMARY
+  Beginning balance            2,488.20
+  Deposits                       828.32
+  Withdrawals                   -762.05
+  Ending balance               2,554.47
+
+DEPOSITS AND CREDITS
+  10/25  PAYROLL DIR DEP ARROYO VERDE NURSE         414.16
+  10/18  PAYR0LL DIR DEP ARROYO VERDE NURSE         414.16
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED NOV 10 2025  - mailroom

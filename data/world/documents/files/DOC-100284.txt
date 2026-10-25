@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+   1538 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: GREGORY PETROV        Emp ID: 76682
+Position: Teacher
+Pay Period: 02/17/2025 - 03/02/2025     Pay Date: 03/07/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,706.37     23,531.85
+  . : .
+GROSS PAY                                  4,706.37     23,531.85
+DEDUCTIONS
+     Federal Income Tax                       235.31
+  Social Security                          291.79
+  Medicare                                  68.24
+  CA SDI                                    51.77
+NET PAY                                  4,059.26
+--------------------------------------------------------------
+
+FAX RECEIVED 03/10/2025 10:43   P.01

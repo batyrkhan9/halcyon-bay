@@ -1,0 +1,20 @@
+    BLUE KELP SOFTWARE LLC
+6002 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: VIKRAM LOPEZ        Emp ID: 86498
+Position: Software engineer
+   Pay Period: 08/29/2026 - 09/11/2026     Pay Date: 09/16/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,510.46     28,698.74
+GROSS PAY                                  1,510.46     28,698.74
+DEDUCTIONS
+  Federal Income Tax                        90.62
+  Social Security                           93.64
+  Medicare                                  21.90
+  CA SDI                                    16.61
+NET PAY                                  1,287.69
+--------------------------------------------------------------
+
+FAX RECEIVED 09/22/2026 10:28   P.01

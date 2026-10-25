@@ -1,21 +1,21 @@
-MARISOL CLEANING SERVICES
-2216 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ERNESTO MILLER        Emp ID: 71869
-Position: Cleaner
-Pay Period: 06/22/2026 - 07/06/2026     Pay Date: 07/11/2026
-Pay Frequency: Semi-Monthly
+BLUE KELP SOFTWARE LLC
+2431 HARBOR WAY   CA
+                         EARNING5 STATEMENT
+Employee: JAE WALSH         Emp ID: 79855
+Position: Software engineer
+Pay Period: 02/17/2026 - 03/18/2026     Pay Date: 03/23/2026
+| |   .
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             86.12     86.67       7,464.02     97,032.26
-~ ~ .  ,
-GROSS PAY                                   7,464.02     97,032.26
+Regular             42.87    173.33       7,430.66     22,291.98
+GROSS PAY                                  7,430.66     22,291.98
 DEDUCTIONS
-  Federal Inc0me Tax                       373.20
-  Social Security                          462.76
-   Medicare                                 108.22
-    CA SDI                                    82.10
-NET PAY                                  6,437.74
+  Federal Income Tax                       743.06
+  5ocial Security                          460.70
+  Medicare                                 107.74
+  CA SDI                                    81.73
+NET PAY                                  6,037.43
 --------------------------------------------------------------
 
-FAX RECEIVED 08/10/2026 10:21   P.01
+FAX RECEIVED 04/04/2026 10:34   P.01

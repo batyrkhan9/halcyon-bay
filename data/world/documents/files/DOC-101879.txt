@@ -1,18 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  JOSEFINA ZHANG
-Your social security number: XXX-XX-6112
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    35,216.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    35,216.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    35,216.00
- 12  Standard deduction ..............................    21,900.00
+MIRADOR GROCERY CO-OP
+7031 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONNA COSTA        Emp ID: 28448
+     Position: Cashier
+   Pay Period: 06/10/2026 - 06/16/2026     Pay Date: 06/21/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+Salary                                     1,136.26     28,406.50
+GROSS PAY                                  1,136.26     28,406.50
+DEDUCTIONS
+  Federal Income Tax                        68.17
+  S0cial Security                           70.44
+  Medicare                                  16.47
+  CA SDI                                    12.49
+NET PAY                                    968.69
+  --------------------------------------------------------------
 
- Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Josefina Zhang        Date: 04/09/2026
-
-FAX RECEIVED 09/09/2026 10:24   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/02/2026]

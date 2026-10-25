@@ -1,20 +1,20 @@
-ARROYO VERDE NUR5ERY
-1257 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: MATTHEW KELLY        Emp ID: 66208
-Position: Nursery worker
-Pay Period: 05/13/2026 - 05/26/2026     Pay Date: 05/31/2026
-Pay Frequency: Bi-Weekly
+PORT ELLERY CANNERY CO
+8860 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: MARISOL AGUILAR-SATO        Emp ID: 96360
+Position: Line worker
+Pay Period: 08/15/2025 - 09/13/2025     Pay Date: 09/18/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.01     80.00       1,920.80     21,128.80
-GROSS PAY                                  1,920.80     21,128.80
-DEDUCTIONS
-  Federal Income Tax                       115.24
-  Social Security                          119.09
-  Medicare                                  27.85
-  CA SDI                                    21.12
-NET PAY                                  1,637.50
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+5alary                                    10,685.77     96,171.93
+GROSS PAY                                 10,685.77     96,171.93
+ DEDUCTIONS
+   Federal Income Tax                     1,068.57
+  Social Security                          662.51
+  Medicare                                 154.94
+  CA SDI                                   117.54
+   NET PAY                                  8,682.21
 --------------------------------------------------------------
 
-RECEIVED JUN 06 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/29/2025]

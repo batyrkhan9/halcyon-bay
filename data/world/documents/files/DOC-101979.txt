@@ -1,20 +1,21 @@
-MARISOL CLEANING SERVICES
-8015 HARBOR WAY   CA
+TIDEWATER CON5TRUCTION
+~ ~ .  ,
+855 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KEONI PARK        Emp ID: 82767
-Position: Cleaner
-Pay Period: 08/11/2026 - 08/24/2026     Pay Date: 08/29/2026
-Pay Frequency: Bi-Weekly
+Employee: JOSEFINA ROBINSON        Emp ID: 23160
+Position: Laborer
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
     --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.28     57.75         997.92     17,962.56
-GROSS PAY                                    997.92     17,962.56
-DEDUCTIONS
-  Federal Income Tax                        49.89
-  Social Security                           61.87
-   Medicare                                  14.47
-  CA SDI                                    10.97
-NET PAY                                    860.72
---------------------------------------------------------------
+Salary                                     3,877.92     50,412.96
+GR0SS PAY                                  3,877.92     50,412.96
+  DEDUCTIONS
+  Federal Income Tax                       426.57
+  Social Security                          240.43
+  Medicare                                  56.23
+  CA SDI                                    42.65
+NET PAY                                  3,112.04
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]
+RECEIVED JUL 11 2026  - mailroom

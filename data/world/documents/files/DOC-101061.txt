@@ -1,20 +1,21 @@
-PACIFIC RIM JANITORIAL
-9486 INDU5TRIAL WAY   CA
+BLUE KELP SOFTWARE LLC
+5519 HARBOR WAY   CA
                          EARNINGS STATEMENT
-   Employee: AMANDA CONTRERAS        Emp ID: 59245
-Position: Custodian
-    Pay Period: 03/01/2026 - 03/14/2026     Pay Date: 03/19/2026
-Pay Frequency: Bi-Weekly
+Employee: VIKRAM RAHMAN        Emp ID: 99922
+Position: Software engineer
+Pay Period: 09/08/2025 - 09/14/2025     Pay Date: 09/19/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,671.63     10,029.78
- GROSS PAY                                  1,671.63     10,029.78
-DEDUCTIONS
-  Federal Income Tax                       167.16
-  Social Security                          103.64
-  Medicare                                  24.23
-   CA SDI                                    18.38
-NET PAY                                  1,358.22
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       322.12     12,240.56
+GROSS PAY                                    322.12     12,240.56
+  DEDUCTIONS
+   Federal Income Tax                        19.32
+  Social Security                           19.97
+     Medicare                                   4.67
+_ _ _ _
+  CA SDI                                     3.54
+NET PAY                                    274.62
 --------------------------------------------------------------
 
--- scanned 04/09/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/02/2025 HBCH mailroom  pg 1/1 --

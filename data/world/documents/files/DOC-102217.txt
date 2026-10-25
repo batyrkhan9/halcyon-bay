@@ -1,0 +1,21 @@
+ CALDER FREIGHT LINES
+2741 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER CHEN        Emp ID: 88089
+P0sition: Driver
+Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Bi-Weekly
+_ _ _ _
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       268.19      3,754.66
+GROSS PAY                                    268.19      3,754.66
+DEDUCTIONS
+  Federal Income Tax                        18.77
+  Social Security                           16.62
+  Medicare                                   3.88
+   CA SDI                                     2.95
+NET PAY                                    225.97
+--------------------------------------------------------------
+
+FAX RECEIVED 07/28/2026 10:13   P.01

@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+3893 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: MIGUEL LI        Emp ID: 58813
+Position: Cashier
+Pay Period: 07/30/2026 - 08/13/2026     Pay Date: 08/18/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              56.33     86.67       4,882.12     78,113.92
+GROSS PAY                                  4,882.12     78,113.92
+DEDUCTIONS
+  Federal Income Tax                       488.21
+  Social Security                          302.69
+  Medicare                                  70.79
+  CA SDI                                    53.70
+NET PAY                                  3,966.73
+--------------------------------------------------------------
+
+-- scanned 09/18/2026 HBCH mailroom  pg 1/1 --

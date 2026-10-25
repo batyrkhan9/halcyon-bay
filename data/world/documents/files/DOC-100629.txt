@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+9497 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA JOHNSON        Emp ID: 30380
+Position: Instructional aide
+Pay Period: 05/06/2025 - 05/19/2025     Pay Date: 05/24/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             115.81     80.00       9,264.80    101,912.80
+GROSS PAY                                  9,264.80    101,912.80
+DEDUCTIONS
+  Federal Income Tax                       741.18
+  Social Security                          574.41
+  Medicare                                 134.34
+  CA SDI                                   101.91
+NET PAY                                  7,712.96
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/04/2025]

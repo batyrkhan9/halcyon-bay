@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-386 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-   Employee: ANTONIO ZAMORA        Emp ID: 17077
-Position: Guest services
-Pay Period: 02/06/2025 - 03/07/2025     Pay Date: 03/12/2025
-Pay Frequency: Monthly
+POINT CORRIN BOATWORKS
+8632 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARMEN COLEMAN        Emp ID: 42107
+Position: Mechanic
+Pay Period: 12/08/2024 - 12/22/2024     Pay Date: 12/27/2024
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             68.28    173.33      11,834.97     35,504.91
-GROSS PAY                                 11,834.97     35,504.91
-DEDUCTIONS
-  Federal Income Tax                       710.09
-  Social Security                          733.76
-      Medicare                                 171.60
-      CA SDI                                   130.18
-NET PAY                                 10,089.34
-     --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             73.92     86.67       6,406.65    160,166.25
+GROSS PAY                                  6,406.65    160,166.25
+    DEDUCTIONS
+  Federal Income Tax                       576.59
+  Social Security                          397.21
+  Medicare                                  92.89
+  CA SDI                                    70.47
+  NET PAY                                  5,269.49
+--------------------------------------------------------------
 
-FAX RECEIVED 03/27/2025 10:56   P.01
+RECEIVED JAN 30 2025  - mailroom

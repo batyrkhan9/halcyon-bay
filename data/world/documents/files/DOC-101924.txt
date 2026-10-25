@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-6839 COMMERCE WAY   CA
+MIRADOR PUBLIC LIBRARY
+5135 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: YUKI KHALIL         Emp ID: 25317
-Position: Line cook
-Pay Period: 07/30/2026 - 08/13/2026     Pay Date: 08/18/2026
-    Pay Frequency: Semi-Monthly
+Employee: JENNIFER NGUYEN        Emp ID: 88720
+Position: Library assistant
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     7,640.27    122,244.32
-GROSS PAY                                  7,640.27    122,244.32
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.70     80.00       1,496.00     19,448.00
+GROSS PAY                                  1,496.00     19,448.00
 DEDUCTIONS
-  Federal Income Tax                       687.62
-  Social Security                          473.69
-  Medicare                                 110.78
-  CA SDI                                    84.04
-NET PAY                                  6,284.14
---------------------------------------------------------------
+  Federal Income Tax                       149.60
+  Social Security                           92.75
+  Medicare                                  21.69
+     CA SDI                                    16.45
+NET PAY                                  1,215.51
+  --------------------------------------------------------------
 
-RECEIVED SEP 11 2026  - mailroom
+FAX RECEIVED 07/05/2026 10:37   P.01

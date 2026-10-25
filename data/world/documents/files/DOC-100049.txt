@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-5370 MARKET WAY   CA
+SEASIDE DENTAL GROUP
+4475 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: KAI WANG        Emp ID: 46117
-Position: Line worker
-Pay Period: 12/23/2024 - 01/06/2025     Pay Date: 01/11/2025
-Pay Frequency: Semi-Monthly
+   Employee: ROSA HUYNH        Emp ID: 13097
+  Position: Dental assistant
+Pay Period: 11/19/2024 - 12/02/2024     Pay Date: 12/07/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-Regular             23.57     86.67       2,042.81      2,042.81
-GROSS PAY                                  2,042.81      2,042.81
+Regular             16.68     61.75       1,029.99     25,749.75
+GROSS PAY                                  1,029.99     25,749.75
 DEDUCTIONS
-  Federal Income Tax                       122.56
-     Social Security                          126.65
-  Medicare                                  29.62
-  CA SDI                                    22.47
-NET PAY                                   1,741.51
+  Federal Income Tax                        51.49
+  Social Security                           63.85
+  Medicare                                  14.93
+      CA SDI                                    11.33
+NET PAY                                     888.39
 --------------------------------------------------------------
 
-FAX RECEIVED 02/01/2025 10:27   P.01
+FAX RECEIVED 12/26/2024 10:43   P.01

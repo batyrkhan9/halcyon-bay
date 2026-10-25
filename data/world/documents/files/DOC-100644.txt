@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-6441 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: NOAH MITCHELL        Emp ID: 97577
-Position: Technician
-Pay Period: 06/07/2025 - 07/06/2025     Pay Date: 07/11/2025
-Pay Frequency: Monthly
+COASTAL VALLEY ENERGY
+193 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: GARY MITCHELL        Emp ID: 64667
+Position: Field technician
+   Pay Period: 05/05/2025 - 05/18/2025     Pay Date: 05/23/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             27.93    173.33       4,841.11     33,887.77
-GROSS PAY                                  4,841.11     33,887.77
+Regular             18.64     17.75         330.86      3,639.46
+   GROSS PAY                                    330.86      3,639.46
 DEDUCTIONS
-  Federal Income Tax                       290.46
-      Social Security                          300.14
-  Medicare                                  70.19
-  CA SD1                                    53.25
-NET PAY                                  4,127.07
+  Federal Income Tax                        33.08
+  Social Security                           20.51
+  Medicare                                   4.79
+  CA SDI                                     3.63
+   NET PAY                                    268.85
 --------------------------------------------------------------
 
--- scanned 09/24/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUN 07 2025  - mailroom

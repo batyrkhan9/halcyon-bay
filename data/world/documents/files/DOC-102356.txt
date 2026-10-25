@@ -1,0 +1,20 @@
+    MARISOL CLEANING SERVICES
+2675 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ELENA ZAMORA        Emp ID: 53743
+Position: Cleaner
+Pay Period: 06/22/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.21    173.33       4,022.99     28,160.93
+GROSS PAY                                  4,022.99     28,160.93
+DEDUCTIONS
+      Federal Income Tax                       281.60
+  Social Security                          249.42
+  Medicare                                  58.33
+  CA SDI                                    44.25
+NET PAY                                  3,389.39
+--------------------------------------------------------------
+
+-- scanned 08/05/2026 HBCH mailroom  pg 1/1 --

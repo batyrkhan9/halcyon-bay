@@ -1,20 +1,20 @@
- MIRADOR GROCERY CO-OP
-2252 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-Employee: DYLAN KHALIL        Emp ID: 41602
-Position: Cashier
-Pay Period: 06/01/2026 - 06/15/2026     Pay Date: 06/20/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+SANTA LUCITA FARMS
+925 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SOFIA WASHINGTON         Emp ID: 82718
+Position: Field supervisor
+Pay Period: 12/16/2025 - 12/29/2025     Pay Date: 01/03/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.80     43.50         730.80      8,769.60
-GROSS PAY                                    730.80      8,769.60
-  DEDUCTIONS
-  Federal Income Tax                        65.77
-    Social 5ecurity                           45.31
-  Medicare                                  10.59
-  CA SDI                                     8.03
-NET PAY                                    601.10
+   Regular             57.45     80.00       4,596.00      4,596.00
+GROSS PAY                                  4,596.00      4,596.00
+DEDUCTIONS
+   Federal Income Tax                       413.64
+  5ocial Security                          284.95
+  Medicare                                  66.64
+  CA SDI                                    50.55
+NET PAY                                   3,780.22
 --------------------------------------------------------------
 
-FAX RECEIVED 07/14/2026 10:20   P.01
+RECEIVED JAN 21 2026  - mailroom

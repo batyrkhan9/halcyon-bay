@@ -1,21 +1,20 @@
-     POINT CORRIN BOATWORKS
-   5130 COMMERCE WAY   CA
+POINT CORRIN BOATWORKS
+4893 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: LOGAN ADAMS        Emp ID: 97038
+Employee: BAO JACKSON        Emp ID: 66988
 Position: Mechanic
-Pay Period: 01/13/2025 - 01/26/2025      Pay Date: 01/31/2025
-Pay Frequency: Bi-Weekly
+Pay Period: 09/15/2024 - 10/14/2024     Pay Date: 10/19/2024
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.98     80.00       3,038.40      9,115.20
-GROSS PAY                                  3,038.40      9,115.20
-    DEDUCTIONS
-  Federal Income Tax                       303.84
-  Social Security                          188.38
-  Medicare                                  44.05
-  CA SDI                                    33.42
-~ ~ .  ,
-NET PAY                                  2,468.71
---------------------------------------------------------------
+Regular             79.64    173.33      13,804.00    138,040.00
+GROSS PAY                                 13,804.00    138,040.00
+DEDUCTIONS
+  Federal Income Tax                     1,518.44
+  Social Security                          855.84
+  Medicare                                 200.15
+  CA SDI                                   151.84
+   NET PAY                                 11,077.73
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/04/2025]
+-- scanned 12/29/2024 HBCH mailroom  pg 1/1 --

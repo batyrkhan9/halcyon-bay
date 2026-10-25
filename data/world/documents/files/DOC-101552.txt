@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+9361 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+| |   .
+  Employee: AHMED WANG        Emp ID: 37832
+Position: Mechanic
+Pay Period: 02/16/2026 - 03/01/2026     Pay Date: 03/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.05     39.25         708.46      3,542.30
+GROSS PAY                                     708.46      3,542.30
+DEDUCTIONS
+   Federal Income Tax                        42.50
+  Social Security                           43.92
+  Medicare                                  10.27
+  CA SDI                                     7.79
+NET PAY                                    603.98
+--------------------------------------------------------------
+
+FAX RECEIVED 03/14/2026 10:50   P.01

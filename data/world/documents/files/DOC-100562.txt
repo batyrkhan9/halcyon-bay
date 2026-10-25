@@ -1,20 +1,20 @@
-VISTA SERENA MED1CAL OFFICES
-6259 INDUSTRIAL WAY    CA
+CALDER FREIGHT LINES
+4309 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: NOOR RAMOS        Emp ID: 26975
-Position: Medical receptionist
-Pay Period: 07/09/2025 - 08/07/2025     Pay Date: 08/12/2025
-Pay Frequency: Monthly
- --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.47    173.33       3,201.41     25,611.28
-GROSS PAY                                  3,201.41     25,611.28
+Employee: DONALD SATO        Emp ID: 13311
+Position: Driver
+    Pay Period: 04/26/2025 - 05/10/2025     Pay Date: 05/15/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,247.82     20,230.38
+GROSS PAY                                   2,247.82     20,230.38
 DEDUCTIONS
-  Federal 1ncome Tax                       256.11
-    5ocial Security                          198.48
-  Medicare                                  46.42
-   CA SDI                                    35.21
-NET PAY                                  2,665.19
+  Federal Income Tax                        89.91
+   Social Security                          139.36
+  Medicare                                  32.59
+  CA SDI                                    24.72
+NET PAY                                  1,961.24
 --------------------------------------------------------------
 
-FAX RECEIVED 08/16/2025 10:58   P.01
+FAX RECEIVED 05/20/2025 10:20   P.01

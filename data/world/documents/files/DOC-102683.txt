@@ -1,0 +1,21 @@
+   ARROYO VERDE NURSERY
+  . : .
+205 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA NOVAK        Emp ID: 28010
+    Position: Nursery worker
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     1,189.94     19,039.04
+GROSS PAY                                  1,189.94     19,039.04
+DEDUCTIONS
+  Federal Income Tax                       107.09
+  Social Security                           73.77
+  Medicare                                  17.25
+  CA SDI                                    13.08
+NET PAY                                    978.75
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/26/2026]

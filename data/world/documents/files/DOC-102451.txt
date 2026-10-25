@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+1788 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: OLIVIA GREEN        Emp ID: 99850
+Position: Sales associate
+Pay Period: 07/01/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             57.64     40.00       2,305.60     64,556.80
+GROSS PAY                                  2,305.60     64,556.80
+DEDUCTIONS
+  Federal Income Tax                       115.28
+  Social Security                          142.94
+  Medicare                                  33.43
+  CA SDI                                    25.36
+NET PAY                                  1,988.59
+--------------------------------------------------------------
+
+FAX RECEIVED 08/10/2026 10:43   P.01

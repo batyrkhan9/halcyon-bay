@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+1363 C0MMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: BAO MURPHY         Emp ID: 26397
+Position: Field technician
+Pay Period: 07/18/2026 - 07/31/2026     Pay Date: 08/05/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,169.02     50,704.32
+  GROSS PAY                                  3,169.02     50,704.32
+DEDUCTIONS
+  Federal Income Tax                       190.14
+  Social Security                          196.47
+      Medicare                                  45.95
+  CA SDI                                    34.85
+NET PAY                                  2,701.61
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2026]

@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY CO
-303 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: THAO GARCIA        Emp ID: 83207
-Position: Line worker
-Pay Period: 08/22/2026 - 08/28/2026     Pay Date: 09/02/2026
-Pay Frequency: Weekly
+MIRADOR GROCERY CO-OP
+    2074 HARBOR WAY   CA
+                         EARN1NGS STATEMENT
+   Employee: RACHEL JEFFERSON        Emp ID: 79054
+Position: Cashier
+_ _ _ _
+   Pay Period: 05/08/2026 - 05/21/2026     Pay Date: 05/26/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-  Regular             44.84     40.00       1,793.60     62,776.00
-GROSS PAY                                  1,793.60     62,776.00
-DEDUCTIONS
-  Federal Income Tax                       125.55
-  Social Security                          111.20
-  Medicare                                  26.00
-  CA SDI                                    19.73
-NET PAY                                  1,511.12
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      7,497.17     82,468.87
+GROSS PAY                                  7,497.17     82,468.87
+    DEDUCTIONS
+     Federal Income Tax                       824.68
+  Social Security                          464.82
+  Medicare                                 108.70
+   CA SD1                                    82.46
+NET PAY                                   6,016.51
 --------------------------------------------------------------
 
--- scanned 09/09/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/02/2026 10:16   P.01

@@ -1,18 +1,20 @@
- HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 01/01/2025 - 01/26/2025
- Member: KAI WANG       Account ending 6963
+  POINT CORRIN BOATWORKS
+5879 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BAO JACKSON        Emp ID: 66988
+Position: Mechanic
+ Pay Period: 11/14/2024 - 12/13/2024     Pay Date: 12/18/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             79.64    173.33      13,804.00    165,648.00
+GROSS PAY                                 13,804.00    165,648.00
+DEDUCTIONS
+      Federal Income Tax                     1,242.36
+    Social Security                          855.84
+  Medicare                                 200.15
+      CA SDI                                   151.84
+NET PAY                                 11,353.81
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance            1,427.75
-  Deposits                     3,186.78
-  Withdrawals                 -3,091.17
-  Ending balance               1,523.36
-
-| |   .
-DEPOSITS AND CREDITS
-  01/26  PAYROLL DIR DEP PORT ELLERY CANNER       1,593.39
-  01/11  PAYROLL DIR DEP PORT ELLERY CANNER       1,593.39
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 02/01/2025 10:22   P.01
+-- scanned 12/29/2024 HBCH mailroom  pg 1/1 --

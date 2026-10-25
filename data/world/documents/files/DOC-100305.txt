@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+5147 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 01/22/2025 - 02/04/2025     Pay Date: 02/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     2,516.82      7,550.46
+GRO5S PAY                                  2,516.82      7,550.46
+DEDUCTIONS
+  Federal Income Tax                       100.67
+  Social Security                          156.04
+  Medicare                                  36.49
+  CA SDI                                    27.68
+  NET PAY                                  2,195.94
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/13/2025]

@@ -1,0 +1,20 @@
+   ARROYO VERDE NURSERY
+8624 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JENNIFER RIVERA        Emp ID: 41617
+    Position: Nursery worker
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             39.90     80.00       3,192.00     28,728.00
+GROSS PAY                                  3,192.00     28,728.00
+DEDUCTIONS
+  Federal Income Tax                       127.68
+  S0cial Security                          197.90
+    Medicare                                  46.28
+  CA SDI                                    35.11
+NET PAY                                  2,785.03
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

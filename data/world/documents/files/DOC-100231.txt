@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
- 2246 HARBOR WAY   CA
+SANTA LUCITA FARMS
+3493 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DYLAN IBARRA        Emp ID: 88819
-Position: Teacher
-Pay Period: 03/28/2025 - 04/03/2025     Pay Date: 04/08/2025
-Pay Frequency: Weekly
+Employee: TYLER MOORE-SMITH        Emp ID: 78740
+Position: Field supervisor
+Pay Period: 01/13/2025 - 02/11/2025     Pay Date: 02/16/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.05     40.00         722.00     10,108.00
-GROSS PAY                                    722.00     10,108.00
+Regular             34.78    173.33       6,028.42     12,056.84
+GROSS PAY                                  6,028.42     12,056.84
 DEDUCTIONS
-  Federal Income Tax                        57.76
-   Social Security                           44.76
-  Medicare                                  10.46
-  CA SDI                                     7.94
-NET PAY                                    601.08
+   Federal Income Tax                       421.98
+  Social Security                          373.76
+      Medicare                                  87.41
+  CA SDI                                    66.31
+NET PAY                                  5,078.96
 --------------------------------------------------------------
 
--- scanned 05/01/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/20/2025]

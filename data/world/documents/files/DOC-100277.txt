@@ -1,21 +1,20 @@
-SEASIDE DENTAL GROUP
-    1194 INDUSTRIAL WAY   CA
+CYPRESS FLATS AUTO BODY
+4098 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE ROMERO        Emp ID: 31173
-Position: Dental assistant
-Pay Period: 04/07/2025 - 04/21/2025     Pay Date: 04/26/2025
-_ _ _ _
-Pay Frequency: Semi-Monthly
+Employee: DYLAN IYER        Emp ID: 10302
+Position: Technician
+Pay Period: 02/08/2025 - 02/21/2025     Pay Date: 02/26/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Regular             39.08     86.67       3,387.06     27,096.48
-GROSS PAY                                  3,387.06     27,096.48
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     6,337.46     31,687.30
+GROSS PAY                                  6,337.46     31,687.30
 DEDUCTIONS
-  Federal 1ncome Tax                       270.96
-  Social Security                          209.99
-  Medicare                                  49.11
-  CA SDI                                    37.25
-NET PAY                                  2,819.75
-   --------------------------------------------------------------
+  Federal Income Tax                       380.24
+  Social Security                          392.92
+  Medicare                                  91.89
+  CA SDI                                    69.71
+NET PAY                                  5,402.70
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/21/2025]
+-- scanned 03/08/2025 HBCH mailroom  pg 1/1 --

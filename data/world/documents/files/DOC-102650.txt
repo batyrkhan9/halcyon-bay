@@ -1,0 +1,20 @@
+   HARBOR POINT HOTEL
+1137 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ARTURO KHALIL        Emp ID: 75144
+   Position: Housekeeper
+ Pay Period: 07/21/2026 - 08/03/2026     Pay Date: 08/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,609.58     25,753.28
+GROSS PAY                                  1,609.58     25,753.28
+    DEDUCTIONS
+  Federal Income Tax                       144.86
+  Social Security                           99.79
+  Medicare                                  23.33
+  CA 5DI                                    17.70
+NET PAY                                  1,323.90
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2026]

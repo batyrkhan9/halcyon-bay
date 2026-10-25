@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+5772 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: TOMASZ PETROV        Emp ID: 61321
+Position: Guest services
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             16.97     54.25         920.62     12,888.68
+GROSS PAY                                    920.62     12,888.68
+DEDUCTIONS
+  Federal Income Tax                        46.03
+  Social Security                           57.07
+  Medicare                                  13.34
+  CA SDI                                    10.12
+NET PAY                                    794.06
+--------------------------------------------------------------
+
+RECEIVED JUL 12 2026  - mailroom

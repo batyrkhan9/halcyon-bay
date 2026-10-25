@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+7570 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI HADDAD        Emp ID: 70330
+Position: Cashier
+Pay Period: 06/01/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.10     55.25       1,000.02      7,000.14
+    GROSS PAY                                  1,000.02      7,000.14
+DEDUCTIONS
+  Federal Income Tax                        60.00
+  Social Security                           62.00
+  Medicare                                  14.50
+  CA SDI                                    11.00
+NET PAY                                    852.52
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/09/2026]

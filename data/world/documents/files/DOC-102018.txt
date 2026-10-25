@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+  1384 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMAL KING        Emp ID: 90777
+Position: Mechanic
+Pay Period: 06/10/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            152.26     80.00      12,180.80    158,350.40
+GROSS PAY                                 12,180.80    158,350.40
+DEDUCTIONS
+| |   .
+  Federal Income Tax                     1,218.08
+  Social Security                          755.21
+  Medicare                                 176.62
+      CA SDI                                   133.98
+NET PAY                                  9,896.91
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2026]

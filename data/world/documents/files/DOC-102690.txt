@@ -1,0 +1,20 @@
+ BAYLINE LOGISTICS INC
+   8306 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Empl0yee: PRISCILLA WANG        Emp ID: 78962
+Position: Warehouse associate
+    Pay Period: 07/10/2026 - 07/24/2026     Pay Date: 07/29/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.39     51.25         942.49     13,194.86
+GROSS PAY                                    942.49     13,194.86
+DEDUCTIONS
+   Federal Income Tax                       103.67
+  Social Security                           58.43
+  Medicare                                  13.66
+  CA SDI                                    10.36
+NET PAY                                    756.37
+--------------------------------------------------------------
+
+-- scanned 08/28/2026 HBCH mailroom  pg 1/1 --

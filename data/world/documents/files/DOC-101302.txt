@@ -1,21 +1,21 @@
-ARROYO VERDE NURSERY
-2468 MARKET WAY   CA
+BLUE KELP SOFTWARE LLC
+   8588 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA THOMPSON        Emp ID: 76024
-Position: Nursery worker
-Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Employee: MIGUEL HUANG        Emp ID: 39152
+Position: Software engineer
+| |   .
+Pay Period: 11/25/2025 - 12/08/2025     Pay Date: 12/13/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             29.63     80.00       2,370.40     30,815.20
-GROSS PAY                                  2,370.40     30,815.20
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.94     80.00       1,355.20     33,880.00
+GROSS PAY                                  1,355.20     33,880.00
 DEDUCTIONS
-  Federal 1ncome Tax                       189.63
-   Social Security                          146.96
-  . : .
-  Medicare                                  34.37
-  CA SDI                                    26.07
-NET PAY                                  1,973.37
-   --------------------------------------------------------------
+     Federal Income Tax                        94.86
+  Social Security                           84.02
+  Medicare                                  19.65
+  CA SDI                                    14.90
+NET PAY                                  1,141.77
+--------------------------------------------------------------
 
--- scanned 07/09/2026 HBCH mailroom  pg 1/1 --
+RECEIVED DEC 30 2025  - mailroom

@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-    9089 COMMERCE WAY   CA
+PACIFIC RIM JANIT0RIAL
+4073 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: OMAR DAVIS        Emp ID: 78598
-Position: Cashier
-Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
-Pay Frequency: Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             18.54     16.75         310.54      8,384.58
-GROSS PAY                                    310.54      8,384.58
+ Employee: HOA DESAI         Emp ID: 73051
+  . : .
+Position: Custodian
+Pay Period: 12/12/2025 - 12/25/2025     Pay Date: 12/30/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,078.89     80,051.14
+GROSS PAY                                  3,078.89     80,051.14
 DEDUCTIONS
-  Federal Income Tax                        18.63
-  Social Security                           19.25
-  Medicare                                   4.50
-  CA SDI                                     3.41
-    NET PAY                                    264.75
+  Federal Income Tax                       153.94
+  Social Security                          190.89
+  Medicare                                  44.64
+  CA SDI                                    33.86
+NET PAY                                  2,655.56
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/11/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/12/2026]

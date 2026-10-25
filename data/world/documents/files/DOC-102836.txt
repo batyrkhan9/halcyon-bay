@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+2196 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: HOA BROWN        Emp ID: 18687
+Position: Nursery worker
+Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,289.69     38,924.73
+GROSS PAY                                   2,289.69     38,924.73
+DEDUCTIONS
+  Federal Income Tax                       228.96
+  Social Security                          141.96
+  Medicare                                  33.20
+   CA SDI                                    25.18
+NET PAY                                  1,860.39
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/05/2026]

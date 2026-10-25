@@ -1,21 +1,19 @@
-TIDEWATER CONSTRUCTION
-  2501 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE JACKSON        Emp ID: 11733
- Position: Laborer
-| |   .
-   Pay Period: 07/30/2026 - 08/05/2026     Pay Date: 08/10/2026
-   Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regular             18.42     40.00         736.80     23,577.60
-GROSS PAY                                    736.80     23,577.60
-DEDUCTIONS
-  Federal Income Tax                        58.94
-  Social Security                           45.68
-  Medicare                                  10.68
-  CA SDI                                     8.10
-NET PAY                                    613.40
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+ Your first name and middle initial / Last name:   GUADALUPE VALENCIA
+Your social security number: XXX-XX-5133
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    23,077.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    23,077.00
+ 10  Adjustments to income ...........................         0.00
+  11  Adjusted gross income ...........................    23,077.00
+ 12  Standard deduction ..............................    21,900.00
 
--- scanned 08/24/2026 HBCH mailroom  pg 1/1 --
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+  . : .
+Your signature: /s/ Guadalupe Valencia        Date: 04/01/2026
+
+-- scanned 05/12/2026 HBCH mailroom  pg 1/1 --

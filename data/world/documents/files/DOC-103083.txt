@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+9662 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO HUSSAIN        Emp ID: 58324
+Position: Dental assistant
+Pay Period: 08/16/2026 - 08/29/2026     Pay Date: 09/03/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,577.81     46,400.58
+GROSS PAY                                  2,577.81     46,400.58
+DEDUCTIONS
+  Federal Income Tax                       283.55
+  Social Security                          159.82
+  Medicare                                  37.37
+  CA SDI                                    28.35
+NET PAY                                  2,068.72
+--------------------------------------------------------------
+
+RECEIVED SEP 22 2026  - mailroom

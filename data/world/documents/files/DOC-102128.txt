@@ -1,21 +1,21 @@
-ARROYO VERDE NUR5ERY
-610 COMMERCE WAY   CA
+TIDEWATER CONSTRUCTION
+3513 HARB0R WAY   CA
                          EARNINGS STATEMENT
-Employee: LUCIA HO        Emp ID: 71795
-Position: Nursery worker
-_ _ _ _
-Pay Period: 09/11/2026 - 09/17/2026     Pay Date: 09/22/2026
-Pay Frequency: Weekly
- --------------------------------------------------------------
-  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regular             18.26     20.00         365.20     13,877.60
-GROSS PAY                                    365.20     13,877.60
-DEDUCTIONS
-  Federal Income Tax                        32.86
-  Social Security                           22.64
-  Medicare                                   5.29
-  CA SDI                                     4.01
-  NET PAY                                    300.40
+Employee: NOOR RAMIREZ        Emp ID: 25358
+Position: Laborer
+Pay Period: 06/03/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Semi-Monthly
+~ ~ .  ,
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             65.18     86.67       5,649.15     67,789.80
+    GROSS PAY                                  5,649.15     67,789.80
+DEDUCTIONS
+  Federal Income Tax                       225.96
+  Social Security                          350.24
+    Medicare                                  81.91
+  CA SDI                                    62.14
+NET PAY                                  4,928.90
+    --------------------------------------------------------------
 
-FAX RECEIVED 09/29/2026 10:29   P.01
+FAX RECEIVED 07/23/2026 10:19   P.01

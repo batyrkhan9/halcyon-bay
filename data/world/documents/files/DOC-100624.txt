@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-3316 MARKET WAY   CA
+MIRADOR PUBLIC LIBRARY
+4472 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: AMINA MEDINA        Emp ID: 54284
-Position: 5oftware engineer
-Pay Period: 08/23/2025 - 09/05/2025     Pay Date: 09/10/2025
+Employee: MINH DANG        Emp ID: 32642
+Position: Library assistant
+Pay Period: 05/04/2025 - 05/17/2025     Pay Date: 05/22/2025
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      4,867.42     92,480.98
- GROSS PAY                                  4,867.42     92,480.98
+Regular             16.75     64.75       1,084.56     11,930.16
+GROSS PAY                                  1,084.56     11,930.16
 DEDUCTIONS
-  Federal Income Tax                       194.69
-  Social Security                          301.78
-      Medicare                                  70.57
-  CA SDI                                    53.54
-NET PAY                                   4,246.84
-    --------------------------------------------------------------
+~ ~ .  ,
+  Federal Income Tax                       119.30
+  Social Security                           67.24
+  Medicare                                  15.72
+  CA SDI                                    11.93
+NET PAY                                    870.37
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/18/2025]
+RECEIVED JUN 01 2025  - mailroom

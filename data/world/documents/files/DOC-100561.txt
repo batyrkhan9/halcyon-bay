@@ -1,21 +1,18 @@
-ARROYO VERDE NURSERY
-6551 COMMERCE WAY    CA
-                             EARNINGS STATEMENT
-_ _ _ _
-Employee: AMINA ORTIZ        Emp ID: 81496
-Position: Nursery worker
-Pay Period: 07/06/2025 - 07/19/2025     Pay Date: 07/24/2025
-   Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.53     80.00       1,562.40     23,436.00
-GROSS PAY                                  1,562.40     23,436.00
-DEDUCTIONS
-  Federal Income Tax                        93.74
-  Social Security                           96.86
-  Medicare                                  22.65
-  CA SDI                                    17.18
-NET PAY                                  1,331.97
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Married filing j0intly
+Your first name and middle initial / Last name:  BRANDON WALKER
+Your social security number: XXX-XX-4439
+Dependents: 0
+Income
+ 1a   Total amount from Form(s) W-2, box 1 ...........   147,010.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   147,010.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   147,010.00
+  12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 08/14/2025 10:54   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Brandon Walker        Date: 04/15/2025
+
+RECEIVED MAY 20 2025  - mailroom

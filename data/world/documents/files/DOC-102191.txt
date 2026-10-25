@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+5347 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAREN THOMPSON        Emp ID: 66864
+Position: Field technician
+Pay Period: 06/28/2026 - 07/11/2026     Pay Date: 07/16/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.52     80.00       2,121.60     31,824.00
+GROSS PAY                                  2,121.60     31,824.00
+DEDUCTIONS
+  Federal Income Tax                       190.94
+  Social Security                          131.53
+     Medicare                                  30.76
+  CA SDI                                    23.33
+NET PAY                                  1,745.04
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/25/2026]

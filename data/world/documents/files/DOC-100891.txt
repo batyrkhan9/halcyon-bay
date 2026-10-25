@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-1285 COMMERCE WAY   CA
+SANTA LUCITA FARMS
+ 8019 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: RICARDO HARRIS        Emp ID: 94006
-Position: Warehouse associate
-  Pay Period: 12/03/2025 - 01/01/2026     Pay Date: 01/06/2026
-Pay Frequency: Monthly
+Employee: SARAH WU         Emp ID: 67212
+  Position: Field supervisor
+Pay Period: 07/19/2025 - 07/25/2025     Pay Date: 07/30/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              21.69    173.33       3,759.53      3,759.53
-    GROSS PAY                                  3,759.53      3,759.53
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.02     27.25         491.04     15,222.24
+GROSS PAY                                    491.04     15,222.24
 DEDUCTIONS
-  Federal Income Tax                       225.57
-   Social Security                          233.09
-  Medicare                                  54.51
-  CA SDI                                    41.35
-NET PAY                                  3,205.01
+  Federal Income Tax                        34.37
+  Social Security                           30.44
+  Medicare                                   7.12
+  CA SDI                                     5.40
+NET PAY                                    413.71
 --------------------------------------------------------------
 
-FAX RECEIVED 01/21/2026 10:52   P.01
+RECEIVED AUG 14 2025  - mailroom

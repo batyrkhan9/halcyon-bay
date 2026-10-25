@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-759 MARKET WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+    8858 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN BUI        Emp ID: 61996
- Position: Caregiver
-Pay Period: 05/25/2025 - 06/07/2025     Pay Date: 06/12/2025
-    Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             65.35     80.00       5,228.00     62,736.00
-GROSS PAY                                  5,228.00     62,736.00
+ Employee: MEI KEALOHA        Emp ID: 55500
+  . : .
+ Position: Instructional aide
+Pay Period: 03/24/2025 - 04/06/2025     Pay Date: 04/11/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+   Regular             28.50     80.00       2,280.00     18,240.00
+GROSS PAY                                  2,280.00     18,240.00
 DEDUCTIONS
-  Federal Income Tax                       313.68
-   Social Security                          324.13
-  Medicare                                  75.80
-     CA SDI                                    57.50
-  NET PAY                                  4,456.89
+   Federal Income Tax                       136.80
+  Social Security                          141.36
+  Medicare                                  33.06
+   CA SDI                                    25.08
+NET PAY                                  1,943.70
 --------------------------------------------------------------
 
-FAX RECEIVED 07/02/2025 10:29   P.01
+RECEIVED APR 15 2025  - mailroom

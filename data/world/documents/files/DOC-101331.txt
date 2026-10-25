@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-2660 INDUSTRIAL WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+    7159 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KAREN ROBINSON        Emp ID: 40175
-Position: Technician
-Pay Period: 06/28/2026 - 07/04/2026     Pay Date: 07/09/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+    Employee: ROGELIO LIN        Emp ID: 96686
+Position: Instructional aide
+Pay Period: 11/28/2025 - 12/11/2025      Pay Date: 12/16/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.42     40.00         696.80     19,510.40
-GROSS PAY                                    696.80     19,510.40
+ Regular             76.13     80.00       6,090.40    152,260.00
+GROSS PAY                                  6,090.40    152,260.00
 DEDUCTIONS
-  Federal Income Tax                        62.71
-  Social Security                           43.20
-  Medicare                                  10.10
-  CA SDI                                     7.66
-    NET PAY                                    573.13
+  Federal Income Tax                       548.13
+     Social Security                          377.60
+   Medicare                                  88.31
+  CA SDI                                    66.99
+NET PAY                                  5,009.37
 --------------------------------------------------------------
 
-RECEIVED JUL 12 2026  - mailroom
+-- scanned 01/13/2026 HBCH mailroom  pg 1/1 --

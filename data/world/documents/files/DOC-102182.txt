@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+3593 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN LEWIS        Emp ID: 78347
+Position: Guest services
+Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            114.17     80.00       9,133.60    118,736.80
+GROSS PAY                                  9,133.60    118,736.80
+DEDUCTIONS
+  Federal Income Tax                       913.36
+  Social Security                          566.28
+  Medicare                                 132.43
+  CA SDI                                   100.47
+NET PAY                                  7,421.06
+    --------------------------------------------------------------
+
+RECEIVED JUL 25 2026  - mailroom

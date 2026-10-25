@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-4435 COMMERCE WAY   CA
+MARIS0L CLEANING SERVICES
+6239 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN GUPTA        Emp ID: 59983
-Position: Field technician
-    Pay Period: 08/22/2026 - 09/04/2026     Pay Date: 09/09/2026
+Employee: LEILANI HAYES        Emp ID: 64284
+Position: Cleaner
+Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.67     80.00       3,013.60     54,244.80
- GROSS PAY                                  3,013.60     54,244.80
+Regular             17.10     16.25         277.88      3,890.32
+GRO5S PAY                                    277.88      3,890.32
 DEDUCTIONS
-  Federal Income Tax                       150.68
-  Social Security                          186.84
-  Medicare                                  43.69
-    CA SDI                                    33.15
-NET PAY                                  2,599.24
-  --------------------------------------------------------------
+  Federal Income Tax                        16.67
+  Social Security                           17.22
+  Medicare                                   4.02
+  CA SDI                                     3.05
+NET PAY                                    236.92
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2026]
+-- scanned 07/20/2026 HBCH mailroom  pg 1/1 --

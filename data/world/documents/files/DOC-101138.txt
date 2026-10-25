@@ -1,21 +1,21 @@
-    TIDEWATER CONSTRUCTION
-1013 HARBOR WAY   CA
+BLUE KELP SOFTWARE LLC
+7638 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: XIMENA FALEOLO        Emp ID: 42527
-   Position: Laborer
-   Pay Period: 04/06/2026 - 04/20/2026     Pay Date: 04/25/2026
-Pay Frequency: Semi-Monthly
+Employee: BRIANNA JACKSON        Emp ID: 12586
+Position: Software engineer
+Pay Period: 08/11/2025 - 09/09/2025     Pay Date: 09/14/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular              23.90     86.67       2,071.41     16,571.28
-GROSS PAY                                  2,071.41     16,571.28
-| |   .
+~ ~ .  ,
+Salary                                    13,855.82    124,702.38
+GROSS PAY                                 13,855.82    124,702.38
 DEDUCTIONS
-  Federal Income Tax                        82.85
-  Social Security                          128.42
-  Medicare                                  30.03
-  CA SDI                                    22.78
-NET PAY                                  1,807.33
---------------------------------------------------------------
+  Federal Income Tax                       831.34
+  Social Security                          859.06
+  Medicare                                 200.90
+  CA SDI                                   152.41
+NET PAY                                 11,812.11
+    --------------------------------------------------------------
 
-FAX RECEIVED 05/12/2026 10:19   P.01
+RECEIVED OCT 27 2025  - mailroom

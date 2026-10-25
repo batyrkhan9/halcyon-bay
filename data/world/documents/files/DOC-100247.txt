@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+7391 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE SILVA-MEHTA        Emp ID: 27914
+Position: Mechanic
+Pay Period: 01/23/2025 - 02/05/2025     Pay Date: 02/10/2025
+  . : .
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       766.19      2,298.57
+GROSS PAY                                    766.19      2,298.57
+DEDUCTIONS
+  Federal Income Tax                        76.61
+   5ocial Security                           47.50
+  Medicare                                  11.11
+  CA SDI                                     8.42
+NET PAY                                    622.55
+--------------------------------------------------------------
+
+FAX RECEIVED 02/27/2025 10:59   P.01

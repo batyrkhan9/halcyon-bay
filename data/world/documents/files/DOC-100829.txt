@@ -1,20 +1,18 @@
-BAYLINE LOGISTICS INC
-7635 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: BRANDON FITZGERALD        Emp ID: 45183
-Position: Warehouse associate
-Pay Period: 11/16/2025 - 11/22/2025     Pay Date: 11/27/2025
-Pay Frequency: Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.60     23.25         385.95     18,525.60
-GROSS PAY                                    385.95     18,525.60
-DEDUCTIONS
-  Federal Income Tax                        19.29
-  Social Security                           23.92
-    Medicare                                   5.59
-  CA SDI                                     4.24
-NET PAY                                    332.91
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  LOGAN MOORE
+Your social security number: XXX-XX-5320
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    74,283.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    74,283.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    74,283.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 12/10/2025 10:38   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Logan Moore        Date: 04/05/2025
+
+-- scanned 07/31/2025 HBCH mailroom  pg 1/1 --

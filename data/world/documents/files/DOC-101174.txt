@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-  3460 MARKET WAY   CA
-                         EARNINGS STATEMENT
-   Employee: ARJUN TRAN        Emp ID: 91387
-Position: Mechanic
-Pay Period: 04/17/2026 - 04/23/2026      Pay Date: 04/28/2026
-Pay Frequency: Weekly
+  HALCYON BAY UNIFIED SCHOOL DIST
+1257 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: FRANK WILSON        Emp ID: 99981
+Position: Instructional aide
+Pay Period: 08/31/2025 - 09/29/2025     Pay Date: 10/04/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.68     40.00         667.20     11,342.40
-GROSS PAY                                    667.20     11,342.40
+Regular             31.53    173.33       5,465.09     54,650.90
+GROSS PAY                                  5,465.09     54,650.90
 DEDUCTIONS
-  Federal Income Tax                        66.72
-  Social Security                           41.36
-  Medicare                                   9.67
-  CA SDI                                     7.33
-NET PAY                                    542.12
-_ _ _ _
+   Federal Income Tax                       273.25
+  Social Security                          338.83
+  Medicare                                  79.24
+   CA SD1                                    60.11
+   NET PAY                                  4,713.66
 --------------------------------------------------------------
 
--- scanned 05/13/2026 HBCH mailroom  pg 1/1 --
+RECEIVED NOV 09 2025  - mailroom

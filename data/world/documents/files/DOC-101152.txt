@@ -1,0 +1,21 @@
+ELLERY HARDWARE SUPPLY
+3153 COMMERCE WAY   CA
+                         EARNING5 STATEMENT
+ Employee: RAYMOND RODRIGUEZ        Emp ID: 81944
+Position: Sales associate
+_ _ _ _
+Pay Period: 10/03/2025 - 10/16/2025     Pay Date: 10/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.84     80.00       1,347.20     28,291.20
+GROSS PAY                                  1,347.20     28,291.20
+DEDUCTIONS
+    Federal Income Tax                       134.72
+  Social Security                           83.52
+   Medicare                                  19.53
+  CA SDI                                    14.81
+NET PAY                                  1,094.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/02/2025]

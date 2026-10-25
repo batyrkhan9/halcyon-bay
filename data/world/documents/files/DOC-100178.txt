@@ -1,21 +1,20 @@
-GOLDEN HOUR 5ENIOR LIVING
-  5295 HARBOR WAY   CA
+COASTAL VALLEY ENERGY
+9515 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ELENA WILSON        Emp ID: 21734
-| |   .
-Position: Caregiver
-   Pay Period: 03/25/2025 - 04/07/2025     Pay Date: 04/12/2025
-  Pay Frequency: Bi-Weekly
+   Employee: JUAN HAYES        Emp ID: 16527
+Position: Field technician
+Pay Period: 12/31/2024 - 01/13/2025     Pay Date: 01/18/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.68     61.25       1,144.15      9,153.20
-GROSS PAY                                  1,144.15      9,153.20
+Regular             66.03     80.00       5,282.40     10,564.80
+GROSS PAY                                  5,282.40     10,564.80
 DEDUCTIONS
-  Federal Income Tax                        57.20
-   Social Security                           70.93
-    Medicare                                  16.59
-  CA SDI                                    12.58
-NET PAY                                    986.85
---------------------------------------------------------------
+  Federal Income Tax                       475.41
+  S0cial Security                          327.50
+  Medicare                                  76.59
+  CA SDI                                    58.10
+NET PAY                                  4,344.80
+   --------------------------------------------------------------
 
-RECEIVED APR 16 2025  - mailroom
+-- scanned 02/05/2025 HBCH mailroom  pg 1/1 --

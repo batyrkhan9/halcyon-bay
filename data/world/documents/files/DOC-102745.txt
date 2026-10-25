@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+4836 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ROBERT 5ILVA        Emp ID: 14623
+Position: Line worker
+_ _ _ _
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular            115.07     80.00       9,205.60    147,289.60
+GROSS PAY                                  9,205.60    147,289.60
+DEDUCTIONS
+     Federal Income Tax                       644.39
+  Social 5ecurity                          570.74
+  Medicare                                 133.48
+  CA SDI                                   101.26
+NET PAY                                  7,755.73
+  --------------------------------------------------------------
+
+FAX RECEIVED 09/01/2026 10:31   P.01

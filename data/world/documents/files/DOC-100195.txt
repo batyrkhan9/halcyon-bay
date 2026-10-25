@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-8745 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: ANJALI GOMEZ        Emp ID: 83923
-Position: Caregiver
-Pay Period: 03/14/2025 - 03/27/2025     Pay Date: 04/01/2025
+   VISTA SERENA MEDICAL OFFICES
+4000 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARACELI HUSSAIN        Emp ID: 59001
+Position: Medical receptionist
+Pay Period: 12/18/2024 - 12/31/2024      Pay Date: 01/05/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.99     27.50         522.22      3,655.54
-GROSS PAY                                    522.22      3,655.54
- DEDUCTIONS
-    Federal Income Tax                        36.55
-  Social Security                           32.37
-  Medicare                                   7.57
-  CA SD1                                     5.74
-NET PAY                                    439.99
+Salary                                       239.07        239.07
+  . : .
+  GROSS PAY                                    239.07        239.07
+DEDUCTIONS
+   Federal Income Tax                        14.34
+  Social Security                           14.82
+  Medicare                                   3.46
+    CA SDI                                     2.63
+NET PAY                                    203.82
 --------------------------------------------------------------
 
--- scanned 04/18/2025 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 08 2025  - mailroom

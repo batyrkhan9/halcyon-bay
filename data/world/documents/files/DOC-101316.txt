@@ -1,0 +1,21 @@
+ ARROYO VERDE NURSERY
+2111 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: VIKRAM SCOTT        Emp ID: 39535
+  Position: Nursery worker
+Pay Period: 11/26/2025 - 12/09/2025     Pay Date: 12/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             45.65     80.00       3,652.00     91,300.00
+_ _ _ _
+GROSS PAY                                   3,652.00     91,300.00
+DEDUCTIONS
+  Federal Income Tax                       292.16
+  Social Security                          226.42
+  Medicare                                  52.95
+     CA SDI                                    40.17
+  NET PAY                                  3,040.30
+--------------------------------------------------------------
+
+FAX RECEIVED 01/08/2026 10:47   P.01

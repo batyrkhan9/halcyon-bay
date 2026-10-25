@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+5905 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: KEISHA MILLER        Emp ID: 32451
+Position: Dental assistant
+Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.80     80.00       2,064.00     33,024.00
+GROSS PAY                                  2,064.00     33,024.00
+DEDUCTIONS
+  Federal Income Tax                       103.20
+   Social Security                          127.96
+  Medicare                                  29.92
+  CA SDI                                    22.70
+NET PAY                                  1,780.22
+--------------------------------------------------------------
+
+FAX RECEIVED 08/04/2026 10:54   P.01

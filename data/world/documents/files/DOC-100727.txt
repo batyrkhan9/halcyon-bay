@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-9783 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: FATIMA PEREIRA        Emp ID: 18599
-Position: Home care aide
-Pay Period: 10/11/2025 - 10/25/2025     Pay Date: 10/30/2025
-Pay Frequency: Semi-Monthly
+ BLUE KELP SOFTWARE LLC
+1568 HARBOR WAY   CA
+                          EARNING5 STATEMENT
+Employee: DEBORAH GOMEZ        Emp ID: 97719
+  Position: Software engineer
+Pay Period: 05/26/2025 - 06/01/2025     Pay Date: 06/06/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-5alary                                      3,493.35     73,360.35
-GROSS PAY                                  3,493.35     73,360.35
- DEDUCTIONS
-  Federal Income Tax                       384.26
-  Social Security                          216.58
-   Medicare                                  50.65
-    CA SDI                                    38.42
-NET PAY                                  2,803.44
-  --------------------------------------------------------------
+Regular             54.58     40.00       2,183.20     50,213.60
+   GROSS PAY                                  2,183.20     50,213.60
+DEDUCTIONS
+  Federal Income Tax                       196.48
+      Social Security                          135.35
+  Medicare                                  31.65
+  CA SDI                                    24.01
+   NET PAY                                  1,795.71
+--------------------------------------------------------------
 
--- scanned 11/09/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 01 2025  - mailroom

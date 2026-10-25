@@ -1,0 +1,21 @@
+  ARROYO VERDE NURSERY
+9524 INDUSTRIAL WAY   CA
+| |   .
+                         EARNINGS STATEMENT
+Employee: R1CARDO ALLEN        Emp ID: 67695
+P0sition: Nursery worker
+Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       898.11     12,573.54
+GROSS PAY                                    898.11     12,573.54
+  DEDUCTIONS
+      Federal Income Tax                        71.84
+  Social Security                           55.68
+  Medicare                                  13.02
+  CA SDI                                     9.87
+NET PAY                                    747.70
+--------------------------------------------------------------
+
+FAX RECEIVED 08/23/2026 10:54   P.01

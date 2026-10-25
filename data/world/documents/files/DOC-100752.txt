@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY C0
-8040 COMMERCE WAY   CA
+COASTAL VALLEY ENERGY
+986 INDUSTRIAL WAY    CA
                           EARNINGS STATEMENT
-Employee: KENNETH ABDULLAH        Emp ID: 82925
-Position: Line worker
-Pay Period: 10/11/2025 - 10/24/2025     Pay Date: 10/29/2025
+Employee: TARIQ MILLER        Emp ID: 74919
+Position: Field technician
+Pay Period: 05/14/2025 - 05/27/2025     Pay Date: 06/01/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             20.89     80.00       1,671.20     36,766.40
-GROSS PAY                                  1,671.20     36,766.40
+Regular             44.14     80.00       3,531.20     38,843.20
+GROSS PAY                                  3,531.20     38,843.20
 DEDUCTIONS
-  Federal Income Tax                       100.27
-  Social Security                          103.61
-  Medicare                                  24.23
-   CA SDI                                    18.38
-NET PAY                                  1,424.71
---------------------------------------------------------------
+  Federal Income Tax                       176.56
+  Social Security                          218.93
+      Medicare                                  51.20
+    CA SDI                                    38.84
+NET PAY                                  3,045.67
+  --------------------------------------------------------------
 
-RECEIVED NOV 20 2025  - mailroom
+RECEIVED JUL 09 2025  - mailroom

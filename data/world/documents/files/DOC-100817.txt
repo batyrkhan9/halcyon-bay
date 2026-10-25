@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+671 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  Employee: YUSUF CARTER        Emp ID: 82738
+P0sition: Teacher
+Pay Period: 06/16/2025 - 06/29/2025     Pay Date: 07/04/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,884.57     54,383.98
+GROSS PAY                                  3,884.57     54,383.98
+   DEDUCTIONS
+  Federal Income Tax                       155.38
+  5ocial Security                          240.84
+  Medicare                                  56.32
+  CA SDI                                    42.73
+NET PAY                                   3,389.30
+--------------------------------------------------------------
+
+FAX RECEIVED 07/27/2025 10:37   P.01

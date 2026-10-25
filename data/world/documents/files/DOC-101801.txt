@@ -1,21 +1,21 @@
-MARISOL CLEANING 5ERVICES
-8850 COMMERCE WAY   CA
+ COA5TAL VALLEY ENERGY
+7986 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: PEDRO IBARRA        Emp ID: 76072
-Position: Cleaner
-Pay Period: 08/01/2026 - 08/15/2026     Pay Date: 08/20/2026
-Pay Frequency: Semi-Monthly
+Employee: YUKI NAVARRO        Emp ID: 81560
+Position: Field technician
+   Pay Period: 04/21/2026 - 05/04/2026     Pay Date: 05/09/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             18.38     44.75         822.50     13,160.00
-GROSS PAY                                    822.50     13,160.00
-DEDUCTIONS
-   Federal Income Tax                        74.02
-  Social Security                           50.99
-   Medicare                                  11.92
-~ ~ .  ,
-  CA SDI                                     9.04
-NET PAY                                    676.53
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+| |   .
+5alary                                      1,372.25     13,722.50
+GROSS PAY                                  1,372.25     13,722.50
+ DEDUCTIONS
+   Federal Income Tax                        54.89
+  Social Security                           85.08
+  Medicare                                  19.89
+  CA SDI                                    15.09
+ NET PAY                                  1,197.30
+    --------------------------------------------------------------
 
-RECEIVED SEP 02 2026  - mailroom
+FAX RECEIVED 05/14/2026 10:20   P.01

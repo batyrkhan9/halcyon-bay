@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-3493 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-    Employee: MIN-JI KEALOHA        Emp ID: 60139
-Position: Driver
-Pay Period: 08/05/2026 - 08/19/2026     Pay Date: 08/24/2026
-Pay Frequency: Semi-Monthly
+COASTAL VALLEY ENERGY
+4802 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: EMILY ZAMORA        Emp ID: 93323
+Position: Field technician
+   Pay Period: 03/31/2026 - 04/13/2026     Pay Date: 04/18/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                     6,991.14    111,858.24
-GROSS PAY                                  6,991.14    111,858.24
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.64     48.00         846.72      6,773.76
+GROSS PAY                                    846.72      6,773.76
 DEDUCTIONS
-   Federal Income Tax                       349.55
-  Social Security                          433.45
-  Medicare                                 101.37
-   CA SDI                                    76.90
-NET PAY                                  6,029.87
-    --------------------------------------------------------------
+  Federal Income Tax                        93.13
+  Social Security                           52.49
+  Medicare                                  12.27
+  CA SDI                                     9.31
+NET PAY                                     679.52
+--------------------------------------------------------------
 
-RECEIVED SEP 02 2026  - mailroom
+RECEIVED MAY 15 2026  - mailroom

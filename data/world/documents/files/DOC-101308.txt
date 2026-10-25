@@ -1,20 +1,16 @@
-    PORT ELLERY CANNERY CO
-    4849 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Emp1oyee: RAFAEL WILLIAMS        Emp ID: 46321
-Position: Line worker
-Pay Period: 05/28/2026 - 06/10/2026     Pay Date: 06/15/2026
-   Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,259.15     39,109.80
-    GROSS PAY                                  3,259.15     39,109.80
-DEDUCTIONS
-     Federal Income Tax                       260.73
-  Social Security                          202.06
-  Medicare                                  47.25
-   CA SDI                                    35.85
-NET PAY                                  2,713.26
---------------------------------------------------------------
+ PACIFIC TIDE BANK
+Statement Period 12/01/2025 - 12/24/2025
+Member: AMANDA THOMPSON       Account ending 2495
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]
+CHECKING SUMMARY
+    Beginning balance            2,867.34
+  Deposits                     1,506.96
+  Withdrawals                 -1,311.05
+  Ending balance               3,063.25
+
+  DEPOSITS AND CREDITS
+  12/24  PAYROLL DIR DEP CALDER FREIGHT LIN       1,506.96
+
+   Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JAN 02 2026  - mailroom

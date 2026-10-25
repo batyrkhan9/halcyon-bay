@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-3062 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: DAVID RODRIGUEZ        Emp ID: 76641
-Position: Custodian
-Pay Period: 07/15/2026 - 07/28/2026      Pay Date: 08/02/2026
-Pay Frequency: Bi-Weekly
+TIDEWATER CONSTRUCTION
+9069 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: ESPERANZA PHAM        Emp ID: 62234
+Position: Laborer
+Pay Period: 02/28/2026 - 03/06/2026     Pay Date: 03/11/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.61     51.00         898.11     14,369.76
-GROSS PAY                                    898.11     14,369.76
-DEDUCTIONS
-  Federal Income Tax                        35.92
-~ ~ .  ,
-  Social Security                           55.68
-  Medicare                                  13.02
-  CA SDI                                     9.87
-  NET PAY                                    783.62
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.06     27.25         464.88      4,648.80
+GROSS PAY                                    464.88      4,648.80
+  DEDUCTIONS
+   Federal Income Tax                        41.83
+  Social Security                           28.82
+  Medicare                                   6.74
+  CA SDI                                     5.11
+NET PAY                                    382.38
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/06/2026]
+-- scanned 03/26/2026 HBCH mailroom  pg 1/1 --

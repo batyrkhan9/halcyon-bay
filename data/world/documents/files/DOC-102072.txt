@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-5032 HARBOR WAY   CA
+SANTA LUCITA FARMS
+5537 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KENJI MURPHY        Emp ID: 76768
-Position: Custodian
-Pay Period: 08/09/2026 - 08/22/2026     Pay Date: 08/27/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.42     80.00       3,713.60     66,844.80
-   GROSS PAY                                  3,713.60     66,844.80
+Employee: PEDRO CARTER        Emp ID: 46648
+Position: Field supervisor
+Pay Period: 06/10/2026 - 07/09/2026     Pay Date: 07/14/2026
+Pay Frequency: Monthly
+ --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             45.69    173.33       7,919.45     55,436.15
+GROSS PAY                                  7,919.45     55,436.15
 DEDUCTIONS
-   Federal Income Tax                       148.54
-  Social Security                          230.24
-  Medicare                                  53.84
-  CA SDI                                    40.85
-NET PAY                                  3,240.13
-   --------------------------------------------------------------
+  Federal Income Tax                       871.13
+  Social Security                          491.00
+     Medicare                                 114.83
+  CA SDI                                    87.11
+NET PAY                                  6,355.38
+--------------------------------------------------------------
 
-RECEIVED SEP 25 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2026]

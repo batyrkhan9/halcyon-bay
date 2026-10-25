@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-5540 MARKET WAY   CA
-                          EARNINGS STATEMENT
-  Employee: LETICIA HUSSAIN        Emp ID: 97076
-Position: Field supervisor
- Pay Period: 06/29/2026 - 07/12/2026     Pay Date: 07/17/2026
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             17.73     15.00         265.95      3,989.25
-GROSS PAY                                    265.95      3,989.25
+MARISOL CLEANING SERVICES
+8168 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CALEB GALLAGHER        Emp ID: 53189
+Position: Cleaner
+Pay Period: 02/03/2026 - 02/17/2026     Pay Date: 02/22/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,802.53     11,210.12
+GROSS PAY                                  2,802.53     11,210.12
 DEDUCTIONS
-  Federal 1ncome Tax                        26.59
-  Social Security                           16.48
-  Medicare                                   3.85
-  CA SDI                                     2.92
-NET PAY                                    216.11
-  --------------------------------------------------------------
+  Federal Income Tax                       168.15
+     Social Security                          173.75
+  Medicare                                  40.63
+  CA SDI                                    30.82
+NET PAY                                  2,389.18
+--------------------------------------------------------------
 
-RECEIVED JUL 31 2026  - mailroom
+-- scanned 03/12/2026 HBCH mailroom  pg 1/1 --

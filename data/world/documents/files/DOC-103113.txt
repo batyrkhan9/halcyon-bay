@@ -1,0 +1,20 @@
+    POINT CORRIN BOATWORKS
+2531 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MICHAEL DESAI        Emp ID: 70403
+Position: Mechanic
+ Pay Period: 08/28/2026 - 09/03/2026     Pay Date: 09/08/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.28     21.50         371.52     13,374.72
+GROSS PAY                                    371.52     13,374.72
+DEDUCTIONS
+  Federal Income Tax                        26.00
+  Social Security                           23.03
+  Medicare                                   5.38
+   CA SDI                                     4.08
+NET PAY                                    313.03
+--------------------------------------------------------------
+
+FAX RECEIVED 09/25/2026 10:21   P.01

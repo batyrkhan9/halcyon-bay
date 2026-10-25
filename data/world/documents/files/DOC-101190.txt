@@ -1,21 +1,20 @@
- HALCYON BAY UNIFIED SCHOOL DIST
-3585 COMMERCE WAY   CA
+MIRADOR PUBLIC LIBRARY
+3529 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: AMINA MARTIN        Emp ID: 99695
-Position: Instructional aide
-Pay Period: 04/21/2026 - 04/27/2026     Pay Date: 05/02/2026
- Pay Frequency: Weekly
+Employee: LINH ESPINOZA        Emp ID: 36831
+Position: Library assistant
+ Pay Period: 10/15/2025 - 10/21/2025     Pay Date: 10/26/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.61      8.00         148.88      2,679.84
-GROSS PAY                                    148.88      2,679.84
+Salary                                     1,464.55     62,975.65
+GROSS PAY                                  1,464.55     62,975.65
 DEDUCTIONS
-  Federal Income Tax                         7.44
-  Social Security                            9.23
-  Medicare                                   2.15
-  CA SDI                                     1.63
-~ ~ .  ,
-NET PAY                                     128.43
---------------------------------------------------------------
+  Federal Income Tax                       131.80
+  Social Security                           90.80
+   Medicare                                  21.23
+  CA SDI                                    16.11
+NET PAY                                  1,204.61
+  --------------------------------------------------------------
 
--- scanned 05/14/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 11/13/2025 10:56   P.01

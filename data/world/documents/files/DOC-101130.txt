@@ -1,10 +1,20 @@
-COUNTY 0F SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-NOTICE OF ACTION
-Medi-Cal Approval
-Date: 02/26/2026
-Beneficiary: LETICIA GUTIERREZ
+  BLUE KELP SOFTWARE LLC
+1007 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SANJAY LEE        Emp ID: 66459
+Position: Software engineer
+Pay Period: 09/30/2025 - 10/14/2025     Pay Date: 10/19/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.23     72.50       1,249.18     24,983.60
+GROSS PAY                                  1,249.18     24,983.60
+DEDUCTIONS
+  Federal Income Tax                       112.42
+  Social Security                           77.44
+   Medicare                                  18.11
+  CA SDI                                    13.74
+NET PAY                                  1,027.47
+--------------------------------------------------------------
 
-You are approved for full scope Medi-Cal with no share of cost beginning 02/01/2026.
-Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
-
--- scanned 05/09/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/27/2025 HBCH mailroom  pg 1/1 --

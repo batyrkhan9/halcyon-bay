@@ -1,20 +1,17 @@
-ELLERY HARDWARE SUPPLY
-2110 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: MARIA HUANG        Emp ID: 56826
-Position: Sales associate
-Pay Period: 07/29/2026 - 08/12/2026     Pay Date: 08/17/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       605.62      9,689.92
-    GROSS PAY                                    605.62      9,689.92
-DEDUCTIONS
-  Federal Income Tax                        66.61
-  Social Security                           37.54
-  Medicare                                   8.78
-  CA 5DI                                     6.66
-NET PAY                                    486.03
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 07/01/2026 - 07/06/2026
+Member: FRANK CHOI       Account ending 9474
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/15/2026]
+CHECKING SUMMARY
+  Beginning balance              952.97
+   Deposits                     2,364.96
+    Withdrawals                 -2,199.41
+  Ending balance               1,118.52
+
+DEPOSITS AND CREDITS
+   07/06  PAYROLL DIR DEP BAYLINE LOGISTICS        1,182.48
+     06/22  PAYROLL DIR DEP BAYLINE LOGISTICS        1,182.48
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JUL 13 2026  - mailroom

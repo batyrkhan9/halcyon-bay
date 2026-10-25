@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-  1124 HARBOR WAY   CA
+MARISOL CLEANING SERVICES
+6427 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: HUNG WASHINGTON        Emp ID: 10532
-Position: Technician
-Pay Period: 05/30/2026 - 06/12/2026     Pay Date: 06/17/2026
+Employee: RAFAEL FLORES        Emp ID: 38847
+Position: Cleaner
+  Pay Period: 01/29/2026 - 02/11/2026     Pay Date: 02/16/2026
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     TH1S PER1OD        YTD
-Salary                                        348.60      4,183.20
-GROSS PAY                                     348.60      4,183.20
- DEDUCTIONS
-  Federal Income Tax                        17.43
-  Social Security                           21.61
-  Medicare                                   5.05
-  CA SDI                                     3.83
-NET PAY                                    300.68
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.51     80.00       1,960.80      7,843.20
+GROSS PAY                                  1,960.80      7,843.20
+ DEDUCTION5
+  Federal Income Tax                       156.86
+  Social Security                          121.57
+  Medicare                                  28.43
+  CA SDI                                    21.56
+NET PAY                                  1,632.38
 --------------------------------------------------------------
 
--- scanned 07/28/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 03 2026  - mailroom

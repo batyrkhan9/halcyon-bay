@@ -1,21 +1,17 @@
-OTTER BAY AQUARIUM
-1641 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: SUSAN IBARRA        Emp ID: 94663
-Position: Guest services
- Pay Period: 05/18/2026 - 05/31/2026     Pay Date: 06/05/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             17.14     13.50         231.39      2,776.68
-| |   .
-GROSS PAY                                    231.39      2,776.68
-DEDUCTIONS
-  Federal Income Tax                         9.25
-  Social Security                           14.34
-  Medicare                                   3.35
-  CA SDI                                     2.54
-NET PAY                                    201.91
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 12/01/2025 - 12/11/2025
+Member: FRANCISCO TORRES       Account ending 1894
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]
+CHECKING SUMMARY
+      Beginning balance              680.33
+  Deposits                     6,196.32
+  Withdrawals                 -5,576.68
+  Ending balance               1,299.97
+
+ DEPOSITS AND CREDITS
+  12/11  PAYROLL DIR DEP MARISOL CLEANING S       3,098.16
+  11/27  PAYROLL DIR DEP MARISOL CLEANING S       3,098.16
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 12/23/2025 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
 ELLERY HARDWARE SUPPLY
-2299 COMMERCE WAY   CA
+  4575 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: BRENDA SATO        Emp ID: 43886
+Employee: GRACE PATEL        Emp ID: 58238
 Position: Sales associate
-Pay Period: 10/27/2024 - 11/09/2024     Pay Date: 11/14/2024
-Pay Frequency: Bi-Weekly
+ Pay Period: 11/04/2024 - 11/18/2024     Pay Date: 11/23/2024
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-    Regular             18.57     54.00       1,002.78     23,063.94
-GROSS PAY                                  1,002.78     23,063.94
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular            139.83     86.67      12,119.07    266,619.54
+GROSS PAY                                 12,119.07    266,619.54
 DEDUCTIONS
-  Federal Inc0me Tax                        40.11
-  Social Security                           62.17
-    Medicare                                  14.54
-  CA SDI                                    11.03
-  NET PAY                                    874.93
+  Federal Income Tax                     1,090.71
+  Social Security                          751.38
+  Medicare                                 175.72
+  CA SDI                                   133.31
+   NET PAY                                  9,967.95
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/13/2024]
+RECEIVED DEC 15 2024  - mailroom

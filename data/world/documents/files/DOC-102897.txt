@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+136 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LARRY TANAKA        Emp ID: 95354
+Position: Line worker
+    Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+    Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+   Regular             84.84     80.00       6,787.20    115,382.40
+    GROSS PAY                                  6,787.20    115,382.40
+DEDUCTIONS
+  Federal Income Tax                       271.48
+      Social Security                          420.80
+  Medicare                                  98.41
+  CA SDI                                    74.65
+NET PAY                                  5,921.86
+--------------------------------------------------------------
+
+RECEIVED SEP 08 2026  - mailroom

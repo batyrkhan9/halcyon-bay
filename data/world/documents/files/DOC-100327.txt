@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+392 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO LEWIS         Emp ID: 28458
+Position: Nursery worker
+  Pay Period: 02/13/2025 - 02/26/2025     Pay Date: 03/03/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.61     17.00         282.37      1,411.85
+GROSS PAY                                    282.37      1,411.85
+  DEDUCTIONS
+    Federal Income Tax                        28.23
+  Social Security                           17.50
+  Medicare                                   4.09
+| |   .
+  CA 5DI                                     3.10
+NET PAY                                    229.45
+--------------------------------------------------------------
+
+-- scanned 03/15/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+8469 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN SULLIVAN        Emp ID: 92644
+Position: Laborer
+Pay Period: 07/04/2026 - 07/10/2026     Pay Date: 07/15/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             30.09     40.00       1,203.60     33,700.80
+GROSS PAY                                  1,203.60     33,700.80
+DEDUCTIONS
+  Federal Income Tax                        96.28
+    Social Security                           74.62
+  Medicare                                  17.45
+   CA SDI                                    13.24
+NET PAY                                  1,002.01
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/05/2026]

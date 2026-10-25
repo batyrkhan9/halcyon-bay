@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+4904 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: AUSTIN LIU        Emp ID: 73937
+Position: Field technician
+Pay Period: 05/08/2025 - 05/22/2025     Pay Date: 05/27/2025
+  Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,254.23     22,542.30
+   GROSS PAY                                  2,254.23     22,542.30
+DEDUCTIONS
+  Federal Income Tax                       112.71
+  Social Security                          139.76
+  Medicare                                  32.68
+  CA SDI                                    24.79
+NET PAY                                  1,944.29
+--------------------------------------------------------------
+
+-- scanned 06/20/2025 HBCH mailroom  pg 1/1 --

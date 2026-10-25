@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+7759 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSEFINA RAMOS        Emp ID: 99999
+Position: Mechanic
+  Pay Period: 08/09/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,686.97     26,991.52
+GROSS PAY                                  1,686.97     26,991.52
+DEDUCTIONS
+   Federal Income Tax                       134.95
+  Social Security                          104.59
+  Medicare                                  24.46
+  CA SDI                                    18.55
+NET PAY                                  1,404.42
+--------------------------------------------------------------
+
+RECEIVED SEP 15 2026  - mailroom

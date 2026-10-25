@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-9062 MARKET WAY   CA
+PORT ELLERY CANNERY CO
+5475 HARBOR WAY    CA
                          EARNINGS STATEMENT
-Employee: LAUREN RUIZ        Emp ID: 71583
- Position: Technician
-Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
-Pay Frequency: Bi-Weekly
+Employee: TUAN QUINN        Emp ID: 44627
+Position: Line worker
+Pay Period: 11/06/2025 - 11/12/2025      Pay Date: 11/17/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             42.10     80.00       3,368.00     43,784.00
-GROSS PAY                                  3,368.00     43,784.00
-  DEDUCTIONS
-  Federal Income Tax                       235.76
-  Social Security                          208.81
-  Medicare                                  48.83
-      CA SDI                                    37.04
-NET PAY                                  2,837.56
+Regular             45.79     40.00       1,831.60     84,253.60
+GROSS PAY                                  1,831.60     84,253.60
+DEDUCTIONS
+  Federal Income Tax                        73.26
+  Social Security                          113.55
+      Medicare                                  26.55
+  CA SDI                                    20.14
+NET PAY                                  1,598.10
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/04/2026]
+-- scanned 12/09/2025 HBCH mailroom  pg 1/1 --

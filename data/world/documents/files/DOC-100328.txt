@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-7261 MARKET WAY   CA
+ARROYO VERDE NURSERY
+5985 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN GUTIERREZ        Emp 1D: 15233
-Position: Instructional aide
-Pay Period: 04/25/2025 - 05/01/2025     Pay Date: 05/06/2025
-Pay Frequency: Weekly
+Employee: THAO LEWIS        Emp ID: 28458
+Position: Nursery worker
+Pay Period: 01/30/2025 - 02/12/2025     Pay Date: 02/17/2025
+Pay Frequency: Bi-Week1y
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             50.83     40.00       2,033.20     36,597.60
-   GROSS PAY                                  2,033.20     36,597.60
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+    Regular             16.61     17.00         282.37      1,129.48
+   GROSS PAY                                    282.37      1,129.48
 DEDUCTIONS
-  Federal Income Tax                       121.99
-  Social Security                          126.05
-      Medicare                                  29.48
-  CA SDI                                    22.36
-NET PAY                                  1,733.32
---------------------------------------------------------------
+  Federal Income Tax                        16.94
+  Social Security                           17.50
+  Medicare                                   4.09
+  CA SDI                                     3.10
+   NET PAY                                    240.74
+    --------------------------------------------------------------
 
--- scanned 05/30/2025 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 15 2025  - mailroom

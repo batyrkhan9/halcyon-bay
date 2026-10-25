@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+  9448 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LAUREN LI        Emp ID: 27842
+Position: Sales associate
+Pay Period: 08/01/2026 - 08/15/2026     Pay Date: 08/20/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.07     63.25       1,142.93     18,286.88
+GROSS PAY                                  1,142.93     18,286.88
+DEDUCTIONS
+   Federal Income Tax                       114.29
+  5ocial Security                           70.86
+  Medicare                                  16.57
+  CA SDI                                    12.57
+    NET PAY                                    928.64
+   --------------------------------------------------------------
+
+FAX RECEIVED 09/07/2026 10:57   P.01

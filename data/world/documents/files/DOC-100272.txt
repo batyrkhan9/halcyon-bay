@@ -1,17 +1,21 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 04/01/2025 - 04/30/2025
-    Member: ERNESTO GONZALEZ       Account ending 8013
+CYPRESS FLATS AUTO BODY
+  4042 INDUSTRIAL WAY   CA
+_ _ _ _
+                         EARNINGS STATEMENT
+  Employee: BEATR1Z KAHANANUI        Emp ID: 77536
+Position: Technician
+Pay Period: 02/06/2025 - 02/19/2025     Pay Date: 02/24/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.80     80.00       3,744.00     14,976.00
+GROSS PAY                                  3,744.00     14,976.00
+    DEDUCTIONS
+  Federal Income Tax                       336.96
+  Social Security                          232.12
+     Medicare                                  54.28
+  CA SDI                                    41.18
+NET PAY                                  3,079.46
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,259.86
-  Deposits                     1,134.06
-  Withdrawals                   -963.95
-  Ending balance               2,429.97
-
-DEPOSITS AND CREDITS
-  05/03  PAYROLL DIR DEP ARROYO VERDE NURSE         567.03
-  04/18  PAYROLL DIR DEP ARROYO VERDE NURSE         567.03
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 05/20/2025 10:10   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2025]

@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual 1ncome Tax Return   2025
-(copy - summary page)
-   Filing Status: Single
-Your first name and middle initial / Last name:  MICHAEL YOUNG
-Your social security number: XXX-XX-3734
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    26,971.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    26,971.00
- 10  Adjustments to income ...........................         0.00
- 11   Adjusted gross income ...........................    26,971.00
- 12  Standard deduction ..............................    14,600.00
+SANDPIPER CHILD CARE CENTER
+3081 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: MAR1O THOMAS        Emp ID: 49894
+Position: Teacher
+ Pay Period: 06/09/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,627.24     40,681.00
+GROSS PAY                                  1,627.24     40,681.00
+DEDUCTIONS
+  Federal Income Tax                       113.90
+  Social Security                          100.88
+   Medicare                                  23.59
+  CA SDI                                    17.90
+NET PAY                                  1,370.97
+   --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Michael Young        Date: 04/04/2026
-
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 01 2026  - mailroom

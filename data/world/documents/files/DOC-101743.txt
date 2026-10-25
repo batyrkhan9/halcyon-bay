@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-570 MARKET WAY   CA
+ARROYO VERDE NURSERY
+3485 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: JAE JEFFERSON        Emp ID: 97177
-Position: Field technician
-Pay Period: 07/05/2026 - 07/19/2026     Pay Date: 07/24/2026
-Pay Frequency: Semi-Monthly
+Employee: KAVYA CHAVEZ        Emp ID: 44007
+Position: Nursery worker
+Pay Period: 03/22/2026 - 04/04/2026     Pay Date: 04/09/2026
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Salary                                       895.66     12,539.24
-GROSS PAY                                    895.66     12,539.24
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+5alary                                     4,357.57     34,860.56
+GROSS PAY                                  4,357.57     34,860.56
 DEDUCTIONS
-  Federal Income Tax                        71.65
-  Social Security                           55.53
-  Medicare                                  12.98
-  CA SDI                                     9.85
-NET PAY                                    745.65
+    Federal Income Tax                       392.18
+  Social Security                          270.16
+  Medicare                                  63.18
+  CA SDI                                    47.93
+  NET PAY                                  3,584.12
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2026]
+FAX RECEIVED 05/11/2026 10:19   P.01

@@ -1,20 +1,21 @@
-MIRADOR PUBLIC LIBRARY
-6856 MARKET WAY   CA
+OTTER BAY AQUARIUM
+3885 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DARNELL KAHANANUI        Emp ID: 74894
-Position: Library assistant
- Pay Period: 02/15/2025 - 02/21/2025     Pay Date: 02/26/2025
-Pay Frequency: Weekly
+Employee: ANTONIO PEREIRA-WALKER        Emp ID: 65343
+P0sition: Guest services
+Pay Period: 11/29/2024 - 12/12/2024     Pay Date: 12/17/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar             64.79     40.00       2,591.60     23,324.40
-  GROSS PAY                                  2,591.60     23,324.40
-DEDUCT1ONS
-  Federal Income Tax                       207.32
-      Social Security                          160.67
-  Medicare                                  37.57
-  CA SDI                                    28.50
-    NET PAY                                  2,157.54
+| |   .
+Salary                                     2,856.15     74,259.90
+GROSS PAY                                  2,856.15     74,259.90
+DEDUCTIONS
+  Federa1 Income Tax                       314.17
+  Social Security                          177.08
+     Medicare                                  41.41
+  CA SDI                                    31.41
+NET PAY                                  2,292.08
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/15/2025]
+-- scanned 01/18/2025 HBCH mailroom  pg 1/1 --

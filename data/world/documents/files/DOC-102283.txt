@@ -1,0 +1,21 @@
+   CALDER FREIGHT LINES
+1771 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANTONIO SOUZA        Emp ID: 50134
+Position: Driver
+    Pay Period: 07/04/2026 - 07/17/2026     Pay Date: 07/22/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,322.81     19,842.15
+  . : .
+GROSS PAY                                  1,322.81     19,842.15
+DEDUCTIONS
+  Federal Income Tax                        52.91
+  Social 5ecurity                           82.01
+  Medicare                                  19.18
+  CA SDI                                    14.55
+NET PAY                                  1,154.16
+--------------------------------------------------------------
+
+FAX RECEIVED 08/01/2026 10:41   P.01

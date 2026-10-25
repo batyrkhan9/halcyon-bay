@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+8179 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+   Employee: NOAH WILLIAMS        Emp ID: 93415
+Position: Technician
+Pay Period: 05/23/2025 - 06/06/2025     Pay Date: 06/11/2025
+Pay Frequency: Semi-M0nthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             30.22     86.67       2,619.17     28,810.87
+GROSS PAY                                  2,619.17     28,810.87
+  . : .
+DEDUCTIONS
+  Federal Income Tax                       130.95
+      Social Security                          162.38
+   Medicare                                  37.97
+  CA SDI                                    28.81
+  NET PAY                                  2,259.06
+--------------------------------------------------------------
+
+RECEIVED JUL 09 2025  - mailroom

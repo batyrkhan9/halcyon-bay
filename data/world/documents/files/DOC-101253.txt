@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+2936 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN QUINN         Emp ID: 44627
+Position: Line w0rker
+Pay Period: 11/13/2025 - 11/19/2025      Pay Date: 11/24/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             45.79     40.00       1,831.60     86,085.20
+GROSS PAY                                  1,831.60     86,085.20
+DEDUCTIONS
+      Federal Income Tax                       201.47
+  Social Security                          113.55
+   Medicare                                  26.55
+_ _ _ _
+  CA SDI                                    20.14
+NET PAY                                  1,469.89
+--------------------------------------------------------------
+
+-- scanned 12/09/2025 HBCH mailroom  pg 1/1 --

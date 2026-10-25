@@ -1,20 +1,20 @@
- COASTAL VALLEY ENERGY
-831 HARBOR WAY   CA
-                         EARNING5 STATEMENT
-Employee: THAO SULLIVAN        Emp ID: 60050
-Position: Field technician
-Pay Period: 07/06/2026 - 07/20/2026     Pay Date: 07/25/2026
-Pay Frequency: Semi-Monthly
+MARIS0L CLEANING SERVICES
+441 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAFAEL FLORES        Emp ID: 38847
+Position: Cleaner
+  Pay Period: 01/01/2026 - 01/14/2026     Pay Date: 01/19/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.21     68.25       1,242.83     17,399.62
-GROSS PAY                                  1,242.83     17,399.62
-DEDUCTIONS
-     Federal Income Tax                        86.99
-  Social Security                           77.05
-  Medicare                                  18.02
-  CA SDI                                    13.67
-NET PAY                                  1,047.10
- --------------------------------------------------------------
+Regular             24.51     80.00       1,960.80      3,921.60
+  GROSS PAY                                  1,960.80      3,921.60
+  DEDUCTIONS
+  Federal Income Tax                       196.08
+  Social Security                          121.57
+  Medicare                                  28.43
+  CA SDI                                    21.56
+NET PAY                                  1,593.16
+    --------------------------------------------------------------
 
--- scanned 07/29/2026 HBCH mailroom  pg 1/1 --
+-- scanned 03/03/2026 HBCH mailroom  pg 1/1 --

@@ -1,17 +1,21 @@
-   HALCYON BAY FEDERAL CREDIT UNION
-  Statement Period 04/01/2025 - 04/20/2025
-Member: JOSHUA VALENCIA       Account ending 8777
+CALDER FREIGHT LINES
+6651 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: ALEJANDRO TUIASOSOPO        Emp ID: 11795
+Position: Driver
+   Pay Period: 01/18/2025 - 01/31/2025     Pay Date: 02/05/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  . : .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             17.85     40.00         714.00      2,142.00
+GROSS PAY                                    714.00      2,142.00
+DEDUCTIONS
+   Federal Income Tax                        71.40
+  Social Security                           44.26
+   Medicare                                  10.35
+  CA SDI                                     7.85
+NET PAY                                    580.14
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-  Beginning balance            2,324.47
-  Deposits                     3,030.14
-  Withdrawals                 -3,090.74
-  Ending balance               2,263.87
-
-DEPOSITS AND CREDITS
-    04/20  PAYROLL DIR DEP HALCYON BAY UNIFIE       1,515.07
-  04/06  PAYROLL DIR DEP HALCYON BAY UNIFIE       1,515.07
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2025]
+RECEIVED FEB 17 2025  - mailroom

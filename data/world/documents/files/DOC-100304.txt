@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-  2049 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ABIGAIL KING        Emp ID: 74509
-Position: Sales associate
-Pay Period: 04/14/2025 - 04/27/2025     Pay Date: 05/02/2025
+CALDER FREIGHT LINES
+    1696 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 02/05/2025 - 02/18/2025     Pay Date: 02/23/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,421.12     12,790.08
-   GROSS PAY                                  1,421.12     12,790.08
+    Salary                                     2,516.82     10,067.28
+ GROSS PAY                                  2,516.82     10,067.28
 DEDUCTIONS
-  Federal Income Tax                        85.26
-  Social Security                           88.10
-  Medicare                                  20.60
-   CA SDI                                    15.63
-NET PAY                                  1,211.53
+  Federal Income Tax                       201.34
+   Social Security                          156.04
+  Medicare                                  36.49
+  CA SDI                                    27.68
+NET PAY                                  2,095.27
   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/26/2025]
+FAX RECEIVED 03/13/2025 10:59   P.01

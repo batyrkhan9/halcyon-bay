@@ -1,20 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-1740 MARKET WAY   CA
+OTTER BAY AQUARIUM
+5260 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: SUNITA SOUZA        Emp ID: 30396
-Position: Library assistant
-Pay Period: 11/14/2025 - 11/28/2025     Pay Date: 12/03/2025
-Pay Frequency: Semi-Monthly
+Employee: JOSEFINA IYER        Emp ID: 33618
+Position: Guest services
+Pay Period: 07/16/2025 - 07/22/2025     Pay Date: 07/27/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       959.30     22,063.90
-GROSS PAY                                    959.30     22,063.90
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.59      8.00         148.72      4,461.60
+ GROSS PAY                                    148.72      4,461.60
 DEDUCTIONS
-  Federal Income Tax                        57.55
-   Social Security                           59.47
-   Medicare                                  13.91
-  CA SDI                                    10.55
-NET PAY                                    817.82
---------------------------------------------------------------
+  Federal Income Tax                         7.43
+  Social Security                            9.22
+  Medicare                                   2.15
+  CA SDI                                     1.63
+NET PAY                                    128.29
+   --------------------------------------------------------------
 
-RECEIVED DEC 27 2025  - mailroom
+RECEIVED AUG 06 2025  - mailroom

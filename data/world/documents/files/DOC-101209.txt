@@ -1,19 +1,21 @@
-   Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-_ _ _ _
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  AHMED DOYLE
-Your social security number: XXX-XX-3788
-Dependents: 0
- Income
-     1a  Total amount from Form(s) W-2, box 1 ...........    21,669.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    21,669.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    21,669.00
- 12  Standard deduction ..............................    21,900.00
+POINT CORRIN BOATWORKS
+5356 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA ZHANG        Emp ID: 13422
+P0sition: Mechanic
+    Pay Period: 10/08/2025 - 11/06/2025     Pay Date: 11/11/2025
+Pay Frequency: Monthly
+   --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular              48.33    173.33       8,377.04     92,147.44
+GROSS PAY                                  8,377.04     92,147.44
+    DEDUCTIONS
+| |   .
+  Federal Income Tax                       670.16
+      Social Security                          519.37
+  Medicare                                 121.46
+   CA SDI                                    92.14
+NET PAY                                  6,973.91
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Ahmed Doyle         Date: 04/10/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/16/2026]
+FAX RECEIVED 11/18/2025 10:46   P.01

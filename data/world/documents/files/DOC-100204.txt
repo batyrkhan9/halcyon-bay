@@ -1,20 +1,21 @@
-ELLERY HARDWARE SUPPLY
-9144 INDUSTRIAL WAY   CA
-                           EARNINGS STATEMENT
-  Employee: VALERIA FALEOLO        Emp ID: 94032
-Position: Sales associate
-Pay Period: 03/25/2025 - 04/08/2025     Pay Date: 04/13/2025
-Pay Frequency: Semi-Monthly
+  MIRADOR GROCERY CO-OP
+5963 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: EDUARDO ZHOU        Emp ID: 48568
+Position: Cashier
+Pay Period: 01/20/2025 - 02/02/2025     Pay Date: 02/07/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,594.37     11,160.59
-GROSS PAY                                  1,594.37     11,160.59
-DEDUCTIONS
-  Federal Income Tax                       111.60
-  Social Security                           98.85
-    Medicare                                  23.11
-  CA SDI                                    17.53
-NET PAY                                  1,343.28
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       818.20      2,454.60
+GROSS PAY                                    818.20      2,454.60
+ DEDUCTIONS
+  Federal Income Tax                        32.72
+_ _ _ _
+  Social 5ecurity                           50.72
+  Medicare                                  11.86
+  CA SDI                                     9.00
+  NET PAY                                    713.90
 --------------------------------------------------------------
 
-RECEIVED APR 19 2025  - mailroom
+RECEIVED FEB 12 2025  - mailroom

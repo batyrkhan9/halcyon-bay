@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-4013 COMMERCE WAY   CA
+PACIFIC RIM JANITORIAL
+4713 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KEONI RAO        Emp ID: 25997
-Position: Housekeeper
-Pay Period: 06/12/2026 - 06/25/2026     Pay Date: 06/30/2026
+Employee: H0A DESAI        Emp ID: 73051
+Position: Custodian
+Pay Period: 11/28/2025 - 12/11/2025      Pay Date: 12/16/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            134.85     80.00      10,788.00    140,244.00
- GROSS PAY                                 10,788.00    140,244.00
-    DEDUCTIONS
-  Federal Income Tax                       647.28
-  Social Security                          668.85
-    Medicare                                 156.42
-  CA SD1                                   118.66
-NET PAY                                  9,196.79
-   --------------------------------------------------------------
+    Salary                                     3,078.89     76,972.25
+GROSS PAY                                  3,078.89     76,972.25
+DEDUCTIONS
+  Federal Income Tax                       307.88
+  S0cial Security                          190.89
+  Medicare                                  44.64
+  CA SDI                                    33.86
+NET PAY                                   2,501.62
+--------------------------------------------------------------
 
--- scanned 07/12/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/12/2026]

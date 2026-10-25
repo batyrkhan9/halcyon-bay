@@ -1,17 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-7324 HARBOR ST
+GOLDEN HOUR SENIOR LIVING
+8908 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN CORTEZ        Emp ID: 87583
+Position: Caregiver
+Pay Period: 08/05/2025 - 08/11/2025     Pay Date: 08/16/2025
+    Pay Frequency: Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,229.09     40,559.97
+GROSS PAY                                  1,229.09     40,559.97
+DEDUCTIONS
+     Federal Income Tax                        98.32
+  Social Security                           76.20
+  Medicare                                  17.82
+  CA SDI                                    13.52
+ NET PAY                                  1,023.23
+ --------------------------------------------------------------
 
-  February 21, 2026
-
-To Whom It May Concern:
-_ _ _ _
-
-This letter confirms that Brenda Nasser has been employed with Vista Serena Medical Offices since
-April 2021 in the position of Medica1 receptionist. Their rate of pay is $145.15 per hour, for a regular schedule of 20 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Rogelio Williams
-    Human Resources
-
-FAX RECEIVED 03/03/2026 10:36   P.01
+-- scanned 09/06/2025 HBCH mailroom  pg 1/1 --

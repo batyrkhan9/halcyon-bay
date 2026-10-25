@@ -1,0 +1,20 @@
+ ELLERY HARDWARE SUPPLY
+5890 INDU5TRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROHAN THOMPSON        Emp ID: 22783
+Position: Sales associate
+Pay Period: 04/26/2025 - 05/25/2025     Pay Date: 05/30/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,393.83     26,969.15
+GROSS PAY                                  5,393.83     26,969.15
+DEDUCTIONS
+  Federal Income Tax                       593.32
+  Social Security                          334.41
+  Medicare                                  78.21
+  CA SDI                                    59.33
+NET PAY                                  4,328.56
+--------------------------------------------------------------
+
+RECEIVED JUN 06 2025  - mailroom

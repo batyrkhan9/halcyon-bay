@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+1527 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: KAI 5ANCHEZ        Emp ID: 35900
+Position: Medical receptionist
+Pay Period: 06/02/2025 - 07/01/2025     Pay Date: 07/06/2025
+Pay Frequency: Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.58     79.75       1,481.76     10,372.32
+GROSS PAY                                  1,481.76     10,372.32
+DEDUCTIONS
+  Federal Income Tax                       162.99
+  Social Security                           91.86
+  Medicare                                  21.48
+  CA SDI                                    16.29
+NET PAY                                  1,189.14
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/10/2025]

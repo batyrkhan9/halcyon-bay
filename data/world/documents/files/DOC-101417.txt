@@ -1,20 +1,17 @@
-PORT ELLERY CANNERY CO
-5054 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-   Employee: TYLER MEHTA        Emp ID: 33079
-   Position: Line worker
-   Pay Period: 06/10/2026 - 06/23/2026     Pay Date: 06/28/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.85     35.00         659.75      8,576.75
-GROSS PAY                                    659.75      8,576.75
-    DEDUCTIONS
-  Federal Income Tax                        52.78
-  Social Security                           40.90
-  Medicare                                   9.56
-  CA SDI                                     7.25
-NET PAY                                    549.26
---------------------------------------------------------------
+5EASIDE COMMUNITY CREDIT UNION
+Statement Period 01/01/2026 - 01/31/2026
+Member: CALEB JONES-MURPHY       Account ending 6064
 
-FAX RECEIVED 07/21/2026 10:56   P.01
+   CHECKING SUMMARY
+  Beginning balance              994.43
+  Deposits                       921.66
+  Withdrawals                   -949.30
+   Ending balance                 966.79
+
+    DEPOSITS AND CREDITS
+  01/31  PAYROLL DIR DEP HARBOR POINT HOTEL         460.83
+  01/17  PAYROLL DIR DEP HARBOR POINT HOTEL         460.83
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/06/2026]

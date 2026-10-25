@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+8669 HARBOR WAY    CA
+                            EARNINGS STATEMENT
+    Employee: RAVI JONES        Emp ID: 21158
+  Position: Guest services
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.24     86.67       3,054.25     39,705.25
+GROSS PAY                                  3,054.25     39,705.25
+DEDUCTIONS
+  Federal Income Tax                       122.17
+  Social Security                          189.36
+  Medicare                                  44.28
+  CA SDI                                    33.59
+NET PAY                                  2,664.85
+--------------------------------------------------------------
+
+FAX RECEIVED 07/24/2026 10:58   P.01

@@ -1,21 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-2413 HARBOR WAY   CA
+SUNSET COAST HOME CARE
+9275 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA MOORE        Emp ID: 72627
-Position: Line cook
-   Pay Period: 07/13/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+Employee: OLIVIA XU        Emp ID: 35534
+   Position: Home care aide
+Pay Period: 03/02/2026 - 03/15/2026     Pay Date: 03/20/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.94     77.50       1,312.85     19,692.75
-GROSS PAY                                  1,312.85     19,692.75
-~ ~ .  ,
+Regular             23.45     80.00       1,876.00     11,256.00
+  . : .
+GROSS PAY                                  1,876.00     11,256.00
 DEDUCTIONS
-  Federal Income Tax                       131.28
-    Social Security                           81.39
-     Medicare                                  19.03
-    CA SDI                                    14.44
-NET PAY                                  1,066.71
+  Federal Income Tax                       168.84
+  Social Security                          116.31
+  Medicare                                  27.20
+  CA SDI                                    20.63
+NET PAY                                   1,543.02
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/15/2026]
+-- scanned 04/18/2026 HBCH mailroom  pg 1/1 --

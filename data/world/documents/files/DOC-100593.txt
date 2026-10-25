@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+   6494 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: DYLAN DOYLE        Emp ID: 24147
+Position: Line worker
+Pay Period: 04/05/2025 - 05/04/2025     Pay Date: 05/09/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+Salary                                     1,576.15      7,880.75
+GROSS PAY                                  1,576.15      7,880.75
+DEDUCTIONS
+  Federal Income Tax                       110.33
+  Social Security                           97.72
+  Medicare                                  22.85
+   CA SDI                                    17.33
+NET PAY                                  1,327.92
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/27/2025]

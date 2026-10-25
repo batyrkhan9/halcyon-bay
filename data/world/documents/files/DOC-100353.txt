@@ -1,21 +1,21 @@
-ARROYO VERDE NURSERY
-_ _ _ _
- 9916 MARKET WAY   CA
+  BLUE KELP SOFTWARE LLC
+  1560 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: DAVID DIAZ        Emp ID: 58530
-   Position: Nursery worker
-Pay Period: 04/29/2025 - 05/12/2025     Pay Date: 05/17/2025
-  Pay Frequency: Bi-Weekly
+Employee: TYLER FREEMAN        Emp ID: 21220
+Position: Software engineer
+Pay Period: 02/23/2025 - 03/08/2025     Pay Date: 03/13/2025
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.58     53.50         994.03      9,940.30
-GROSS PAY                                    994.03      9,940.30
-  DEDUCTIONS
-  Federal Income Tax                        39.76
-  Social Security                           61.63
-  Medicare                                  14.41
-  CA SDI                                    10.93
-NET PAY                                    867.30
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       999.67      5,998.02
+GROSS PAY                                    999.67      5,998.02
+_ _ _ _
+DEDUCTIONS
+  Federal Income Tax                        49.98
+      Social Security                           61.98
+  Medicare                                  14.49
+  CA SDI                                    10.99
+NET PAY                                    862.23
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/09/2025]
+FAX RECEIVED 03/20/2025 10:23   P.01

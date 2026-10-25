@@ -1,20 +1,17 @@
-VISTA SERENA MEDICAL OFFICES
- 1494 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-   Employee: GARY COLEMAN        Emp ID: 14463
-Position: Medical receptionist
-Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
-Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.39     80.00       1,711.20     27,379.20
-GROSS PAY                                  1,711.20     27,379.20
-DEDUCTIONS
-  Federal Income Tax                       136.89
-      Social Security                          106.09
-  Medicare                                  24.81
-  CA SDI                                    18.82
-NET PAY                                  1,424.59
-   --------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 04/01/2026 - 04/30/2026
+Member: MARIA MEHTA       Account ending 4764
 
-FAX RECEIVED 08/30/2026 10:29   P.01
+CHECKING SUMMARY
+  Beginning balance            1,261.98
+  Deposits                     6,372.28
+  Withdrawals                 -6,563.44
+  Ending balance               1,070.82
+
+DEPOS1TS AND CREDITS
+     05/03  PAYROLL DIR DEP CALDER FREIGHT LIN       3,186.14
+  04/19  PAYROLL DIR DEP CALDER FREIGHT LIN       3,186.14
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED MAY 13 2026  - mailroom

@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-5455 INDUSTRIAL WAY   CA
+BAYLINE LOGISTICS INC
+9287 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIA HUANG        Emp ID: 56826
-Position: Sales associate
-Pay Period: 08/13/2026 - 08/27/2026     Pay Date: 09/01/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
-Salary                                       605.62     10,295.54
-   GROSS PAY                                    605.62     10,295.54
-DEDUCTION5
-  Federal Income Tax                        48.44
-  Social Security                           37.54
-  Medicare                                   8.78
-  CA SDI                                     6.66
-NET PAY                                    504.20
---------------------------------------------------------------
+Employee: FRANK CHOI        Emp ID: 86639
+Position: Warehouse associate
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Salary                                     1,516.00     19,708.00
+GROSS PAY                                  1,516.00     19,708.00
+DEDUCTIONS
+  Federal Income Tax                        90.96
+  Social Security                           93.99
+   Medicare                                  21.98
+  CA SDI                                    16.67
+ NET PAY                                  1,292.40
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/15/2026]
+FAX RECEIVED 07/13/2026 10:13   P.01

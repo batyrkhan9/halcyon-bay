@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+6050 MARKET WAY   CA
+  . : .
+                         EARNINGS STATEMENT
+Employee: ETHAN KOWALSKI        Emp ID: 17590
+Position: Library assistant
+Pay Period: 03/31/2026 - 04/14/2026      Pay Date: 04/19/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       662.54      5,300.32
+GROSS PAY                                    662.54      5,300.32
+  DEDUCTIONS
+  Federal Income Tax                        26.50
+  Social Security                           41.07
+  Medicare                                   9.60
+  CA SDI                                     7.28
+NET PAY                                    578.09
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

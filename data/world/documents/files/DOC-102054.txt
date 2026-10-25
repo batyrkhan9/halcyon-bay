@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-7438 INDUSTRIAL WAY   CA
+TIDEWATER CONSTRUCTION
+3798 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: HOA LIU        Emp ID: 91538
-Position: Technician
-Pay Period: 08/20/2026 - 09/02/2026     Pay Date: 09/07/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             70.36     80.00       5,628.80    101,318.40
-GROSS PAY                                  5,628.80    101,318.40
-DEDUCT1ONS
-  Federal Income Tax                       281.44
-  . : .
-  Social Security                          348.98
-  Medicare                                  81.61
-    CA SDI                                    61.91
-   NET PAY                                  4,854.86
-    --------------------------------------------------------------
+Employee: FRANCISCO DO        Emp ID: 26906
+   Position: Laborer
+Pay Period: 06/30/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Weekly
+ --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       614.74     17,212.72
+GRO5S PAY                                    614.74     17,212.72
+DEDUCTIONS
+  Federal Income Tax                        67.62
+   Social Security                           38.11
+  Medicare                                   8.91
+  CA SDI                                     6.76
+NET PAY                                    493.34
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/22/2026]
+FAX RECEIVED 07/18/2026 10:41   P.01

@@ -1,20 +1,21 @@
-POINT CORRIN BOATWORKS
-3677 INDUSTRIAL WAY   CA
-                           EARNINGS STATEMENT
-Employee: JAE HERNANDEZ        Emp ID: 44761
-Position: Mechanic
-Pay Period: 05/19/2025 - 06/17/2025     Pay Date: 06/22/2025
-Pay Frequency: Monthly
+PACIFIC RIM JANITORIAL
+_ _ _ _
+    4818 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ESPERANZA PHAM        Emp ID: 58742
+Position: Custodian
+Pay Period: 02/17/2025 - 03/02/2025     Pay Date: 03/07/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,032.97      6,197.82
-    GROSS PAY                                  1,032.97      6,197.82
+Regular              34.04     80.00       2,723.20     13,616.00
+GROSS PAY                                   2,723.20     13,616.00
 DEDUCTIONS
-  Federal Income Tax                        41.31
-  Social Security                           64.04
-  Medicare                                  14.97
-  CA SDI                                    11.36
-NET PAY                                    901.29
+   Federal Income Tax                       245.08
+  Social Security                          168.83
+  Medicare                                  39.48
+  CA SDI                                    29.95
+NET PAY                                  2,239.86
 --------------------------------------------------------------
 
-RECEIVED JUN 25 2025  - mailroom
+RECEIVED APR 06 2025  - mailroom

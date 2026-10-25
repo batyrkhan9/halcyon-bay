@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+ 6109 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: HUNG KING        Emp ID: 93115
+Position: Driver
+Pay Period: 04/02/2025 - 04/08/2025      Pay Date: 04/13/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             16.99     26.75         454.48      6,817.20
+    GROSS PAY                                    454.48      6,817.20
+   DEDUCTIONS
+  Federal Income Tax                        22.72
+  Social Security                           28.17
+  Medicare                                   6.59
+  CA SDI                                     4.99
+    NET PAY                                    392.01
+--------------------------------------------------------------
+
+FAX RECEIVED 04/18/2025 10:30   P.01

@@ -1,0 +1,21 @@
+ BAYLINE LOGISTICS INC
+4335 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: ANDREW LOPEZ        Emp ID: 71229
+Position: Warehouse associate
+Pay Period: 07/29/2026 - 08/11/2026     Pay Date: 08/16/2026
+_ _ _ _
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,450.96     24,666.32
+GROSS PAY                                  1,450.96     24,666.32
+DEDUCTIONS
+  Federal Income Tax                       101.56
+  Social Security                           89.96
+  Medicare                                  21.03
+  CA SDI                                    15.96
+NET PAY                                  1,222.45
+--------------------------------------------------------------
+
+FAX RECEIVED 09/07/2026 10:15   P.01

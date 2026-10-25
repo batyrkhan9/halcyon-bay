@@ -1,21 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-4467 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+    4428 C0MMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: CHRISTOPHER SCOTT        Emp ID: 46773
-   Position: Caregiver
-Pay Period: 02/22/2026 - 03/08/2026     Pay Date: 03/13/2026
-Pay Frequency: Semi-Monthly
+Employee: TUAN MCCARTHY        Emp ID: 42034
+ Position: Cust0dian
+    Pay Period: 08/22/2025 - 09/04/2025     Pay Date: 09/09/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-| |   .
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             49.30     86.67       4,272.83     21,364.15
-GROSS PAY                                  4,272.83     21,364.15
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             34.39     80.00       2,751.20     49,521.60
+GROSS PAY                                  2,751.20     49,521.60
 DEDUCTIONS
-  Federal Income Tax                       299.09
-  Social Security                          264.91
-  Medicare                                  61.95
-  CA SDI                                    47.00
-NET PAY                                  3,599.88
+  Federal Income Tax                       137.56
+  Social Security                          170.57
+  Medicare                                  39.89
+  CA SDI                                    30.26
+NET PAY                                  2,372.92
 --------------------------------------------------------------
 
-RECEIVED APR 10 2026  - mailroom
+FAX RECEIVED 10/06/2025 10:35   P.01

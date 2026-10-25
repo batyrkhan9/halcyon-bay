@@ -1,0 +1,21 @@
+    SUNSET COAST HOME CARE
+1717 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: JOSE SUZUKI        Emp ID: 34327
+Position: Home care aide
+Pay Period: 07/11/2026 - 07/24/2026     Pay Date: 07/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             36.89     80.00       2,951.20     44,268.00
+GROSS PAY                                  2,951.20     44,268.00
+DEDUCTIONS
+  Federal Income Tax                       147.56
+     Social Security                          182.97
+  Medicare                                  42.79
+    CA SDI                                    32.46
+| |   .
+NET PAY                                  2,545.42
+--------------------------------------------------------------
+
+-- scanned 08/02/2026 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,20 @@
-BLUE KELP SOFTWARE LLC
-_ _ _ _
-4251 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: KIM L1N        Emp ID: 78557
-  Position: S0ftware engineer
-Pay Period: 08/21/2026 - 09/03/2026     Pay Date: 09/08/2026
+ SANTA LUCITA FARMS
+326 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: GUADALUPE VASQUEZ        Emp ID: 20850
+Position: Field supervisor
+Pay Period: 05/21/2026 - 06/03/2026      Pay Date: 06/08/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.18     80.00       3,054.40     54,979.20
-GROSS PAY                                  3,054.40     54,979.20
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     9,642.66    115,711.92
+GROSS PAY                                  9,642.66    115,711.92
 DEDUCTIONS
-  Federal Income Tax                       122.17
-  Social Security                          189.37
-  Medicare                                  44.28
-  CA SDI                                    33.59
-NET PAY                                  2,664.99
---------------------------------------------------------------
+    Federal Income Tax                       867.83
+  Social Security                          597.84
+  Medicare                                 139.81
+   CA SDI                                   106.06
+NET PAY                                  7,931.12
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+RECEIVED JUL 21 2026  - mailroom

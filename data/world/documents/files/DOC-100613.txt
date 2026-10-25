@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+1626 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILANI JOSHI        Emp 1D: 32091
+Position: Library assistant
+Pay Period: 05/04/2025 - 05/17/2025     Pay Date: 05/22/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             92.07     80.00       7,365.60     81,021.60
+_ _ _ _
+  GROSS PAY                                  7,365.60     81,021.60
+DEDUCTIONS
+  Federal Income Tax                       736.56
+  Social Security                          456.66
+  Medicare                                 106.80
+  CA SDI                                    81.02
+NET PAY                                  5,984.56
+--------------------------------------------------------------
+
+-- scanned 05/31/2025 HBCH mailroom  pg 1/1 --

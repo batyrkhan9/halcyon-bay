@@ -1,0 +1,21 @@
+ LAS BRISAS RESTAURANT GR0UP
+393 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: OMAR MITCHELL        Emp ID: 27461
+| |   .
+    Position: Line cook
+Pay Period: 03/03/2025 - 03/16/2025     Pay Date: 03/21/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.45     61.75       1,139.29      6,835.74
+GROSS PAY                                  1,139.29      6,835.74
+DEDUCTIONS
+  Federal Income Tax                        45.57
+  Social Security                           70.63
+   Medicare                                  16.52
+  CA SDI                                    12.53
+NET PAY                                    994.04
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/03/2025]

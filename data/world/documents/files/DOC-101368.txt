@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+    413 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+Employee: RAJNI COLEMAN        Emp ID: 98477
+Position: Nursery worker
+Pay Period: 12/22/2025 - 12/28/2025     Pay Date: 01/02/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.07     23.00         415.61        415.61
+  . : .
+GROSS PAY                                    415.61        415.61
+DEDUCTIONS
+  Federal Income Tax                        16.62
+  Social Security                           25.76
+  Medicare                                   6.02
+  CA SDI                                     4.57
+NET PAY                                    362.64
+--------------------------------------------------------------
+
+FAX RECEIVED 01/26/2026 10:57   P.01

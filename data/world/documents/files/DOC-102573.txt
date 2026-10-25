@@ -1,0 +1,20 @@
+ OTTER BAY AQUARIUM
+ 7797 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA PHAM        Emp ID: 41795
+P0sition: Guest services
+Pay Period: 07/20/2026 - 08/03/2026     Pay Date: 08/08/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     2,268.30     34,024.50
+GROSS PAY                                  2,268.30     34,024.50
+DEDUCTIONS
+   Federal Income Tax                       249.51
+  Social Security                          140.63
+  Medicare                                  32.89
+      CA SDI                                    24.95
+NET PAY                                  1,820.32
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/20/2026]

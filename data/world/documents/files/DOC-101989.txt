@@ -1,17 +1,21 @@
-    COASTLINE SAVINGS BANK
-Statement Period 09/01/2026 - 09/10/2026
-Member: SUNITA FALEOLO       Account ending 2713
+BAYLINE LOGISTICS INC
+446 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANK CHOI        Emp ID: 86639
+Position: Warehouse associate
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,516.00     21,224.00
+GROSS PAY                                  1,516.00     21,224.00
   . : .
+  DEDUCTIONS
+  Federal Income Tax                       121.28
+  Social Security                           93.99
+  Medicare                                  21.98
+  CA SDI                                    16.67
+NET PAY                                  1,262.08
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,140.84
-  Deposits                       948.67
-  Withdrawals                   -986.61
-  Ending balance               2,102.90
-
-DEPOSITS AND CREDITS
-  09/10  PAYROLL DIR DEP HARBOR POINT HOTEL         948.67
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED SEP 15 2026  - mailroom
+-- scanned 07/13/2026 HBCH mailroom  pg 1/1 --

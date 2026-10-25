@@ -1,0 +1,21 @@
+COASTAL VALLEY ENERGY
+9493 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: TANISHA PETROV        Emp ID: 20100
+Position: Fie1d technician
+Pay Period: 04/11/2025 - 04/24/2025     Pay Date: 04/29/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             41.17     80.00       3,293.60     29,642.40
+| |   .
+GROSS PAY                                  3,293.60     29,642.40
+    DEDUCTIONS
+  Federal Income Tax                       230.55
+  Social Security                          204.20
+  Medicare                                  47.75
+     CA SDI                                    36.23
+NET PAY                                  2,774.87
+--------------------------------------------------------------
+
+FAX RECEIVED 05/30/2025 10:38   P.01

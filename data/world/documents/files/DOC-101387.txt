@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-  575 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: FRANK QUINN        Emp ID: 54800
-Position: Custodian
-Pay Period: 06/24/2026 - 07/08/2026     Pay Date: 07/13/2026
-Pay Frequency: Semi-Monthly
+HARBOR POINT HOTEL
+1784 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: RAJNI O'BRIEN        Emp ID: 97164
+Position: Housekeeper
+Pay Period: 12/30/2025 - 01/12/2026     Pay Date: 01/17/2026
+Pay Frequency: Bi-Weekly
  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,966.24     25,561.12
-GROSS PAY                                  1,966.24     25,561.12
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             19.72     80.00       1,577.60      3,155.20
+GROSS PAY                                  1,577.60      3,155.20
 DEDUCTIONS
-~ ~ .  ,
-  Federal Income Tax                       196.62
-  Social Security                          121.90
-   Medicare                                  28.51
-  CA SDI                                    21.62
-NET PAY                                  1,597.59
+  Federal Income Tax                        78.88
+  Social Security                           97.81
+  Medicare                                  22.87
+  CA SDI                                    17.35
+_ _ _ _
+NET PAY                                  1,360.69
 --------------------------------------------------------------
 
-FAX RECEIVED 07/18/2026 10:39   P.01
+FAX RECEIVED 02/02/2026 10:52   P.01

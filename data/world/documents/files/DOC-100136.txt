@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-5314 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Empl0yee: LE1LA ADAMS-JOSHI        Emp ID: 42385
-Position: Sales associate
-    Pay Period: 02/07/2025 - 02/21/2025     Pay Date: 02/26/2025
+POINT CORRIN BOATWORKS
+1551 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: CARMEN COLEMAN        Emp ID: 42107
+   Position: Mechanic
+Pay Period: 01/07/2025 - 01/21/2025     Pay Date: 01/26/2025
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,126.49      4,505.96
- GROSS PAY                                  1,126.49      4,505.96
-   DEDUCTIONS
-      Federal Income Tax                        45.05
-  Social Security                           69.84
-  Medicare                                  16.33
-  CA SDI                                    12.39
- NET PAY                                    982.88
+Regular             73.92     86.67       6,406.65     12,813.30
+GROSS PAY                                  6,406.65     12,813.30
+DEDUCTIONS
+  Federal Income Tax                       576.59
+  Socia1 Security                          397.21
+  Medicare                                  92.89
+  CA SDI                                    70.47
+NET PAY                                  5,269.49
 --------------------------------------------------------------
 
-RECEIVED MAR 26 2025  - mailroom
+FAX RECEIVED 01/30/2025 10:31   P.01

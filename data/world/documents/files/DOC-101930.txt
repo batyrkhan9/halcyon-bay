@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-    2819 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE SULLIVAN-MEHTA        Emp ID: 89437
-Position: Guest services
-Pay Period: 08/15/2026 - 08/21/2026      Pay Date: 08/26/2026
-Pay Frequency: Weekly
+ARROYO VERDE NURSERY
+4742 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: LUIS GARCIA        Emp ID: 53427
+Position: Nursery worker
+Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       942.09     32,031.06
-GROSS PAY                                     942.09     32,031.06
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.77     58.75       1,043.99     12,527.88
+GROSS PAY                                  1,043.99     12,527.88
 DEDUCTIONS
-  Federal Income Tax                       103.62
-  Social Security                           58.41
-  Medicare                                  13.66
-  CA SDI                                    10.36
-    NET PAY                                    756.04
---------------------------------------------------------------
+  Federal Income Tax                        62.63
+  Social Security                           64.72
+  Medicare                                  15.13
+  CA SDI                                    11.48
+NET PAY                                    890.03
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]
+FAX RECEIVED 07/06/2026 10:30   P.01

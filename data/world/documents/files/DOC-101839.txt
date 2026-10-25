@@ -1,20 +1,21 @@
-OTTER BAY AQUARIUM
-    3655 COMMERCE WAY   CA
+MIRADOR GROCERY CO-OP
+9273 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MEGAN YOUNG        Emp ID: 96079
-Position: Guest services
-Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+Employee: TERRELL MOORE        Emp ID: 14307
+  Position: Cashier
+  Pay Period: 04/20/2026 - 05/03/2026     Pay Date: 05/08/2026
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-    EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             16.92     61.75       1,044.81     17,761.77
-GROSS PAY                                  1,044.81     17,761.77
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             21.64     80.00       1,731.20     17,312.00
+GROSS PAY                                  1,731.20     17,312.00
+  . : .
 DEDUCTIONS
-  Federal Income Tax                        62.68
-  Social Security                           64.77
-  Medicare                                  15.15
-  CA SDI                                    11.49
-NET PAY                                     890.72
+  Federal Income Tax                       138.49
+  Social Security                          107.33
+  Medicare                                  25.10
+  CA SDI                                    19.04
+NET PAY                                  1,441.24
 --------------------------------------------------------------
 
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/31/2026 10:30   P.01

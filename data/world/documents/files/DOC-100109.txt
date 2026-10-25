@@ -1,20 +1,18 @@
-SEASIDE DENTAL GROUP
-4100 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: DONNA LOPEZ        Emp ID: 99199
-Position: Dental assistant
-Pay Period: 02/12/2025 - 02/25/2025     Pay Date: 03/02/2025
-  Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.28     80.00       2,262.40     11,312.00
-GROSS PAY                                  2,262.40     11,312.00
-DEDUCTIONS
-  Federal Income Tax                       248.86
-  Social Security                          140.26
-    Medicare                                  32.80
-  CA SDI                                    24.88
-NET PAY                                  1,815.60
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 12/01/2024 - 12/31/2024
+Member: JIAN NOVAK       Account ending 9840
 
-FAX RECEIVED 03/10/2025 10:59   P.01
+CHECKING SUMMARY
+   Beginning balance            1,865.28
+  Deposits                     6,534.78
+  Withdrawals                 -6,534.78
+  Ending balance               1,865.28
+
+DEPOSITS AND CREDITS
+     12/31  PAYROLL DIR DEP ARROYO VERDE NURSE       3,267.39
+  12/17  PAYROLL DIR DEP ARROYO VERDE NURSE       3,267.39
+  . : .
+
+    Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JAN 15 2025  - mailroom

@@ -1,0 +1,20 @@
+HALCYON BAY COMMUNITY HOSPITAL
+ 968 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: TOMAS BRANDT        Emp ID: 58826
+   Position: Financial counselor
+Pay Period: 07/05/2026 - 07/11/2026     Pay Date: 07/16/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,662.69     48,218.01
+GRO5S PAY                                  1,662.69     48,218.01
+DEDUCTIONS
+      Federal Income Tax                       182.89
+     Social Security                          103.08
+    Medicare                                  24.10
+      CA SDI                                    18.29
+NET PAY                                  1,334.33
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/30/2026]

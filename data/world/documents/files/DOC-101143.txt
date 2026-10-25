@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+2931 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+    Employee: DESTINY XU        Emp ID: 23639
+Position: Technician
+Pay Period: 09/10/2025 - 09/24/2025     Pay Date: 09/29/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regu1ar             16.54     75.00       1,240.50     23,569.50
+GROSS PAY                                  1,240.50     23,569.50
+DEDUCTIONS
+    Federal Income Tax                        62.02
+  Social Security                           76.91
+  Medicare                                  17.98
+  CA SDI                                    13.64
+| |   .
+   NET PAY                                  1,069.95
+--------------------------------------------------------------
+
+FAX RECEIVED 10/28/2025 10:48   P.01

@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-9915 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: SARAH PARK        Emp ID: 97086
-Position: Cashier
-Pay Period: 11/25/2025 - 12/08/2025     Pay Date: 12/13/2025
-    Pay Frequency: Bi-Weekly
+ MARISOL CLEANING SERVICES
+1006 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: MAI GUTIERREZ        Emp ID: 72677
+Position: Cleaner
+Pay Period: 07/08/2025 - 07/14/2025     Pay Date: 07/19/2025
+  . : .
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.43     80.00       2,834.40     70,860.00
-GROSS PAY                                  2,834.40     70,860.00
+Regu1ar             33.13     40.00       1,325.20     38,430.80
+GROSS PAY                                  1,325.20     38,430.80
 DEDUCTIONS
-  Federal Income Tax                       311.78
-     Social Security                          175.73
-      Medicare                                  41.09
-  CA SDI                                    31.17
-NET PAY                                  2,274.63
+  Federal Income Tax                       106.01
+  Social Security                           82.16
+  Medicare                                  19.21
+  CA SDI                                    14.57
+NET PAY                                  1,103.25
 --------------------------------------------------------------
 
-FAX RECEIVED 01/27/2026 10:43   P.01
+FAX RECEIVED 08/17/2025 10:57   P.01

@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-7993 COMMERCE WAY   CA
+MARISOL CLEANING SERVICES
+ 255 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: ROBERT IVANOVA        Emp ID: 21169
-Position: Sales associate
-Pay Period: 06/20/2026 - 07/04/2026     Pay Date: 07/09/2026
-Pay Frequency: Semi-Monthly
+Employee: VER0NICA IVANOVA        Emp ID: 95026
+Position: Cleaner
+Pay Period: 02/10/2026 - 03/11/2026     Pay Date: 03/16/2026
+ Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                     8,016.97    104,220.61
-GROSS PAY                                  8,016.97    104,220.61
+Salary                                     6,221.81     18,665.43
+GRO5S PAY                                  6,221.81     18,665.43
 DEDUCTIONS
-  Federal Income Tax                       881.86
-  Social Security                          497.05
-  Medicare                                 116.24
-  CA SDI                                    88.18
-NET PAY                                  6,433.64
+  Federal Income Tax                       497.74
+  Social Security                          385.75
+  Medicare                                  90.21
+  CA SDI                                    68.44
+NET PAY                                   5,179.67
 --------------------------------------------------------------
 
-RECEIVED AUG 03 2026  - mailroom
+-- scanned 03/19/2026 HBCH mailroom  pg 1/1 --

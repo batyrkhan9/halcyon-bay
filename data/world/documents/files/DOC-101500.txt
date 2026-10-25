@@ -1,20 +1,20 @@
 MARISOL CLEANING SERVICES
-3836 INDUSTRIAL WAY   CA
+9284 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ABIGAIL KING        Emp ID: 91305
-Position: Cleaner
-Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
+Employee: JORGE SHAH        Emp ID: 91196
+    Position: Cleaner
+Pay Period: 02/04/2026 - 02/17/2026     Pay Date: 02/22/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             94.29     80.00       7,543.20    105,604.80
-GROSS PAY                                  7,543.20    105,604.80
- DEDUCTIONS
-  Federal Income Tax                       528.02
-   Social Security                          467.67
-  Medicare                                 109.37
-  CA SDI                                    82.97
-NET PAY                                  6,355.17
+Regular             17.73     42.75         757.96      3,031.84
+GROSS PAY                                    757.96      3,031.84
+DEDUCTIONS
+  Federal Income Tax                        53.05
+  Social Security                           46.99
+  Medicare                                  10.99
+  CA SDI                                     8.33
+NET PAY                                    638.60
 --------------------------------------------------------------
 
-RECEIVED JUL 28 2026  - mailroom
+-- scanned 02/28/2026 HBCH mailroom  pg 1/1 --

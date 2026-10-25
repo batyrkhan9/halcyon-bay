@@ -1,0 +1,20 @@
+  POINT CORRIN BOATWORKS
+    1155 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MAI SCOTT        Emp ID: 62365
+Position: Mechanic
+Pay Period: 04/06/2025 - 04/19/2025     Pay Date: 04/24/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,382.48     30,442.32
+GROSS PAY                                  3,382.48     30,442.32
+DEDUCTIONS
+  Federal Income Tax                       304.42
+  Social Security                          209.71
+  Medicare                                  49.04
+  CA SDI                                    37.20
+ NET PAY                                  2,782.11
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/28/2025]

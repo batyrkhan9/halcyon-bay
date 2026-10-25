@@ -1,21 +1,21 @@
-TIDEWATER CONSTRUCTION
-  2173 INDUSTRIAL WAY   CA
+CYPRESS FLATS AUTO BODY
+7453 MARKET WAY    CA
+  . : .
                          EARNINGS STATEMENT
-Employee: XIMENA FALEOLO        Emp ID: 42527
-Position: Laborer
-Pay Period: 03/22/2026 - 04/05/2026     Pay Date: 04/10/2026
+   Employee: DESTINY XU        Emp ID: 23639
+Position: Technician
+Pay Period: 09/25/2025 - 10/09/2025     Pay Date: 10/14/2025
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-| |   .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             23.90     86.67       2,071.41     14,499.87
-GROSS PAY                                  2,071.41     14,499.87
+Regular             16.54     75.00       1,240.50     24,810.00
+GROSS PAY                                  1,240.50     24,810.00
 DEDUCTIONS
-  Federal Income Tax                        82.85
-  S0cial Security                          128.42
-  Medicare                                  30.03
-  CA SDI                                    22.78
-NET PAY                                   1,807.33
+      Federal Income Tax                       136.45
+  Social Security                           76.91
+  Medicare                                  17.98
+  CA SDI                                    13.64
+NET PAY                                    995.52
 --------------------------------------------------------------
 
-RECEIVED MAY 12 2026  - mailroom
+-- scanned 10/28/2025 HBCH mailroom  pg 1/1 --

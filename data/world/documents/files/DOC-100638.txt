@@ -1,21 +1,10 @@
-SEASIDE DENTAL GROUP
-7255 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: LINDA IVANOVA        Emp ID: 81489
-Position: Dental assistant
-Pay Period: 08/18/2025 - 08/31/2025     Pay Date: 09/05/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-_ _ _ _
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             59.70     80.00       4,776.00     85,968.00
-GROSS PAY                                  4,776.00     85,968.00
-DEDUCTIONS
-  Federal Income Tax                       286.56
-   Social Security                          296.11
-  Medicare                                  69.25
-  CA SDI                                    52.53
-NET PAY                                  4,071.55
---------------------------------------------------------------
+SOCIAL SECURITY ADMINISTRATION
+  Retirement, Survivors and Disability Insurance
+Date: 04/27/2025
+   EDUARDO SILVA
 
-RECEIVED SEP 23 2025  - mailroom
+This letter is proof of the benefits you receive.
+Beginning December 2024, the full monthly Social Security benefit is $3,117.30.
+We deduct $0.00 for medical insurance premiums each month.
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/05/2025]

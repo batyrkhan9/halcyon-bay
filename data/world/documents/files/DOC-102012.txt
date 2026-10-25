@@ -1,20 +1,21 @@
-    LAS BRISAS RESTAURANT GROUP
-7945 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: JOSE QUINN        Emp ID: 57435
-Position: Line cook
-Pay Period: 08/24/2026 - 09/07/2026     Pay Date: 09/12/2026
-  Pay Frequency: Semi-Monthly
+TIDEWATER CONSTRUCTION
+6562 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+   Employee: CALEB MARTINEZ        Emp ID: 61500
+Position: Laborer
+Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                       550.16      9,352.72
-   GROSS PAY                                    550.16      9,352.72
-  DEDUCTIONS
-    Federal Income Tax                        27.50
-  Social Security                           34.11
-  Medicare                                   7.97
-   CA SDI                                     6.05
-NET PAY                                    474.53
-   --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              93.33     80.00       7,466.40    104,529.60
+GROSS PAY                                  7,466.40    104,529.60
+~ ~ .  ,
+DEDUCTIONS
+  Federal Income Tax                       373.32
+  Social Security                          462.91
+  Medicare                                 108.26
+  CA SDI                                    82.13
+NET PAY                                  6,439.78
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/19/2026]
+RECEIVED JUL 15 2026  - mailroom

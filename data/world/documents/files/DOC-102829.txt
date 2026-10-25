@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+9573 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: OMAR TORRES        Emp ID: 44103
+Position: Mechanic
+Pay Period: 07/24/2026 - 08/22/2026     Pay Date: 08/27/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+| |   .
+Regular             16.78     42.25         708.96      5,671.68
+GROSS PAY                                    708.96      5,671.68
+DEDUCTIONS
+   Federal Income Tax                        28.35
+  Social Security                           43.95
+  Medicare                                  10.28
+  CA SDI                                     7.79
+NET PAY                                    618.59
+--------------------------------------------------------------
+
+-- scanned 09/04/2026 HBCH mailroom  pg 1/1 --

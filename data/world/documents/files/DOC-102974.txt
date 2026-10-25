@@ -1,0 +1,20 @@
+  PORT ELLERY CANNERY CO
+4015 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA BANKS        Emp ID: 57914
+   Position: Line worker
+Pay Period: 07/28/2026 - 08/11/2026     Pay Date: 08/16/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.09     86.67       1,654.53     26,472.48
+   GROSS PAY                                  1,654.53     26,472.48
+   DEDUCTIONS
+      Federal Income Tax                        99.27
+  5ocial Security                          102.58
+  Medicare                                  23.99
+  CA SDI                                    18.20
+NET PAY                                  1,410.49
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]

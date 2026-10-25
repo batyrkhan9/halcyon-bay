@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+    5143 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: MANUEL WA5HINGTON        Emp 1D: 41678
+Position: Medical receptionist
+Pay Period: 03/21/2025 - 04/04/2025     Pay Date: 04/09/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             29.32     86.67       2,541.16     17,788.12
+GROSS PAY                                  2,541.16     17,788.12
+DEDUCTIONS
+  Federal Income Tax                       177.88
+  Social Security                          157.55
+  Medicare                                  36.84
+     CA SDI                                    27.95
+    NET PAY                                  2,140.94
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/22/2025]

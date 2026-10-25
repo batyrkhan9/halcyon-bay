@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+8558 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE WU        Emp ID: 55774
+Position: Technician
+Pay Period: 06/26/2025 - 07/09/2025     Pay Date: 07/14/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.59     80.00       1,327.20     18,580.80
+GROSS PAY                                  1,327.20     18,580.80
+DEDUCTIONS
+  Federal Income Tax                        92.90
+  Social Security                           82.28
+  Medicare                                  19.24
+  . : .
+  CA SDI                                    14.59
+   NET PAY                                  1,118.19
+--------------------------------------------------------------
+
+-- scanned 08/01/2025 HBCH mailroom  pg 1/1 --

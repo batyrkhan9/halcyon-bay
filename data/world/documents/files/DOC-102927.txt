@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS 1NC
+    7054 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN SCOTT        Emp ID: 37397
+Position: Warehouse ass0ciate
+Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,301.87     36,829.92
+GROSS PAY                                  2,301.87     36,829.92
+DEDUCTIONS
+    Federal Income Tax                       253.20
+     Social Security                          142.71
+  Medicare                                  33.37
+  CA SDI                                    25.32
+NET PAY                                  1,847.27
+--------------------------------------------------------------
+
+FAX RECEIVED 09/10/2026 10:50   P.01

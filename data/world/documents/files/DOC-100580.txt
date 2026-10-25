@@ -1,21 +1,21 @@
-ARROYO VERDE NURSERY
-5707 MARKET WAY   CA
-  . : .
-                         EARNINGS STATEMENT
-Employee: YESENIA ROBINSON-KOWALSKI        Emp ID: 10225
-Position: Nursery worker
-Pay Period: 07/26/2025 - 08/01/2025     Pay Date: 08/06/2025
-Pay Frequency: Weekly
+MIRADOR PUBLIC LIBRARY
+ 5229 INDUSTRIAL WAY   CA
+| |   .
+                             EARNINGS STATEMENT
+Employee: DONNA ROBINSON        Emp ID: 10415
+Position: Library assistant
+Pay Period: 04/27/2025 - 05/10/2025     Pay Date: 05/15/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             29.14     40.00       1,165.60     37,299.20
-GROSS PAY                                  1,165.60     37,299.20
+Salary                                       968.03      9,680.30
+GROSS PAY                                    968.03      9,680.30
 DEDUCTIONS
-  Federal Income Tax                       116.56
-  Social Security                           72.26
-  Medicare                                  16.90
-  CA SDI                                    12.82
-NET PAY                                    947.06
---------------------------------------------------------------
+   Federal Income Tax                        58.08
+  Social Security                           60.01
+  Medicare                                  14.03
+  CA SDI                                    10.64
+NET PAY                                    825.27
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2025]
+FAX RECEIVED 05/24/2025 10:15   P.01

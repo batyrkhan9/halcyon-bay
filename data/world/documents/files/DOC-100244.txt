@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+ 1633 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE PHAM        Emp ID: 27103
+Position: Cashier
+Pay Period: 01/26/2025 - 02/01/2025     Pay Date: 02/06/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       616.06      3,696.36
+GROSS PAY                                    616.06      3,696.36
+DEDUCTIONS
+  Federal Income Tax                        24.64
+  Social Security                           38.19
+  Medicare                                   8.93
+  CA SDI                                     6.77
+NET PAY                                    537.53
+--------------------------------------------------------------
+
+FAX RECEIVED 02/26/2025 10:39   P.01

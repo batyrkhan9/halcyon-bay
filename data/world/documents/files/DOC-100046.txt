@@ -1,0 +1,20 @@
+   SEASIDE DENTAL GROUP
+5988 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ROSA HUYNH        Emp ID: 13097
+Position: Dental assistant
+Pay Period: 12/03/2024 - 12/16/2024     Pay Date: 12/21/2024
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             16.68     61.75       1,029.99     26,779.74
+GR0SS PAY                                  1,029.99     26,779.74
+ DEDUCTIONS
+  Federal Income Tax                        61.79
+  Social Security                           63.85
+  Medicare                                  14.93
+   CA SDI                                    11.33
+NET PAY                                    878.09
+--------------------------------------------------------------
+
+FAX RECEIVED 12/26/2024 10:51   P.01

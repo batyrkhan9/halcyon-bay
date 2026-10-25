@@ -1,20 +1,21 @@
-SUNSET COAST HOME CARE
-583 HARBOR WAY   CA
+PACIFIC RIM JANITORIAL
+385 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSEFINA ZHANG        Emp ID: 59590
-  Position: Home care aide
-Pay Period: 08/19/2026 - 09/01/2026     Pay Date: 09/06/2026
+Employee: ALYSSA K1M-GALLAGHER        Emp ID: 81130
+Position: Custodian
+Pay Period: 05/04/2026 - 05/17/2026      Pay Date: 05/22/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      1,354.46     24,380.28
-GROSS PAY                                  1,354.46     24,380.28
+Regular             18.93     80.00       1,514.40     16,658.40
+  . : .
+  GROSS PAY                                  1,514.40     16,658.40
 DEDUCTIONS
-  Federal Income Tax                        81.26
-  Social Security                           83.97
-  Medicare                                  19.64
-  CA SDI                                    14.89
-NET PAY                                  1,154.70
+  Federal Income Tax                       106.00
+  Social Security                           93.89
+    Medicare                                  21.95
+   CA SDI                                    16.65
+NET PAY                                  1,275.91
 --------------------------------------------------------------
 
--- scanned 09/09/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/02/2026]

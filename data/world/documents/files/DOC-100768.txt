@@ -1,21 +1,20 @@
-COASTAL VALLEY ENERGY
- 9157 HARBOR WAY   CA
+    SANTA LUCITA FARMS
+8754 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA DAVIS        Emp ID: 92624
-Position: Field technician
-Pay Period: 10/23/2025 - 11/05/2025     Pay Date: 11/10/2025
-    Pay Frequency: Bi-Weekly
+Employee: BRANDON D0YLE        Emp ID: 19525
+ Position: Field supervisor
+  Pay Period: 06/12/2025 - 06/25/2025     Pay Date: 06/30/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.66     35.75         631.34     14,520.82
-GROSS PAY                                    631.34     14,520.82
+Regular             46.97     80.00       3,757.60     48,848.80
+GR0SS PAY                                  3,757.60     48,848.80
 DEDUCTIONS
-  Federal Income Tax                        44.19
-      Social Security                           39.14
-_ _ _ _
-  Medicare                                   9.15
-  CA SDI                                     6.94
-NET PAY                                    531.92
+  Federal Income Tax                       187.88
+  Social Security                          232.97
+  Medicare                                  54.48
+  CA SDI                                    41.33
+NET PAY                                  3,240.94
 --------------------------------------------------------------
 
-RECEIVED NOV 23 2025  - mailroom
+FAX RECEIVED 07/17/2025 10:47   P.01

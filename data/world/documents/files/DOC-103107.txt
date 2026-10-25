@@ -1,0 +1,20 @@
+  BAYLINE LOGISTICS INC
+9474 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MICHAEL GREEN        Emp ID: 74093
+Position: Warehouse associate
+Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.00     80.00       6,000.00    102,000.00
+GROSS PAY                                  6,000.00    102,000.00
+DEDUCTIONS
+  Federal Income Tax                       540.00
+  Social Security                          372.00
+  Medicare                                  87.00
+  CA SDI                                    66.00
+  NET PAY                                  4,935.00
+  --------------------------------------------------------------
+
+-- scanned 09/24/2026 HBCH mailroom  pg 1/1 --

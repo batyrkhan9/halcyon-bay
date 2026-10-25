@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  MICHAEL WILLIAMS
-Your social security number: XXX-XX-1537
-Dependents: 5
-Income
-  1a  Total amount from Form(s) W-2, box 1 ...........   156,163.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   156,163.00
- 10  Adjustments to income ...........................         0.00
-     11  Adjusted gross income ...........................   156,163.00
- 12   Standard deduction ..............................    21,900.00
+GOLDEN HOUR SENIOR LIVING
+9010 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA NASSER        Emp ID: 77019
+Position: Caregiver
+   Pay Period: 03/06/2025 - 03/20/2025     Pay Date: 03/25/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       760.48      4,562.88
+GROSS PAY                                    760.48      4,562.88
+DEDUCTIONS
+   Federal Income Tax                        68.44
+  Social Security                           47.15
+  Medicare                                  11.02
+  CA SDI                                     8.36
+NET PAY                                    625.51
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Michael Williams        Date: 04/08/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/13/2025]
+FAX RECEIVED 03/31/2025 10:47   P.01

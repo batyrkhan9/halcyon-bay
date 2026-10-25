@@ -1,20 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-7243 INDUSTRIAL WAY   CA
+   CYPRESS FLATS AUTO BODY
+9832 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: LETICIA HERNANDEZ         Emp ID: 46461
- Position: Teacher
-Pay Period: 08/07/2026 - 08/21/2026     Pay Date: 08/26/2026
-  Pay Frequency: Semi-Monthly
+Employee: VIKRAM CLARK        Emp ID: 35563
+Position: Technician
+Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
+Pay Frequency: Bi-Weekly
+_ _ _ _
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             32.77     86.67       2,840.18     45,442.88
-GROSS PAY                                  2,840.18     45,442.88
+Salary                                     3,319.96     46,479.44
+GROSS PAY                                  3,319.96     46,479.44
 DEDUCTIONS
-  Federal Income Tax                       113.60
-  Social Security                          176.09
-  Medicare                                  41.18
-      CA SDI                                    31.24
-NET PAY                                  2,478.07
+   Federal Income Tax                       199.19
+  Socia1 Security                          205.83
+  Medicare                                  48.13
+    CA SDI                                    36.52
+NET PAY                                  2,830.29
 --------------------------------------------------------------
 
-FAX RECEIVED 09/27/2026 10:51   P.01
+RECEIVED JUL 23 2026  - mailroom

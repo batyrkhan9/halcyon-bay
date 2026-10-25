@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+673 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: RODRIGO CASTILLO-MARTIN        Emp ID: 91446
+Position: Cashier
+    Pay Period: 06/23/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.28     40.00         811.20     21,902.40
+GROSS PAY                                    811.20     21,902.40
+DEDUCTIONS
+  Federal Income Tax                        48.67
+  Social Security                           50.29
+   Medicare                                  11.76
+  CA SDI                                     8.92
+NET PAY                                    691.56
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/18/2026]

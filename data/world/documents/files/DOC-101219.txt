@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+2302 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARMEN RAMIREZ        Emp ID: 93991
+Position: Medical receptionist
+Pay Period: 11/04/2025 - 11/10/2025     Pay Date: 11/15/2025
+Pay Frequency: Weekly
+~ ~ .  ,
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             70.47     40.00       2,818.80    129,664.80
+GROSS PAY                                  2,818.80    129,664.80
+DEDUCTIONS
+    Federal Income Tax                       197.31
+  Social Security                          174.76
+   Medicare                                  40.87
+   CA SDI                                    31.00
+NET PAY                                  2,374.86
+--------------------------------------------------------------
+
+-- scanned 11/27/2025 HBCH mailroom  pg 1/1 --

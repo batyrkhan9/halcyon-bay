@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+6176 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ISABEL ADAMS        Emp ID: 81077
+Position: Driver
+Pay Period: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,031.23     90,562.14
+GROSS PAY                                  5,031.23     90,562.14
+    DEDUCTIONS
+  Federal Income Tax                       503.12
+  Social Security                          311.93
+  Medicare                                  72.95
+  CA SDI                                    55.34
+ NET PAY                                  4,087.89
+--------------------------------------------------------------
+
+-- scanned 09/18/2026 HBCH mailroom  pg 1/1 --

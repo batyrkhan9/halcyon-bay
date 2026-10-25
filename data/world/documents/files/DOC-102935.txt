@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+3189 HARB0R WAY   CA
+                         EARNINGS STATEMENT
+Employee: XIMENA NAVARRO        Emp ID: 99480
+Position: Sales associate
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56     70.75       1,313.12     22,323.04
+GROSS PAY                                  1,313.12     22,323.04
+DEDUCTIONS
+   Federal Income Tax                       105.04
+  Social Security                           81.41
+  Medicare                                  19.04
+      CA SDI                                    14.44
+NET PAY                                  1,093.19
+   --------------------------------------------------------------
+
+FAX RECEIVED 09/10/2026 10:56   P.01

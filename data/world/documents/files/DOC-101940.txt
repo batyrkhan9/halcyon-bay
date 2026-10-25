@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+6301 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KYLE JUNG        Emp ID: 37168
+   Position: Guest services
+Pay Period: 06/10/2026 - 06/16/2026     Pay Date: 06/21/2026
+Pay Frequency: Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.66      8.00         133.28      3,332.00
+GROSS PAY                                    133.28      3,332.00
+DEDUCTIONS
+  Federal Income Tax                         7.99
+  Social Security                            8.26
+  Medicare                                   1.93
+  CA SDI                                     1.46
+NET PAY                                    113.64
+--------------------------------------------------------------
+
+RECEIVED JUL 06 2026  - mailroom

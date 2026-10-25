@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+7144 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMAL WILSON        Emp ID: 84122
+Position: Driver
+  Pay Period: 01/17/2026 - 01/31/2026     Pay Date: 02/05/2026
+  Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              30.30     86.67       2,626.10      7,878.30
+GROSS PAY                                   2,626.10      7,878.30
+DEDUCTIONS
+  Federal Income Tax                       210.08
+  Social Security                          162.81
+  Medicare                                  38.07
+  CA SDI                                    28.88
+NET PAY                                  2,186.26
+--------------------------------------------------------------
+
+FAX RECEIVED 02/25/2026 10:33   P.01

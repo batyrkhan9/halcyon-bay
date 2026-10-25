@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+6802 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ISABEL HUYNH-NGUYEN        Emp ID: 54183
+Position: Software engineer
+Pay Period: 07/30/2026 - 08/05/2026     Pay Date: 08/10/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.63     40.00       1,145.20     36,646.40
+GROSS PAY                                  1,145.20     36,646.40
+DEDUCTIONS
+  Federal Income Tax                       103.06
+  Social Security                           71.00
+  Medicare                                  16.60
+   CA SDI                                    12.59
+NET PAY                                    941.95
+--------------------------------------------------------------
+
+RECEIVED SEP 03 2026  - mailroom

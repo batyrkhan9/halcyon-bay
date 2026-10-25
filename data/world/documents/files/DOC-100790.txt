@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
- 7163 COMMERCE WAY   CA
+TIDEWATER CONSTRUCTION
+5983 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MATTHEW JUNG        Emp ID: 50389
-Position: Field supervisor
-Pay Period: 10/31/2025 - 11/13/2025     Pay Date: 11/18/2025
+Employee: MAR1O CARTER        Emp 1D: 16366
+Position: Laborer
+Pay Period: 06/13/2025 - 06/26/2025     Pay Date: 07/01/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.18     36.75         668.12     15,366.76
-   GROSS PAY                                    668.12     15,366.76
-DEDUCTIONS
-      Federal Income Tax                        40.08
-  Social Security                           41.42
-  Medicare                                   9.68
-  CA SDI                                     7.34
-NET PAY                                    569.60
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,663.29     47,622.77
+GROSS PAY                                  3,663.29     47,622.77
+   DEDUCTIONS
+  Federal Income Tax                       219.79
+  Social Security                          227.12
+  Medicare                                  53.11
+  CA SDI                                    40.29
+    NET PAY                                  3,122.98
 --------------------------------------------------------------
 
-RECEIVED NOV 30 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/22/2025]

@@ -1,21 +1,18 @@
-SANDPIPER CHILD CARE CENTER
-    9866 MARKET WAY   CA
-                         EARNINGS STATEMENT
-   Employee: JOSHUA DESAI        Emp ID: 77234
-Position: Teacher
-Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     TH1S PERIOD        YTD
- Regular             87.01     80.00       6,960.80     97,451.20
-GROSS PAY                                  6,960.80     97,451.20
-_ _ _ _
-DEDUCTIONS
-    Federal Income Tax                       626.47
-  Social Security                          431.57
-  Medicare                                 100.93
-  CA 5DI                                    76.56
-  NET PAY                                  5,725.27
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  ANA GUPTA
+Your social security number: XXX-XX-1219
+Dependents: 4
+Income
+ 1a  Total amount from F0rm(s) W-2, box 1 ...........    48,395.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    48,395.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    48,395.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Ana Gupta        Date: 04/06/2025
+
+FAX RECEIVED 01/08/2026 10:58   P.01

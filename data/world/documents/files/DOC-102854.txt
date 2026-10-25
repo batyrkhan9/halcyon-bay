@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+1504 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DUC KAHANANUI        Emp ID: 19013
+    Position: Caregiver
+ Pay Period: 07/12/2026 - 07/25/2026      Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.09     48.50         877.36     14,037.76
+GROSS PAY                                    877.36     14,037.76
+DEDUCTIONS
+  Federal Income Tax                        52.64
+  Social Security                           54.39
+  Medicare                                  12.72
+  CA SDI                                     9.65
+NET PAY                                    747.96
+--------------------------------------------------------------
+
+-- scanned 09/06/2026 HBCH mailroom  pg 1/1 --

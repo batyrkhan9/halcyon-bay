@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 08/01/2026 - 08/15/2026
-Member: DEEPA ESPINOZA       Account ending 6059
+PORT ELLERY CANNERY CO
+9413 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: DAVID MOORE        Emp ID: 16359
+Position: Line worker
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             79.17     80.00       6,333.60     57,002.40
+  GROSS PAY                                  6,333.60     57,002.40
+DEDUCTIONS
+  Federal Income Tax                       570.02
+  Social Security                          392.68
+   Medicare                                  91.83
+  CA SDI                                    69.67
+NET PAY                                  5,209.40
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-  Beginning balance              670.31
-  Deposits                     2,268.86
-  Withdrawals                 -1,928.53
-  Ending balance               1,010.64
-
-DEPOSITS AND CREDITS
-    08/15  PAYROLL DIR DEP MIRADOR GROCERY CO       1,134.43
-     08/01  PAYROLL DIR DEP MIRADOR GROCERY CO       1,134.43
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED AUG 27 2026  - mailroom
+FAX RECEIVED 05/12/2026 10:45   P.01

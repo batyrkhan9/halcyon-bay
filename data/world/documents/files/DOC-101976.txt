@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initia1 / Last name:  JESSICA PATEL
-Your social security number: XXX-XX-7390
-   Dependents: 1
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........     6,946.00
-| |   .
- 8   Additional income from Schedule 1, line 10 ......         0.00
-    9   Total income ....................................     6,946.00
- 10  Adjustments to inc0me ...........................         0.00
- 11  Adjusted gross income ...........................     6,946.00
- 12  Standard deduction ..............................    21,900.00
+MIRADOR GROCERY CO-OP
+582 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE HO        Emp ID: 91678
+Position: Cashier
+Pay Period: 05/02/2026 - 05/31/2026     Pay Date: 06/05/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,237.85      7,427.10
+  GROSS PAY                                  1,237.85      7,427.10
+DEDUCTIONS
+  Federal Income Tax                        86.64
+  Social Security                           76.74
+  Medicare                                  17.94
+  CA SDI                                    13.61
+NET PAY                                  1,042.92
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Jessica Patel         Date: 04/10/2026
-
--- scanned 09/14/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 10 2026  - mailroom

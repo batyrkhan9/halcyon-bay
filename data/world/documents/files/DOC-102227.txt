@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+4691 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO MURPHY        Emp ID: 36234
+Position: Medical receptionist
+Pay Period: 07/07/2026 - 07/20/2026     Pay Date: 07/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,239.23     48,588.45
+GROSS PAY                                  3,239.23     48,588.45
+DEDUCTIONS
+  Federal Income Tax                       194.35
+  Social Security                          200.83
+  Medicare                                  46.96
+  CA SDI                                    35.63
+NET PAY                                  2,761.46
+--------------------------------------------------------------
+
+RECEIVED JUL 29 2026  - mailroom

@@ -1,21 +1,20 @@
-MARISOL CLEANING SERVICES
-8094 C0MMERCE WAY   CA
+PORT ELLERY CANNERY CO
+8618 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ARACELI DOYLE        Emp ID: 93374
-   Position: Cleaner
- Pay Period: 07/03/2026 - 07/16/2026     Pay Date: 07/21/2026
-Pay Frequency: Bi-Week1y
+Employee: GRACE ESPINOZA        Emp ID: 18665
+Position: Line worker
+Pay Period: 03/01/2026 - 03/07/2026     Pay Date: 03/12/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-Regular             16.89     35.25         595.37      8,930.55
-GROSS PAY                                    595.37      8,930.55
+Regular             109.78     40.00       4,391.20     48,303.20
+GROSS PAY                                  4,391.20     48,303.20
 DEDUCTIONS
-    Federal Income Tax                        65.49
-  Social Security                           36.91
-    Medicare                                   8.63
-     CA SDI                                     6.54
-NET PAY                                    477.80
-  --------------------------------------------------------------
+  Federal Income Tax                       219.56
+  Social Security                          272.25
+  Medicare                                  63.67
+  CA SDI                                    48.30
+NET PAY                                  3,787.42
+   --------------------------------------------------------------
 
--- scanned 08/05/2026 HBCH mailroom  pg 1/1 --
+-- scanned 03/24/2026 HBCH mailroom  pg 1/1 --

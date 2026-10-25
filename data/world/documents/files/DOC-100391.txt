@@ -1,20 +1,21 @@
- VISTA SERENA MEDICAL OFFICES
-6170 HARBOR WAY   CA
+VISTA SERENA MEDICAL OFFICES
+8182 1NDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: JORGE ALMEIDA        Emp ID: 44116
-P0sition: Medical receptionist
-Pay Period: 05/13/2025 - 05/26/2025     Pay Date: 05/31/2025
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       901.26      9,913.86
-GROSS PAY                                    901.26      9,913.86
-    DEDUCTIONS
-  Federal Income Tax                        99.13
-  Social Security                           55.87
-  Medicare                                  13.06
-   CA SDI                                     9.91
-NET PAY                                     723.29
+Employee: ARACELI WILLIAMS        Emp ID: 47820
+Position: Medical receptionist
+Pay Period: 12/21/2024 - 01/19/2025     Pay Date: 01/24/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+  Regular             18.40     32.50         598.00        598.00
+GROSS PAY                                    598.00        598.00
+DEDUCTIONS
+  Federal Income Tax                        65.78
+  Social Security                           37.07
+  Medicare                                   8.67
+  CA SDI                                     6.57
+NET PAY                                    479.91
+_ _ _ _
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/21/2025]
+FAX RECEIVED 04/04/2025 10:12   P.01

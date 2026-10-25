@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+    952 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: JENNIFER FLORES        Emp ID: 73378
+Position: Field supervisor
+Pay Period: 06/22/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.96     12.50         212.00      2,756.00
+GROSS PAY                                    212.00      2,756.00
+DEDUCTIONS
+  Federal Income Tax                        10.60
+  S0cial Security                           13.14
+  Medicare                                   3.07
+  CA SDI                                     2.33
+NET PAY                                    182.86
+--------------------------------------------------------------
+
+FAX RECEIVED 08/05/2026 10:16   P.01

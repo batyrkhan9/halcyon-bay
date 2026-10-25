@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+7346 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI RIVERA        Emp ID: 15583
+Position: Teacher
+Pay Period: 07/21/2026 - 08/03/2026     Pay Date: 08/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,221.01     35,536.16
+   GROSS PAY                                  2,221.01     35,536.16
+   DEDUCTIONS
+  Federal 1ncome Tax                        88.84
+  Social Security                          137.70
+  Medicare                                  32.20
+  CA SDI                                    24.43
+NET PAY                                  1,937.84
+--------------------------------------------------------------
+
+FAX RECEIVED 09/02/2026 10:24   P.01

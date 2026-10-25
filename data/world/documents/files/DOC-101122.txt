@@ -1,11 +1,21 @@
-HARBOR LIGHT SHELTER 210 FRONT ST
+CYPRESS FLATS AUTO BODY
+8800 COMMERCE WAY   CA
+  . : .
+                          EARNINGS STATEMENT
+   Employee: KYLE BUI        Emp ID: 67848
+ Position: Technician
+Pay Period: 09/20/2025 - 10/03/2025     Pay Date: 10/08/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,741.59     57,573.39
+GR0SS PAY                                  2,741.59     57,573.39
+DEDUCTIONS
+    Federal Income Tax                       301.57
+  Social Security                          169.97
+  Medicare                                  39.75
+  CA SDI                                    30.15
+NET PAY                                  2,200.15
+--------------------------------------------------------------
 
-April 21, 2026
-
-To whom it may concern,
-Tomasz Ramirez has been staying at our shelter since March 2026 and has no fixed address.
-Mail for this person can be sent care of our front desk.
-
- Case manager, intake office
-
-FAX RECEIVED 04/30/2026 10:22   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/26/2025]

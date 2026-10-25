@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-5985 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: ANDREW KIM        Emp ID: 37025
-Position: Cleaner
-Pay Period: 07/16/2026 - 08/14/2026     Pay Date: 08/19/2026
-Pay Frequency: Monthly
+ARROYO VERDE NURSERY
+8025 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE PEREZ        Emp 1D: 50219
+Position: Nursery worker
+Pay Period: 04/09/2026 - 04/22/2026     Pay Date: 04/27/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    23,042.00    184,336.00
-GROSS PAY                                 23,042.00    184,336.00
+   EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                       261.84      2,356.56
+GROSS PAY                                    261.84      2,356.56
 DEDUCTIONS
-  Federal Inc0me Tax                     1,382.52
-  Social Security                        1,428.60
-     Medicare                                 334.10
-    CA SDI                                   253.46
-NET PAY                                 19,643.32
+   Federal Income Tax                        10.47
+      Social Security                           16.23
+   Medicare                                   3.79
+  CA SDI                                     2.88
+NET PAY                                    228.47
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]
+-- scanned 05/14/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+   SANTA LUCITA FARMS
+4614 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: PRISCILLA JUNG        Emp ID: 87679
+P0sition: Field supervisor
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+  Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.35     21.50         373.02     10,071.54
+GROSS PAY                                    373.02     10,071.54
+DEDUCTION5
+  Federal Income Tax                        41.03
+  Social Security                           23.12
+  Medicare                                   5.40
+  CA SDI                                     4.10
+  NET PAY                                    299.37
+--------------------------------------------------------------
+
+FAX RECEIVED 07/25/2026 10:48   P.01

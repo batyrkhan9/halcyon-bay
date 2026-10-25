@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+6569 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA GREEN         Emp ID: 19445
+Position: Sales associate
+Pay Period: 02/10/2026 - 02/23/2026     Pay Date: 02/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             89.42     80.00       7,153.60     35,768.00
+GROSS PAY                                  7,153.60     35,768.00
+   DEDUCTIONS
+  Federal Income Tax                       572.28
+  Social Security                          443.52
+      Medicare                                 103.72
+  CA SDI                                    78.69
+NET PAY                                  5,955.39
+--------------------------------------------------------------
+
+-- scanned 04/05/2026 HBCH mailroom  pg 1/1 --

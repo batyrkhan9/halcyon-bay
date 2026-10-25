@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
- 2353 COMMERCE WAY   CA
+BAYLINE LOGISTICS INC
+1452 COMMERCE WAY    CA
                          EARNINGS STATEMENT
-~ ~ .  ,
-Employee: JIA DESAI        Emp ID: 14264
-Position: Medical receptionist
-Pay Period: 03/05/2025 - 03/11/2025     Pay Date: 03/16/2025
- Pay Frequency: Weekly
+    Employee: TANISHA HUSSAIN        Emp ID: 62762
+Position: Warehouse associate
+Pay Period: 01/10/2025 - 01/23/2025     Pay Date: 01/28/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             76.76     40.00       3,070.40     33,774.40
-  GRO5S PAY                                  3,070.40     33,774.40
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             25.89     80.00       2,071.20      4,142.40
+ GRO5S PAY                                  2,071.20      4,142.40
 DEDUCTIONS
-  Federal Income Tax                       214.92
-  Social Security                          190.36
-   Medicare                                  44.52
-      CA SDI                                    33.77
-NET PAY                                  2,586.83
+  Federal Income Tax                       165.69
+  Social Security                          128.41
+  Medicare                                  30.03
+  CA SDI                                    22.78
+ NET PAY                                  1,724.29
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/03/2025]
+FAX RECEIVED 01/31/2025 10:40   P.01

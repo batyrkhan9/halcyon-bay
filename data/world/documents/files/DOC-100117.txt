@@ -1,20 +1,18 @@
-OTTER BAY AQUARIUM
-472 HARBOR WAY    CA
-                         EARNINGS STATEMENT
-    Employee: BAO SUZUKI        Emp ID: 52125
-Position: Guest services
-Pay Period: 02/19/2025 - 03/04/2025     Pay Date: 03/09/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.84     51.50         970.26      4,851.30
-GROSS PAY                                    970.26      4,851.30
-DEDUCTIONS
-  Federal Income Tax                        67.91
-  Social Security                           60.15
-  Medicare                                  14.06
-     CA SDI                                    10.67
-NET PAY                                    817.47
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2023
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  JUAN KAHANANUI-RAHMAN
+Your social security number: XXX-XX-7414
+  Dependents: 4
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   119,357.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   119,357.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   119,357.00
+    12  Standard deduction ..............................    21,900.00
 
--- scanned 03/19/2025 HBCH mailroom  pg 1/1 --
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Juan Kahananui-Rahman        Date: 04/08/2024
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/19/2025]

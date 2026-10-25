@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+3324 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA GOMEZ-HADDAD        Emp ID: 85174
+   Position: Dental assistant
+Pay Period: 06/15/2026 - 07/14/2026     Pay Date: 07/19/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             29.33    173.33       5,083.77     35,586.39
+   GROSS PAY                                  5,083.77     35,586.39
+DEDUCTIONS
+  Federal Income Tax                       406.70
+  Social Security                          315.19
+  Medicare                                  73.71
+  CA SDI                                    55.92
+NET PAY                                  4,232.25
+--------------------------------------------------------------
+
+RECEIVED AUG 28 2026  - mailroom

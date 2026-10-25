@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+6155 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: KIM RAMIREZ        Emp ID: 81610
+Position: Cashier
+Pay Period: 09/01/2026 - 09/14/2026     Pay Date: 09/19/2026
+  Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             50.85     80.00       4,068.00     77,292.00
+GROSS PAY                                  4,068.00     77,292.00
+DEDUCTIONS
+  Federal Income Tax                       162.72
+  Social Security                          252.21
+  Medicare                                  58.98
+  CA SDI                                    44.74
+NET PAY                                  3,549.35
+ --------------------------------------------------------------
+
+RECEIVED SEP 24 2026  - mailroom

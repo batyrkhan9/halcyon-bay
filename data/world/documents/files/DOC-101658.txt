@@ -1,20 +1,11 @@
-PORT ELLERY CANNERY CO
-1610 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAE WALSH        Emp ID: 41072
-Position: Line worker
-Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             40.13     80.00       3,210.40     51,366.40
-GROSS PAY                                  3,210.40     51,366.40
-DEDUCTIONS
-  Federal Income Tax                       256.83
-  Social Security                          199.04
-  Medicare                                  46.55
-  CA SDI                                    35.31
-NET PAY                                  2,672.67
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+NOTICE OF ACTION
+Medi-Cal Approval
+Date: 02/02/2026
+Beneficiary: TYLER GARCIA
 
-RECEIVED AUG 14 2026  - mailroom
+  . : .
+You are approved for full scope Medi-Cal with no share of cost beginning 02/01/2026.
+   Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+FAX RECEIVED 04/14/2026 10:47   P.01

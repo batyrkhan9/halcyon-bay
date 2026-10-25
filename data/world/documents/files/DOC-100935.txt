@@ -1,17 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2026 - 02/05/2026
-Member: TUAN LE-LIU       Account ending 4853
+SANDPIPER CHILD CARE CENTER
+399 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONNA ZHANG        Emp ID: 69099
+Position: Teacher
+Pay Period: 07/26/2025 - 08/01/2025     Pay Date: 08/06/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,545.51     49,456.32
+ GROSS PAY                                  1,545.51     49,456.32
+DEDUCTIONS
+  Federal Income Tax                        92.73
+   S0cial Security                           95.82
+  Medicare                                  22.41
+  CA 5DI                                    17.00
+NET PAY                                  1,317.55
+  . : .
+--------------------------------------------------------------
 
-CHECKING 5UMMARY
-  Beginning balance            2,152.04
-      Deposits                     7,526.68
-  Withdrawals                 -7,601.94
-  Ending balance               2,076.78
-
-DEPOSITS AND CREDITS
-  02/05  PAYROLL DIR DEP HARBOR POINT HOTEL       3,763.34
-  01/22  PAYROLL DIR DEP HARBOR POINT HOTEL       3,763.34
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 02/08/2026 HBCH mailroom  pg 1/1 --
+-- scanned 08/23/2025 HBCH mailroom  pg 1/1 --

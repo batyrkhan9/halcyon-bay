@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+5019 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+    Employee: PEDRO HO        Emp ID: 53265
+  Position: Technician
+Pay Period: 09/12/2025 - 09/18/2025     Pay Date: 09/23/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             39.46     40.00       1,578.40     59,979.20
+    GROSS PAY                                  1,578.40     59,979.20
+DEDUCTIONS
+  Federal Income Tax                       157.84
+  Social Security                           97.86
+  Medicare                                  22.88
+  . : .
+  CA SDI                                    17.36
+NET PAY                                  1,282.46
+--------------------------------------------------------------
+
+RECEIVED OCT 10 2025  - mailroom

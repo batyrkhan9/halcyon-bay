@@ -1,0 +1,21 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+622 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+| |   .
+Employee: ROBERT ANDERSON        Emp ID: 79657
+   Position: Instructional aide
+Pay Period: 08/01/2026 - 08/15/2026     Pay Date: 08/20/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             49.28     86.67       4,271.10     68,337.60
+GROSS PAY                                  4,271.10     68,337.60
+DEDUCTIONS
+  Federal Income Tax                       298.97
+   Social Security                          264.80
+  Medicare                                  61.93
+  CA SDI                                    46.98
+NET PAY                                  3,598.42
+--------------------------------------------------------------
+
+FAX RECEIVED 08/24/2026 10:51   P.01

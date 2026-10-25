@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-7158 MARKET WAY   CA
-                         EARNINGS STATEMENT
-    Employee: LAUREN WALKER        Emp ID: 93503
-Position: Teacher
-Pay Period: 07/25/2026 - 08/08/2026     Pay Date: 08/13/2026
-  . : .
-Pay Frequency: Semi-Monthly
+BAYLINE LOGISTICS INC
+7839 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: SOFIA BROWN-TANAKA        Emp ID: 53781
+Position: Warehouse associate
+  Pay Period: 03/18/2026 - 03/31/2026     Pay Date: 04/05/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             37.93     86.67       3,287.39     49,310.85
-GROSS PAY                                  3,287.39     49,310.85
+Regular             30.72     80.00       2,457.60     17,203.20
+  GROSS PAY                                  2,457.60     17,203.20
 DEDUCTIONS
-  Federal Income Tax                       230.11
-  Social Security                          203.81
-  Medicare                                  47.66
-  CA SDI                                    36.16
-NET PAY                                  2,769.65
+  Federal Income Tax                       122.88
+  Social Security                          152.37
+  Medicare                                  35.63
+  CA SDI                                    27.03
+NET PAY                                  2,119.69
 --------------------------------------------------------------
 
--- scanned 08/20/2026 HBCH mailroom  pg 1/1 --
+RECEIVED APR 25 2026  - mailroom

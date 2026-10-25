@@ -1,18 +1,20 @@
-Form 1040   U.S. 1ndividual Income Tax Return   2024
-    (copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  TARIQ KOWALSKI
-Your social security number: XXX-XX-4685
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   127,646.00
-    8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   127,646.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................   127,646.00
- 12  Standard deduction ..............................    21,900.00
+BAYLINE LOGISTICS INC
+519 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: HIROSHI TRAN        Emp ID: 88625
+ Position: Warehouse associate
+ Pay Period: 06/12/2025 - 06/25/2025     Pay Date: 06/30/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.46     14.75         272.28      3,539.64
+    GROSS PAY                                    272.28      3,539.64
+DEDUCTIONS
+  Federal Income Tax                        24.50
+      Social Security                           16.88
+      Medicare                                   3.94
+  CA SDI                                     2.99
+NET PAY                                    223.97
+   --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Tariq Kowalski        Date: 04/05/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/16/2026]
+FAX RECEIVED 08/08/2025 10:40   P.01

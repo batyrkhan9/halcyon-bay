@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+8371 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: EMILY HERRERA        Emp ID: 76316
+Position: Driver
+Pay Period: 10/28/2024 - 11/26/2024     Pay Date: 12/01/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             52.48    173.33       9,096.36    109,156.32
+GROSS PAY                                  9,096.36    109,156.32
+DEDUCTIONS
+  Federal Income Tax                       727.70
+  Social 5ecurity                          563.97
+    Medicare                                 131.89
+  CA SDI                                   100.06
+NET PAY                                  7,572.74
+--------------------------------------------------------------
+
+FAX RECEIVED 01/12/2025 10:46   P.01

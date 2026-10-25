@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO B0DY
+9879 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: EMILY CONTRERAS-SHAH        Emp ID: 21240
+Position: Technician
+Pay Period: 06/15/2026 - 07/14/2026     Pay Date: 07/19/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             16.96     78.75       1,335.60      9,349.20
+GROSS PAY                                  1,335.60      9,349.20
+DEDUCTIONS
+  Federal Income Tax                       146.91
+  Social Security                           82.80
+  Medicare                                  19.36
+  CA SDI                                    14.69
+NET PAY                                  1,071.84
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]

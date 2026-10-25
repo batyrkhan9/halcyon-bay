@@ -1,20 +1,20 @@
 SUNSET COAST HOME CARE
-6503 MARKET WAY   CA
+5891 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MADISON JEFFERSON        Emp ID: 98954
+Employee: ANDREW MARTIN        Emp ID: 94751
 Position: Home care aide
-Pay Period: 01/25/2026 - 02/07/2026     Pay Date: 02/12/2026
-Pay Frequency: Bi-Weekly
+Pay Period: 08/26/2025 - 09/01/2025     Pay Date: 09/06/2025
+Pay Frequency: Week1y
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            102.81     80.00       8,224.80     32,899.20
- GROSS PAY                                  8,224.80     32,899.20
+  Regular             17.37     24.25         421.22     15,163.92
+GROSS PAY                                    421.22     15,163.92
 DEDUCTIONS
-  Federal Income Tax                       740.23
-  Social Security                          509.93
-  Medicare                                 119.26
-  CA SDI                                    90.47
- NET PAY                                  6,764.91
+  Federal Income Tax                        37.90
+      Social Security                           26.11
+  Medicare                                   6.10
+      CA SDI                                     4.63
+NET PAY                                    346.48
 --------------------------------------------------------------
 
--- scanned 03/18/2026 HBCH mailroom  pg 1/1 --
+-- scanned 09/15/2025 HBCH mailroom  pg 1/1 --

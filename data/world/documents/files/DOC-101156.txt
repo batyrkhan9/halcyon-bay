@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+9409 COMMERCE WAY   CA
+                             EARNINGS 5TATEMENT
+Employee: JOHN WILLIAMS        Emp ID: 18870
+   Position: Line cook
+    Pay Period: 10/02/2025 - 10/15/2025     Pay Date: 10/20/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.25     80.00       1,620.00     34,020.00
+GROSS PAY                                  1,620.00     34,020.00
+DEDUCTIONS
+  Federal Income Tax                        64.80
+  Social Security                          100.44
+  Medicare                                  23.49
+  CA SDI                                    17.82
+NET PAY                                  1,413.45
+--------------------------------------------------------------
+
+RECEIVED NOV 03 2025  - mailroom

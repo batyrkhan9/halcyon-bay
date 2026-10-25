@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Single
-   Your first name and middle initial / Last name:  TANISHA MOORE
- Your social security number: XXX-XX-8346
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    16,826.00
-     8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    16,826.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    16,826.00
- 12   Standard deduction ..............................    14,600.00
+HARBOR POINT HOTEL
+5311 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: AMANDA ZAMORA        Emp ID: 90817
+Position: Housekeeper
+   Pay Period: 04/15/2025 - 04/28/2025     Pay Date: 05/03/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.21     80.00       1,456.80     13,111.20
+GROSS PAY                                  1,456.80     13,111.20
+   DEDUCTIONS
+  Federal Income Tax                        87.40
+  Social Security                           90.32
+  Medicare                                  21.12
+  CA SDI                                    16.02
+NET PAY                                   1,241.94
+--------------------------------------------------------------
 
-| |   .
-   Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Tanisha Moore        Date: 04/13/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/26/2025]

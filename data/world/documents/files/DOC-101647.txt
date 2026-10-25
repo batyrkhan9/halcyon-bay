@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-8976 HARBOR WAY   CA
+ARROYO VERDE NURSERY
+5612 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: DESTINY WATANABE        Emp ID: 69569
-Position: Dental assistant
-Pay Period: 07/10/2026 - 07/24/2026     Pay Date: 07/29/2026
-Pay Frequency: Semi-Monthly
+Emp1oyee: SUNITA WU        Emp ID: 44425
+Position: Nursery worker
+Pay Period: 03/07/2026 - 03/20/2026     Pay Date: 03/25/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Regular             18.89     21.50         406.14      5,685.96
-GROSS PAY                                    406.14      5,685.96
-DEDUCTIONS
-  Federal Income Tax                        28.42
-  Social Security                           25.18
-  Medicare                                   5.88
-  CA SDI                                     4.46
-    NET PAY                                    342.20
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             50.63     80.00       4,050.40     24,302.40
+    GROSS PAY                                  4,050.40     24,302.40
+ DEDUCTIONS
+  Federal Income Tax                       162.01
+  Social Security                          251.12
+  Medicare                                  58.73
+  CA SDI                                    44.55
+NET PAY                                  3,533.99
 --------------------------------------------------------------
 
-FAX RECEIVED 08/14/2026 10:17   P.01
+FAX RECEIVED 04/09/2026 10:38   P.01

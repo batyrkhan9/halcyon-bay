@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+5373 INDUSTRIAL WAY    CA
+  . : .
+                         EARNINGS STATEMENT
+Employee: SANJAY ALMEIDA        Emp ID: 46542
+Position: Medical receptionist
+Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             42.66     80.00       3,412.80     58,017.60
+GROSS PAY                                  3,412.80     58,017.60
+ DEDUCTIONS
+  Federal Income Tax                       375.40
+   Social Security                          211.59
+   Medicare                                  49.48
+  CA SDI                                    37.54
+NET PAY                                  2,738.79
+--------------------------------------------------------------
+
+-- scanned 09/06/2026 HBCH mailroom  pg 1/1 --

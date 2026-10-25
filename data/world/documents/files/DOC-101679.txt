@@ -1,20 +1,21 @@
-  TIDEWATER CONSTRUCTION
-4751 INDUSTRIAL WAY   CA
+ARROYO VERDE NURSERY
+934 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ANTONIO MURPHY        Emp ID: 14135
-Position: Laborer
-    Pay Period: 07/19/2026 - 08/02/2026     Pay Date: 08/07/2026
-Pay Frequency: Semi-Monthly
+Employee: FRANCISCO BROWN        Emp ID: 38132
+Position: Nursery w0rker
+Pay Period: 03/16/2026 - 03/22/2026     Pay Date: 03/27/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
+  . : .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             17.26     86.67       1,495.92     22,438.80
-GROSS PAY                                  1,495.92     22,438.80
-DEDUCTIONS
-  Federal Income Tax                       134.63
-  Social Security                           92.74
-    Medicare                                  21.69
-  CA SDI                                    16.45
-NET PAY                                   1,230.41
+Regular             26.40     40.00       1,056.00     13,728.00
+GROSS PAY                                  1,056.00     13,728.00
+DEDUCTI0NS
+  Federal Income Tax                        63.36
+      Social Security                           65.47
+  Medicare                                  15.31
+   CA SDI                                    11.61
+    NET PAY                                    900.25
 --------------------------------------------------------------
 
-RECEIVED AUG 16 2026  - mailroom
+-- scanned 04/19/2026 HBCH mailroom  pg 1/1 --

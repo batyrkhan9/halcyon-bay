@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+3251 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: KAI SANCHEZ        Emp ID: 35900
+Position: Medical receptionist
+Pay Period: 07/02/2025 - 07/31/2025     Pay Date: 08/05/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             18.58     79.75       1,481.76     11,854.08
+    GROSS PAY                                  1,481.76     11,854.08
+DEDUCTIONS
+     Federal Income Tax                       148.17
+| |   .
+      Social Security                           91.86
+  Medicare                                  21.48
+  CA SDI                                    16.29
+NET PAY                                  1,203.96
+--------------------------------------------------------------
+
+RECEIVED AUG 10 2025  - mailroom

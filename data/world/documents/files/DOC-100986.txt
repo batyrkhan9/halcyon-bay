@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-6915 HARBOR WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: LEILA HERNANDEZ        Emp ID: 12366
-Position: Software engineer
-Pay Period: 02/03/2026 - 02/16/2026     Pay Date: 02/21/2026
+CALDER FREIGHT L1NES
+1757 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: ALYSSA CASTILLO        Emp ID: 16957
+Position: Driver
+Pay Period: 08/04/2025 - 08/17/2025     Pay Date: 08/22/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             19.35     80.00       1,548.00      6,192.00
-GROSS PAY                                  1,548.00      6,192.00
-DEDUCTIONS
-  Federal Income Tax                       123.84
-  Social Security                           95.97
-  Medicare                                  22.44
-  CA SDI                                    17.02
-NET PAY                                  1,288.73
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     1,072.50     18,232.50
+GROSS PAY                                  1,072.50     18,232.50
+ DEDUCTIONS
+  Federal Income Tax                       107.25
+  Social Security                           66.49
+  Medicare                                  15.55
+   CA SDI                                    11.79
+NET PAY                                    871.42
 --------------------------------------------------------------
 
--- scanned 03/04/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 09/08/2025 10:30   P.01

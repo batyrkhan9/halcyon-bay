@@ -1,20 +1,22 @@
-LAS BRISAS RESTAURANT GROUP
-8887 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN SANCHEZ        Emp ID: 93895
-   Position: Line cook
-Pay Period: 06/18/2025 - 06/24/2025     Pay Date: 06/29/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,513.14     39,341.64
-GROSS PAY                                  1,513.14     39,341.64
-   DEDUCTIONS
-  Federal Income Tax                       166.44
-  Social Security                           93.81
-  Medicare                                  21.94
-  CA SDI                                    16.64
-NET PAY                                  1,214.31
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 04/01/2025 - 04/19/2025
+ Member: HASSAN FITZGERALD-DOYLE       Account ending 5024
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2025]
+CHECKING SUMMARY
+  Beginning balance            2,233.40
+  Deposits                     2,257.62
+  Withdrawals                 -2,280.19
+  Ending balance               2,210.83
+
+DEPOSITS AND CREDITS
+  04/19  PAYROLL DIR DEP SANTA LUCITA FARMS       1,128.81
+  04/05  PAYROLL DIR DEP SANTA LUCITA FARMS       1,128.81
+
+    SAVINGS SUMMARY  (Share Savings ending 4003)
+  Ending balance              33,335.41
+  Dividends paid                  13.33
+
+  . : .
+Thank you for banking with us.   Page 1 of 2
+
+RECEIVED APR 23 2025  - mailroom

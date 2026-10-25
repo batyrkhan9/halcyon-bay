@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+2090 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMANDA GONZALEZ        Emp ID: 21731
+Position: Field technician
+Pay Period: 08/17/2025 - 08/23/2025     Pay Date: 08/28/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.60     18.75         348.75     12,206.25
+    GROSS PAY                                    348.75     12,206.25
+DEDUCTIONS
+    Federal Income Tax                        27.90
+      Social Security                           21.62
+  Medicare                                   5.05
+  CA SDI                                     3.83
+NET PAY                                    290.35
+--------------------------------------------------------------
+
+FAX RECEIVED 09/21/2025 10:50   P.01

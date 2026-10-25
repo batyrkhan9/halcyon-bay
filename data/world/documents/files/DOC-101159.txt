@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+4950 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: TANISHA LEE        Emp ID: 17927
+Position: Technician
+Pay Period: 10/06/2025 - 10/19/2025     Pay Date: 10/24/2025
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+ Regular             30.20     80.00       2,416.00     53,152.00
+| |   .
+   GROSS PAY                                  2,416.00     53,152.00
+    DEDUCTIONS
+  Federal Income Tax                       144.96
+     Social Security                          149.79
+   Medicare                                  35.03
+  CA SDI                                    26.57
+NET PAY                                  2,059.65
+--------------------------------------------------------------
+
+RECEIVED NOV 03 2025  - mailroom

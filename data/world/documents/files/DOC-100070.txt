@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-9355 MARKET WAY   CA
+BAYLINE LOGISTICS 1NC
+9153 MARKET WAY   CA
                          EARNINGS STATEMENT
- Employee: RAJNI MCCARTHY        Emp ID: 29068
-Position: Custodian
-_ _ _ _
-Pay Period: 01/24/2025 - 02/06/2025     Pay Date: 02/11/2025
-Pay Frequency: Bi-Weekly
+  . : .
+Employee: EDUARDO KING        Emp ID: 66845
+Position: Warehouse associate
+Pay Period: 11/22/2024 - 11/28/2024     Pay Date: 12/03/2024
+Pay Frequency: Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,180.04      3,540.12
-GROSS PAY                                  1,180.04      3,540.12
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,275.04    209,476.96
+GROSS PAY                                  4,275.04    209,476.96
 DEDUCTIONS
-  Federal Income Tax                        70.80
-      Social Security                           73.16
-  Medicare                                  17.11
-  CA SDI                                    12.98
-NET PAY                                  1,005.99
+     Federal Income Tax                       299.25
+  Social Security                          265.05
+  Medicare                                  61.98
+  CA SDI                                    47.02
+   NET PAY                                  3,601.74
     --------------------------------------------------------------
 
-RECEIVED FEB 23 2025  - mailroom
+RECEIVED JAN 01 2025  - mailroom

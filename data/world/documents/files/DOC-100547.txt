@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3501 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARMEN NGUYEN        Emp ID: 31016
+Position: Medical receptionist
+Pay Period: 04/15/2025 - 04/21/2025     Pay Date: 04/26/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.99     40.00         719.60     12,233.20
+GROSS PAY                                    719.60     12,233.20
+DEDUCTIONS
+  Federal Income Tax                        28.78
+  Social Security                           44.61
+      Medicare                                  10.43
+   CA SDI                                     7.91
+    NET PAY                                    627.87
+--------------------------------------------------------------
+
+RECEIVED MAY 16 2025  - mailroom

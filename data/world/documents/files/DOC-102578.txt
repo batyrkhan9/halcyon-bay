@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+1971 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: MANUEL LEE        Emp ID: 46735
+Position: Caregiver
+Pay Period: 07/29/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.28     30.75         531.36     17,003.52
+GROSS PAY                                    531.36     17,003.52
+DEDUCTION5
+  Federal Income Tax                        21.25
+  Social Security                           32.94
+   Medicare                                   7.70
+  CA SDI                                     5.84
+NET PAY                                    463.63
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/21/2026]

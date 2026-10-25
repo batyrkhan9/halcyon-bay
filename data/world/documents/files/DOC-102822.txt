@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+8619 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: GARY TUIASOSOPO        Emp ID: 19175
+   Position: Driver
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+| |   .
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             81.26     80.00       6,500.80    110,513.60
+GROSS PAY                                  6,500.80    110,513.60
+DEDUCTIONS
+  Federal Income Tax                       585.07
+  Social Security                          403.05
+   Medicare                                  94.26
+  CA SDI                                    71.50
+NET PAY                                  5,346.92
+--------------------------------------------------------------
+
+-- scanned 09/04/2026 HBCH mailroom  pg 1/1 --

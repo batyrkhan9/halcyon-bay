@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-9788 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KE1SHA MENDOZA        Emp ID: 42057
-| |   .
-Position: Laborer
-Pay Period: 04/25/2025 - 05/08/2025     Pay Date: 05/13/2025
-Pay Frequency: Bi-Weekly
+SANDPIPER CHILD CARE CENTER
+9908 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: JOSHUA KING        Emp ID: 47449
+   Position: Teacher
+Pay Period: 02/17/2025 - 02/23/2025     Pay Date: 02/28/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
- EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-   Regular             17.86     37.75         674.22      6,742.20
-GROSS PAY                                    674.22      6,742.20
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             17.39     40.00         695.60      6,260.40
+GROSS PAY                                     695.60      6,260.40
 DEDUCTIONS
-    Federal Income Tax                        53.93
-  Social Security                           41.80
-   Medicare                                   9.77
-  CA SDI                                     7.41
-NET PAY                                    561.31
+  Federal Income Tax                        76.51
+  Social Security                           43.12
+  Medicare                                  10.08
+  CA SDI                                     7.65
+NET PAY                                    558.24
 --------------------------------------------------------------
 
-FAX RECEIVED 06/11/2025 10:35   P.01
+-- scanned 03/30/2025 HBCH mailroom  pg 1/1 --

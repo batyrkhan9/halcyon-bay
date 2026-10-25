@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+1986 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM PEREZ        Emp ID: 81562
+Position: Field supervisor
+Pay Period: 05/31/2026 - 06/13/2026     Pay Date: 06/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.43     44.00         766.92      9,969.96
+GROSS PAY                                    766.92      9,969.96
+DEDUCTIONS
+    Federal Income Tax                        84.36
+    Social Security                           47.54
+   Medicare                                  11.12
+  CA SDI                                     8.43
+NET PAY                                    615.47
+--------------------------------------------------------------
+
+RECEIVED JUL 06 2026  - mailroom

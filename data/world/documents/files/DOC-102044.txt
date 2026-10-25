@@ -1,20 +1,21 @@
-MARISOL CLEANING SERVICES
-2796 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: RAVI WILLIAMS        Emp ID: 88565
-Position: Cleaner
-Pay Period: 08/16/2026 - 08/29/2026     Pay Date: 09/03/2026
+MIRADOR PUBLIC LIBRARY
+4965 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+  . : .
+   Employee: ANTONIO WU        Emp ID: 39077
+Position: Library assistant
+Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                       370.44      6,667.92
-GROSS PAY                                    370.44      6,667.92
- DEDUCTI0NS
-    Federal Income Tax                        33.33
-  Social 5ecurity                           22.96
-    Medicare                                   5.37
-     CA SDI                                     4.07
-NET PAY                                    304.71
-    --------------------------------------------------------------
+Salary                                     1,024.55     14,343.70
+GROSS PAY                                  1,024.55     14,343.70
+DEDUCTIONS
+   Federal Income Tax                        51.22
+  Social 5ecurity                           63.52
+  Medicare                                  14.85
+   CA SDI                                    11.27
+NET PAY                                    883.69
+--------------------------------------------------------------
 
-FAX RECEIVED 09/21/2026 10:16   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]

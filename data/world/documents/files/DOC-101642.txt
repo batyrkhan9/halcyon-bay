@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-4054 INDUSTRIAL WAY   CA
+   VISTA SERENA MEDICAL OFFICES
+2787 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JAMAL THOMPSON        Emp ID: 82684
-Position: Custodian
-Pay Period: 07/21/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Weekly
+Employee: SERGIO CORTEZ        Emp ID: 91926
+Position: Medical receptionist
+Pay Period: 03/13/2026 - 03/26/2026     Pay Date: 03/31/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             47.98     40.00       1,919.20     59,495.20
-GROSS PAY                                  1,919.20     59,495.20
+Regular             81.71     80.00       6,536.80     45,757.60
+GROSS PAY                                  6,536.80     45,757.60
 DEDUCTIONS
-    Federal Income Tax                        95.96
-  Social Security                          118.99
-  Medicare                                  27.82
-  CA SDI                                    21.11
- NET PAY                                  1,655.32
+  Federal Income Tax                       719.04
+  Social Security                          405.28
+   Medicare                                  94.78
+   CA SDI                                    71.90
+NET PAY                                  5,245.80
 --------------------------------------------------------------
 
-FAX RECEIVED 08/13/2026 10:15   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/09/2026]

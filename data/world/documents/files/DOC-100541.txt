@@ -1,11 +1,20 @@
-HARBOR LIGHT SHELTER 210 FRONT ST
+   BAYLINE LOGISTICS INC
+4075 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERRELL ORTIZ        Emp ID: 47836
+  Position: Warehouse associate
+   Pay Period: 04/04/2025 - 04/17/2025     Pay Date: 04/22/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.13     27.75         503.11      4,024.88
+GROSS PAY                                    503.11      4,024.88
+DEDUCTIONS
+  Federal Income Tax                        40.24
+  Social Security                           31.19
+  Medicare                                   7.29
+  CA SDI                                     5.53
+NET PAY                                    418.86
+--------------------------------------------------------------
 
-July 26, 2025
-
-   To whom it may concern,
-Andre Zhang has been staying at our shelter since January 2025 and has no fixed address.
-Mail for this person can be sent care of our front desk.
-
-Case manager, intake office
-
-FAX RECEIVED 08/02/2025 10:25   P.01
+FAX RECEIVED 05/16/2025 10:35   P.01

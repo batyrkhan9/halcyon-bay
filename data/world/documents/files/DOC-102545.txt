@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+    3192 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LARRY GOMEZ         Emp ID: 48380
+Position: Nursery worker
+Pay Period: 07/10/2026 - 07/23/2026     Pay Date: 07/28/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             49.40     80.00       3,952.00     59,280.00
+GROSS PAY                                  3,952.00     59,280.00
+DEDUCTIONS
+  Federal Income Tax                       434.72
+  Social Security                          245.02
+  Medicare                                  57.30
+  CA SDI                                    43.47
+NET PAY                                  3,171.49
+--------------------------------------------------------------
+
+RECEIVED AUG 16 2026  - mailroom

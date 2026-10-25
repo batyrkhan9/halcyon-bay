@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-7298 HARBOR WAY   CA
+POINT CORRIN BOATWORKS
+7557 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA QUINN        Emp ID: 24115
-Position: Warehouse associate
-Pay Period: 03/09/2025 - 04/07/2025     Pay Date: 04/12/2025
- Pay Frequency: Monthly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             25.76    173.33       4,464.98     17,859.92
-GROSS PAY                                  4,464.98     17,859.92
+Employee: ROHAN ALMEIDA        Emp ID: 29012
+Position: Mechanic
+Pay Period: 01/22/2025 - 02/05/2025     Pay Date: 02/10/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             57.14     86.67       4,952.32     14,856.96
+GROSS PAY                                  4,952.32     14,856.96
 DEDUCTIONS
-   Federal Income Tax                       401.84
-  Social Security                          276.82
-  Medicare                                  64.74
-  CA SDI                                    49.11
-NET PAY                                  3,672.47
+   Federal Income Tax                       396.18
+  Social Security                          307.04
+  Medicare                                  71.80
+  CA SDI                                    54.47
+NET PAY                                  4,122.83
 --------------------------------------------------------------
 
--- scanned 04/21/2025 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 17 2025  - mailroom

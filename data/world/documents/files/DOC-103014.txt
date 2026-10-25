@@ -1,0 +1,20 @@
+5ANDPIPER CHILD CARE CENTER
+974 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO FITZGERALD        Emp ID: 36851
+Position: Teacher
+   Pay Period: 08/09/2026 - 08/22/2026     Pay Date: 08/27/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,657.36     65,832.48
+   GROSS PAY                                  3,657.36     65,832.48
+DEDUCTIONS
+  Federal Income Tax                       402.30
+  Social Security                          226.75
+  Medicare                                  53.03
+  CA SDI                                    40.23
+NET PAY                                  2,935.05
+--------------------------------------------------------------
+
+FAX RECEIVED 09/16/2026 10:38   P.01

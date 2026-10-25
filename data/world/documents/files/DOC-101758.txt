@@ -1,21 +1,20 @@
-   GOLDEN HOUR SENIOR LIVING
-5675 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+   6099 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-  Employee: KAVYA BRYANT        Emp ID: 82960
-Position: Caregiver
-Pay Period: 07/16/2026 - 08/14/2026     Pay Date: 08/19/2026
-Pay Frequency: Monthly
+Employee: CARMEN BROWN        Emp ID: 33397
+Position: Cashier
+Pay Period: 04/21/2026 - 05/04/2026     Pay Date: 05/09/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.22     23.50         404.67      3,237.36
-    GROSS PAY                                    404.67      3,237.36
+EARNINGS            RATE      H0URS     THIS PER1OD        YTD
+Salary                                       294.02      2,940.20
+GROSS PAY                                    294.02      2,940.20
 DEDUCTIONS
-  Federal Income Tax                        16.18
-  Social Security                           25.09
-  Medicare                                   5.86
-  CA SDI                                     4.45
-~ ~ .  ,
- NET PAY                                    353.09
+  Federal Income Tax                        26.46
+  Social Security                           18.22
+  Medicare                                   4.26
+  CA SDI                                     3.23
+     NET PAY                                    241.85
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/27/2026]
+RECEIVED MAY 12 2026  - mailroom

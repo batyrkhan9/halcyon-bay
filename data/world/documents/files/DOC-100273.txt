@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+4081 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BEATRIZ KAHANANUI        Emp ID: 77536
+Position: Technician
+Pay Period: 01/23/2025 - 02/05/2025     Pay Date: 02/10/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             46.80     80.00       3,744.00     11,232.00
+GROSS PAY                                  3,744.00     11,232.00
+DEDUCTIONS
+  Federal Income Tax                       224.64
+  Social Security                          232.12
+  Medicare                                  54.28
+     CA SDI                                    41.18
+NET PAY                                   3,191.78
+--------------------------------------------------------------
+
+FAX RECEIVED 03/08/2025 10:52   P.01

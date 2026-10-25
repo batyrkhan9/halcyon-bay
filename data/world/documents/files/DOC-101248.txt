@@ -1,21 +1,20 @@
-OTTER BAY AQUARIUM
-  . : .
- 7920 COMMERCE WAY   CA
+CALDER FREIGHT LINES
+8999 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MICHAEL ITO        Emp ID: 88231
-Position: Guest services
-Pay Period: 05/23/2026 - 06/05/2026     Pay Date: 06/10/2026
-Pay Frequency: Bi-Weekly
+Employee: RAMON THOMAS        Emp ID: 69353
+Position: Driver
+Pay Period: 11/04/2025 - 11/10/2025     Pay Date: 11/15/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.05     35.75         609.54      7,314.48
-  GROSS PAY                                    609.54      7,314.48
- DEDUCTIONS
-  Federal Income Tax                        48.76
-  Social Security                           37.79
-  Medicare                                   8.83
-  CA SDI                                     6.70
-NET PAY                                    507.46
-  --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.86     40.00         674.40     31,022.40
+GROSS PAY                                    674.40     31,022.40
+DEDUCTIONS
+  Federal Income Tax                        53.95
+  Social Security                           41.81
+  Medicare                                   9.77
+  CA SDI                                     7.41
+NET PAY                                    561.46
+--------------------------------------------------------------
 
-FAX RECEIVED 07/02/2026 10:44   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/08/2025]

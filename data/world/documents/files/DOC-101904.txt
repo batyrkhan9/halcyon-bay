@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+   9750 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN WU        Emp ID: 74659
+Position: Field supervisor
+Pay Period: 06/07/2026 - 06/13/2026     Pay Date: 06/18/2026
+ Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,815.17     45,379.25
+GROSS PAY                                  1,815.17     45,379.25
+DEDUCTIONS
+  Federal Income Tax                       199.66
+  S0cial Security                          112.54
+  Medicare                                  26.32
+  CA SDI                                    19.96
+NET PAY                                  1,456.69
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]

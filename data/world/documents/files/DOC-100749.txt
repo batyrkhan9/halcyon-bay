@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+354 MARKET WAY   CA
+                         EARNING5 STATEMENT
+Employee: TARIQ M1LLER        Emp ID: 74919
+Position: Field technician
+Pay Period: 05/28/2025 - 06/10/2025     Pay Date: 06/15/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             44.14     80.00       3,531.20     42,374.40
+GROSS PAY                                  3,531.20     42,374.40
+DEDUCTIONS
+     Federal Income Tax                       176.56
+      Social Security                          218.93
+     Medicare                                  51.20
+  CA SDI                                    38.84
+NET PAY                                  3,045.67
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2025]

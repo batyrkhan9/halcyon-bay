@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+3145 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: OMAR HUANG-TUIASOSOPO        Emp ID: 46476
+Position: Guest services
+Pay Period: 08/09/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              48.60     86.67       4,212.16     67,394.56
+GROSS PAY                                  4,212.16     67,394.56
+DEDUCTIONS
+  Federal Income Tax                       210.60
+  Social Security                          261.15
+  Medicare                                  61.07
+  CA SDI                                    46.33
+NET PAY                                   3,633.01
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/24/2026]

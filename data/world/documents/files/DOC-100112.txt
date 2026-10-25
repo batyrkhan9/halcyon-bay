@@ -1,21 +1,20 @@
-SEASIDE DENTAL GROUP
-    2141 HARBOR WAY   CA
+ OTTER BAY AQUARIUM
+9774 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DONNA LOPEZ        Emp ID: 99199
-Position: Dental assistant
-Pay Period: 01/29/2025 - 02/11/2025     Pay Date: 02/16/2025
+Employee: ANTONIO PEREIRA-WALKER        Emp ID: 65343
+Position: Guest services
+Pay Period: 12/13/2024 - 12/26/2024     Pay Date: 12/31/2024
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.28     80.00       2,262.40      9,049.60
-GROSS PAY                                  2,262.40      9,049.60
-DEDUCTIONS
-  Federal Income Tax                       158.36
-  Social Security                          140.26
-_ _ _ _
-  Medicare                                  32.80
-  CA SDI                                    24.88
-NET PAY                                  1,906.10
+Salary                                     2,856.15     77,116.05
+GROSS PAY                                  2,856.15     77,116.05
+   DEDUCTIONS
+  Federal Income Tax                       257.05
+  Social Security                          177.08
+  Medicare                                  41.41
+  CA SDI                                    31.41
+NET PAY                                  2,349.20
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/18/2025]

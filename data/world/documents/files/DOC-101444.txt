@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-    4047 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: MANUEL PEREIRA        Emp ID: 23397
-Position: Teacher
-  Pay Period: 07/09/2026 - 07/15/2026     Pay Date: 07/20/2026
-Pay Frequency: Weekly
+BAYLINE LOGISTICS INC
+7636 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: CHLOE IBARRA        Emp ID: 58737
+Position: Warehouse associate
+Pay Period: 12/26/2025 - 01/08/2026      Pay Date: 01/13/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.26     40.00         770.40     22,341.60
-    GR0SS PAY                                    770.40     22,341.60
-DEDUCTIONS
-  Federal Income Tax                        84.74
-  Social Security                           47.76
-    Medicare                                  11.17
-| |   .
-  CA SDI                                     8.47
-NET PAY                                    618.26
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.62     39.75         740.14        740.14
+GROSS PAY                                    740.14        740.14
+    DEDUCTIONS
+      Federal Income Tax                        51.80
+  Social Security                           45.88
+      Medicare                                  10.73
+  CA SDI                                     8.14
+NET PAY                                    623.59
 --------------------------------------------------------------
 
-RECEIVED JUL 23 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

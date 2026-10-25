@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+1860 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: SHARON IYER        Emp ID: 55437
+Position: Driver
+Pay Period: 06/27/2026 - 07/26/2026     Pay Date: 07/31/2026
+ Pay Frequency: Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.75    173.33       4,636.58     37,092.64
+GROSS PAY                                  4,636.58     37,092.64
+ DEDUCTIONS
+  Federal Income Tax                       324.56
+  Social Security                          287.46
+  Medicare                                  67.23
+  CA SDI                                    51.00
+NET PAY                                  3,906.33
+--------------------------------------------------------------
+
+RECEIVED AUG 05 2026  - mailroom

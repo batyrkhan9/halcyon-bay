@@ -1,0 +1,20 @@
+ ELLERY HARDWARE SUPPLY
+3498 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AIKO KHALIL        Emp ID: 55392
+Position: Sales associate
+Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.74     16.25         288.28      8,648.40
+GROSS PAY                                    288.28      8,648.40
+DEDUCTIONS
+  Federal Income Tax                        11.53
+  Social Security                           17.87
+  Medicare                                   4.18
+  CA SDI                                     3.17
+NET PAY                                    251.53
+--------------------------------------------------------------
+
+FAX RECEIVED 08/10/2026 10:49   P.01

@@ -1,21 +1,19 @@
-T1DEWATER CONSTRUCTION
-9139 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ETHAN FONOTI        Emp ID: 26822
-Position: Laborer
-Pay Period: 09/12/2025 - 09/26/2025     Pay Date: 10/01/2025
-Pay Frequency: Semi-Monthly
-~ ~ .  ,
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.31     45.25         828.53     15,742.07
-GROSS PAY                                    828.53     15,742.07
-DEDUCTIONS
-   Federal Income Tax                        57.99
-  5ocial Security                           51.36
-  Medicare                                  12.01
-  CA SDI                                     9.11
-NET PAY                                    698.06
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+   (copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  DANIELA SANCHEZ
+   Your social security number: XXX-XX-1775
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    88,257.00
+ 8    Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    88,257.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    88,257.00
+   12  Standard deduction ..............................    21,900.00
 
-RECEIVED OCT 13 2025  - mailroom
+_ _ _ _
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Daniela Sanchez        Date: 04/04/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/22/2025]

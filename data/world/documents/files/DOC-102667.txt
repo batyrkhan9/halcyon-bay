@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+9741 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA ZHANG        Emp ID: 16410
+Position: Software engineer
+| |   .
+Pay Period: 08/11/2026 - 08/17/2026     Pay Date: 08/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.29     40.00       1,411.60     47,994.40
+GROSS PAY                                  1,411.60     47,994.40
+DEDUCTIONS
+  Federal Income Tax                        98.81
+  Social Security                           87.51
+  Medicare                                  20.46
+    CA SDI                                    15.52
+NET PAY                                  1,189.30
+    --------------------------------------------------------------
+
+FAX RECEIVED 08/25/2026 10:27   P.01

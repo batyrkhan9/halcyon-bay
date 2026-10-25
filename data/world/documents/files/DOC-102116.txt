@@ -1,18 +1,21 @@
-Form 1040   U.S. Individua1 Income Tax Return   2025
-(copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  KIM LIN
-Your social security number: XXX-XX-6838
-Dependents: 4
-Income
-    1a  Total amount fr0m Form(s) W-2, box 1 ...........    79,414.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
-  9   Total income ....................................    79,414.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    79,414.00
- 12  Standard deduction ..............................    21,900.00
+PACIFIC RIM JANITORIAL
+5275 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ISABEL MITCHELL-LEWIS        Emp ID: 31303
+Position: Custodian
+Pay Period: 06/06/2026 - 07/05/2026      Pay Date: 07/10/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             16.86     63.50       1,070.61      7,494.27
+GROSS PAY                                  1,070.61      7,494.27
+DEDUCTIONS
+_ _ _ _
+  Federal Income Tax                        74.94
+  Social Security                           66.37
+  Medicare                                  15.52
+  CA SDI                                    11.77
+NET PAY                                    902.01
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Kim Lin        Date: 04/10/2026
-
-FAX RECEIVED 09/27/2026 10:23   P.01
+FAX RECEIVED 07/21/2026 10:32   P.01

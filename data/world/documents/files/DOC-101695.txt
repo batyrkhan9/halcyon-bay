@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-3020 MARKET WAY   CA
-                           EARNINGS STATEMENT
-Employee: KAVYA THOMA5        Emp ID: 46572
-  Position: Field technician
-Pay Period: 07/22/2026 - 07/28/2026     Pay Date: 08/02/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.35     23.00         399.05     12,370.55
-GROSS PAY                                    399.05     12,370.55
-DEDUCTION5
-  Federal Income Tax                        35.91
-  Social Security                           24.74
-    Medicare                                   5.78
-  CA SDI                                     4.39
-NET PAY                                     328.23
+SUNSET COAST HOME CARE
+   5690 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: DESTINY THOMAS        Emp ID: 32415
+Position: Home care aide
+Pay Period: 03/14/2026 - 03/28/2026     Pay Date: 04/02/2026
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             90.38     86.67       7,833.23     54,832.61
+GROSS PAY                                  7,833.23     54,832.61
+DEDUCTIONS
+  Federal Income Tax                       704.99
+  5ocial Security                          485.66
+    Medicare                                 113.58
+  CA SDI                                    86.16
+NET PAY                                  6,442.84
 --------------------------------------------------------------
 
-FAX RECEIVED 08/16/2026 10:40   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/21/2026]

@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+5620 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: LINDA JEFFERSON        Emp ID: 62804
+Position: Guest services
+Pay Period: 07/09/2026 - 08/07/2026     Pay Date: 08/12/2026
+ Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.53    173.33       2,865.14     22,921.12
+  GROSS PAY                                  2,865.14     22,921.12
+DEDUCTI0NS
+  Federal Income Tax                       229.21
+  Social Security                          177.63
+  Medicare                                  41.54
+  CA SDI                                    31.51
+NET PAY                                  2,385.25
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2026]

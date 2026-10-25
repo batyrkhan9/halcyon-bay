@@ -1,20 +1,17 @@
-   ELLERY HARDWARE SUPPLY
- 274 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROBERT IVANOVA         Emp ID: 21169
-Position: Sales associate
-  Pay Period: 07/05/2026 - 07/19/2026     Pay Date: 07/24/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Salary                                     8,016.97    112,237.58
-    GROSS PAY                                  8,016.97    112,237.58
-DEDUCTIONS
-     Federal Income Tax                       721.52
-  Social Security                          497.05
-  Medicare                                 116.24
-  CA SDI                                    88.18
-NET PAY                                  6,593.98
---------------------------------------------------------------
+ PACIFIC TIDE BANK
+Statement Period 03/01/2026 - 03/12/2026
+Member: DAVID COSTA       Account ending 3003
 
-FAX RECEIVED 08/03/2026 10:15   P.01
+    CHECKING SUMMARY
+  Beginning balance            2,034.81
+  Deposits                     3,228.70
+  Withdrawals                 -2,970.40
+  Ending balance               2,293.11
+
+DEPOSITS AND CREDITS
+      03/12  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,614.35
+  02/25  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,614.35
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED MAR 19 2026  - mailroom

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+626 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOAH JUNG        Emp ID: 67650
+Position: Software engineer
+Pay Period: 01/18/2025 - 02/01/2025     Pay Date: 02/06/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.86     86.67       1,461.26      4,383.78
+GROSS PAY                                  1,461.26      4,383.78
+DEDUCTIONS
+  Federal Income Tax                       146.12
+  Social Security                           90.59
+  Medicare                                  21.18
+   CA SDI                                    16.07
+NET PAY                                  1,187.30
+--------------------------------------------------------------
+
+-- scanned 02/16/2025 HBCH mailroom  pg 1/1 --

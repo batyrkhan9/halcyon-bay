@@ -1,0 +1,21 @@
+LAS BRISAS RESTAURANT GROUP
+2002 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: OLIVIA CHAVEZ        Emp ID: 93248
+| |   .
+Position: Line cook
+Pay Period: 08/13/2026 - 08/26/2026     Pay Date: 08/31/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.00     80.00       1,680.00     30,240.00
+GROSS PAY                                  1,680.00     30,240.00
+   DEDUCTIONS
+      Federal Income Tax                       134.40
+  Social Security                          104.16
+      Medicare                                  24.36
+      CA SDI                                    18.48
+NET PAY                                  1,398.60
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/13/2026]

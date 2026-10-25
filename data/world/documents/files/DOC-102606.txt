@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+6284 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA PHAM        Emp ID: 99917
+Position: Housekeeper
+Pay Period: 07/23/2026 - 08/05/2026     Pay Date: 08/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,307.66     20,922.56
+ GROSS PAY                                  1,307.66     20,922.56
+DEDUCTIONS
+  Federal Income Tax                        65.38
+  Social Security                           81.07
+  Medicare                                  18.96
+  CA SDI                                    14.38
+  NET PAY                                  1,127.87
+   --------------------------------------------------------------
+
+-- scanned 08/23/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+  SANTA LUCITA FARMS
+6299 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONNA JONES        Emp ID: 39546
+Position: Field supervisor
+Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,426.29     22,820.64
+GROSS PAY                                  1,426.29     22,820.64
+DEDUCTIONS
+  Federal Income Tax                        85.57
+     Social Security                           88.43
+  Medicare                                  20.68
+  CA SDI                                    15.68
+NET PAY                                  1,215.93
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/17/2026]

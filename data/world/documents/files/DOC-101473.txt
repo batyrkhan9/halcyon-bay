@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-739 INDUSTRIAL WAY   CA
-                            EARNINGS STATEMENT
-Employee: DESTINY CORTEZ        Emp ID: 12151
-Position: Line worker
-Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
-   Pay Frequency: Bi-Weekly
+SUNSET COAST HOME CARE
+5324 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA SANCHEZ        Emp ID: 59911
+Position: Home care aide
+Pay Period: 12/31/2025 - 01/13/2026     Pay Date: 01/18/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                     4,589.55     64,253.70
-GROSS PAY                                   4,589.55     64,253.70
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,841.23      3,682.46
+    GROSS PAY                                  1,841.23      3,682.46
 DEDUCTIONS
-  Federal Income Tax                       229.47
-  Social Security                          284.55
-      Medicare                                  66.54
-  CA SDI                                    50.48
-NET PAY                                  3,958.51
+  Federal Income Tax                       184.12
+  Social Security                          114.15
+  Medicare                                  26.69
+  CA SDI                                    20.25
+NET PAY                                  1,496.02
 --------------------------------------------------------------
 
-RECEIVED JUL 25 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/19/2026]

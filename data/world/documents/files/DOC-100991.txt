@@ -1,21 +1,21 @@
-ELLERY HARDWARE SUPPLY
-8439 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: MICHAEL DIAZ        Emp ID: 67347
-Position: Sales associate
-Pay Period: 01/31/2026 - 02/06/2026      Pay Date: 02/11/2026
-Pay Frequency: Weekly
-  --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.65     40.00       1,146.00      6,876.00
-GROSS PAY                                  1,146.00      6,876.00
-    DEDUCTIONS
-  Federal Income Tax                        45.84
-| |   .
-  Social Security                           71.05
-  Medicare                                  16.61
-   CA SDI                                    12.60
-NET PAY                                    999.90
+CALDER FREIGHT LINES
+7878 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: ALYSSA CASTILLO        Emp ID: 16957
+Position: Driver
+Pay Period: 07/07/2025 - 07/20/2025     Pay Date: 07/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,072.50     16,087.50
+GROSS PAY                                  1,072.50     16,087.50
+DEDUCT1ONS
+  . : .
+   Federal Income Tax                        53.62
+   Social Security                           66.49
+      Medicare                                  15.55
+  CA SDI                                    11.79
+NET PAY                                    925.05
 --------------------------------------------------------------
 
-RECEIVED MAR 08 2026  - mailroom
+-- scanned 09/08/2025 HBCH mailroom  pg 1/1 --

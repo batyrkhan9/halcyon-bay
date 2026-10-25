@@ -1,21 +1,20 @@
-   CYPRESS FLATS AUTO BODY
- 5109 MARKET WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+9961 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: MIN-JI AGUILAR        Emp ID: 78408
-Position: Technician
-Pay Period: 08/21/2026 - 09/03/2026     Pay Date: 09/08/2026
-Pay Frequency: Bi-Weekly
+Employee: DONNA HAYES        Emp ID: 32229
+Position: Instructional aide
+Pay Period: 04/25/2026 - 05/24/2026     Pay Date: 05/29/2026
+Pay Frequency: Month1y
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             55.57     80.00       4,445.60     80,020.80
-GROSS PAY                                  4,445.60     80,020.80
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             34.55    173.33       5,988.55     29,942.75
+GROSS PAY                                  5,988.55     29,942.75
 DEDUCTIONS
-   Federal Income Tax                       489.01
-  Social 5ecurity                          275.62
-  Medicare                                  64.46
-  CA SDI                                    48.90
-NET PAY                                  3,567.61
-| |   .
-   --------------------------------------------------------------
+  Federal Income Tax                       479.08
+  Social Security                          371.29
+  Medicare                                  86.83
+  CA SDI                                    65.87
+NET PAY                                  4,985.48
+--------------------------------------------------------------
 
--- scanned 09/17/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 14 2026  - mailroom

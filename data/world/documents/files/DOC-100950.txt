@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-7321 MARKET WAY   CA
+COASTAL VALLEY ENERGY
+    1504 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ABIGAIL CORTEZ        Emp ID: 97148
-  Position: Software engineer
-Pay Period: 01/14/2026 - 01/27/2026     Pay Date: 02/01/2026
-Pay Frequency: Bi-Weekly
+Employee: HANNAH MITCHELL        Emp ID: 78592
+Position: Field technician
+Pay Period: 07/17/2025 - 08/15/2025     Pay Date: 08/20/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.02     80.00       1,921.60      5,764.80
-GROSS PAY                                  1,921.60      5,764.80
+Salary                                    20,839.67    166,717.36
+GROSS PAY                                 20,839.67    166,717.36
 DEDUCTIONS
-  Federa1 Income Tax                        96.08
-   Social Security                          119.13
-  Medicare                                  27.86
-     CA SDI                                    21.13
-NET PAY                                  1,657.40
+~ ~ .  ,
+  Federal Income Tax                     1,458.77
+  Social Security                        1,292.06
+  Medicare                                 302.17
+  CA SDI                                   229.23
+NET PAY                                 17,557.44
 --------------------------------------------------------------
 
-RECEIVED FEB 13 2026  - mailroom
+FAX RECEIVED 08/29/2025 10:11   P.01

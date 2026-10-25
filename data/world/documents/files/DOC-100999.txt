@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-  9252 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: KEISHA ITO        Emp ID: 33026
-Position: Laborer
-Pay Period: 01/18/2026 - 02/16/2026      Pay Date: 02/21/2026
+GOLDEN HOUR SENIOR LIVING
+6910 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: RODRIGO MILLER        Emp ID: 27148
+Position: Caregiver
+Pay Peri0d: 07/22/2025 - 08/20/2025     Pay Date: 08/25/2025
 Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     7,159.93     14,319.86
- GROSS PAY                                  7,159.93     14,319.86
- DEDUCTIONS
-  Federal Income Tax                       357.99
-  Social Security                          443.91
-  Medicare                                 103.81
-  CA SDI                                    78.75
-NET PAY                                  6,175.47
+Regular             18.24     58.25       1,062.48      8,499.84
+GROSS PAY                                  1,062.48      8,499.84
+DEDUCTIONS
+  Federal Income Tax                        53.12
+      Social Security                           65.87
+  Medicare                                  15.40
+  CA SDI                                    11.68
+NET PAY                                    916.41
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/11/2026]
+-- scanned 09/12/2025 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-6206 MARKET WAY   CA
+  MIRADOR GROCERY CO-OP
+9110 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ANJALI WATANABE        Emp ID: 91045
-Position: Housekeeper
-   Pay Period: 07/10/2026 - 07/23/2026     Pay Date: 07/28/2026
-Pay Frequency: Bi-Weekly
+Employee: ISABEL HUANG        Emp ID: 99348
+Position: Cashier
+Pay Period: 04/16/2026 - 04/22/2026     Pay Date: 04/27/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,798.41     56,976.15
-GROSS PAY                                  3,798.41     56,976.15
-DEDUCTIONS
-  Federal Income Tax                       341.85
-   Social Security                          235.50
-  Medicare                                  55.07
-  CA SDI                                    41.78
-NET PAY                                  3,124.21
+    Salary                                     3,410.94     57,985.98
+GROSS PAY                                  3,410.94     57,985.98
+    DEDUCTIONS
+    Federal Income Tax                       204.65
+      Social Security                          211.47
+  Medicare                                  49.45
+  CA SDI                                    37.52
+NET PAY                                  2,907.85
 --------------------------------------------------------------
 
-FAX RECEIVED 08/21/2026 10:19   P.01
+-- scanned 05/08/2026 HBCH mailroom  pg 1/1 --

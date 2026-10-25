@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-    1072 MARKET WAY   CA
+VISTA SERENA MEDICAL OFFICES
+603 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIO LEWIS        Emp ID: 21179
-Position: Cleaner
-Pay Period: 09/29/2025 - 10/12/2025     Pay Date: 10/17/2025
-Pay Frequency: Bi-Weekly
+Employee: ASHLEY HADDAD        Emp ID: 16222
+Position: Medica1 receptionist
+Pay Period: 06/07/2025 - 06/21/2025     Pay Date: 06/26/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             80.05     80.00       6,404.00    134,484.00
-    GROSS PAY                                  6,404.00    134,484.00
+    Salary                                     1,015.67     12,188.04
+ GROSS PAY                                   1,015.67     12,188.04
 DEDUCTIONS
-  Federal Income Tax                       640.40
-  Social Security                          397.04
-  Medicare                                  92.85
-  CA SDI                                    70.44
-NET PAY                                  5,203.27
+  Federal Income Tax                        60.94
+    Social Security                           62.97
+  Medicare                                  14.72
+     CA SDI                                    11.17
+NET PAY                                    865.87
 --------------------------------------------------------------
 
-FAX RECEIVED 11/01/2025 10:13   P.01
+FAX RECEIVED 07/01/2025 10:17   P.01

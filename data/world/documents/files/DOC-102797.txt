@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+7720 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MADISON SINGH        Emp ID: 98797
+Position: Dental assistant
+   Pay Peri0d: 07/23/2026 - 08/06/2026     Pay Date: 08/11/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     3,219.95     48,299.25
+GROSS PAY                                  3,219.95     48,299.25
+DEDUCTIONS
+  Federal Income Tax                       289.79
+  Social Security                          199.63
+     Medicare                                  46.68
+  CA SDI                                    35.41
+ NET PAY                                  2,648.44
+--------------------------------------------------------------
+
+FAX RECEIVED 09/03/2026 10:28   P.01

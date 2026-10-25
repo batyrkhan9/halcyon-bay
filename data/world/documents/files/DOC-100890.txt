@@ -1,20 +1,20 @@
- SANTA LUCITA FARMS
-2802 INDUSTRIAL WAY    CA
+PORT ELLERY CANNERY CO
+1542 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA RAMOS        Emp ID: 28360
-Position: Field supervisor
-Pay Period: 12/03/2025 - 12/16/2025     Pay Date: 12/21/2025
+   Employee: SANJAY IVANOVA        Emp ID: 29126
+Position: Line worker
+Pay Peri0d: 06/11/2025 - 06/24/2025     Pay Date: 06/29/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-   Regular             18.11     59.00       1,068.49     27,780.74
-GROSS PAY                                  1,068.49     27,780.74
-DEDUCTIONS
-  Federal Income Tax                       117.53
-   Social Security                           66.24
-  Medicare                                  15.49
-  CA SDI                                    11.75
-NET PAY                                    857.48
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             55.35     80.00       4,428.00     57,564.00
+GROSS PAY                                   4,428.00     57,564.00
+ DEDUCTIONS
+   Federal Income Tax                       265.68
+  Social Security                          274.53
+  Medicare                                  64.20
+  CA SDI                                    48.70
+NET PAY                                  3,774.89
+  --------------------------------------------------------------
 
--- scanned 01/19/2026 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 11 2025  - mailroom

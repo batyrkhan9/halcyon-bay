@@ -1,20 +1,21 @@
-   CYPRESS FLATS AUTO BODY
-6192 MARKET WAY   CA
+SUNSET COA5T HOME CARE
+3497 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TERESA KELLY-ADAMS        Emp ID: 65863
-Position: Technician
-  Pay Peri0d: 06/27/2026 - 07/10/2026     Pay Date: 07/15/2026
-Pay Frequency: Bi-Weekly
+Employee: DESTINY THOMAS        Emp ID: 32415
+_ _ _ _
+   Position: Home care aide
+Pay Period: 03/29/2026 - 04/12/2026     Pay Date: 04/17/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             88.62     80.00       7,089.60     99,254.40
-GROSS PAY                                  7,089.60     99,254.40
-DEDUCTIONS
-  Federal Income Tax                       638.06
-  Social Security                          439.55
-  Medicare                                 102.79
-  CA SDI                                    77.98
-NET PAY                                  5,831.22
+    Regular             90.38     86.67       7,833.23     62,665.84
+GROSS PAY                                  7,833.23     62,665.84
+   DEDUCTIONS
+  Federal Income Tax                       704.99
+   Social Security                          485.66
+  Medicare                                 113.58
+  CA SDI                                    86.16
+NET PAY                                  6,442.84
 --------------------------------------------------------------
 
--- scanned 08/16/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/21/2026]

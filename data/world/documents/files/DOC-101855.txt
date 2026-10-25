@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-   4721 HARBOR WAY   CA
+5ANDPIPER CHILD CARE CENTER
+8342 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL WATANABE        Emp ID: 32807
-   Position: Home care aide
- Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
- Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+Employee: MARIO THOMAS        Emp ID: 49894
+Position: Teacher
+Pay Period: 06/02/2026 - 06/08/2026     Pay Date: 06/13/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.52     28.25         466.69      7,467.04
-GROSS PAY                                    466.69      7,467.04
-DEDUCTIONS
-  Federal Income Tax                        46.66
-  Social Security                           28.93
-  Medicare                                   6.76
-  CA 5DI                                     5.13
-  NET PAY                                    379.21
+Salary                                     1,627.24     39,053.76
+GROSS PAY                                  1,627.24     39,053.76
+   DEDUCTIONS
+  Federal Income Tax                       178.99
+  Social Security                          100.88
+  Medicare                                  23.59
+  CA SDI                                    17.90
+NET PAY                                  1,305.88
 --------------------------------------------------------------
 
--- scanned 09/07/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/01/2026 10:51   P.01

@@ -1,20 +1,20 @@
-   GOLDEN HOUR SENIOR LIVING
-1681 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KAVYA BRYANT        Emp ID: 82960
-Position: Caregiver
-Pay Period: 06/16/2026 - 07/15/2026     Pay Date: 07/20/2026
-  Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.22     23.50         404.67      2,832.69
-GROSS PAY                                    404.67      2,832.69
+MIRADOR GROCERY CO-OP
+899 COMMERCE WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: CARMEN BROWN        Emp ID: 33397
+Position: Cashier
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       294.02      2,646.18
+GROSS PAY                                    294.02      2,646.18
 DEDUCTIONS
-      Federal Income Tax                        36.42
-  Social Security                           25.09
-  Medicare                                   5.86
-  CA SDI                                     4.45
-NET PAY                                    332.85
+  Federal Income Tax                        29.40
+      Social Security                           18.22
+  Medicare                                   4.26
+   CA SDI                                     3.23
+NET PAY                                     238.91
 --------------------------------------------------------------
 
-RECEIVED AUG 27 2026  - mailroom
+RECEIVED MAY 12 2026  - mailroom

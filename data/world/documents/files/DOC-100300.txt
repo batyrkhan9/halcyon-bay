@@ -1,20 +1,17 @@
-ELLERY HARDWARE SUPPLY
-4160 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: AUSTIN DAVIS        Emp ID: 73191
-Position: Sales ass0ciate
-Pay Period: 05/11/2025 - 05/17/2025     Pay Date: 05/22/2025
-Pay Frequency: Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.91     40.00         676.40     14,204.40
-GROSS PAY                                     676.40     14,204.40
-DEDUCTIONS
-  Federal Income Tax                        54.11
-  Social Security                           41.93
-  Medicare                                   9.80
-  CA SDI                                     7.44
-NET PAY                                    563.12
-   --------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 03/01/2025 - 03/08/2025
+    Member: STEVEN WU       Account ending 4870
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/25/2025]
+CHECKING SUMMARY
+  Beginning balance              526.42
+  Deposits                     7,590.50
+  Withdrawals                 -6,907.35
+  Ending balance               1,209.57
+
+DEPOSITS AND CREDITS
+  03/08  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,795.25
+  03/01  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,795.25
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/13/2025]

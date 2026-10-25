@@ -1,20 +1,20 @@
-ARROYO VERDE NURSERY
-3869 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: PATRICIA NGUYEN-JIMENEZ        Emp ID: 40276
-Position: Nursery worker
-Pay Period: 02/25/2025 - 03/10/2025     Pay Date: 03/15/2025
+HALCYON BAY UNIFIED SCHOOL DIST
+1441 INDUSTRIAL WAY   CA
+                         EARNING5 STATEMENT
+Employee: ELENA JOSHI        Emp ID: 27957
+Position: Instructional aide
+Pay Period: 12/31/2024 - 01/13/2025     Pay Date: 01/18/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Salary                                     8,331.63     49,989.78
-GROSS PAY                                  8,331.63     49,989.78
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             57.04     80.00       4,563.20      9,126.40
+GROSS PAY                                  4,563.20      9,126.40
 DEDUCTIONS
-  Federal Income Tax                       749.84
-   Social Security                          516.56
-  Medicare                                 120.80
-  CA SDI                                    91.64
-NET PAY                                  6,852.79
+  Federal Income Tax                       501.95
+  5ocial Security                          282.91
+      Medicare                                  66.16
+  CA SDI                                    50.19
+  NET PAY                                  3,661.99
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/24/2025]
+RECEIVED JAN 21 2025  - mailroom

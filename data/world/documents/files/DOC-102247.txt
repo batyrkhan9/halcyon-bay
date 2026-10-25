@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+2952 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAVYA WALSH        Emp ID: 40083
+Position: Mechanic
+Pay Period: 06/10/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    10,127.58    131,658.54
+GROSS PAY                                 10,127.58    131,658.54
+DEDUCTIONS
+  Federal Income Tax                     1,114.03
+  Social 5ecurity                          627.91
+  Medicare                                 146.85
+  CA SDI                                   111.40
+NET PAY                                  8,127.39
+--------------------------------------------------------------
+
+-- scanned 07/30/2026 HBCH mailroom  pg 1/1 --

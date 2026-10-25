@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+7277 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: AIKO PATEL        Emp ID: 65422
+Position: Teacher
+Pay Period: 02/12/2026 - 02/18/2026     Pay Date: 02/23/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,156.29      9,250.32
+GROSS PAY                                  1,156.29      9,250.32
+DEDUCT1ONS
+  Federal Income Tax                        57.81
+  Social Security                           71.69
+  Medicare                                  16.76
+  CA SDI                                    12.71
+NET PAY                                    997.32
+--------------------------------------------------------------
+
+RECEIVED MAR 12 2026  - mailroom

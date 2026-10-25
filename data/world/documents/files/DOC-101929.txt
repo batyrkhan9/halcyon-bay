@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-5332 INDUSTRIAL WAY   CA
-_ _ _ _
-                           EARNINGS STATEMENT
-Employee: JORGE WRIGHT        Emp ID: 34192
-   Position: Field supervisor
-Pay Period: 07/29/2026 - 08/11/2026     Pay Date: 08/16/2026
+MIRADOR PUBLIC LIBRARY
+6107 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JENNIFER NGUYEN        Emp ID: 88720
+Position: Library assistant
+Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
 Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             97.08     80.00       7,766.40    132,028.80
-GROSS PAY                                  7,766.40    132,028.80
-DEDUCTIONS
-  Federal Income Tax                       854.30
-  Social Security                          481.51
-  Medicare                                 112.61
-  CA SDI                                    85.43
-NET PAY                                  6,232.55
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.70     80.00       1,496.00     16,456.00
+GROSS PAY                                  1,496.00     16,456.00
+DEDUCTI0NS
+  Federal Income Tax                       164.56
+  S0cial Security                           92.75
+  Medicare                                  21.69
+  CA SDI                                    16.45
+NET PAY                                  1,200.55
 --------------------------------------------------------------
 
--- scanned 09/12/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/05/2026 10:33   P.01

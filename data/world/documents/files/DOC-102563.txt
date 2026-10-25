@@ -1,0 +1,20 @@
+HARBOR P0INT HOTEL
+9303 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ZAINAB MURPHY        Emp ID: 58222
+Position: Housekeeper
+Pay Period: 07/10/2026 - 07/23/2026     Pay Date: 07/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             17.92     56.75       1,016.96     15,254.40
+GROSS PAY                                  1,016.96     15,254.40
+DEDUCTIONS
+  Federal Income Tax                        40.67
+   Social Security                           63.05
+  Medicare                                  14.74
+  CA SDI                                    11.18
+ NET PAY                                    887.32
+--------------------------------------------------------------
+
+RECEIVED AUG 19 2026  - mailroom

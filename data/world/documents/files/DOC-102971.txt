@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+2450 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MATTHEW WU        Emp ID: 27541
+Position: Cashier
+Pay Period: 08/06/2026 - 08/19/2026     Pay Date: 08/24/2026
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                       455.97      7,751.49
+   GROSS PAY                                    455.97      7,751.49
+DEDUCTIONS
+  Federal Income Tax                        27.35
+  Social Security                           28.27
+  Medicare                                   6.61
+  CA SDI                                     5.01
+NET PAY                                    388.73
+--------------------------------------------------------------
+
+FAX RECEIVED 09/14/2026 10:47   P.01

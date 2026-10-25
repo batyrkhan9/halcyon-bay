@@ -1,20 +1,20 @@
 TIDEWATER CONSTRUCTION
-1135 HARBOR WAY   CA
+8273 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: BEATRIZ MARTINEZ        Emp ID: 47658
+   Employee: NOOR RAMIREZ        Emp ID: 25358
 Position: Laborer
-Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
-Pay Frequency: Bi-Weekly
+Pay Period: 06/18/2026 - 07/02/2026     Pay Date: 07/07/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.08     80.00       2,166.40     38,995.20
-GROSS PAY                                  2,166.40     38,995.20
+Regular             65.18     86.67       5,649.15     73,438.95
+GROSS PAY                                  5,649.15     73,438.95
 DEDUCTIONS
-  Federal Income Tax                       151.64
-      Social Security                          134.31
-  Medicare                                  31.41
-  CA SDI                                    23.83
-NET PAY                                  1,825.21
---------------------------------------------------------------
+  Federal Income Tax                       621.40
+  Social Security                          350.24
+  Medicare                                  81.91
+  CA SDI                                    62.14
+  NET PAY                                  4,533.46
+  --------------------------------------------------------------
 
--- scanned 09/28/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]

@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-5976 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: GREGORY JONES        Emp ID: 59572
-Position: Line w0rker
-Pay Period: 04/26/2025 - 05/09/2025     Pay Date: 05/14/2025
+CYPRESS FLATS AUTO BODY
+2282 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: DYLAN IYER        Emp ID: 10302
+Position: Technician
+Pay Period: 01/11/2025 - 01/24/2025     Pay Date: 01/29/2025
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             67.96     80.00       5,436.80     54,368.00
-GROSS PAY                                  5,436.80     54,368.00
+Salary                                     6,337.46     19,012.38
+GROSS PAY                                  6,337.46     19,012.38
 DEDUCTIONS
-  Federal Income Tax                       380.57
-  Social Security                          337.08
-  Medicare                                  78.83
-| |   .
-  CA SDI                                    59.80
-NET PAY                                  4,580.52
+  Federal Income Tax                       697.12
+  Social Security                          392.92
+   Medicare                                  91.89
+  CA SDI                                    69.71
+NET PAY                                  5,085.82
 --------------------------------------------------------------
 
--- scanned 05/21/2025 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 08 2025  - mailroom

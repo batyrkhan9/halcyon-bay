@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-2946 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: ELENA WILSON        Emp ID: 21734
-Position: Caregiver
-Pay Period: 03/11/2025 - 03/24/2025     Pay Date: 03/29/2025
+   COASTAL VALLEY ENERGY
+115 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: JUAN HAYES        Emp ID: 16527
+Position: Field technician
+Pay Period: 12/17/2024 - 12/30/2024     Pay Date: 01/04/2025
+_ _ _ _
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNING5            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.68     61.25       1,144.15      8,009.05
-GROSS PAY                                  1,144.15      8,009.05
-DEDUCTION5
-  Federal Income Tax                        45.76
-    Social Security                           70.93
-  Medicare                                  16.59
-  CA SDI                                    12.58
-NET PAY                                    998.29
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             66.03     80.00       5,282.40      5,282.40
+GROSS PAY                                  5,282.40      5,282.40
+DEDUCTIONS
+  Federal Income Tax                       528.24
+  Socia1 Security                          327.50
+     Medicare                                  76.59
+  CA SDI                                    58.10
+NET PAY                                  4,291.97
 --------------------------------------------------------------
 
--- scanned 04/16/2025 HBCH mailroom  pg 1/1 --
+-- scanned 02/05/2025 HBCH mailroom  pg 1/1 --

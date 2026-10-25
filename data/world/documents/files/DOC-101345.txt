@@ -1,21 +1,10 @@
-ARROYO VERDE NURSERY
-3445 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KEI5HA FLORES        Emp ID: 58674
-Position: Nursery worker
-Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
- Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             68.82     80.00       5,505.60     77,078.40
-GROSS PAY                                  5,505.60     77,078.40
-DEDUCTIONS
-  Federal Income Tax                       330.33
-| |   .
-  Social Security                          341.34
-  Medicare                                  79.83
-  CA SDI                                    60.56
- NET PAY                                   4,693.54
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+    NOTICE OF ACTION
+Medi-Cal Approval
+Date: 12/20/2025
+Beneficiary: MALIA HARRIS
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2026]
+You are approved for full scope Medi-Cal with no share of cost beginning 12/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/21/2026]

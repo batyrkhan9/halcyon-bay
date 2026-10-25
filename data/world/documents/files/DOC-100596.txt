@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-2505 MARKET WAY   CA
+PORT ELLERY CANNERY CO
+   7520 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: PATRICIA O'BRIEN         Emp ID: 39871
-Position: Software engineer
-Pay Period: 07/23/2025 - 07/29/2025     Pay Date: 08/03/2025
-Pay Frequency: Weekly
+Employee: DYLAN DOYLE        Emp ID: 24147
+  Position: Line worker
+Pay Period: 03/06/2025 - 04/04/2025     Pay Date: 04/09/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       855.24     26,512.44
-GROSS PAY                                    855.24     26,512.44
- DEDUCTIONS
-  Federal Income Tax                        42.76
-  Social Security                           53.02
-  Medicare                                  12.40
-  CA SDI                                     9.40
-NET PAY                                    737.66
+Salary                                     1,576.15      6,304.60
+GROSS PAY                                  1,576.15      6,304.60
+DEDUCTIONS
+  Federal Income Tax                        94.56
+  Social Security                           97.72
+  Medicare                                  22.85
+  CA SDI                                    17.33
+NET PAY                                  1,343.69
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/31/2025]
+RECEIVED MAY 27 2025  - mailroom

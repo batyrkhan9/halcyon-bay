@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-  9439 COMMERCE WAY   CA
+GOLDEN HOUR SENIOR LIVING
+676 MARKET WAY   CA
                          EARNINGS STATEMENT
-~ ~ .  ,
-Employee: ROHAN SHAH        Emp ID: 19528
-  Position: Mechanic
-  Pay Period: 05/27/2026 - 06/25/2026     Pay Date: 06/30/2026
-Pay Frequency: Monthly
+Employee: TERESA MARTINEZ        Emp ID: 62701
+Position: Caregiver
+Pay Period: 12/01/2025 - 12/07/2025     Pay Date: 12/12/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,275.82     29,930.74
-GROSS PAY                                  4,275.82     29,930.74
+Regular             16.73      8.00         133.84      6,692.00
+GRO5S PAY                                    133.84      6,692.00
 DEDUCTIONS
-     Federal Income Tax                       427.58
-  Social Security                          265.10
-  Medicare                                  61.99
-  CA SDI                                    47.03
-NET PAY                                  3,474.12
-   --------------------------------------------------------------
+  Federal Income Tax                         9.36
+  Social Security                            8.29
+  Medicare                                   1.94
+  CA SDI                                     1.47
+    NET PAY                                    112.78
+    --------------------------------------------------------------
 
-RECEIVED JUL 05 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/16/2025]

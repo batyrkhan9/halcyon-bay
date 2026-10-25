@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+8599 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL CHAVEZ        Emp ID: 80608
+Position: Software engineer
+Pay Period: 07/01/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    14,737.06    117,896.48
+GROSS PAY                                 14,737.06    117,896.48
+DEDUCTIONS
+  Federal Income Tax                     1,031.59
+  Social Security                          913.69
+  Medicare                                 213.68
+  CA SDI                                   162.10
+NET PAY                                 12,416.00
+--------------------------------------------------------------
+
+RECEIVED SEP 18 2026  - mailroom

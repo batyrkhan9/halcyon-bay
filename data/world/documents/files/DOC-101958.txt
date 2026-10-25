@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+4477 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+~ ~ .  ,
+Employee: LINDA BAKER         Emp ID: 56722
+Position: Teacher
+Pay Period: 06/06/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+ Regular             49.18     86.67       4,262.43     51,149.16
+GROSS PAY                                  4,262.43     51,149.16
+DEDUCTIONS
+  Federal Income Tax                       383.61
+  Social Security                          264.27
+  Medicare                                  61.80
+  CA SDI                                    46.88
+  NET PAY                                  3,505.87
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]

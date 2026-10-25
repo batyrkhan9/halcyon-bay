@@ -1,0 +1,20 @@
+SUNSET COAST HOME CARE
+3532 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RONALD BAKER        Emp ID: 96469
+Position: Home care aide
+Pay Peri0d: 06/26/2026 - 07/10/2026     Pay Date: 07/15/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             77.11     86.67       6,683.12     93,563.68
+GROSS PAY                                  6,683.12     93,563.68
+DEDUCTIONS
+  Federal Income Tax                       334.15
+  Social Security                          414.35
+  Medicare                                  96.90
+  CA SDI                                    73.51
+NET PAY                                  5,764.21
+--------------------------------------------------------------
+
+-- scanned 07/24/2026 HBCH mailroom  pg 1/1 --

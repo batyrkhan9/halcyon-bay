@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+8320 1NDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO SMITH        Emp ID: 53052
+Position: Line worker
+Pay Period: 06/09/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       406.30     10,157.50
+GROSS PAY                                    406.30     10,157.50
+DEDUCTIONS
+  Federal Income Tax                        40.63
+   Social Security                           25.19
+    Medicare                                   5.89
+  CA SDI                                     4.46
+NET PAY                                    330.13
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2026]

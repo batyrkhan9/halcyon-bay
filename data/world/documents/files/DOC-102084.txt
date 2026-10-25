@@ -1,20 +1,21 @@
-CALDER FREIGHT LINES
-4266 HARBOR WAY    CA
-                         EARNINGS STATEMENT
- Employee: CAROL SHAH        Emp ID: 10712
-Position: Driver
-Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
-Pay Frequency: Bi-Weekly
+     TIDEWATER CONSTRUCTION
+6326 HARBOR WAY   CA
+~ ~ .  ,
+                           EARNINGS STATEMENT
+Employee: RAVI FLORES        Emp ID: 42086
+Position: Laborer
+Pay Period: 06/22/2026 - 06/28/2026     Pay Date: 07/03/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              37.34     80.00       2,987.20     56,756.80
-GROSS PAY                                  2,987.20     56,756.80
- DEDUCTIONS
-  Federal Income Tax                       149.36
-  Social Security                          185.20
-   Medicare                                  43.31
-  CA SDI                                    32.85
-NET PAY                                  2,576.48
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             16.71     37.75         630.80     17,031.60
+GROSS PAY                                    630.80     17,031.60
+DEDUCTIONS
+  Federal Income Tax                        25.23
+  Socia1 Security                           39.11
+  Medicare                                   9.14
+  CA SDI                                     6.93
+NET PAY                                    550.39
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2026]
+RECEIVED JUL 20 2026  - mailroom

@@ -1,0 +1,20 @@
+   LAS BRISAS RESTAURANT GROUP
+6388 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE RIVERA        Emp ID: 94041
+P0sition: Line cook
+    Pay Period: 07/10/2026 - 07/16/2026     Pay Date: 07/21/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.79     16.00         268.64      7,790.56
+    GROSS PAY                                    268.64      7,790.56
+DEDUCTIONS
+  Federal Income Tax                        16.11
+   Social Security                           16.65
+  Medicare                                   3.89
+  CA SDI                                     2.95
+NET PAY                                    229.04
+--------------------------------------------------------------
+
+RECEIVED AUG 15 2026  - mailroom

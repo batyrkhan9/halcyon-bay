@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+8742 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUSAN WANG        Emp ID: 25567
+    Position: Laborer
+Pay Period: 10/18/2025 - 10/31/2025      Pay Date: 11/05/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.14     75.25       1,289.78     29,664.94
+GROSS PAY                                  1,289.78     29,664.94
+DEDUCTIONS
+  Federal Income Tax                       116.08
+  Social Security                           79.96
+  Medicare                                  18.70
+  CA SDI                                    14.18
+NET PAY                                  1,060.86
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/15/2025]

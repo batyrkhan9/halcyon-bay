@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-   (copy - summary page)
- Filing Status: Single
-Your first name and middle initial / Last name:  LINH CARTER
- Your social security number: XXX-XX-7734
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    83,882.00
-~ ~ .  ,
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    83,882.00
-  10  Adjustments to income ...........................         0.00
-   11  Adjusted gross income ...........................    83,882.00
- 12  Standard deduction ..............................    14,600.00
+COASTAL VALLEY ENERGY
+8511 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN JEFFERSON-ZAMORA         Emp ID: 85485
+ Position: Field technician
+Pay Period: 05/23/2026 - 06/05/2026      Pay Date: 06/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             64.13     80.00       5,130.40     61,564.80
+ GROSS PAY                                  5,130.40     61,564.80
+  DEDUCTIONS
+  Federal Income Tax                       513.04
+  Social Security                          318.08
+  Medicare                                  74.39
+  CA SDI                                    56.43
+NET PAY                                  4,168.46
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Linh Carter        Date: 04/06/2026
-
-RECEIVED SEP 06 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/17/2026]

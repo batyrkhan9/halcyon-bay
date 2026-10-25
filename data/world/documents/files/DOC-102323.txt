@@ -1,0 +1,20 @@
+  CYPRESS FLATS AUTO BODY
+630 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: TERESA SCOTT        Emp ID: 11079
+Position: Technician
+Pay Period: 05/17/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             18.43     44.75         824.74      4,948.44
+GROSS PAY                                    824.74      4,948.44
+DEDUCTIONS
+  Federal Income Tax                        65.97
+  Social Security                           51.13
+  Medicare                                  11.95
+  CA SDI                                     9.07
+NET PAY                                     686.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/03/2026]

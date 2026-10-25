@@ -1,0 +1,20 @@
+  BLUE KELP SOFTWARE LLC
+7085 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: TANISHA THOMPSON        Emp 1D: 75331
+Position: Software engineer
+Pay Period: 06/18/2026 - 07/17/2026     Pay Date: 07/22/2026
+    Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular            154.45    173.33      26,770.82    187,395.74
+GROSS PAY                                 26,770.82    187,395.74
+DEDUCTIONS
+  Federal Income Tax                     2,409.37
+  Social Security                        1,659.79
+  Medicare                                 388.17
+  CA SDI                                   294.47
+NET PAY                                 22,019.02
+--------------------------------------------------------------
+
+RECEIVED SEP 05 2026  - mailroom

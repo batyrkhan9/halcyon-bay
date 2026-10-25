@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+4082 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: EDUARDO MCCARTHY         Emp ID: 64213
+  Position: Cashier
+Pay Period: 08/23/2026 - 09/05/2026     Pay Date: 09/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             16.64     77.25       1,285.44     24,423.36
+GROSS PAY                                  1,285.44     24,423.36
+DEDUCTIONS
+  Federal 1ncome Tax                        89.98
+  Social Security                           79.69
+  . : .
+   Medicare                                  18.63
+  CA SDI                                    14.14
+NET PAY                                  1,083.00
+--------------------------------------------------------------
+
+-- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

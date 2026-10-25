@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+5300 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Empl0yee: LUCIA RAO        Emp ID: 62861
+Position: Mechanic
+Pay Period: 12/24/2024 - 01/06/2025     Pay Date: 01/11/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,401.94      1,401.94
+GROSS PAY                                  1,401.94      1,401.94
+DEDUCTIONS
+  Federal Income Tax                        98.13
+  Social Security                           86.92
+      Medicare                                  20.32
+  CA SDI                                    15.42
+NET PAY                                  1,181.15
+--------------------------------------------------------------
+
+-- scanned 01/24/2025 HBCH mailroom  pg 1/1 --

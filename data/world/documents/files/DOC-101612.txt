@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-1240 INDUSTRIAL WAY   CA
+    SEASIDE DENTAL GROUP
+2963 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: NICOLE MENDOZA        Emp ID: 29772
-Position: Driver
-Pay Period: 07/18/2026 - 08/01/2026     Pay Date: 08/06/2026
-Pay Frequency: Semi-Monthly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             18.34     10.00         183.40      2,751.00
-GROSS PAY                                    183.40      2,751.00
-DEDUCTIONS
-  Federal Income Tax                        20.17
-   Social Security                           11.37
-  Medicare                                   2.65
-     CA SDI                                     2.01
-NET PAY                                     147.20
+ Employee: LOGAN GUPTA        Emp ID: 71191
+   Position: Dental assistant
+Pay Period: 02/12/2026 - 03/13/2026     Pay Date: 03/18/2026
+  Pay Frequency: Monthly
 --------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+    Regular             18.89     71.75       1,355.36      4,066.08
+GROSS PAY                                  1,355.36      4,066.08
+DEDUCTIONS
+   Federal Income Tax                       135.53
+  Social Security                           84.03
+  Medicare                                  19.65
+   CA SDI                                    14.90
+  NET PAY                                  1,101.25
+    --------------------------------------------------------------
 
-RECEIVED AUG 09 2026  - mailroom
+FAX RECEIVED 04/02/2026 10:45   P.01

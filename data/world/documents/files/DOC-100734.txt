@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1314 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERESA RAMIREZ        Emp ID: 75521
+Position: Technician
+Pay Period: 05/31/2025 - 06/14/2025     Pay Date: 06/19/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             57.64     86.67       4,995.66     59,947.92
+GROSS PAY                                  4,995.66     59,947.92
+DEDUCTIONS
+  Federal Income Tax                       299.73
+  Social Security                          309.73
+  Medicare                                  72.43
+  CA SDI                                    54.95
+NET PAY                                  4,258.82
+  --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/04/2025]

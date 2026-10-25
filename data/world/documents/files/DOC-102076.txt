@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+4015 HARB0R WAY   CA
+                         EARNINGS STATEMENT
+Employee: PEDRO CARTER        Emp ID: 46648
+Position: Field supervisor
+    Pay Period: 04/11/2026 - 05/10/2026     Pay Date: 05/15/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             45.69    173.33       7,919.45     39,597.25
+GROSS PAY                                  7,919.45     39,597.25
+DEDUCTIONS
+  Federal Income Tax                       871.13
+  Social Security                          491.00
+  Medicare                                 114.83
+   CA SD1                                    87.11
+   NET PAY                                  6,355.38
+--------------------------------------------------------------
+
+RECEIVED JUL 19 2026  - mailroom

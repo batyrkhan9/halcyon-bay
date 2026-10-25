@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+    5706 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  Employee: RODRIGO MILLER        Emp ID: 27148
+Position: Caregiver
+ Pay Period: 06/22/2025 - 07/21/2025     Pay Date: 07/26/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             18.24     58.25       1,062.48      7,437.36
+GROSS PAY                                  1,062.48      7,437.36
+DEDUCTIONS
+  Federal Income Tax                        84.99
+  Social Security                           65.87
+  Medicare                                  15.40
+  CA SDI                                    11.68
+NET PAY                                    884.54
+--------------------------------------------------------------
+
+RECEIVED SEP 12 2025  - mailroom

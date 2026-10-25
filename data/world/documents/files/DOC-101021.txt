@@ -1,20 +1,19 @@
-BLUE KELP SOFTWARE LLC
-4629 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: SANJAY HUSSAIN        Emp ID: 31920
-Position: Software engineer
-Pay Period: 02/14/2026 - 02/20/2026     Pay Date: 02/25/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             31.25     40.00       1,250.00     10,000.00
-GROSS PAY                                  1,250.00     10,000.00
-DEDUCTIONS
-  Federal Income Tax                        75.00
-  Social Security                           77.50
-  Medicare                                  18.12
-  CA SDI                                    13.75
-    NET PAY                                  1,065.63
-    --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  BARBARA PARK
+  . : .
+Your social security number: XXX-XX-8155
+Dependents: 1
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........     9,390.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+     9   Total income ....................................     9,390.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................     9,390.00
+ 12  Standard deduction ..............................    21,900.00
 
--- scanned 03/18/2026 HBCH mailroom  pg 1/1 --
+    Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Barbara Park        Date: 04/04/2025
+
+-- scanned 09/16/2025 HBCH mailroom  pg 1/1 --

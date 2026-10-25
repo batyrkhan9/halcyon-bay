@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-7356 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Empl0yee: FRANK FALEOLO        Emp ID: 67569
-Position: Cashier
-Pay Period: 10/14/2025 - 10/20/2025     Pay Date: 10/25/2025
-Pay Frequency: Weekly
+ELLERY HARDWARE SUPPLY
+2649 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: PATRICIA O'BRIEN        Emp ID: 37512
+Position: Sales associate
+Pay Period: 05/26/2025 - 06/09/2025     Pay Date: 06/14/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.53     27.25         450.44     19,368.92
-GROSS PAY                                    450.44     19,368.92
+Regular             20.84     86.67       1,806.20     19,868.20
+GROSS PAY                                  1,806.20     19,868.20
 DEDUCTIONS
-   Federal Income Tax                        22.52
-  Social Security                           27.92
-  Medicare                                   6.53
-   CA SDI                                     4.95
-NET PAY                                    388.52
+  Federal Income Tax                       180.62
+  Social Security                          111.98
+  Medicare                                  26.19
+  CA SD1                                    19.86
+   NET PAY                                  1,467.55
 --------------------------------------------------------------
 
--- scanned 11/13/2025 HBCH mailroom  pg 1/1 --
+-- scanned 07/07/2025 HBCH mailroom  pg 1/1 --

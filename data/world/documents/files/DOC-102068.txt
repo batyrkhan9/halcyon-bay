@@ -1,20 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-3448 MARKET WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+4616 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: TOMASZ COLEMAN        Emp ID: 52136
-Position: Medical receptionist
-Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
-   Pay Frequency: Bi-Weekly
+  Employee: MINH PHAM        Emp ID: 36669
+Position: Instructional aide
+  . : .
+Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             72.50     80.00       5,800.00     98,600.00
-GRO5S PAY                                  5,800.00     98,600.00
+Regular              90.83     80.00       7,266.40    101,729.60
+GROSS PAY                                  7,266.40    101,729.60
 DEDUCTIONS
-  Federal Income Tax                       290.00
-    Social Security                          359.60
-  Medicare                                  84.10
-  CA SDI                                    63.80
-NET PAY                                  5,002.50
+  Federal Income Tax                       799.30
+  S0cial Security                          450.51
+  Medicare                                 105.36
+  CA SDI                                    79.93
+NET PAY                                  5,831.30
 --------------------------------------------------------------
 
-FAX RECEIVED 09/24/2026 10:32   P.01
+FAX RECEIVED 07/18/2026 10:24   P.01

@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-7484 MARKET WAY    CA
+VISTA SERENA MEDICAL OFFICES
+2297 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-    Employee: RAMON ADAMS        Emp ID: 63386
-~ ~ .  ,
-Position: Field supervisor
-Pay Period: 07/03/2026 - 07/17/2026     Pay Date: 07/22/2026
-Pay Frequency: Semi-Monthly
-  --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
- Regular             50.51     86.67       4,377.70     61,287.80
- GROSS PAY                                  4,377.70     61,287.80
+Employee: STEVEN FLORES-ANDERSON         Emp ID: 27412
+Position: Medical receptionist
+Pay Period: 02/11/2026 - 02/24/2026     Pay Date: 03/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       578.62      2,893.10
+GROSS PAY                                    578.62      2,893.10
 DEDUCTIONS
-  Federal 1ncome Tax                       218.88
-  Social Security                          271.41
-  Medicare                                  63.47
-  CA SDI                                    48.15
-NET PAY                                  3,775.79
- --------------------------------------------------------------
+  Federal Income Tax                        57.86
+   Social Security                           35.87
+  Medicare                                   8.39
+  CA SDI                                     6.36
+NET PAY                                    470.14
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/01/2026]
+-- scanned 03/12/2026 HBCH mailroom  pg 1/1 --

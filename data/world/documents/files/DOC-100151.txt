@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 03/01/2025 - 03/23/2025
-Member: JIA DESAI        Account ending 7019
+SANDPIPER CHILD CARE CENTER
+  316 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER MITCHELL        Emp ID: 94484
+P0sition: Teacher
+Pay Period: 01/19/2025 - 01/25/2025     Pay Date: 01/30/2025
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                       899.16      4,495.80
+GROSS PAY                                    899.16      4,495.80
+DEDUCTIONS
+  Federal Income Tax                        62.94
+  Social Security                           55.74
+  Medicare                                  13.03
+      CA SDI                                     9.89
+NET PAY                                    757.56
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance            2,616.95
-  Deposits                     4,789.82
-  Withdrawals                 -4,358.73
-  Ending balance               3,048.04
-
-DEPOSITS AND CREDITS
-  03/23  PAYROLL DIR DEP VISTA SERENA MEDIC       2,394.91
-  03/16  PAYROLL DIR DEP VISTA SERENA MEDIC       2,394.91
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED APR 03 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/02/2025]

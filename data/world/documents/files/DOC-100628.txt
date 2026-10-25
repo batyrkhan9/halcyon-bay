@@ -1,16 +1,20 @@
-CYPRESS FLATS AUTO BODY
-2696 MISSION ST
+BLUE KELP SOFTWARE LLC
+2485 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: HASSAN IBARRA        Emp ID: 56009
+Position: Software engineer
+Pay Period: 05/03/2025 - 05/16/2025     Pay Date: 05/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       899.37      9,893.07
+GROSS PAY                                    899.37      9,893.07
+DEDUCTIONS
+  Federal Income Tax                        89.93
+  Social Security                           55.76
+  Medicare                                  13.04
+   CA SDI                                     9.89
+NET PAY                                    730.75
+--------------------------------------------------------------
 
-September 10, 2025
-
-To Whom It May Concern:
-
-This letter confirms that Hung Rivera has been employed with Cypress Flats Aut0 Body since
-February 2023 in the position 0f Technician. Their rate of pay is $35.88 per hour, for a regular schedule of 32 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Larry Zamora
-Human Resources
-
-RECEIVED SEP 18 2025  - mailroom
+-- scanned 06/02/2025 HBCH mailroom  pg 1/1 --

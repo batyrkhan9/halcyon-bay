@@ -1,20 +1,10 @@
-SUNSET COA5T HOME CARE
- 5388 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: TYLER RODRIGUEZ        Emp ID: 28462
-Position: Home care aide
-Pay Period: 07/12/2026 - 07/18/2026     Pay Date: 07/23/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             45.37     40.00       1,814.80     54,444.00
-GROSS PAY                                  1,814.80     54,444.00
-DEDUCTIONS
-  Federal Income Tax                       127.03
-  Social Security                          112.51
-  Medicare                                  26.31
-  CA SDI                                    19.96
- NET PAY                                  1,528.99
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+NOTICE OF ACTION
+Medi-Cal Approval
+Date: 02/26/2026
+Beneficiary: DONALD ZHOU
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/15/2026]
+You are approved for full scope Medi-Cal with no share of cost beginning 02/01/2026.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+RECEIVED APR 17 2026  - mailroom

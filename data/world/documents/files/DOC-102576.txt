@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+409 C0MMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: MANUEL LEE        Emp ID: 46735
+Position: Caregiver
+Pay Period: 08/05/2026 - 08/11/2026     Pay Date: 08/16/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.28     30.75         531.36     17,534.88
+   GROSS PAY                                    531.36     17,534.88
+  DEDUCTIONS
+  Federal Income Tax                        37.19
+  Social Security                           32.94
+  Medicare                                   7.70
+  CA SDI                                     5.84
+  NET PAY                                    447.69
+--------------------------------------------------------------
+
+RECEIVED AUG 21 2026  - mailroom

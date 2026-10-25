@@ -1,0 +1,20 @@
+    SANDPIPER CHILD CARE CENTER
+5988 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LETICIA CRUZ        Emp ID: 16235
+Position: Teacher
+Pay Period: 07/14/2026 - 07/27/2026     Pay Date: 08/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       613.41      9,814.56
+GROSS PAY                                     613.41      9,814.56
+   DEDUCTIONS
+  Federal Income Tax                        55.20
+  Social Security                           38.03
+   Medicare                                   8.89
+   CA SDI                                     6.74
+     NET PAY                                    504.55
+--------------------------------------------------------------
+
+FAX RECEIVED 09/01/2026 10:42   P.01

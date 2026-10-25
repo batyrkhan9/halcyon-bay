@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-8771 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: DANIELA PARK        Emp ID: 42555
-Position: Software engineer
-Pay Period: 07/01/2025 - 07/15/2025     Pay Date: 07/20/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+SEASIDE DENTAL GROUP
+4454 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: LEILA LEWIS        Emp ID: 40882
+Position: Dental assistant
+ Pay Period: 04/25/2025 - 05/01/2025     Pay Date: 05/06/2025
+Pay Frequency: Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.07     28.50         515.00      7,210.00
-GROSS PAY                                    515.00      7,210.00
+Salary                                     2,001.22     36,021.96
+GROSS PAY                                  2,001.22     36,021.96
 DEDUCTIONS
-  Federal Income Tax                        51.50
-  Social Security                           31.93
-  Medicare                                   7.46
-   CA SDI                                     5.66
-NET PAY                                    418.45
+  Federal Income Tax                       160.09
+  Social Security                          124.07
+      Medicare                                  29.01
+  CA 5DI                                    22.01
+    NET PAY                                  1,666.04
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2025]
+RECEIVED MAY 22 2025  - mailroom

@@ -1,21 +1,19 @@
-BLUE KELP SOFTWARE LLC
-7946 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KIM LIN        Emp ID: 78557
-Position: Software engineer
-Pay Period: 09/04/2026 - 09/17/2026     Pay Date: 09/22/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.18     80.00       3,054.40     58,033.60
-GROSS PAY                                  3,054.40     58,033.60
-DEDUCTIONS
-  Federal Inc0me Tax                       335.98
-  Social Security                          189.37
-  Medicare                                  44.28
-  CA SDI                                    33.59
-_ _ _ _
-NET PAY                                  2,451.18
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 07/01/2026 - 07/18/2026
+Member: ANA JOSHI       Account ending 3537
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+CHECKING SUMMARY
+    Beginning balance            1,818.73
+  Deposits                    13,087.81
+   Withdrawals                -13,087.81
+  Ending balance               1,818.73
+
+DEPOSITS AND CREDITS
+  06/23  MOBILE DEPOSIT                           3,024.82
+  06/30  MOBILE DEPOSIT                           4,106.95
+  07/07  MOBILE DEPOSIT                           4,988.53
+  07/14  MOBILE DEPOSIT                             967.51
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]

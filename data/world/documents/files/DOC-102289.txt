@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+3217 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMANDA WALSH        Emp 1D: 40068
+   Position: Dental assistant
+Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             32.71     80.00       2,616.80     39,252.00
+  . : .
+    GROSS PAY                                  2,616.80     39,252.00
+DEDUCTIONS
+  Federal Income Tax                       104.67
+      Social Security                          162.24
+  Medicare                                  37.94
+  CA SDI                                    28.78
+NET PAY                                  2,283.17
+--------------------------------------------------------------
+
+RECEIVED AUG 02 2026  - mailroom

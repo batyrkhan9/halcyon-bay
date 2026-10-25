@@ -1,20 +1,20 @@
-POINT CORRIN BOATWORKS
-5783 HARBOR WAY   CA
+LAS BRISAS RESTAURANT GROUP
+3235 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM JUNG        Emp ID: 15077
-Position: Mechanic
-Pay Period: 06/10/2025 - 06/16/2025     Pay Date: 06/21/2025
-Pay Frequency: Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.60     40.00         864.00     21,600.00
- GROSS PAY                                    864.00     21,600.00
+Employee: OMAR MITCHELL         Emp ID: 27461
+Position: Line cook
+Pay Period: 03/31/2025 - 04/13/2025     Pay Date: 04/18/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             18.45     61.75       1,139.29      9,114.32
+GROSS PAY                                  1,139.29      9,114.32
 DEDUCTIONS
-  Federal Income Tax                        77.76
-  Social Security                           53.56
-  Medicare                                  12.52
-  CA SDI                                     9.50
-NET PAY                                    710.66
+  Federal Income Tax                        79.75
+  Social Security                           70.63
+  Medicare                                  16.52
+  CA SDI                                    12.53
+NET PAY                                    959.86
 --------------------------------------------------------------
 
-RECEIVED JUL 19 2025  - mailroom
+-- scanned 05/03/2025 HBCH mailroom  pg 1/1 --

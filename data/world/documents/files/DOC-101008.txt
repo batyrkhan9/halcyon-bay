@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+4419 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+ Employee: XIMENA ITO        Emp ID: 77389
+Position: Library assistant
+Pay Period: 08/23/2025 - 08/29/2025     Pay Date: 09/03/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             59.42     40.00       2,376.80     85,564.80
+GROSS PAY                                  2,376.80     85,564.80
+DEDUCTIONS
+   Federal Income Tax                       261.44
+  Social Security                          147.36
+   Medicare                                  34.46
+  CA SDI                                    26.14
+NET PAY                                  1,907.40
+--------------------------------------------------------------
+
+RECEIVED SEP 13 2025  - mailroom

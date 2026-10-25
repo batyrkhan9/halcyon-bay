@@ -1,20 +1,21 @@
-     BAYLINE LOGISTICS INC
-4943 INDU5TRIAL WAY   CA
-                           EARNINGS STATEMENT
-Employee: PAOLA CASTILLO        Emp ID: 97336
-Position: Warehouse associate
-Pay Period: 07/13/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Semi-Monthly
+HARB0R POINT HOTEL
+8156 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUSAN ALMEIDA        Emp ID: 81276
+Position: Housekeeper
+Pay Period: 03/17/2026 - 03/30/2026     Pay Date: 04/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.27     86.67       1,583.46     23,751.90
-GROSS PAY                                  1,583.46     23,751.90
+ Regular             77.72     80.00       6,217.60     43,523.20
+GROSS PAY                                  6,217.60     43,523.20
 DEDUCTIONS
-     Federal Income Tax                        95.00
-  Social Security                           98.17
-  Medicare                                  22.96
-  CA SDI                                    17.41
-NET PAY                                  1,349.92
---------------------------------------------------------------
+  Federal Income Tax                       497.40
+    Social Security                          385.49
+  Medicare                                  90.15
+  CA SDI                                    68.39
+NET PAY                                  5,176.17
+_ _ _ _
+    --------------------------------------------------------------
 
--- scanned 08/16/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 04/19/2026 10:26   P.01

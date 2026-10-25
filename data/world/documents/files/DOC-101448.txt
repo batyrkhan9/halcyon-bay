@@ -1,17 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 07/01/2026 - 07/20/2026
-Member: MANUEL PEREIRA       Account ending 4483
+ SEASIDE DENTAL GROUP
+4871 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAFAEL ROBINSON        Emp ID: 45674
+   Position: Dental assistant
+Pay Period: 01/24/2026 - 02/06/2026     Pay Date: 02/11/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             38.27     80.00       3,061.60      9,184.80
+GROSS PAY                                  3,061.60      9,184.80
+DEDUCTIONS
+  Federal Income Tax                       183.69
+  Social Security                          189.81
+  Medicare                                  44.39
+  CA SDI                                    33.67
+NET PAY                                  2,610.04
+--------------------------------------------------------------
 
-CHECK1NG SUMMARY
-   Beginning balance            2,027.32
-  Deposits                     1,201.82
-  Withdrawals                 -1,165.76
-  Ending balance               2,063.38
-
-  DEPOSITS AND CREDITS
-  07/20  PAYROLL DIR DEP SANDPIPER CHILD CA         600.91
-   07/13  PAYROLL DIR DEP SANDPIPER CHILD CA         600.91
-
- Thank you for banking with us.  Page 1 of 2
-
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+-- scanned 02/17/2026 HBCH mailroom  pg 1/1 --

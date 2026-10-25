@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-2747 HARBOR WAY   CA
+TIDEWATER CONSTRUCTION
+8354 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: BRENDA RIVERA        Emp ID: 74713
-Position: Line cook
-Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
-    Pay Frequency: Bi-Weekly
+  Employee: SHARON DAVIS        Emp ID: 95187
+Position: Laborer
+Pay Period: 02/22/2026 - 03/08/2026     Pay Date: 03/13/2026
+  Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             42.80     80.00       3,424.00     54,784.00
-GROSS PAY                                  3,424.00     54,784.00
+Regular             16.51     45.00         742.95      3,714.75
+GROSS PAY                                    742.95      3,714.75
 DEDUCTIONS
-  Federal Income Tax                       273.92
-  Social Security                          212.28
-  Medicare                                  49.64
-  CA SDI                                    37.66
-NET PAY                                  2,850.50
+  Federal Income Tax                        66.86
+      Social Security                           46.06
+  Medicare                                  10.77
+  CA SDI                                     8.17
+    NET PAY                                    611.09
 --------------------------------------------------------------
 
-FAX RECEIVED 08/09/2026 10:47   P.01
+RECEIVED MAR 31 2026  - mailroom

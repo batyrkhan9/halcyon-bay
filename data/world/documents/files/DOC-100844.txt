@@ -1,20 +1,20 @@
-ARROYO VERDE NURSERY
-8979 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+4500 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: GUADALUPE CHAVEZ        Emp ID: 50690
-Position: Nursery worker
-Pay Period: 11/28/2025 - 12/11/2025     Pay Date: 12/16/2025
-Pay Frequency: Bi-Weekly
+Employee: AMINA FITZGERALD        Emp ID: 89928
+    Position: Custodian
+Pay Period: 07/07/2025 - 07/20/2025     Pay Date: 07/25/2025
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,968.56     99,214.00
-GROSS PAY                                  3,968.56     99,214.00
+   EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             97.70     80.00       7,816.00    117,240.00
+GROSS PAY                                  7,816.00    117,240.00
 DEDUCTIONS
-     Federal Income Tax                       158.74
-  Social Security                          246.05
-    Medicare                                  57.54
-  CA SDI                                    43.65
-    NET PAY                                  3,462.58
+     Federal Income Tax                       468.96
+  Social Security                          484.59
+  Medicare                                 113.33
+  CA SDI                                    85.97
+NET PAY                                  6,663.15
 --------------------------------------------------------------
 
--- scanned 01/01/2026 HBCH mailroom  pg 1/1 --
+-- scanned 08/06/2025 HBCH mailroom  pg 1/1 --

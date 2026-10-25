@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+7894 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUKI NAVARRO        Emp ID: 81560
+Position: Field technician
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     1,372.25     12,350.25
+GROSS PAY                                  1,372.25     12,350.25
+DEDUCTIONS
+  Federal Income Tax                       109.78
+  Social Security                           85.08
+  Medicare                                  19.89
+  CA SDI                                    15.09
+NET PAY                                  1,142.41
+--------------------------------------------------------------
+
+FAX RECEIVED 05/14/2026 10:50   P.01

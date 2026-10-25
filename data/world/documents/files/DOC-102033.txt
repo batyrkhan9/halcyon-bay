@@ -1,21 +1,20 @@
-MARISOL CLEANING SERVICES
-1065 HARBOR WAY   CA
+PORT ELLERY CANNERY CO
+7949 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: RAJNI KHALIL        Emp ID: 20497
-Position: Cleaner
-Pay Period: 09/03/2026 - 09/09/2026      Pay Date: 09/14/2026
+Employee: ARTURO SMITH        Emp ID: 53052
+Position: Line worker
+Pay Period: 06/16/2026 - 06/22/2026     Pay Date: 06/27/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             27.25     40.00       1,090.00     40,330.00
-GR0SS PAY                                  1,090.00     40,330.00
-  . : .
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                       406.30     10,563.80
+ GROSS PAY                                     406.30     10,563.80
 DEDUCTIONS
-     Federal Income Tax                       119.90
-  Social Security                           67.58
-     Medicare                                  15.80
-  CA SDI                                    11.99
-NET PAY                                    874.73
+  Federal Income Tax                        32.50
+  Social Security                           25.19
+  Medicare                                   5.89
+  CA SDI                                     4.46
+NET PAY                                    338.26
 --------------------------------------------------------------
 
-FAX RECEIVED 09/21/2026 10:17   P.01
+RECEIVED JUL 15 2026  - mailroom

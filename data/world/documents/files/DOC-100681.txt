@@ -1,0 +1,21 @@
+COASTAL VALLEY ENERGY
+  3543 COMMERCE WAY   CA
+| |   .
+                         EARNINGS STATEMENT
+Emp1oyee: LUIS BUI        Emp ID: 46652
+Position: Field technician
+Pay Period: 05/24/2025 - 06/06/2025     Pay Date: 06/11/2025
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.65     80.00       1,732.00     20,784.00
+GROSS PAY                                  1,732.00     20,784.00
+DEDUCTIONS
+  Federal 1ncome Tax                        86.60
+  Social Security                          107.38
+  Medicare                                  25.11
+  CA SDI                                    19.05
+NET PAY                                  1,493.86
+  --------------------------------------------------------------
+
+FAX RECEIVED 06/19/2025 10:25   P.01

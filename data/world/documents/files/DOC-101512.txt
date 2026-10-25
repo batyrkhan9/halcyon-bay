@@ -1,17 +1,20 @@
-PAC1FIC TIDE BANK
-Statement Period 07/01/2026 - 07/25/2026
-Member: THAO SULLIVAN       Account ending 6160
+LAS BRISAS RESTAURANT GROUP
+7435 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARISOL DOYLE        Emp ID: 72058
+    Position: Line cook
+   Pay Period: 02/09/2026 - 02/23/2026     Pay Date: 02/28/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.85     86.67       1,547.06      6,188.24
+GROSS PAY                                  1,547.06      6,188.24
+DEDUCTIONS
+  Federa1 Income Tax                       154.70
+  Social Security                           95.91
+  Medicare                                  22.43
+  CA SDI                                    17.01
+NET PAY                                  1,257.01
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-   Beginning balance            2,796.51
-  Deposits                     1,938.80
-     Withdrawals                 -1,667.36
-  Ending balance               3,067.95
-
-DEPOSITS AND CREDITS
-  07/25  PAYROLL DIR DEP COASTAL VALLEY ENE         969.40
-  07/10  PAYROLL DIR DEP COASTAL VALLEY ENE         969.40
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/29/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/06/2026]

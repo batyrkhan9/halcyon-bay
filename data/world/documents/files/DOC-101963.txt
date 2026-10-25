@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-8718 HARBOR WAY   CA
-                             EARNINGS STATEMENT
- Employee: RAJNI IVANOVA        Emp ID: 21406
-Position: Nursery worker
-    Pay Period: 07/31/2026 - 08/29/2026     Pay Date: 09/03/2026
-Pay Frequency: Monthly
+POINT CORRIN BOATWORKS
+    3994 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI VASQUEZ        Emp ID: 15317
+| |   .
+Position: Mechanic
+Pay Period: 06/14/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             49.24    173.33       8,534.77     76,812.93
-GROSS PAY                                  8,534.77     76,812.93
-DEDUCTIONS
-    Federal Income Tax                       341.39
-  Social Security                          529.15
-  Medicare                                 123.75
-  CA SDI                                    93.88
-NET PAY                                  7,446.60
-  --------------------------------------------------------------
+Salary                                       789.49     20,526.74
+GROSS PAY                                    789.49     20,526.74
+DEDUCTI0NS
+  Federal Income Tax                        71.05
+  Social Security                           48.94
+  Medicare                                  11.44
+  CA SDI                                     8.68
+NET PAY                                    649.38
+    --------------------------------------------------------------
 
--- scanned 09/14/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 09 2026  - mailroom

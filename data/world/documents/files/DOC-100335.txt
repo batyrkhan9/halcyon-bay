@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+7609 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DYLAN ZHANG        Emp ID: 69994
+    Position: Line worker
+  Pay Period: 02/18/2025 - 02/24/2025     Pay Date: 03/01/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                       550.98      4,958.82
+GROSS PAY                                    550.98      4,958.82
+DEDUCTIONS
+  Federal Income Tax                        27.54
+  Social Security                           34.16
+  Medicare                                   7.98
+  CA SDI                                     6.06
+NET PAY                                    475.24
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/17/2025]

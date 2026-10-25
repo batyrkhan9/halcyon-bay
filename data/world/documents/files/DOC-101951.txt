@@ -1,20 +1,20 @@
- CALDER FREIGHT LINES
-  9783 COMMERCE WAY   CA
+LAS BRISAS RESTAURANT GROUP
+1903 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: NOOR KING        Emp ID: 92899
-Position: Driver
-Pay Period: 08/19/2026 - 08/25/2026     Pay Date: 08/30/2026
-Pay Frequency: Weekly
+Employee: MANUEL PETROV        Emp ID: 57533
+Position: Line cook
+   Pay Period: 06/09/2026 - 06/22/2026     Pay Date: 06/27/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       423.83     14,834.05
-GROSS PAY                                    423.83     14,834.05
-DEDUCTIONS
-  Federal Income Tax                        42.38
-  Social Security                           26.27
-  Medicare                                   6.14
-    CA SDI                                     4.66
-NET PAY                                    344.38
-     --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             18.97      9.00         170.73      2,219.49
+GROSS PAY                                    170.73      2,219.49
+   DEDUCTIONS
+   Federal Income Tax                        11.95
+  Social Security                           10.58
+  Medicare                                   2.47
+  CA SDI                                     1.87
+  NET PAY                                    143.86
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]
+RECEIVED JUL 08 2026  - mailroom

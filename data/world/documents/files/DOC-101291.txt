@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-4918 MARKET WAY   CA
-                           EARNINGS STATEMENT
-   Employee: DONNA C0LEMAN-DELGADO        Emp ID: 95527
-Position: Line worker
-Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+BAYLINE LOGISTICS INC
+8052 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARISOL RAHMAN        Emp ID: 34079
+ Position: Warehouse associate
+Pay Period: 11/09/2025 - 11/23/2025     Pay Date: 11/28/2025
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       582.55      7,573.15
-GROSS PAY                                    582.55      7,573.15
-   DEDUCTIONS
-      Federal Income Tax                        40.77
-  Social Security                           36.11
-  Medicare                                   8.44
-  CA SDI                                     6.40
-NET PAY                                    490.83
- --------------------------------------------------------------
+Regular             61.23     86.67       5,306.80    122,056.40
+GROSS PAY                                  5,306.80    122,056.40
+DEDUCTIONS
+    Federal Inc0me Tax                       583.74
+  Social Security                          329.02
+  Medicare                                  76.94
+  CA SDI                                    58.37
+NET PAY                                  4,258.73
+    --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/06/2026]
+FAX RECEIVED 12/26/2025 10:30   P.01

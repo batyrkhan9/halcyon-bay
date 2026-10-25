@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+664 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: N0OR IBARRA        Emp ID: 34493
+Position: Medical receptionist
+Pay Period: 08/19/2026 - 09/02/2026     Pay Date: 09/07/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                        453.29      7,705.93
+  GROSS PAY                                    453.29      7,705.93
+DEDUCTIONS
+  Federal Income Tax                        45.32
+  Social Security                           28.10
+  Medicare                                   6.57
+  CA SDI                                     4.98
+ NET PAY                                    368.32
+--------------------------------------------------------------
+
+-- scanned 09/17/2026 HBCH mailroom  pg 1/1 --

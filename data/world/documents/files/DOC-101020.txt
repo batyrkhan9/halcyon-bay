@@ -1,21 +1,20 @@
-BLUE KELP SOFTWARE LLC
-4150 MARKET WAY   CA
+SUNSET COAST HOME CARE
+8370 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: SANJAY HUSSAIN        Emp ID: 31920
-Position: Software engineer
-Pay Period: 02/21/2026 - 02/27/2026     Pay Date: 03/04/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             31.25     40.00       1,250.00     11,250.00
-GROSS PAY                                  1,250.00     11,250.00
-  DEDUCTIONS
-  Federal Income Tax                        50.00
-  . : .
-  Social Security                           77.50
-    Medicare                                  18.12
-  CA SDI                                    13.75
-  NET PAY                                  1,090.63
+ Employee: ANDREW MARTIN        Emp ID: 94751
+Position: Home care aide
+Pay Period: 08/19/2025 - 08/25/2025     Pay Date: 08/30/2025
+   Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.37     24.25         421.22     14,742.70
+   GROSS PAY                                    421.22     14,742.70
+DEDUCTIONS
+  Federal Income Tax                        37.90
+  Social Security                           26.11
+  Medicare                                   6.10
+  CA SDI                                     4.63
+NET PAY                                    346.48
 --------------------------------------------------------------
 
-FAX RECEIVED 03/18/2026 10:10   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/15/2025]

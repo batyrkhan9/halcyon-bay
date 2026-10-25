@@ -1,21 +1,20 @@
- TIDEWATER CONSTRUCTION
-9016 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: DUC TUIASOSOPO        Emp ID: 27363
-Position: Laborer
-Pay Period: 05/27/2025 - 06/09/2025     Pay Date: 06/14/2025
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.66     47.00         783.02      9,396.24
-GROSS PAY                                    783.02      9,396.24
+PORT ELLERY CANNERY CO
+5223 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: RAJNI JUNG        Emp ID: 96460
+Position: Line worker
+Pay Period: 03/12/2025 - 04/10/2025     Pay Date: 04/15/2025
+Pay Frequency: Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+     Regular             23.37    173.33       4,050.72     16,202.88
+GROSS PAY                                  4,050.72     16,202.88
 DEDUCTIONS
-  Federal Income Tax                        86.13
-| |   .
-  Social Security                           48.54
-  Medicare                                  11.35
-  CA SDI                                     8.61
-NET PAY                                    628.39
+   Federal Income Tax                       324.05
+  Social Security                          251.14
+  Medicare                                  58.73
+  CA SDI                                    44.55
+NET PAY                                  3,372.25
 --------------------------------------------------------------
 
-RECEIVED JUL 05 2025  - mailroom
+RECEIVED APR 20 2025  - mailroom

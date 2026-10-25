@@ -1,21 +1,18 @@
-SEASIDE DENTAL GROUP
-6022 COMMERCE WAY   CA
-_ _ _ _
-                         EARNINGS STATEMENT
-Employee: TUAN HARRIS        Emp ID: 80190
-Position: Dental assistant
-Pay Period: 06/27/2026 - 07/10/2026     Pay Date: 07/15/2026
-Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,877.44     54,284.16
-GROSS PAY                                  3,877.44     54,284.16
-    DEDUCTIONS
-  Federal Income Tax                       193.87
-  Social Security                          240.40
-  Medicare                                  56.22
-   CA SDI                                    42.65
- NET PAY                                  3,344.30
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 01/01/2026 - 01/31/2026
+Member: JENNIFER KOWALSKI       Account ending 4185
 
-FAX RECEIVED 07/23/2026 10:50   P.01
+CHECKING SUMMARY
+| |   .
+  Beginning balance            1,957.92
+  Deposits                     3,381.82
+  Withdrawals                 -3,314.18
+  Ending balance               2,025.56
+
+DEPOSITS AND CREDIT5
+  02/01  PAYROLL DIR DEP MARISOL CLEANING S       1,690.91
+    01/02  PAYROLL DIR DEP MAR1SOL CLEANING S       1,690.91
+
+    Thank you for banking with us.  Page 1 of 2
+
+RECEIVED FEB 11 2026  - mailroom

@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+5426 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: MICHAEL KHALIL        Emp ID: 69159
+Position: Line cook
+Pay Period: 08/29/2026 - 09/11/2026     Pay Date: 09/16/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.23     35.50         611.66     11,621.54
+    GROSS PAY                                    611.66     11,621.54
+DEDUCTIONS
+  Federal Income Tax                        24.46
+    Social Security                           37.92
+      Medicare                                   8.86
+     CA SDI                                     6.72
+NET PAY                                     533.70
+    --------------------------------------------------------------
+
+FAX RECEIVED 09/29/2026 10:27   P.01

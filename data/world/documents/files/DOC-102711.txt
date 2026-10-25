@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3379 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAFAEL LIU        Emp ID: 31892
+Position: Medical receptionist
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+ Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.64     80.00       2,291.20     36,659.20
+GROSS PAY                                   2,291.20     36,659.20
+DEDUCTIONS
+  Federal Income Tax                       183.29
+  Social Security                          142.05
+  Medicare                                  33.22
+  CA SDI                                    25.20
+NET PAY                                  1,907.44
+    --------------------------------------------------------------
+
+RECEIVED AUG 29 2026  - mailroom
