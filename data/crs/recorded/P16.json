@@ -1,0 +1,253 @@
+{
+  "persona": "P16",
+  "recorded_at": "2026-10-25T09:43:42Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P16",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:42Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "STEP_UP",
+      "problems": [
+        {
+          "code": "2401",
+          "text": "IDENTITY VERIFIED - STEP-UP AUTHENTICATION RECOMMENDED (FRAUD ALERT ON FILE)"
+        }
+      ],
+      "name_on_file": "SAMUEL OYELARAN",
+      "address_on_file": "1200 BRICKELL BAY DR APT 2203, MIAMI, FL 33131",
+      "request_id": "6e091d3d-cc67-40b9-b378-eb046ceb1537"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "098512c9-663f-4b2d-a608-1020c3e00728"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "SAMUEL OYELARAN",
+      "address": "1200 BRICKELL BAY DR APT 2203, MIAMI, FL 33131",
+      "phone": "5550101016",
+      "request_id": "bb0ee645-d4ff-4bfe-af18-3a206cf158f1"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "31692453-d192-4f8c-84b3-5e1ddec83e7f"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "6e091d3d-cc67-40b9-b378-eb046ceb1537",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "SAMUEL",
+                "middle": "K",
+                "last": "OYELARAN"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "1200",
+                "name": "BRICKELL BAY DR APT 2203"
+              },
+              "location": {
+                "city": "MIAMI",
+                "state": "FL",
+                "zipCode": "33131"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701016",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701016",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1977-06-12T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [
+                {
+                  "code": "2401",
+                  "text": "IDENTITY VERIFIED - STEP-UP AUTHENTICATION RECOMMENDED (FRAUD ALERT ON FILE)",
+                  "source": "INPUT"
+                }
+              ],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "098512c9-663f-4b2d-a608-1020c3e00728",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "bb0ee645-d4ff-4bfe-af18-3a206cf158f1",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "SAMUEL",
+              "lastName": "OYELARAN",
+              "houseNo": "1200",
+              "streetName": "BRICKELL BAY DR APT 2203",
+              "address": "1200 BRICKELL BAY DR APT 2203",
+              "city": "MIAMI",
+              "state": "FL",
+              "postalCode": "33131"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "31692453-d192-4f8c-84b3-5e1ddec83e7f",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:42.594835Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2019-09-10",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "SAMUEL",
+                "lastName": "OYELARAN",
+                "middleName": "K"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

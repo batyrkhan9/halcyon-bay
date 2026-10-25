@@ -1,0 +1,233 @@
+{
+  "persona": "P15",
+  "recorded_at": "2026-10-25T09:43:42Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P15",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:42Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "NICOLE FARRAGUT",
+      "address_on_file": "7700 NE 72ND AVE, PORTLAND, OR 97218",
+      "request_id": "3267cd32-c8cd-4813-a17f-d3e8350aae54"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": null,
+      "sources_agree": null,
+      "request_id": "ca14b064-1d07-484d-b1db-d14cdc72d3f9"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "NICOLE FARRAGUT",
+      "address": "7700 NE 72ND AVE, PORTLAND, OR 97218",
+      "phone": "5550101015",
+      "request_id": "972b7c6e-1ff4-40e4-ac0c-e5cb64d74582"
+    },
+    "credit_report": {
+      "file_status": "NoFileReturnedCreditFreeze",
+      "deceased": false,
+      "request_id": "9db87192-f52b-4d1f-a8fb-58219c69200b"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "3267cd32-c8cd-4813-a17f-d3e8350aae54",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "NICOLE",
+                "middle": "T",
+                "last": "FARRAGUT"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "7700",
+                "name": "NE 72ND AVE"
+              },
+              "location": {
+                "city": "PORTLAND",
+                "state": "OR",
+                "zipCode": "97218"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701015",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701015",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1983-03-30T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "ca14b064-1d07-484d-b1db-d14cdc72d3f9",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "972b7c6e-1ff4-40e4-ac0c-e5cb64d74582",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "NICOLE",
+              "lastName": "FARRAGUT",
+              "houseNo": "7700",
+              "streetName": "NE 72ND AVE",
+              "address": "7700 NE 72ND AVE",
+              "city": "PORTLAND",
+              "state": "OR",
+              "postalCode": "97218"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "9db87192-f52b-4d1f-a8fb-58219c69200b",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:42.367022Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileResultStatusType": "NoFileReturnedCreditFreeze",
+              "sourceType": "TransUnion"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

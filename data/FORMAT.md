@@ -266,26 +266,41 @@ How to call it (credentials `CRS_USERNAME` and `CRS_PASSWORD` in the repo root `
 python3 data/crs/crs.py check --ssn 666701007 --first MARCUS --last BELLAMY --dob 1975-12-05 --phone 5550101007
 ```
 
-or from Python: `sys.path.insert(0, "data/crs"); import crs; crs.check_person({...})`. Both return the same JSON:
+or from Python: `sys.path.insert(0, "data/crs"); import crs; crs.check_person({...})`. `check_person` takes a dict with `ssn` plus any of `first_name`, `last_name`, `dob`, `phone`, `address_line1`, `city`, `zip`. Agency-style fields work too (`debtor_name` "BELLAMY, MARCUS J", `debtor_dob` MM/DD/YYYY, a one-line `debtor_address`). Both return the same JSON. This is P07, live:
 
 ```json
 {
   "sent": true,
   "persona": "P07",
   "source": "live",
-  "checked_at": "2026-10-25T03:10:00Z",
-  "identity": {"result": "PASS", "problems": [], "name_on_file": "MARCUS BELLAMY", "address_on_file": "1507 PEACHTREE INDUSTRIAL BLVD, ATLANTA, GA 30341", "request_id": "…"},
+  "checked_at": "2026-10-25T09:44:01Z",
+  "input_matches": {"name": true, "dob": true, "address": null, "phone": true},
+  "identity": {"result": "PASS", "problems": [], "name_on_file": "MARCUS BELLAMY",
+               "address_on_file": "1507 PEACHTREE INDUSTRIAL BLVD, ATLANTA, GA 30341", "request_id": "be4e4aec-…"},
   "deceased": false,
-  "bankruptcy": {"open": true, "records": [{"chapter": "13", "status": "OPEN", "filed_on": "2025-…", "closed_on": null, "court": "…", "case_number": "…"}], "request_id": "…"},
+  "bankruptcy": {"open": true,
+                 "records": [{"chapter": "13", "status": "OPEN", "status_text": "Open - Plan Confirmed", "filed_on": "2025-02-14",
+                              "closed_on": null, "court": "US BANKRUPTCY COURT N.D. GEORGIA", "case_number": "25-50877"}],
+                 "credit_report_records": [{"chapter": "13", "status": "OPEN", "status_text": "Filed", "filed_on": "2025-02-14", "reported_on": "2025-04-02"}],
+                 "sources_agree": true, "request_id": "1b8c9dd2-…"},
   "liens_judgments": [],
-  "contact": {"found": true, "name": "MARCUS BELLAMY", "address": "…", "phone": "5550101007", "request_id": "…"}
+  "contact": {"found": true, "name": "MARCUS BELLAMY", "address": "1507 PEACHTREE INDUSTRIAL BLVD, ATLANTA, GA 30341",
+              "phone": "5550101007", "request_id": "9c064e07-…"},
+  "credit_report": {"file_status": "FileReturned", "deceased": false, "request_id": "62767d32-…"},
+  "errors": {}
 }
 ```
 
-- `identity.result` is `PASS`, `FAIL` (`problems` says why: deceased SSN, SSN issued to another name, synthetic identity) or `STEP_UP` (fraud alert, ask for more proof), or `NOT_CHECKED`.
-- `source` is `live` or `recorded`. If the sandbox can't be reached, the client answers from `crs/recorded/` and says so.
-- `sent: false` comes with `reason: "NOT_A_SANDBOX_PERSONA"` and every check `NOT_CHECKED` or `null`.
-- `python3 data/crs/check.py` runs all 20 personas live and prints what each check returned.
+- `identity.result` is `PASS` (no problems), `FAIL` (TransUnion codes 2201 SSN not linked to the name, 2202 birth date doesn't match the file, 2301 deceased SSN), `STEP_UP` (2401 fraud alert, or 2101 address mismatch on its own: ask for more proof) or `NOT_CHECKED`. `problems` lists each `{code, text}`. TruValidate only echoes what we sent, so `name_on_file` and `address_on_file` are empty when it flags them.
+- `input_matches` compares what the caller sent with the persona on file: `true`, `false` (a real mismatch, like "MAGGIE" for "MARGARET" or an old address) or `null` (not sent). Use it for duplicates and old addresses.
+- `bankruptcy.records[].status` is `OPEN`, `DISCHARGED`, `DISMISSED` or `CLOSED`. `open` is true when any record is open: that is the automatic stay. `sources_agree` says whether PitchPoint and the credit report agree.
+- `liens_judgments[]` items are `{type: TAX_LIEN|JUDGMENT|LIEN, amount, filed_on, status, creditor, court, case_number}`. Amounts are JSON numbers, dates ISO.
+- `credit_report` only says whether a file came back and whether it is a deceased file. No score is ever returned or stored.
+- `errors` is `{}` unless one product call failed; the other checks still come back.
+- `source` is `live` or `recorded`. If the sandbox can't be reached, the client answers from `crs/recorded/`, says so in `source` and adds `fallback_reason`.
+- `sent: false` comes with `reason: "NOT_A_SANDBOX_PERSONA"` (nothing was sent anywhere) or `"CRS_UNAVAILABLE"` (sandbox down and nothing recorded, with a `detail`), `source: null` and every check `NOT_CHECKED` or `null`.
+- What the sandbox returns for our nine persona patients: P01, P03, P04, P19, P20 identity `PASS`. P07 an open Chapter 13. P12 `FAIL` (2201, 2202, 2101) and its phone belongs to someone else (RAJESH MENON). P14 `FAIL` (2301) and `deceased: true`. P16 `STEP_UP` (2401). P04 has no credit file and no contact record, which means nothing on its own.
+- `python3 data/crs/check.py` runs all 20 personas live and checks each answer. `--record` refreshes `crs/recorded/`. `python3 -m unittest data/crs/test_crs.py` runs the offline tests.
 
 ## Judge box helper
 

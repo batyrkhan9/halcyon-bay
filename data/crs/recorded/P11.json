@@ -1,0 +1,288 @@
+{
+  "persona": "P11",
+  "recorded_at": "2026-10-25T09:43:41Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P11",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:41Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "BRANDON SZABO",
+      "address_on_file": "2640 HIGHLAND AVE APT 7, NATIONAL CITY, CA 91950",
+      "request_id": "d15a4be5-e2ad-46fb-8a7e-f03ce71a3f3e"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "9a3ab65d-d04d-4060-8250-ec21c11555ed"
+    },
+    "liens_judgments": [
+      {
+        "type": "JUDGMENT",
+        "amount": 4850.0,
+        "filed_on": "2024-11-08",
+        "status": "UNSATISFIED",
+        "creditor": "HARBORSIDE RESIDENTIAL LP",
+        "court": "SAN DIEGO COUNTY SUPERIOR COURT",
+        "case_number": "37-2024-00031877-CL-UD-CTL"
+      }
+    ],
+    "contact": {
+      "found": true,
+      "name": "BRANDON SZABO",
+      "address": "2640 HIGHLAND AVE APT 7, NATIONAL CITY, CA 91950",
+      "phone": "5550101011",
+      "request_id": "a2d6d290-56d6-43d2-a465-3b2e76fd0c5f"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "ac5edce8-4502-4134-b837-2e8e0072d3c1"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "d15a4be5-e2ad-46fb-8a7e-f03ce71a3f3e",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "BRANDON",
+                "last": "SZABO"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "2640",
+                "name": "HIGHLAND AVE APT 7"
+              },
+              "location": {
+                "city": "NATIONAL CITY",
+                "state": "CA",
+                "zipCode": "91950"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701011",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701011",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1995-05-15T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "9a3ab65d-d04d-4060-8250-ec21c11555ed",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 1,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": {
+            "Judgments": {
+              "JudgmentRecord": {
+                "Plaintiff": {
+                  "Name": {
+                    "UnparsedName": "HARBORSIDE RESIDENTIAL LP",
+                    "LastName": "HARBORSIDE RESIDENTIAL LP"
+                  }
+                },
+                "Status": "Unsatisfied",
+                "CourtCaseNumber": "37-2024-00031877-CL-UD-CTL",
+                "FilingDate": {
+                  "month": 11,
+                  "year": 2024,
+                  "day": "08"
+                },
+                "Defendant": {
+                  "Name": {
+                    "FirstName": "BRANDON",
+                    "UnparsedName": "BRANDON SZABO",
+                    "LastName": "SZABO"
+                  }
+                },
+                "DamarDocumentType": "Judgment",
+                "JudgmentType": "Civil Judgment - Unlawful Detainer",
+                "FilingLocation": "San Diego County, CA",
+                "TotalJudgmentAmount": 4850,
+                "FilingType": "Judgment",
+                "Court": {
+                  "Address": {
+                    "State": "CA",
+                    "City": "SAN DIEGO"
+                  },
+                  "Id": "CASDSC",
+                  "Name": "SAN DIEGO COUNTY SUPERIOR COURT"
+                }
+              }
+            }
+          },
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "a2d6d290-56d6-43d2-a465-3b2e76fd0c5f",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "BRANDON",
+              "lastName": "SZABO",
+              "houseNo": "2640",
+              "streetName": "HIGHLAND AVE APT 7",
+              "address": "2640 HIGHLAND AVE APT 7",
+              "city": "NATIONAL CITY",
+              "state": "CA",
+              "postalCode": "91950"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "ac5edce8-4502-4134-b837-2e8e0072d3c1",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:41.344900Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2016-04-07",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "BRANDON",
+                "lastName": "SZABO"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

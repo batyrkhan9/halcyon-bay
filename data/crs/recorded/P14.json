@@ -1,0 +1,251 @@
+{
+  "persona": "P14",
+  "recorded_at": "2026-10-25T09:43:41Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P14",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:41Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "FAIL",
+      "problems": [
+        {
+          "code": "2301",
+          "text": "INPUT SSN BELONGS TO A DECEASED PERSON"
+        },
+        {
+          "code": "2101",
+          "text": "INPUT CURRENT ADDRESS DOES NOT MATCH FILE CURRENT ADDRESS"
+        }
+      ],
+      "name_on_file": "HAROLD PETTIGREW",
+      "address_on_file": null,
+      "request_id": "b01b0ae1-dfd9-4117-9c0f-88678af12971"
+    },
+    "deceased": true,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": null,
+      "sources_agree": null,
+      "request_id": "b75e15a6-c0e4-4f2a-a05b-c0b97b7d841a"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "HAROLD PETTIGREW",
+      "address": "310 ELM ST, DAYTON, OH 45402",
+      "phone": "5550101014",
+      "request_id": "9bd12b3e-d51a-4c7d-beb0-e9ab83cb30b7"
+    },
+    "credit_report": {
+      "file_status": "Deceased",
+      "deceased": true,
+      "request_id": "c0f1309b-7b3f-431a-a977-79677f17c4f5"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "b01b0ae1-dfd9-4117-9c0f-88678af12971",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "HAROLD",
+                "middle": "W",
+                "last": "PETTIGREW"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "310",
+                "name": "ELM ST"
+              },
+              "location": {
+                "city": "DAYTON",
+                "state": "OH",
+                "zipCode": "45402"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701014",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701014",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1948-01-19T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [
+                {
+                  "code": "2301",
+                  "text": "INPUT SSN BELONGS TO A DECEASED PERSON",
+                  "source": "INPUT"
+                },
+                {
+                  "code": "2101",
+                  "text": "INPUT CURRENT ADDRESS DOES NOT MATCH FILE CURRENT ADDRESS",
+                  "source": "INPUT"
+                }
+              ],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "b75e15a6-c0e4-4f2a-a05b-c0b97b7d841a",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "9bd12b3e-d51a-4c7d-beb0-e9ab83cb30b7",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "HAROLD",
+              "lastName": "PETTIGREW",
+              "houseNo": "310",
+              "streetName": "ELM ST",
+              "address": "310 ELM ST",
+              "city": "DAYTON",
+              "state": "OH",
+              "postalCode": "45402"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "c0f1309b-7b3f-431a-a977-79677f17c4f5",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:42.103619Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "errorMessages": [
+          {
+            "creditErrorMessageCode": "E1200",
+            "creditErrorMessageSourceType": "CreditBureau",
+            "creditErrorMessageText": "This is a deceased file and cannot be shared without additional addendums. Please contact CRS at support@crscreditapi.com"
+          }
+        ]
+      }
+    }
+  }
+}

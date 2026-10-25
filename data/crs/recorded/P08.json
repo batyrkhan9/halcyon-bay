@@ -1,0 +1,337 @@
+{
+  "persona": "P08",
+  "recorded_at": "2026-10-25T09:43:40Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P08",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:40Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "PRIYA VENKATESAN",
+      "address_on_file": "3300 N LAKE SHORE DR APT 15C, CHICAGO, IL 60657",
+      "request_id": "f6b30d34-98cf-4413-920e-2935d19a74bb"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "fcdab304-31cc-49b9-88c5-c0223dd1ffda"
+    },
+    "liens_judgments": [
+      {
+        "type": "JUDGMENT",
+        "amount": 12300.0,
+        "filed_on": "2023-03-15",
+        "status": "UNSATISFIED",
+        "creditor": "LAKEVIEW CONTRACTORS INC",
+        "court": "CIRCUIT COURT OF COOK COUNTY",
+        "case_number": "2023-M1-104455"
+      },
+      {
+        "type": "TAX_LIEN",
+        "amount": 7450.0,
+        "filed_on": "2024-08-21",
+        "status": "UNRELEASED",
+        "creditor": "ILLINOIS DEPARTMENT OF REVENUE",
+        "court": null,
+        "case_number": "IL-2024-0088123"
+      }
+    ],
+    "contact": {
+      "found": true,
+      "name": "PRIYA VENKATESAN",
+      "address": "3300 N LAKE SHORE DR APT 15C, CHICAGO, IL 60657",
+      "phone": "5550101008",
+      "request_id": "aa5c6f91-e66d-4418-8e44-9c78c56f0b63"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "62723714-9117-4d31-8114-c4cb6b2f9618"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "f6b30d34-98cf-4413-920e-2935d19a74bb",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "PRIYA",
+                "last": "VENKATESAN"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "3300",
+                "name": "N LAKE SHORE DR APT 15C"
+              },
+              "location": {
+                "city": "CHICAGO",
+                "state": "IL",
+                "zipCode": "60657"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701008",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701008",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1981-07-27T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "fcdab304-31cc-49b9-88c5-c0223dd1ffda",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 1,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": {
+            "Judgments": {
+              "JudgmentRecord": {
+                "Plaintiff": {
+                  "Name": {
+                    "UnparsedName": "LAKEVIEW CONTRACTORS INC",
+                    "LastName": "LAKEVIEW CONTRACTORS INC"
+                  }
+                },
+                "Status": "Unsatisfied",
+                "CourtCaseNumber": "2023-M1-104455",
+                "FilingDate": {
+                  "month": "03",
+                  "year": 2023,
+                  "day": 15
+                },
+                "Defendant": {
+                  "Name": {
+                    "FirstName": "PRIYA",
+                    "UnparsedName": "PRIYA VENKATESAN",
+                    "LastName": "VENKATESAN"
+                  }
+                },
+                "DamarDocumentType": "Judgment",
+                "JudgmentType": "Civil Judgment",
+                "FilingLocation": "Cook County, IL",
+                "TotalJudgmentAmount": 12300,
+                "FilingType": "Judgment",
+                "Court": {
+                  "Address": {
+                    "State": "IL",
+                    "City": "CHICAGO"
+                  },
+                  "Id": "ILCOOK",
+                  "Name": "CIRCUIT COURT OF COOK COUNTY"
+                }
+              }
+            },
+            "Liens": {
+              "LienRecord": {
+                "Plaintiff": {
+                  "Name": {
+                    "UnparsedName": "ILLINOIS DEPARTMENT OF REVENUE",
+                    "LastName": "ILLINOIS DEPARTMENT OF REVENUE"
+                  }
+                },
+                "Status": "Unreleased",
+                "Debtor": {
+                  "Name": {
+                    "FirstName": "PRIYA",
+                    "UnparsedName": "PRIYA VENKATESAN",
+                    "LastName": "VENKATESAN"
+                  }
+                },
+                "CourtCaseNumber": "IL-2024-0088123",
+                "KindOfTax": "ST",
+                "FilingDate": {
+                  "month": "08",
+                  "year": 2024,
+                  "day": 21
+                },
+                "TotalLienAmount": 7450,
+                "DamarDocumentType": "Lien",
+                "FilingLocation": "Cook County, IL",
+                "TaxLienDate": {
+                  "month": "08",
+                  "year": 2024,
+                  "day": 21
+                },
+                "FilingType": "Lien",
+                "Court": {
+                  "Address": {
+                    "State": "IL"
+                  },
+                  "Id": 17031
+                }
+              }
+            }
+          },
+          "BankruptciesFound": 0,
+          "LiensFound": 1
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "aa5c6f91-e66d-4418-8e44-9c78c56f0b63",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "PRIYA",
+              "lastName": "VENKATESAN",
+              "houseNo": "3300",
+              "streetName": "N LAKE SHORE DR APT 15C",
+              "address": "3300 N LAKE SHORE DR APT 15C",
+              "city": "CHICAGO",
+              "state": "IL",
+              "postalCode": "60657"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "62723714-9117-4d31-8114-c4cb6b2f9618",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:40.511963Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2017-11-01",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "PRIYA",
+                "lastName": "VENKATESAN"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}
