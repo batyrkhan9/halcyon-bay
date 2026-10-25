@@ -6,18 +6,20 @@ Run from the repo root:  core/.venv/bin/uvicorn core.api:main --factory --port 8
 from __future__ import annotations
 
 import os
+from dataclasses import asdict
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
+from .agent import Agent
+from .config import DEFAULT_DB
 from .gateway import Denied, Gateway
 from .model import PROPOSED, STAFF_ROLES, WORK_ITEM_STATES
 from .permissions import APPROVE, can
+from .reader import Reader, ReadFailed
 from .store import Store
-
-DEFAULT_DB = "core/state/halcyon.db"
 
 
 class DecisionIn(BaseModel):
@@ -31,14 +33,19 @@ class AnswerIn(BaseModel):
     answer: str
 
 
-def create_app(store: Store) -> FastAPI:
+def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
     gateway = Gateway(store)
+    agent = Agent(store, gateway, reader or Reader(store))
     app = FastAPI(title="Halcyon Bay core")
     app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
     @app.exception_handler(Denied)
     def denied(_, exc: Denied):
         return JSONResponse(status_code=403, content={"denied": True, "reason": exc.reason})
+
+    @app.exception_handler(ReadFailed)
+    def read_failed(_, exc: ReadFailed):
+        return JSONResponse(status_code=503, content={"detail": str(exc)})
 
     @app.exception_handler(KeyError)
     def missing(_, exc: KeyError):
@@ -102,6 +109,12 @@ def create_app(store: Store) -> FastAPI:
     def answer(question_id: str, body: AnswerIn):
         gateway.answer(actor_or_404(body.actor_id), question_id, body.answer)
         return store.question(question_id)
+
+    @app.post("/work-items/{item_id}/work")
+    def work(item_id: str):
+        """The agent works one item now: reads it with Claude, then proposes or asks."""
+        result = agent.work(item_id)
+        return {"result": asdict(result), "work_item": store.work_item(item_id)}
 
     @app.get("/audit")
     def audit(account_id: str | None = None, actor_id: str | None = None, allowed: bool | None = None,

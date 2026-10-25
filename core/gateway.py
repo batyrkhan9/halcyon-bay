@@ -9,8 +9,8 @@ from __future__ import annotations
 import json
 
 from .model import (
-    APPROVED, NEEDS_INFO, NEXT_STATES, PAUSE_COLLECTIONS, POSTED, PROPOSAL_KINDS, PROPOSED,
-    REJECTED, SAFE_KINDS, SCREENING,
+    APPROVED, BLOCK_AGENCY_ACTION, NEEDS_INFO, NEXT_STATES, PAUSE_COLLECTIONS, POSTED, PROPOSAL_KINDS,
+    PROPOSED, REJECTED, SAFE_KINDS, SCREENING,
 )
 from .permissions import (
     ACT_SAFE, ANSWER, APPROVE, ASK, MOVE_WORK_ITEM, OPEN_WORK_ITEM, POST, PROPOSE, REJECT,
@@ -58,6 +58,12 @@ class Gateway:
             amount_cents=p["amount_cents"], proposed_by=p["proposed_by"],
             legal_question=p["legal_question"], status=p["status"],
         )
+
+    def note(self, actor: Actor, action: str, *, account_id: str | None, target: str | None, reason: str,
+             allowed: bool = True, detail: dict | None = None) -> None:
+        """Record something that changes no state, such as reading a case or refusing hidden instructions."""
+        self.store.log(actor, action, target=target, account_id=account_id, allowed=allowed, reason=reason,
+                       detail=detail)
 
     # Work items.
 
@@ -162,13 +168,16 @@ class Gateway:
                 self._set_state(p["work_item_id"], POSTED)
             if p["kind"] == PAUSE_COLLECTIONS and p["account_id"]:
                 self.store.run("UPDATE accounts SET collections_paused = 1 WHERE id = ?", p["account_id"])
+            if p["kind"] == BLOCK_AGENCY_ACTION and (p["subject"] or "").startswith("agency_request:"):
+                self.store.run("UPDATE agency_requests SET status = 'BLOCKED' WHERE id = ?",
+                               p["subject"].split(":", 1)[1])
             self.store.log(actor, POST, target=proposal_id, account_id=p["account_id"], allowed=True,
                            reason=reason, detail={"kind": p["kind"], "amount_cents": p["amount_cents"]})
 
     def act_safe(self, actor: Actor, account_id: str, kind: str, *, rationale: str,
-                 evidence: list | None = None, item_id: str | None = None) -> str:
+                 evidence: list | None = None, item_id: str | None = None, subject: str | None = None) -> str:
         """Pause collections or block an agency action. Safe, so no approval is needed."""
-        detail = {"kind": kind, "rationale": rationale}
+        detail = {"kind": kind, "rationale": rationale, "subject": subject}
         reason = self._check(actor, ACT_SAFE, Resource(kind=kind, account_id=account_id),
                              f"account:{account_id}", detail)
         today = self.store.today().isoformat()
@@ -176,9 +185,9 @@ class Gateway:
             proposal_id = self.store.next_id("P")
             self.store.run(
                 "INSERT INTO proposals (id, work_item_id, account_id, kind, amount_cents, rationale, evidence, "
-                "status, proposed_by, proposed_on, decided_by, decided_on, decision_note) "
-                "VALUES (?, ?, ?, ?, 0, ?, ?, 'APPROVED', ?, ?, ?, ?, ?)",
-                proposal_id, item_id, account_id, kind, rationale, _json(evidence or []),
+                "subject, status, proposed_by, proposed_on, decided_by, decided_on, decision_note) "
+                "VALUES (?, ?, ?, ?, 0, ?, ?, ?, 'APPROVED', ?, ?, ?, ?, ?)",
+                proposal_id, item_id, account_id, kind, rationale, _json(evidence or []), subject,
                 actor.id, today, actor.id, today, reason,
             )
             self.store.log(actor, ACT_SAFE, target=proposal_id, account_id=account_id, allowed=True,

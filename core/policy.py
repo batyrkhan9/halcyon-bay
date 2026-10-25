@@ -30,6 +30,7 @@ BUILT_IN_PROGRAMS = frozenset({MEDI_CAL})
 
 PAY_STUBS = "PAY_STUBS"
 OTHER_PROOF = "OTHER"
+STATED = "STATED"  # only the patient's word, written down by staff: a person decides if that is enough
 
 
 @dataclass(frozen=True)
@@ -68,7 +69,7 @@ def policy_on(day: date) -> PolicyVersion:
 class Applicant:
     household: int | None
     annual_income: int | None          # dollars
-    income_proof: str | None           # PAY_STUBS, OTHER_PROOF, or None when nothing is on file
+    income_proof: str | None           # PAY_STUBS, OTHER_PROOF, STATED, or None when nothing is on file
     programs: frozenset[str] = frozenset()
     homeless: bool = False
 
@@ -99,9 +100,10 @@ def screen(
         return Screening(FREE_CARE, billed_cents, 0, None, f"Patient is {why}: free care without income documents.")
 
     if applicant.household is None or applicant.annual_income is None:
-        return Screening(NEEDS_INFO, billed_cents, billed_cents, None,
-                         "Household size or income is missing.",
-                         question="What is the household size and yearly income?")
+        missing = " and ".join(name for name, value in (("household size", applicant.household),
+                                                        ("yearly income", applicant.annual_income)) if value is None)
+        return Screening(NEEDS_INFO, billed_cents, billed_cents, None, f"The {missing} is missing.",
+                         question=f"What is the {missing}? Pay stubs or any other proof of income will do.")
     if applicant.income_proof is None:
         return Screening(NEEDS_INFO, billed_cents, billed_cents, None,
                          "No proof of income on file.",

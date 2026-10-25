@@ -32,6 +32,12 @@ CREDIT_REPORT = "CREDIT_REPORT"
 LAWSUIT = "LAWSUIT"
 LIEN = "LIEN"
 EXTRAORDINARY_ACTIONS = frozenset({SELL_DEBT, CREDIT_REPORT, LAWSUIT, LIEN})
+ACTION_NAMES = {
+    SELL_DEBT: "sell the debt",
+    CREDIT_REPORT: "report the debt to credit bureaus",
+    LAWSUIT: "sue the patient",
+    LIEN: "place a lien",
+}
 
 # Reasons a past denial can give.
 DENIED_INCOME = "INCOME_OVER_LIMIT"

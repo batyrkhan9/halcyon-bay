@@ -52,6 +52,7 @@ CREATE TABLE IF NOT EXISTS proposals (
     pattern TEXT,
     legal_question INTEGER NOT NULL DEFAULT 0,
     reverses TEXT,
+    subject TEXT,
     status TEXT NOT NULL,
     proposed_by TEXT NOT NULL,
     proposed_on TEXT NOT NULL,
@@ -71,6 +72,27 @@ CREATE TABLE IF NOT EXISTS questions (
     answer TEXT,
     answered_by TEXT,
     answered_on TEXT
+);
+CREATE TABLE IF NOT EXISTS documents (
+    id TEXT PRIMARY KEY,
+    account_id TEXT NOT NULL,
+    kind TEXT NOT NULL,
+    source TEXT NOT NULL,
+    dated TEXT,
+    text TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS documents_by_account ON documents(account_id);
+CREATE TABLE IF NOT EXISTS agency_requests (
+    id TEXT PRIMARY KEY,
+    account_id TEXT NOT NULL,
+    action TEXT NOT NULL,
+    requested_on TEXT NOT NULL,
+    notice_sent_on TEXT,
+    status TEXT NOT NULL DEFAULT 'OPEN'
+);
+CREATE TABLE IF NOT EXISTS claude_replies (
+    key TEXT PRIMARY KEY,
+    reply TEXT NOT NULL
 );
 CREATE TABLE IF NOT EXISTS rejected_patterns (
     pattern TEXT PRIMARY KEY,
@@ -120,7 +142,7 @@ SYSTEM_ACTORS = {
     GATEWAY: Actor(GATEWAY, GATEWAY, "Gateway"),
 }
 
-JSON_COLUMNS = ("sources", "evidence", "detail", "patient_ids")
+JSON_COLUMNS = ("sources", "evidence", "detail", "patient_ids", "reply")
 FIRST_SIM_DAY = date(2026, 7, 1)
 
 
@@ -190,6 +212,15 @@ class Store:
             return None
         return Actor(row["id"], row["role"], row["name"], frozenset(row["patient_ids"]))
 
+    def staff_for_patient(self, patient_id: str | None) -> dict | None:
+        """The staff member whose own patient record this is, if any."""
+        if not patient_id:
+            return None
+        for row in self.all("SELECT id, name, role, patient_ids FROM staff"):
+            if patient_id in row["patient_ids"]:
+                return row
+        return None
+
     # Accounts.
 
     def upsert_account(self, id: str, *, patient_id: str | None, patient_name: str | None,
@@ -218,6 +249,34 @@ class Store:
     def rejected_pattern(self, pattern: str) -> dict | None:
         return self.one("SELECT * FROM rejected_patterns WHERE pattern = ?", pattern)
 
+    # Documents, agency requests and Claude's replies.
+
+    def add_document(self, id: str, account_id: str, kind: str, source: str, dated: date | None,
+                     text: str) -> None:
+        self.run("INSERT OR REPLACE INTO documents (id, account_id, kind, source, dated, text) "
+                 "VALUES (?, ?, ?, ?, ?, ?)", id, account_id, kind, source,
+                 dated.isoformat() if dated else None, text)
+
+    def documents(self, account_id: str) -> list[dict]:
+        return self.all("SELECT * FROM documents WHERE account_id = ? ORDER BY id", account_id)
+
+    def add_agency_request(self, id: str, account_id: str, action: str, requested_on: date,
+                           notice_sent_on: date | None = None) -> None:
+        self.run("INSERT OR REPLACE INTO agency_requests (id, account_id, action, requested_on, notice_sent_on) "
+                 "VALUES (?, ?, ?, ?, ?)", id, account_id, action, requested_on.isoformat(),
+                 notice_sent_on.isoformat() if notice_sent_on else None)
+
+    def open_agency_requests(self, account_id: str) -> list[dict]:
+        return self.all("SELECT * FROM agency_requests WHERE account_id = ? AND status = 'OPEN' ORDER BY id",
+                        account_id)
+
+    def cached_reply(self, key: str) -> dict | None:
+        row = self.one("SELECT reply FROM claude_replies WHERE key = ?", key)
+        return row["reply"] if row else None
+
+    def save_reply(self, key: str, reply: dict) -> None:
+        self.run("INSERT OR REPLACE INTO claude_replies (key, reply) VALUES (?, ?)", key, json.dumps(reply))
+
     # Audit log.
 
     def log(self, actor: Actor, action: str, *, target: str | None, account_id: str | None,
@@ -237,6 +296,8 @@ class Store:
             return None
         return {
             "account": account,
+            "documents": self.documents(account_id),
+            "agency_requests": self.all("SELECT * FROM agency_requests WHERE account_id = ? ORDER BY id", account_id),
             "work_items": self.all("SELECT * FROM work_items WHERE account_id = ? ORDER BY id", account_id),
             "proposals": self.all("SELECT * FROM proposals WHERE account_id = ? ORDER BY id", account_id),
             "questions": self.all("SELECT * FROM questions WHERE account_id = ? ORDER BY id", account_id),

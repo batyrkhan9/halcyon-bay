@@ -11,11 +11,13 @@ From the repo root:
 ```bash
 uv venv core/.venv --python 3.12
 uv pip install --python core/.venv/bin/python -r core/requirements.txt
-core/.venv/bin/python -m core.dev_seed
+core/.venv/bin/python -m core.dev_seed --offline
 core/.venv/bin/uvicorn core.api:main --factory --port 8000
 ```
 
-The API is at http://localhost:8000, and every endpoint is listed at http://localhost:8000/docs. `core.dev_seed` fills `core/state/halcyon.db` with a few made-up accounts so you can build screens before the real data lands. Set `HALCYON_DB` to use another file.
+The API is at http://localhost:8000, and every endpoint is listed at http://localhost:8000/docs. `core.dev_seed` fills `core/state/halcyon.db` with a few made-up accounts and has the agent work them, so you can build screens before the real data lands. Set `HALCYON_DB` to use another file.
+
+The agent reads documents with Claude, which needs `ANTHROPIC_API_KEY` in `.env` at the repo root. Without a key, `--offline` replays hand-written readings instead; they show up as model `scripted` in the audit log. Everything after the reading is the real code either way.
 
 ## Conventions
 
@@ -49,9 +51,9 @@ Who decides what:
 ```json
 {
   "today": "2026-07-01",
-  "work_items_by_state": {"NEW": 0, "SCREENING": 0, "NEEDS_INFO": 2, "PROPOSED": 5, "APPROVED": 0, "REJECTED": 0, "POSTED": 0},
-  "open_proposals": 5,
-  "open_questions": 2
+  "work_items_by_state": {"NEW": 0, "SCREENING": 0, "NEEDS_INFO": 3, "PROPOSED": 7, "APPROVED": 0, "REJECTED": 0, "POSTED": 0},
+  "open_proposals": 7,
+  "open_questions": 3
 }
 ```
 
@@ -90,7 +92,21 @@ Body: `{"actor_id": "S-002", "approve": true, "note": "optional"}`. Returns the 
 
 ### `POST /questions/{id}/answer`
 
-Body: `{"actor_id": "S-001", "answer": "Use the employer letter"}`. Returns the updated Question.
+Body: `{"actor_id": "S-001", "answer": "Use the employer letter"}`. Returns the updated Question. The work item goes back to `SCREENING`; call `/work` on it to have the agent pick it up with the answer.
+
+### `POST /work-items/{id}/work`
+
+The agent works one item now: Claude reads the account's documents and any staff answers, code checks every quote and screens the patient, and the agent proposes or asks. Use it for "watch it get processed". Takes a few seconds with Claude.
+
+```json
+{
+  "result": {"work_item_id": "WI-0001", "account_id": "ACC-1001", "did": "PROPOSED",
+             "detail": "P-0002: FREE_CARE adjusting $3,200.00. Income is 121% of the poverty level, at or under 200%: free care."},
+  "work_item": WorkItem
+}
+```
+
+`did` is `PROPOSED`, `ASKED` or `WAITING` (the item wasn't `NEW` or `SCREENING`). Returns `503` with `{"detail": "..."}` when Claude can't be reached or the Claude spending cap is reached; the item is left as it was. Calling it again on an unchanged account costs nothing, because the same reading is replayed.
 
 ### `GET /accounts/{account_id}`
 
@@ -100,6 +116,10 @@ An account's full story in one call.
 {
   "account": {"id": "ACC-1005", "patient_id": "PAT-1005", "patient_name": "Ruth Calloway", "billed_cents": 650000,
               "first_bill_on": "2026-03-02", "collections_paused": true, "sources": {}},
+  "documents": [{"id": "DOC-0010", "account_id": "ACC-1005", "kind": "NOTE", "source": "billing_system",
+                 "dated": "2026-06-12", "text": "Registration 06/12: pt showed CalFresh EBT card. ..."}],
+  "agency_requests": [{"id": "AR-1005-1", "account_id": "ACC-1005", "action": "CREDIT_REPORT",
+                       "requested_on": "2026-06-28", "notice_sent_on": null, "status": "BLOCKED"}],
   "work_items": [WorkItem],
   "proposals": [Proposal],
   "questions": [Question],
@@ -109,7 +129,7 @@ An account's full story in one call.
 }
 ```
 
-`sources` will hold what each source system says about the account once sync is built.
+`sources` will hold what each source system says about the account once sync is built. Document `kind` is `PAY_STUB`, `LETTER`, `BANK_STATEMENT`, `NOTE` and the like; show `text` as-is in a monospace block, since it is the raw export. Agency request `status` is `OPEN` or `BLOCKED`.
 
 ### `GET /audit?account_id=&actor_id=&allowed=&q=&limit=200`
 
@@ -120,14 +140,20 @@ Every filter is optional. Newest first. `allowed=false` gives only blocked actio
 Proposal:
 
 ```json
-{"id": "P-0002", "work_item_id": "WI-0002", "account_id": "ACC-1002", "kind": "DISCOUNT", "amount_cents": 840000,
+{"id": "P-0003", "work_item_id": "WI-0002", "account_id": "ACC-1002", "kind": "DISCOUNT", "amount_cents": 840000,
  "rationale": "Income is 300% of the poverty level, between 200% and 400%: patient pays 30% of the bill.",
- "evidence": [{"source": "seed", "household": 4, "income": 99000, "proof": "PAY_STUBS"}],
- "pattern": null, "legal_question": false, "reverses": null, "status": "PROPOSED",
+ "evidence": [{"fact": "household of 4", "document_id": "DOC-0004", "quote": "household 4"},
+              {"fact": "income from Salary from Northshore Logistics: $99,000.00 annual", "document_id": "DOC-0003",
+               "quote": "annual base salary is $99,000.00"}],
+ "pattern": null, "legal_question": false, "reverses": null, "subject": null, "status": "PROPOSED",
  "proposed_by": "agent", "proposed_on": "2026-07-01", "decided_by": null, "decided_on": null, "decision_note": null}
 ```
 
 `amount_cents` is the change to what the patient owes: for a discount, the part forgiven.
+
+`evidence` lists the facts the proposal rests on, each with the document it came from and the exact quote. Showing the quote next to the document is the "why" for the approver.
+
+`pattern` is set when a proposal is a kind a person may want to rule out for good, such as `DISCOUNT_WITHOUT_INCOME_DOCUMENTS` (income only from what the patient told staff). Once a pattern is rejected, the agent asks for documents instead of proposing it again. `subject` names what a safe action acts on, such as `agency_request:AR-1005-1`.
 
 Question:
 
@@ -140,10 +166,15 @@ Question:
 AuditRow:
 
 ```json
-{"seq": 25, "logged_at": "2026-10-25T09:12:03+00:00", "sim_day": "2026-07-01", "actor_id": "agent", "actor_role": "agent",
- "action": "post", "target": "P-0001", "account_id": "ACC-1001", "allowed": false,
+{"seq": 46, "logged_at": "2026-10-25T09:12:03+00:00", "sim_day": "2026-07-01", "actor_id": "agent", "actor_role": "agent",
+ "action": "post", "target": "P-0001", "account_id": "ACC-0907", "allowed": false,
  "reason": "Only the gateway posts changes.", "detail": {}}
 ```
+
+Actions: `open_work_item`, `move_work_item`, `read_case`, `propose`, `ask`, `answer`, `act_safe`, `approve`, `reject`, `post` and `follow_hidden_instructions`.
+
+- `read_case` is Claude's reading of the account. `detail` has `model`, `facts` (each with its quote), `not_used` (facts code refused, with why), `conflicts` and `missing`.
+- `follow_hidden_instructions` is always `allowed: false`: a document tried to instruct the agent, and the reason quotes it. For the attack screen, search `/audit?allowed=false`.
 
 ## Coming
 
