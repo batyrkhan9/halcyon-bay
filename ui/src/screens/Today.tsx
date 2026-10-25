@@ -20,7 +20,7 @@ function dayNumber(today: string): number {
 }
 
 const GROUPS: Array<{ label: string; states: WorkState[]; hint: string }> = [
-  { label: 'Being worked', states: ['NEW', 'SCREENING'], hint: 'synced in or being screened by the AI' },
+  { label: 'AI reading now', states: ['NEW', 'SCREENING'], hint: 'synced in and being read by the AI' },
   { label: 'Asked a person', states: ['NEEDS_INFO'], hint: 'waiting on an answer' },
   { label: 'Waiting for a decision', states: ['PROPOSED', 'APPROVED'], hint: 'proposed, a person decides' },
   { label: 'Done', states: ['POSTED', 'CLOSED'], hint: 'posted to the ledger, or checked with nothing to change' },
@@ -137,7 +137,7 @@ export default function Today() {
             </div>
           )}
 
-          <Section className="mt-16" title="The work" aside={`${count(total)} accounts being worked · ${count(data.open_proposals)} open proposals · ${count(data.open_questions)} open questions`}>
+          <Section className="mt-16" title="The work" aside={`${count(total)} work items in all ·${count(data.open_proposals)} open proposals · ${count(data.open_questions)} open questions`}>
             <div className="grid grid-cols-2 gap-x-10 gap-y-10 xl:grid-cols-4">
               {GROUPS.map((g) => {
                 const n = g.states.reduce((s, k) => s + (data.work_items_by_state[k] ?? 0), 0);
