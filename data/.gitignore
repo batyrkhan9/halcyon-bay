@@ -1,0 +1,6 @@
+# judge box overlay, written at demo time
+judge/
+# CRS token cache and login lock
+crs/.token.json
+crs/.login_failed
+__pycache__/
