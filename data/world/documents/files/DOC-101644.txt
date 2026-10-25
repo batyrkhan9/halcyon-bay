@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+5159 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MADISON TANAKA         Emp ID: 99220
+Position: Nursery worker
+Pay Period: 03/18/2026 - 03/31/2026     Pay Date: 04/05/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.27     80.00       1,621.60     11,351.20
+   GROSS PAY                                  1,621.60     11,351.20
+DEDUCTIONS
+  Federal Income Tax                       162.16
+  Social 5ecurity                          100.53
+  Medicare                                  23.51
+  CA 5DI                                    17.83
+NET PAY                                  1,317.57
+--------------------------------------------------------------
+
+-- scanned 04/23/2026 HBCH mailroom  pg 1/1 --

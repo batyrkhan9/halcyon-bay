@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+7174 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: MINH JOSHI        Emp ID: 69090
+    Position: Software engineer
+Pay Period: 03/31/2026 - 04/13/2026     Pay Date: 04/18/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             54.31     80.00       4,344.80     34,758.40
+    GROSS PAY                                  4,344.80     34,758.40
+DEDUCTIONS
+  Federal Income Tax                       477.92
+  Social Security                          269.37
+  Medicare                                  63.00
+  CA SDI                                    47.79
+NET PAY                                  3,486.72
+--------------------------------------------------------------
+
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

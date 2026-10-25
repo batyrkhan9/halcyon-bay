@@ -1,20 +1,21 @@
-VISTA SERENA MED1CAL OFFICES
-5456 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+4984 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: HOA IBARRA        Emp ID: 69403
-Position: Medical receptionist
-Pay Period: 03/29/2026 - 04/04/2026     Pay Date: 04/09/2026
-Pay Frequency: Weekly
-  --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                        96.15      1,442.25
- GROSS PAY                                     96.15      1,442.25
+Employee: ERNESTO LEWIS        Emp ID: 33606
+Position: Wareh0use associate
+_ _ _ _
+Pay Period: 09/08/2025 - 09/21/2025     Pay Date: 09/26/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       961.28     19,225.60
+GROSS PAY                                    961.28     19,225.60
 DEDUCTIONS
-  Federal Income Tax                         9.61
-     5ocial Security                            5.96
-  Medicare                                   1.39
-  CA SDI                                     1.05
-NET PAY                                     78.14
+  Federal Income Tax                        38.45
+     Social Security                           59.59
+   Medicare                                  13.93
+  CA SDI                                    10.57
+NET PAY                                    838.74
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/14/2026]
+-- scanned 11/01/2025 HBCH mailroom  pg 1/1 --

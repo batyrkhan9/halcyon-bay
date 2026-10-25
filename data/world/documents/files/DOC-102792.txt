@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+    9148 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI ABDULLAH         Emp ID: 12687
+Position: Line cook
+Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,239.36     21,069.12
+GROSS PAY                                  1,239.36     21,069.12
+DEDUCTIONS
+  Federal Income Tax                       111.54
+  Social Security                           76.84
+  Medicare                                  17.97
+  CA SDI                                    13.63
+NET PAY                                  1,019.38
+--------------------------------------------------------------
+
+FAX RECEIVED 09/03/2026 10:37   P.01

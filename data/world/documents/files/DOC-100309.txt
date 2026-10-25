@@ -1,21 +1,20 @@
-POINT CORRIN B0ATWORKS
-  201 COMMERCE WAY   CA
+PORT ELLERY CANNERY CO
+1784 1NDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
- Employee: ZAINAB JUNG        Emp ID: 65223
-Position: Mechanic
-Pay Period: 04/08/2025 - 04/22/2025     Pay Date: 04/27/2025
-Pay Frequency: Semi-Monthly
+Employee: YESEN1A WASHINGTON-XU        Emp ID: 16344
+Position: Line worker
+Pay Period: 02/21/2025 - 03/06/2025     Pay Date: 03/11/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      2,387.79     19,102.32
-GROSS PAY                                  2,387.79     19,102.32
+Salary                                     4,957.43     24,787.15
+GROSS PAY                                  4,957.43     24,787.15
 DEDUCTIONS
-  Federal Income Tax                       167.14
-      Social Security                          148.04
-  Medicare                                  34.62
-| |   .
-  CA SDI                                    26.26
-NET PAY                                  2,011.73
---------------------------------------------------------------
+  Federal Income Tax                       396.59
+    Social Security                          307.36
+  Medicare                                  71.88
+  CA SDI                                    54.53
+NET PAY                                   4,127.07
+    --------------------------------------------------------------
 
-FAX RECEIVED 05/27/2025 10:18   P.01
+FAX RECEIVED 03/27/2025 10:11   P.01

@@ -1,0 +1,20 @@
+ GOLDEN HOUR SENIOR LIVING
+3491 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL JACKSON        Emp ID: 99480
+  Position: Caregiver
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56     60.25       1,118.24     19,010.08
+GROSS PAY                                  1,118.24     19,010.08
+DEDUCTIONS
+   Federal Income Tax                        89.45
+  Social Security                           69.33
+  Medicare                                  16.21
+      CA SDI                                    12.30
+NET PAY                                     930.95
+   --------------------------------------------------------------
+
+-- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+ MIRADOR PUBLIC LIBRARY
+4507 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: MICHAEL BELL        Emp ID: 93655
+Position: Library assistant
+Pay Period: 03/18/2025 - 04/01/2025     Pay Date: 04/06/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+    EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,479.04     17,353.28
+GROSS PAY                                  2,479.04     17,353.28
+  DEDUCTIONS
+  Federal Income Tax                       223.11
+  Social Security                          153.70
+  Medicare                                  35.94
+  CA SDI                                    27.26
+    NET PAY                                  2,039.03
+--------------------------------------------------------------
+
+RECEIVED APR 11 2025  - mailroom

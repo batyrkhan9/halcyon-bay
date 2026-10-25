@@ -1,0 +1,22 @@
+COASTAL VALLEY ENERGY
+  2127 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: KAYLA QUINN        Emp ID: 77777
+Position: Field technician
+~ ~ .  ,
+Pay Period: 06/26/2026 - 07/02/2026     Pay Date: 07/07/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             47.48     40.00       1,899.20     51,278.40
+   GROSS PAY                                  1,899.20     51,278.40
+  DEDUCTIONS
+  Federal Income Tax                       208.91
+   Social Security                          117.75
+   Medicare                                  27.53
+  CA SDI                                    20.89
+NET PAY                                  1,524.12
+--------------------------------------------------------------
+  includes overtime 4.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]

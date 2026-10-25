@@ -1,18 +1,17 @@
-Form 1040   U.S. Individual 1ncome Tax Return   2025
-(copy - summary page)
-   Filing Status: Single
-Your first name and middle initial / Last name:  MICHAEL YOUNG
-Your social security number: XXX-XX-3734
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    26,971.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    26,971.00
- 10  Adjustments to income ...........................         0.00
- 11   Adjusted gross income ...........................    26,971.00
- 12  Standard deduction ..............................    14,600.00
+HALCYON BAY FEDERAL CREDIT UNION
+_ _ _ _
+Statement Period 04/01/2026 - 04/30/2026
+Member: RAFAEL GARCIA       Account ending 5871
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Michael Young        Date: 04/04/2026
+CHECKING SUMMARY
+  Beginning balance            2,024.04
+  Deposits                     5,928.29
+  Withdrawals                 -5,750.44
+  Ending balance               2,201.89
 
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+ DEPOSITS AND CREDITS
+  04/14  PAYROLL D1R DEP HALCYON BAY UNIFIE       5,928.29
+
+Thank y0u for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/29/2026]

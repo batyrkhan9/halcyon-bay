@@ -1,0 +1,20 @@
+CALDER FRE1GHT LINES
+7570 HARBOR WAY   CA
+                         EARN1NGS STATEMENT
+Employee: ABIGAIL JOSHI        Emp ID: 47979
+Position: Driver
+Pay Period: 05/03/2025 - 05/16/2025      Pay Date: 05/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.77     56.00         939.12     10,330.32
+GROSS PAY                                    939.12     10,330.32
+    DEDUCTIONS
+      Federal Income Tax                        93.91
+  Social Security                           58.22
+  Medicare                                  13.61
+  CA SDI                                    10.33
+NET PAY                                    763.05
+--------------------------------------------------------------
+
+-- scanned 06/20/2025 HBCH mailroom  pg 1/1 --

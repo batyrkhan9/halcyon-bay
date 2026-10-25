@@ -1,21 +1,22 @@
-   PORT ELLERY CANNERY CO
-713 HARBOR WAY    CA
+POINT CORRIN BOATWORKS
+736 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: BRIANNA TUIASOSOPO        Emp ID: 37361
-Position: Line worker
-Pay Period: 06/02/2026 - 06/15/2026     Pay Date: 06/20/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             58.18     80.00       4,654.40     60,507.20
-GROSS PAY                                  4,654.40     60,507.20
+Employee: VIKRAM RAMIREZ        Emp ID: 86150
+Position: Mechanic
+Pay Period: 11/21/2025 - 12/05/2025     Pay Date: 12/10/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    11,400.24    262,205.52
+GROSS PAY                                 11,400.24    262,205.52
 DEDUCTIONS
-  Federal Income Tax                       465.44
-   Social Security                          288.57
-  Medicare                                  67.48
-  CA SDI                                    51.19
-NET PAY                                  3,781.72
-~ ~ .  ,
-  --------------------------------------------------------------
+  Federal Income Tax                     1,140.02
+   Social Security                          706.81
+  Medicare                                 165.30
+  CA SDI                                   125.40
+NET PAY                                  9,262.71
+--------------------------------------------------------------
+  . : .
+  includes overtime 3.00 hrs
 
-RECEIVED JUL 08 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/05/2026]

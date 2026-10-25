@@ -1,0 +1,20 @@
+  MIRADOR PUBLIC LIBRARY
+4270 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND WU        Emp ID: 66490
+Position: Library assistant
+Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,783.39     28,534.24
+GROSS PAY                                  1,783.39     28,534.24
+DEDUCTIONS
+  Federal 1ncome Tax                       196.17
+  Social Security                          110.57
+  Medicare                                  25.85
+  CA SDI                                    19.61
+NET PAY                                  1,431.19
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/19/2026]

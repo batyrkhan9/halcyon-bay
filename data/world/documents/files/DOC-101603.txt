@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-4858 MARKET WAY   CA
+TIDEWATER CONSTRUCTION
+6411 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MARISOL NASSER        Emp ID: 66610
-Position: Line worker
-Pay Period: 07/17/2026 - 07/31/2026     Pay Date: 08/05/2026
-   Pay Frequency: Semi-Monthly
+Employee: GREGORY PARK        Emp 1D: 72861
+Position: Laborer
+ Pay Period: 03/07/2026 - 03/20/2026      Pay Date: 03/25/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       673.89     10,108.35
-GROSS PAY                                     673.89     10,108.35
+Salary                                     1,058.06      6,348.36
+GROSS PAY                                  1,058.06      6,348.36
 DEDUCTIONS
-  Federal Income Tax                        33.69
-  Social Security                           41.78
-  Medicare                                   9.77
-    CA SDI                                     7.41
-NET PAY                                    581.24
+  Federal Income Tax                        95.22
+  Social Security                           65.60
+  Medicare                                  15.34
+  CA SDI                                    11.63
+  NET PAY                                    870.27
 --------------------------------------------------------------
 
--- scanned 08/09/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 04/13/2026 10:59   P.01

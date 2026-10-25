@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+4064 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+    Emp1oyee: NOOR HO        Emp ID: 72268
+Position: Guest services
+Pay Period: 02/13/2025 - 02/26/2025     Pay Date: 03/03/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             67.39     80.00       5,391.20     26,956.00
+GROSS PAY                                  5,391.20     26,956.00
+DEDUCTIONS
+  Federal Income Tax                       377.38
+  Social Security                          334.25
+  Medicare                                  78.17
+      CA SDI                                    59.30
+NET PAY                                  4,542.10
+  --------------------------------------------------------------
+  includes overtime 2.00 hrs
+
+-- scanned 04/02/2025 HBCH mailroom  pg 1/1 --

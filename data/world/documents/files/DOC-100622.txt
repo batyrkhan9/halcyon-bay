@@ -1,21 +1,20 @@
-BLUE KELP SOFTWARE LLC
-8391 COMMERCE WAY   CA
+POINT CORRIN BOATWORKS
+   3740 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KAYLA ORTIZ        Emp ID: 52050
-Position: Software engineer
-Pay Period: 07/20/2025 - 08/02/2025     Pay Date: 08/07/2025
-Pay Frequency: Bi-Weekly
+Employee: LINH LI        Emp ID: 72453
+Position: Mechanic
+Pay Period: 05/30/2025 - 06/13/2025     Pay Date: 06/18/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-  . : .
-Salary                                     2,296.14     36,738.24
-GROSS PAY                                  2,296.14     36,738.24
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,979.22     35,750.64
+GROSS PAY                                  2,979.22     35,750.64
 DEDUCTIONS
-  Federal Income Tax                       229.61
-  Social Security                          142.36
-  Medicare                                  33.29
-  CA SDI                                    25.25
-NET PAY                                  1,865.63
+  Federal Income Tax                       268.12
+  Social Security                          184.71
+  Medicare                                  43.19
+  CA SDI                                    32.77
+NET PAY                                  2,450.43
 --------------------------------------------------------------
 
-RECEIVED SEP 18 2025  - mailroom
+RECEIVED JUN 21 2025  - mailroom

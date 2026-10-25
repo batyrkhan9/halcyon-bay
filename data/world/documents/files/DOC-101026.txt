@@ -1,18 +1,10 @@
- Form 1040   U.S. Individual Income Tax Return   2024
-    (copy - summary page)
-Filing Status: Married filing jointly
- Your first name and middle initial / Last name:  OMAR MILLER
-Your social security number: XXX-XX-2306
-Dependents: 3
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    58,154.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    58,154.00
- 10   Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    58,154.00
- 12  Standard deduction ..............................    21,900.00
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+NOTICE OF ACTION
+Medi-Cal Approval
+Date: 10/12/2025
+Beneficiary: GUADALUPE MEHTA
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-    Your signature: /s/ Omar Miller        Date: 04/09/2025
+You are approved for fu1l scope Medi-Cal with no share of cost beginning 10/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
 
-FAX RECEIVED 03/26/2026 10:15   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/21/2025]

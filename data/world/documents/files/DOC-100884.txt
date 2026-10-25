@@ -1,21 +1,20 @@
-  MIRADOR PUBLIC LIBRARY
-7417 HARBOR WAY   CA
+PACIFIC RIM JANITORIAL
+8435 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: LAUREN KHALIL        Emp ID: 45563
-Position: Library assistant
-Pay Period: 11/27/2025 - 12/10/2025     Pay Date: 12/15/2025
+Employee: AIKO KING        Emp ID: 31974
+Position: Custodian
+Pay Period: 07/21/2025 - 08/03/2025     Pay Date: 08/08/2025
     Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.47     23.25         429.43     10,735.75
-   GROSS PAY                                    429.43     10,735.75
+Regular             31.65     80.00       2,532.00     40,512.00
+GROSS PAY                                  2,532.00     40,512.00
 DEDUCTIONS
-  Federal Income Tax                        34.35
-  . : .
-  Social Security                           26.62
-  Medicare                                   6.22
-    CA SDI                                     4.72
-NET PAY                                    357.52
+  Federal Income Tax                       253.20
+  Social Security                          156.98
+     Medicare                                  36.71
+  CA SDI                                    27.85
+     NET PAY                                  2,057.26
 --------------------------------------------------------------
 
-FAX RECEIVED 01/17/2026 10:28   P.01
+FAX RECEIVED 09/08/2025 10:41   P.01

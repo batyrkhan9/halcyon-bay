@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-8332 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: MARIA BRYANT        Emp ID: 39585
-Position: Cleaner
-Pay Period: 02/08/2026 - 02/21/2026     Pay Date: 02/26/2026
-   Pay Frequency: Bi-Weekly
+PORT ELLERY CANNERY CO
+8887 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: NOAH CHAVEZ        Emp ID: 17303
+Position: Line worker
+Pay Period: 08/03/2025 - 09/01/2025     Pay Date: 09/06/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
- Regular             22.55     80.00       1,804.00      9,020.00
-GROSS PAY                                  1,804.00      9,020.00
-DEDUCTIONS
-  Federal Income Tax                       126.28
-  Social Security                          111.84
-  Medicare                                  26.15
-  CA SDI                                    19.84
-NET PAY                                  1,519.89
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    10,312.26     92,810.34
+GROSS PAY                                 10,312.26     92,810.34
+DEDUCTION5
+    Federal Income Tax                       824.98
+  Social Security                          639.36
+  Medicare                                 149.52
+  CA SDI                                   113.43
+    NET PAY                                  8,584.97
 --------------------------------------------------------------
 
--- scanned 03/15/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 10/17/2025 10:34   P.01

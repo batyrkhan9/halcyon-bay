@@ -1,21 +1,20 @@
-ARROYO VERDE NURSERY
-5707 MARKET WAY   CA
-  . : .
+ELLERY HARDWARE 5UPPLY
+537 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: YESENIA ROBINSON-KOWALSKI        Emp ID: 10225
-Position: Nursery worker
-Pay Period: 07/26/2025 - 08/01/2025     Pay Date: 08/06/2025
+Employee: YESENIA GALLAGHER        Emp ID: 84154
+Position: Sales associate
+Pay Period: 05/11/2025 - 05/17/2025     Pay Date: 05/22/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             29.14     40.00       1,165.60     37,299.20
-GROSS PAY                                  1,165.60     37,299.20
-DEDUCTIONS
-  Federal Income Tax                       116.56
-  Social Security                           72.26
-  Medicare                                  16.90
-  CA SDI                                    12.82
-NET PAY                                    947.06
+Regular             18.13     35.75         648.15     13,611.15
+GROSS PAY                                    648.15     13,611.15
+   DEDUCT1ONS
+  Federal Income Tax                        38.88
+  Social Security                           40.18
+  Medicare                                   9.39
+  CA SDI                                     7.13
+NET PAY                                    552.57
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2025]
+FAX RECEIVED 06/11/2025 10:13   P.01

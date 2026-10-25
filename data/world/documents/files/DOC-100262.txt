@@ -1,17 +1,20 @@
-  SEASIDE COMMUNITY CREDIT UNION
-Statement Period 05/01/2025 - 05/08/2025
-Member: ROSA RAHMAN       Account ending 5381
+CALDER FREIGHT LINES
+573 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 01/22/2025 - 02/04/2025     Pay Date: 02/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     2,516.82      7,550.46
+GRO5S PAY                                  2,516.82      7,550.46
+DEDUCTIONS
+  Federal Income Tax                       201.34
+  Social Security                          156.04
+  Medicare                                  36.49
+  CA SDI                                    27.68
+  NET PAY                                  2,095.27
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-   Beginning balance              665.75
-  Deposits                     4,126.46
-     Withdrawals                 -4,085.19
-  Ending balance                 707.02
-
-DEPOSITS AND CREDITS
-  05/08  PAYROLL D1R DEP BLUE KELP SOFTWARE       2,063.23
-  04/23  PAYROLL DIR DEP BLUE KELP SOFTWARE       2,063.23
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 05/16/2025 10:52   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/13/2025]

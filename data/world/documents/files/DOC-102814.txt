@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+  4990 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+Employee: RICARDO WALSH        Emp ID: 54162
+Position: Warehouse associate
+Pay Period: 08/15/2026 - 08/28/2026     Pay Date: 09/02/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             68.19     80.00       5,455.20     98,193.60
+GROSS PAY                                  5,455.20     98,193.60
+DEDUCTIONS
+  Federal Income Tax                       218.20
+  Social Security                          338.22
+    Medicare                                  79.10
+  CA SDI                                    60.00
+NET PAY                                  4,759.68
+--------------------------------------------------------------
+
+RECEIVED SEP 05 2026  - mailroom

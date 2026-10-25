@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+3456 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: ANTONIO GOMEZ        Emp ID: 13751
+Position: Teacher
+Pay Period: 01/24/2026 - 01/30/2026     Pay Date: 02/04/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       549.72      2,748.60
+GROSS PAY                                    549.72      2,748.60
+DEDUCTIONS
+   Federal Income Tax                        43.97
+      Social Security                           34.08
+  Medicare                                   7.97
+  CA SDI                                     6.04
+NET PAY                                    457.66
+    --------------------------------------------------------------
+  includes overtime 1.50 hrs
+
+-- scanned 02/08/2026 HBCH mailroom  pg 1/1 --

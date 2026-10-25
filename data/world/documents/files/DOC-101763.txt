@@ -1,18 +1,20 @@
-Form 1040    U.S. Individual Income Tax Return   2025
-(copy - summary page)
-    Filing Status: Single
-Your first name and middle initial / Last name:  KAVYA BRYANT
-Y0ur social security number: XXX-XX-4230
-Dependents: 0
-  Income
- 1a  Total amount from Form(s) W-2, box 1 ...........     4,856.00
- 8   Additional income from Schedule 1, 1ine 10 ......         0.00
-   9   Total income ....................................     4,856.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................     4,856.00
- 12  Standard deduction ..............................    14,600.00
+MIRADOR GROCERY CO-OP
+3151 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI NGUYEN        Emp ID: 90412
+Position: Cashier
+Pay Period: 01/21/2026 - 02/19/2026     Pay Date: 02/24/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,388.35      2,776.70
+ GROSS PAY                                  1,388.35      2,776.70
+DEDUCTIONS
+  Federal Income Tax                       138.83
+  Social Security                           86.07
+  Medicare                                  20.13
+  CA SDI                                    15.27
+NET PAY                                  1,128.05
+  --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, 1 declare that I have examined this return...
-Your signature: /s/ Kavya Bryant        Date: 04/01/2026
-
--- scanned 08/27/2026 HBCH mailroom  pg 1/1 --
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-   1418 MARKET WAY   CA
+ARROYO VERDE NURSERY
+ 4365 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-  . : .
-Employee: JAMES HUSSAIN        Emp ID: 85885
-Position: Instructional aide
-   Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
-    Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+Employee: LEILA WILLIAMS        Emp ID: 83243
+Position: Nursery worker
+Pay Period: 01/07/2026 - 01/20/2026     Pay Date: 01/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,356.40     17,633.20
-GROSS PAY                                  1,356.40     17,633.20
+Salary                                     1,789.07      3,578.14
+GROSS PAY                                  1,789.07      3,578.14
 DEDUCTIONS
-  Federal Income Tax                       122.07
-  Social Security                           84.09
-  Medicare                                  19.66
-    CA SDI                                    14.92
-NET PAY                                  1,115.66
+  Federal Income Tax                       125.23
+  Social Security                          110.92
+     Medicare                                  25.94
+  CA SDI                                    19.68
+NET PAY                                  1,507.30
 --------------------------------------------------------------
 
--- scanned 07/18/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/02/2026]

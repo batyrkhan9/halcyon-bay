@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+6079 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: JESSICA GONZALEZ        Emp ID: 41247
+Position: Nursery worker
+Pay Period: 08/21/2025 - 09/03/2025     Pay Date: 09/08/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             44.33     80.00       3,546.40     63,835.20
+GROSS PAY                                  3,546.40     63,835.20
+   DEDUCTIONS
+  Federal Income Tax                       354.64
+     Social Security                          219.87
+  Medicare                                  51.42
+   CA SDI                                    39.01
+NET PAY                                  2,881.46
+--------------------------------------------------------------
+
+RECEIVED SEP 18 2025  - mailroom

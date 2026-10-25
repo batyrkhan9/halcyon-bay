@@ -1,0 +1,20 @@
+GOLDEN H0UR SENIOR LIVING
+2286 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN ABDULLAH        Emp ID: 28284
+Position: Caregiver
+Pay Period: 07/19/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.87     40.00         994.80     30,838.80
+GROSS PAY                                    994.80     30,838.80
+DEDUCTIONS
+  Federal Income Tax                        99.48
+  Social Security                           61.67
+  Medicare                                  14.42
+  CA SDI                                    10.94
+  NET PAY                                    808.29
+--------------------------------------------------------------
+
+FAX RECEIVED 08/29/2026 10:56   P.01

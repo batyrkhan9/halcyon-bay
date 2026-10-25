@@ -1,20 +1,21 @@
-SEASIDE DENTAL GROUP
-4175 MARKET WAY   CA
+   CALDER FRE1GHT LINES
+9394 1NDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA RAO        Emp ID: 47517
-   P0sition: Dental assistant
-Pay Period: 01/04/2026 - 01/17/2026     Pay Date: 01/22/2026
+Employee: HANNAH VALENCIA        Emp ID: 54819
+Position: Driver
+Pay Period: 08/20/2025 - 09/02/2025     Pay Date: 09/07/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             64.07     80.00       5,125.60     10,251.20
-GROSS PAY                                  5,125.60     10,251.20
+  . : .
+Salary                                     8,429.35    151,728.30
+GROSS PAY                                  8,429.35    151,728.30
 DEDUCTIONS
-  Federal Income Tax                       410.04
-  Social Security                          317.78
-  Medicare                                  74.32
-     CA SDI                                    56.38
-NET PAY                                  4,267.08
+  Federal Income Tax                       421.46
+  Social Security                          522.62
+  Medicare                                 122.22
+  CA SDI                                    92.72
+NET PAY                                  7,270.33
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/22/2026]
+-- scanned 10/09/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+9574 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: OLIVIA PATEL        Emp ID: 67192
+Position: Line cook
+Pay Period: 04/05/2026 - 04/18/2026     Pay Date: 04/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             44.70     80.00       3,576.00     32,184.00
+GROSS PAY                                  3,576.00     32,184.00
+DEDUCTIONS
+    Federal Income Tax                       357.60
+  Social Security                          221.71
+  Medicare                                  51.85
+  CA SDI                                    39.33
+NET PAY                                  2,905.51
+--------------------------------------------------------------
+
+FAX RECEIVED 05/15/2026 10:17   P.01

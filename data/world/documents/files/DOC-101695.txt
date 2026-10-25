@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-3020 MARKET WAY   CA
-                           EARNINGS STATEMENT
-Employee: KAVYA THOMA5        Emp ID: 46572
-  Position: Field technician
-Pay Period: 07/22/2026 - 07/28/2026     Pay Date: 08/02/2026
-Pay Frequency: Weekly
+HALCYON BAY UNIFIED SCHOOL DIST
+339 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: ROGELIO JEFFERSON        Emp ID: 54902
+Position: Instructional aide
+Pay Period: 03/27/2026 - 04/09/2026     Pay Date: 04/14/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.35     23.00         399.05     12,370.55
-GROSS PAY                                    399.05     12,370.55
-DEDUCTION5
-  Federal Income Tax                        35.91
-  Social Security                           24.74
-    Medicare                                   5.78
-  CA SDI                                     4.39
-NET PAY                                     328.23
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             24.32     80.00       1,945.60     15,564.80
+GROSS PAY                                  1,945.60     15,564.80
+DEDUCTIONS
+     Federal Income Tax                       116.73
+  Social Security                          120.62
+  Medicare                                  28.21
+  CA SDI                                    21.40
+NET PAY                                  1,658.64
+     --------------------------------------------------------------
 
-FAX RECEIVED 08/16/2026 10:40   P.01
+FAX RECEIVED 05/10/2026 10:54   P.01

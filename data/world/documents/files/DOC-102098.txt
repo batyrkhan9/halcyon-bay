@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-8321 MARKET WAY   CA
+ARROYO VERDE NURSERY
+4981 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: KAREN JIMENEZ        Emp ID: 38944
-Position: Field supervisor
-  Pay Period: 08/24/2026 - 08/30/2026     Pay Date: 09/04/2026
-  Pay Frequency: Weekly
---------------------------------------------------------------
+Employee: MAI TAYLOR        Emp ID: 24187
+Position: Nursery worker
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+    Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.63     25.50         424.06     15,266.16
-  GROSS PAY                                    424.06     15,266.16
-    DEDUCTIONS
-  Federal Income Tax                        38.16
-  Social Security                           26.29
-  Medicare                                   6.14
-  CA SDI                                     4.66
-NET PAY                                    348.81
+Regular             49.06     80.00       3,924.80     54,947.20
+   GROSS PAY                                  3,924.80     54,947.20
+DEDUCTIONS
+  Federal 1ncome Tax                       431.72
+  5ocial Security                          243.33
+    Medicare                                  56.91
+  CA SDI                                    43.17
+NET PAY                                  3,149.67
 --------------------------------------------------------------
 
-RECEIVED SEP 27 2026  - mailroom
+RECEIVED JUL 18 2026  - mailroom

@@ -1,21 +1,21 @@
- SEASIDE DENTAL GROUP
-    9478 MARKET WAY   CA
+OTTER BAY AQUARIUM
+2494 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: SUNITA GALLAGHER        Emp ID: 70154
-    Position: Dental assistant
-Pay Period: 01/26/2025 - 02/08/2025     Pay Date: 02/13/2025
+Employee: DEBORAH PHAM        Emp ID: 17304
+Position: Guest services
+Pay Period: 11/27/2024 - 12/10/2024     Pay Date: 12/15/2024
     Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             62.66     80.00       5,012.80     20,051.20
-| |   .
-GROSS PAY                                  5,012.80     20,051.20
+Regular             22.47     80.00       1,797.60     44,940.00
+GROSS PAY                                  1,797.60     44,940.00
 DEDUCTIONS
-  Federal Income Tax                       551.40
-      Social Security                          310.79
-  Medicare                                  72.68
-  CA SDI                                    55.14
-NET PAY                                  4,022.79
+     Federal Income Tax                       143.80
+  Social Security                          111.45
+| |   .
+  Medicare                                  26.06
+  CA SDI                                    19.77
+NET PAY                                  1,496.52
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/02/2025]
+-- scanned 01/01/2025 HBCH mailroom  pg 1/1 --

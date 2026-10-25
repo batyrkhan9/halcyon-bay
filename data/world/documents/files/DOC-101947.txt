@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+    7494 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA AGUILAR        Emp ID: 86069
+Position: Teacher
+Pay Period: 06/10/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,135.18     27,202.34
+GROSS PAY                                  2,135.18     27,202.34
+DEDUCTIONS
+  Federal Income Tax                       192.16
+  Social Security                          132.38
+  Medicare                                  30.96
+  CA SDI                                    23.48
+NET PAY                                  1,756.20
+--------------------------------------------------------------
+  includes overtime 1.25 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/08/2026]

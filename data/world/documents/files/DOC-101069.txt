@@ -1,21 +1,20 @@
-MIRADOR GROCERY CO-OP
-5776 MARKET WAY   CA
+SUNSET COAST HOME CARE
+8907 HARBOR WAY   CA
                          EARNINGS STATEMENT
-_ _ _ _
-   Employee: MADISON KANG        Emp ID: 57665
-Position: Cashier
-Pay Period: 03/18/2026 - 03/24/2026     Pay Date: 03/29/2026
+Employee: RAJNI BROWN        Emp ID: 90099
+  Position: Home care aide
+Pay Period: 10/11/2025 - 10/17/2025     Pay Date: 10/22/2025
 Pay Frequency: Weekly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       195.66      2,543.58
-GROSS PAY                                    195.66      2,543.58
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,167.33     50,195.19
+GROSS PAY                                  1,167.33     50,195.19
 DEDUCTIONS
-  Federal Income Tax                         7.82
-  Social Security                           12.13
-      Medicare                                   2.83
-  CA SDI                                     2.15
-NET PAY                                    170.73
+  Federal Income Tax                       105.05
+  Social Security                           72.37
+  Medicare                                  16.92
+  CA SDI                                    12.84
+NET PAY                                    960.15
 --------------------------------------------------------------
 
-RECEIVED APR 10 2026  - mailroom
+FAX RECEIVED 10/31/2025 10:21   P.01

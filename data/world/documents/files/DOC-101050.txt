@@ -1,21 +1,20 @@
-COASTAL VALLEY ENERGY
-3813 INDUSTRIAL WAY   CA
-                              EARNINGS STATEMENT
-Employee: JORGE SINGH        Emp ID: 15593
-Position: Field technician
-Pay Period: 02/14/2026 - 02/27/2026     Pay Date: 03/04/2026
+GOLDEN HOUR SENIOR LIVING
+9845 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BEATRIZ MURPHY        Emp ID: 25484
+ Position: Caregiver
+ Pay Period: 10/02/2025 - 10/15/2025     Pay Date: 10/20/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     2,862.62     14,313.10
-GROSS PAY                                  2,862.62     14,313.10
-DEDUCTIONS
-  Federal Income Tax                       257.63
-~ ~ .  ,
-   Social Security                          177.48
-   Medicare                                  41.50
-  CA SDI                                    31.48
-NET PAY                                  2,354.53
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.51     48.25         893.11     18,755.31
+GROSS PAY                                    893.11     18,755.31
+  DEDUCTIONS
+  Federal Income Tax                        80.37
+  Social Security                           55.37
+  Medicare                                  12.95
+  CA SDI                                     9.82
+NET PAY                                    734.60
 --------------------------------------------------------------
 
-FAX RECEIVED 04/03/2026 10:22   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/28/2025]

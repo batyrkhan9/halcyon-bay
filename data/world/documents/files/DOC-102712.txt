@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+ 6306 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: GUADALUPE FALEOLO        Emp ID: 83244
+Position: Technician
+  Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.78     80.00       1,582.40     26,900.80
+GROSS PAY                                  1,582.40     26,900.80
+DEDUCTIONS
+  Federal Income Tax                        79.12
+  Social Security                           98.10
+  Medicare                                  22.94
+  CA SDI                                    17.40
+  NET PAY                                  1,364.84
+--------------------------------------------------------------
+
+FAX RECEIVED 08/29/2026 10:14   P.01

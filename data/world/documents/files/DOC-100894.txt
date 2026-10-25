@@ -1,20 +1,20 @@
-BAYL1NE LOGISTICS INC
-5413 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: RICARDO HARRIS        Emp ID: 94006
-Position: Warehouse associate
-    Pay Period: 11/03/2025 - 12/02/2025     Pay Date: 12/07/2025
-Pay Frequency: Monthly
+ELLERY HARDWARE SUPPLY
+6235 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: JIA KEALOHA        Emp ID: 94799
+Position: Sales associate
+Pay Period: 08/09/2025 - 08/15/2025     Pay Date: 08/20/2025
+ Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.69    173.33       3,759.53     45,114.36
-GROSS PAY                                  3,759.53     45,114.36
+Salary                                       524.87     17,845.58
+GRO5S PAY                                    524.87     17,845.58
 DEDUCTIONS
-  Federal Income Tax                       375.95
-  Social Security                          233.09
-  Medicare                                  54.51
-  CA SDI                                    41.35
-NET PAY                                  3,054.63
+  Federal Income Tax                        57.73
+  Social Security                           32.54
+  Medicare                                   7.61
+  CA SDI                                     5.77
+NET PAY                                    421.22
 --------------------------------------------------------------
 
--- scanned 01/21/2026 HBCH mailroom  pg 1/1 --
+RECEIVED SEP 11 2025  - mailroom

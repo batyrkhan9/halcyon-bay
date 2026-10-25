@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+ 8314 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROGELIO JEFFERSON        Emp ID: 54902
+Position: Instructional aide
+Pay Period: 04/10/2026 - 04/23/2026     Pay Date: 04/28/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.32     80.00       1,945.60     17,510.40
+   GRO5S PAY                                  1,945.60     17,510.40
+DEDUCTIONS
+     Federal Income Tax                       116.73
+  Social Security                          120.62
+  Medicare                                  28.21
+     CA SDI                                    21.40
+    NET PAY                                  1,658.64
+ --------------------------------------------------------------
+
+-- scanned 05/10/2026 HBCH mailroom  pg 1/1 --

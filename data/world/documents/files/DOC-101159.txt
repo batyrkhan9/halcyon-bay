@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+7397 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE LI        Emp ID: 99956
+Position: Guest services
+Pay Period: 10/10/2025 - 10/23/2025     Pay Date: 10/28/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,321.64     29,076.08
+GROSS PAY                                  1,321.64     29,076.08
+DEDUCTIONS
+  Federal Income Tax                       105.73
+  Social Security                           81.94
+  Medicare                                  19.16
+  CA SDI                                    14.53
+NET PAY                                  1,100.28
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/29/2025]

@@ -1,21 +1,18 @@
-MARISOL CLEANING SERVICES
- 9246 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-  Employee: XIMENA DAVIS-DO        Emp ID: 12351
-Position: Cleaner
-Pay Period: 07/22/2026 - 08/20/2026     Pay Date: 08/25/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              46.85    173.33       8,120.51     64,964.08
-| |   .
-GROSS PAY                                  8,120.51     64,964.08
-DEDUCTIONS
-   Federal Income Tax                       812.05
-  Social Security                          503.47
-  Medicare                                 117.74
-  CA SDI                                    89.32
-NET PAY                                  6,597.93
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+  Filing Status: Head of household
+Your first name and middle initial / Last name:  TYLER BANKS
+Your social security number: XXX-XX-6810
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    34,495.00
+ 8   Additional income fr0m Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    34,495.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    34,495.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/11/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Tyler Banks        Date: 04/06/2026
+
+FAX RECEIVED 07/04/2026 10:12   P.01

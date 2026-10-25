@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+8820 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: CHLOE MOORE        Emp ID: 49486
+Position: Mechanic
+     Pay Period: 10/27/2024 - 11/09/2024     Pay Date: 11/14/2024
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,168.53     95,876.19
+GROSS PAY                                  4,168.53     95,876.19
+    DEDUCTIONS
+  Federal Income Tax                       250.11
+  Social Security                          258.44
+     Medicare                                  60.44
+  CA SDI                                    45.85
+NET PAY                                  3,553.69
+--------------------------------------------------------------
+
+-- scanned 11/18/2024 HBCH mailroom  pg 1/1 --

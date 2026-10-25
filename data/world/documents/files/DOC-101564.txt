@@ -1,21 +1,20 @@
-MARISOL CLEANING SERVICES
-6616 HARBOR WAY   CA
+SANDPIPER CHILD CARE CENTER
+8599 HARBOR WAY   CA
                          EARNINGS STATEMENT
-  . : .
-Employee: YUSUF SHAH        Emp ID: 34024
-Position: Cleaner
-  Pay Period: 07/01/2026 - 07/07/2026     Pay Date: 07/12/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+Employee: TOMASZ RAHMAN        Emp ID: 45243
+Position: Teacher
+Pay Period: 01/26/2026 - 02/08/2026     Pay Date: 02/13/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                     3,420.92     95,785.76
-GROSS PAY                                   3,420.92     95,785.76
+Regular             20.36     80.00       1,628.80      6,515.20
+GROSS PAY                                  1,628.80      6,515.20
 DEDUCTIONS
-  Federal Income Tax                       205.25
-  Social Security                          212.09
-  Medicare                                  49.60
-   CA SDI                                    37.63
-NET PAY                                  2,916.35
+  Federal Income Tax                       162.88
+  Social Security                          100.98
+    Medicare                                  23.61
+  CA SDI                                    17.91
+NET PAY                                  1,323.42
 --------------------------------------------------------------
 
--- scanned 08/01/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 31 2026  - mailroom

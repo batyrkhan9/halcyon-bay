@@ -1,20 +1,18 @@
-PORT ELLERY CANNERY CO
-  8523 MARKET WAY   CA
-                         EARNINGS STATEMENT
-   Employee: KAI WANG        Emp ID: 46117
-Position: Line worker
-Pay Period: 01/07/2025 - 01/21/2025      Pay Date: 01/26/2025
- Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.57     86.67       2,042.81      4,085.62
-GROSS PAY                                  2,042.81      4,085.62
-DEDUCTI0NS
-  Federal 1ncome Tax                       183.85
-  Social Security                          126.65
-  Medicare                                  29.62
-   CA SDI                                    22.47
-NET PAY                                  1,680.22
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 11/01/2024 - 11/30/2024
+ Member: RAVI ALMEIDA       Account ending 3337
 
--- scanned 02/01/2025 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning balance            2,700.76
+  Deposits                     1,455.26
+  . : .
+  Withdrawals                 -1,251.52
+  Ending balance               2,904.50
+
+DEPOSITS AND CREDITS
+  11/14  PAYROLL DIR DEP MIRADOR GROCERY CO         727.63
+  11/28  PAYROLL DIR DEP MIRADOR GROCERY CO         727.63
+
+Thank you f0r banking with us.  Page 1 of 2
+
+RECEIVED DEC 23 2024  - mailroom

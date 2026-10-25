@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+9641 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: VIKRAM WHITE        Emp ID: 63956
+Position: Laborer
+Pay Period: 05/31/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.73    109.00       2,041.57     14,290.99
+GROSS PAY                                  2,041.57     14,290.99
+DEDUCTIONS
+  Federal Income Tax                       163.32
+  Social Security                          126.57
+  Medicare                                  29.60
+  CA SDI                                    22.45
+NET PAY                                  1,699.63
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

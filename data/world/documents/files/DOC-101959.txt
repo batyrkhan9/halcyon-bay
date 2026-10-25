@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-3691 COMMERCE WAY   CA
+POINT CORRIN BOATWORKS
+    3994 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ALYSSA MOORE        Emp ID: 85102
-Position: Field supervisor
-Pay Period: 07/20/2026 - 08/02/2026     Pay Date: 08/07/2026
-Pay Frequency: Bi-Weekly
+Employee: JAMES RAMIREZ        Emp ID: 15317
+Position: Mechanic
+Pay Period: 06/14/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             61.36     80.00       4,908.80     78,540.80
-GROSS PAY                                  4,908.80     78,540.80
-DEDUCTIONS
-  Federal Income Tax                       441.79
-  Social Security                          304.34
-  Medicare                                  71.17
-  CA SDI                                    53.99
-NET PAY                                  4,037.51
---------------------------------------------------------------
+Salary                                     1,688.46     43,899.96
+GROSS PAY                                  1,688.46     43,899.96
+DEDUCT1ONS
+  Federal Income Tax                       151.96
+  Social Security                          104.68
+  Medicare                                  24.48
+    CA SDI                                    18.57
+NET PAY                                  1,388.77
+    --------------------------------------------------------------
 
-FAX RECEIVED 09/13/2026 10:55   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]

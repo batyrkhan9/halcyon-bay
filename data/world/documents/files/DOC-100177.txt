@@ -1,0 +1,21 @@
+LAS BRISAS RESTAURANT GROUP
+5013 COMMERCE WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: DENNIS KOWALSKI        Emp ID: 37804
+Position: Line cook
+Pay Period: 01/14/2025 - 01/27/2025     Pay Date: 02/01/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+  . : .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.49     80.00       2,199.20      6,597.60
+GROSS PAY                                  2,199.20      6,597.60
+DEDUCTIONS
+  Federal Income Tax                       241.91
+  Social Security                          136.35
+    Medicare                                  31.88
+  CA SDI                                    24.19
+NET PAY                                  1,764.87
+--------------------------------------------------------------
+
+RECEIVED FEB 09 2025  - mailroom

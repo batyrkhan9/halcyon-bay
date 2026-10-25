@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+9523 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI ALVAREZ        Emp ID: 19465
+Position: Technician
+Pay Period: 03/14/2025 - 03/20/2025     Pay Date: 03/25/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.08     40.00         763.20      9,158.40
+GROSS PAY                                    763.20      9,158.40
+DEDUCTIONS
+  Federal Income Tax                        61.05
+    Social Security                           47.31
+  Medicare                                  11.06
+  CA SDI                                     8.39
+NET PAY                                    635.39
+    --------------------------------------------------------------
+
+RECEIVED APR 13 2025  - mailroom

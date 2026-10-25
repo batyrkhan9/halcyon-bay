@@ -1,21 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-9716 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: ANA GREEN        Emp ID: 85131
-| |   .
-   Position: Medical receptionist
-Pay Period: 02/11/2026 - 02/24/2026     Pay Date: 03/01/2026
+POINT CORRIN BOATWORKS
+3062 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: MARISOL KING        Emp ID: 15185
+Position: Mechanic
+Pay Period: 09/11/2025 - 09/24/2025     Pay Date: 09/29/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.97     59.25       1,123.97      5,619.85
-GRO5S PAY                                  1,123.97      5,619.85
-    DEDUCTIONS
-  Federal Income Tax                        78.67
-   Social Security                           69.68
-  Medicare                                  16.29
-     CA SDI                                    12.36
-NET PAY                                    946.97
-    --------------------------------------------------------------
+Salary                                     4,392.06     87,841.20
+GROSS PAY                                  4,392.06     87,841.20
+DEDUCTIONS
+  Federal Income Tax                       219.60
+  5ocial Security                          272.30
+  Medicare                                  63.68
+     CA SDI                                    48.31
+NET PAY                                  3,788.17
+_ _ _ _
+--------------------------------------------------------------
 
--- scanned 03/30/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/22/2025 HBCH mailroom  pg 1/1 --

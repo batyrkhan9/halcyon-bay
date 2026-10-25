@@ -1,20 +1,10 @@
-POINT CORRIN BOATWORKS
-6177 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ARJUN TRAN        Emp ID: 91387
-Position: Mechanic
-  Pay Period: 04/24/2026 - 04/30/2026     Pay Date: 05/05/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.68     40.00         667.20     12,009.60
-GROSS PAY                                    667.20     12,009.60
-DEDUCTIONS
-  Federal Income Tax                        66.72
-  Social Security                           41.36
-    Medicare                                   9.67
-  CA SDI                                     7.33
-NET PAY                                    542.12
-    --------------------------------------------------------------
+SOCIAL 5ECURITY ADMINISTRATION
+Retirement, Survivors and Disability Insurance
+Date: 11/19/2025
+LAUREN KOWALSKI
 
-RECEIVED MAY 13 2026  - mailroom
+This letter is proof of the benefits you receive.
+  Beginning December 2024, the full monthly Social Security benefit is $2,543.65.
+We deduct $0.00 for medical insurance premiums each month.
+
+FAX RECEIVED 12/04/2025 10:18   P.01

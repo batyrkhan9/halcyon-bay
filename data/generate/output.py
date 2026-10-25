@@ -107,7 +107,7 @@ def world_tables(w: World) -> dict[str, list[list]]:
                                         zip_code, phone, "Y"]))
     t["staff/staff.csv"] = sort_rows(rows)
     t["policy/index.csv"] = [
-        [date(2025, 7, 1), "2020-01-01", "2020-01-01", "2025-06-30", "fap_2020-01-01.md"],
+        [date(2025, 1, 1), "2020-01-01", "2020-01-01", "2025-06-30", "fap_2020-01-01.md"],
         [date(2025, 7, 1), "2025-07-01", "2025-07-01", "", "fap_2025-07-01.md"],
     ]
     return t

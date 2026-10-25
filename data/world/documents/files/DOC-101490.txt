@@ -1,0 +1,21 @@
+COASTAL VALLEY ENERGY
+3988 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA LIN        Emp ID: 29368
+Position: Field technician
+  Pay Period: 02/09/2026 - 02/23/2026     Pay Date: 02/28/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.17     86.67       5,041.59     20,166.36
+GROSS PAY                                  5,041.59     20,166.36
+DEDUCTIONS
+  Federal Income Tax                       201.66
+  Social Security                          312.57
+  Medicare                                  73.10
+   CA SDI                                    55.45
+NET PAY                                   4,398.81
+--------------------------------------------------------------
+  includes overtime 2.50 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/09/2026]

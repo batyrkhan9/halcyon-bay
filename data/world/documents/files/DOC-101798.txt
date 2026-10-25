@@ -1,21 +1,21 @@
-CALDER FREIGHT LINES
-6490 MARKET WAY   CA
-                         EARNINGS 5TATEMENT
- Employee: HIROSHI XU        Emp ID: 90080
-Position: Driver
-Pay Period: 07/28/2026 - 08/11/2026     Pay Date: 08/16/2026
+VISTA SERENA MEDICAL OFFICES
+1042 HARBOR WAY   CA
   . : .
-Pay Frequency: Semi-Monthly
+                         EARNINGS STATEMENT
+ Employee: IMANI ROBINSON        Emp ID: 35455
+Position: Medical receptionist
+   Pay Period: 04/01/2026 - 04/14/2026     Pay Date: 04/19/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.85     86.67       1,460.39     23,366.24
-GROSS PAY                                  1,460.39     23,366.24
-  DEDUCTIONS
-  Federal Income Tax                       131.43
-  Social Security                           90.54
-  Medicare                                  21.17
-  CA SDI                                    16.06
-    NET PAY                                  1,201.19
+  Regular             22.13     80.00       1,770.40     14,163.20
+GROSS PAY                                  1,770.40     14,163.20
+ DEDUCTIONS
+  Federal Income Tax                       123.92
+  Social Security                          109.76
+  Medicare                                  25.67
+  CA SDI                                    19.47
+NET PAY                                  1,491.58
 --------------------------------------------------------------
 
--- scanned 08/31/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAY 14 2026  - mailroom

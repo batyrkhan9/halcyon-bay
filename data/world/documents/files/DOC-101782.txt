@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-4147 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: TERRELL FONOTI        Emp ID: 64665
-Position: Laborer
-Pay Period: 07/18/2026 - 08/01/2026     Pay Date: 08/06/2026
+    MARISOL CLEANING SERVICES
+5734 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE MARTIN-FONOTI        Emp ID: 57805
+Position: Cleaner
+Pay Period: 04/07/2026 - 04/21/2026     Pay Date: 04/26/2026
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.01     54.50         981.54     14,723.10
-GROSS PAY                                    981.54     14,723.10
+Regular             18.30     33.50         613.05      4,904.40
+GROSS PAY                                    613.05      4,904.40
 DEDUCTIONS
-  Federal Income Tax                        88.33
-  Social Security                           60.85
-   Medicare                                  14.23
-  CA SDI                                    10.79
-NET PAY                                    807.34
+      Federal Income Tax                        30.65
+  Social Security                           38.00
+  Medicare                                   8.88
+  CA SDI                                     6.74
+NET PAY                                    528.78
 --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-RECEIVED AUG 28 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]

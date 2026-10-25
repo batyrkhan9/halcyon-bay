@@ -1,21 +1,20 @@
-   OTTER BAY AQUARIUM
-5242 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: PAOLA O'BRIEN-IVANOVA        Emp ID: 83205
-Position: Guest services
-Pay Period: 07/18/2026 - 07/31/2026     Pay Date: 08/05/2026
+BLUE KELP SOFTWARE LLC
+  7836 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: GREGORY RA0        Emp ID: 23295
+Position: Software engineer
+Pay Period: 03/28/2026 - 04/10/2026     Pay Date: 04/15/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             18.86     14.00         264.04      4,224.64
-GROSS PAY                                    264.04      4,224.64
+Regular             18.41     30.00         552.30      4,418.40
+GROSS PAY                                    552.30      4,418.40
 DEDUCTIONS
-  Federal Income Tax                        10.56
-    Social Security                           16.37
-| |   .
-  Medicare                                   3.82
-  CA SDI                                     2.90
-NET PAY                                    230.39
+  Federal Income Tax                        49.70
+   Social Security                           34.24
+    Medicare                                   8.00
+  CA SDI                                     6.07
+NET PAY                                    454.29
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/15/2026]
+FAX RECEIVED 04/26/2026 10:24   P.01

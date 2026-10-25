@@ -1,21 +1,18 @@
-BLUE KELP SOFTWARE LLC
-7946 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KIM LIN        Emp ID: 78557
-Position: Software engineer
-Pay Period: 09/04/2026 - 09/17/2026     Pay Date: 09/22/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.18     80.00       3,054.40     58,033.60
-GROSS PAY                                  3,054.40     58,033.60
-DEDUCTIONS
-  Federal Inc0me Tax                       335.98
-  Social Security                          189.37
-  Medicare                                  44.28
-  CA SDI                                    33.59
-_ _ _ _
-NET PAY                                  2,451.18
---------------------------------------------------------------
+F0rm 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  JUAN ADAMS
+Your social security number: XXX-XX-8088
+Dependents: 1
+Income
+ 1a  Total amount fr0m Form(s) W-2, box 1 ...........    24,196.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+     9   Total income ....................................    24,196.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    24,196.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Juan Adams        Date: 04/15/2026
+
+-- scanned 07/18/2026 HBCH mailroom  pg 1/1 --

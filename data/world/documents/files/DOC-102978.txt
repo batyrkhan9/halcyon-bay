@@ -1,0 +1,20 @@
+M1RADOR GROCERY CO-OP
+5410 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO WU        Emp ID: 89863
+Position: Cashier
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             22.04     80.00       1,763.20     29,974.40
+GROSS PAY                                  1,763.20     29,974.40
+DEDUCTIONS
+  Federal Income Tax                       105.79
+  Social Security                          109.31
+  Medicare                                  25.56
+  CA SDI                                    19.39
+NET PAY                                  1,503.15
+--------------------------------------------------------------
+
+RECEIVED SEP 12 2026  - mailroom

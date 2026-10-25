@@ -1,21 +1,20 @@
- HALCYON BAY UNIFIED SCHOOL DIST
-3585 COMMERCE WAY   CA
+MARISOL CLEANING SERVICES
+1275 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: AMINA MARTIN        Emp ID: 99695
-Position: Instructional aide
-Pay Period: 04/21/2026 - 04/27/2026     Pay Date: 05/02/2026
- Pay Frequency: Weekly
+Employee: ALYSSA PATEL        Emp ID: 39863
+Position: Cleaner
+Pay Period: 11/29/2025 - 12/05/2025     Pay Date: 12/10/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.61      8.00         148.88      2,679.84
-GROSS PAY                                    148.88      2,679.84
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,634.26     81,713.00
+GROSS PAY                                  1,634.26     81,713.00
 DEDUCTIONS
-  Federal Income Tax                         7.44
-  Social Security                            9.23
-  Medicare                                   2.15
-  CA SDI                                     1.63
-~ ~ .  ,
-NET PAY                                     128.43
+  Federal Income Tax                       114.39
+  Social Security                          101.32
+  Medicare                                  23.69
+  CA SDI                                    17.97
+NET PAY                                  1,376.89
 --------------------------------------------------------------
 
--- scanned 05/14/2026 HBCH mailroom  pg 1/1 --
+RECEIVED DEC 13 2025  - mailroom

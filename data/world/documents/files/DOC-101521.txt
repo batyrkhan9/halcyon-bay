@@ -1,21 +1,21 @@
-SANTA LUCITA FARMS
-   6913 COMMERCE WAY   CA
+     ELLERY HARDWARE SUPPLY
+4342 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: SHARON IVAN0VA-BAKER        Emp ID: 79739
-Position: Field supervisor
-Pay Period: 06/28/2026 - 07/11/2026     Pay Date: 07/16/2026
+Employee: JESSICA BROWN-PHAM        Emp ID: 99821
+Position: 5ales associate
+ Pay Period: 02/06/2026 - 02/19/2026     Pay Date: 02/24/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             17.42     45.25         788.26     11,823.90
-GROSS PAY                                    788.26     11,823.90
-   DEDUCTIONS
-  . : .
-  Federal Income Tax                        63.06
-  Social Security                           48.87
-  Medicare                                  11.43
-   CA SDI                                     8.67
-NET PAY                                    656.23
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             57.00     80.00       4,560.00     18,240.00
+   GROSS PAY                                  4,560.00     18,240.00
+~ ~ .  ,
+DEDUCT1ONS
+      Federal Income Tax                       501.60
+  Social Security                          282.72
+  Medicare                                  66.12
+  CA SDI                                    50.16
+NET PAY                                  3,659.40
    --------------------------------------------------------------
 
-FAX RECEIVED 07/30/2026 10:25   P.01
+FAX RECEIVED 03/18/2026 10:34   P.01

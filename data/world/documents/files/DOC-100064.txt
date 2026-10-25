@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+    7785 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+  Employee: DYLAN LE        Emp ID: 28147
+Position: Line worker
+Pay Period: 12/02/2024 - 12/15/2024     Pay Date: 12/20/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,218.52     31,681.52
+GROSS PAY                                  1,218.52     31,681.52
+DEDUCTIONS
+  Federal Income Tax                        60.92
+     Social Security                           75.54
+  Medicare                                  17.66
+   CA SDI                                    13.40
+NET PAY                                  1,051.00
+--------------------------------------------------------------
+
+-- scanned 12/30/2024 HBCH mailroom  pg 1/1 --

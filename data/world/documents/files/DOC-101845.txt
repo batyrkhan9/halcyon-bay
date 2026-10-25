@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+6357 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: VALERIA WILSON         Emp ID: 42354
+Position: Cashier
+Pay Period: 04/23/2026 - 05/06/2026     Pay Date: 05/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.90     80.00       1,992.00     19,920.00
+  . : .
+ GROSS PAY                                  1,992.00     19,920.00
+DEDUCTIONS
+  Federal Income Tax                       139.44
+   Social Security                          123.50
+  Medicare                                  28.88
+      CA SDI                                    21.91
+NET PAY                                  1,678.27
+   --------------------------------------------------------------
+
+FAX RECEIVED 05/28/2026 10:51   P.01

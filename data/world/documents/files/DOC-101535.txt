@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-6386 HARBOR WAY   CA
-                           EARNINGS STATEMENT
-Employee: ROGELIO VASQUEZ        Emp ID: 45387
-Position: Cleaner
-Pay Period: 05/31/2026 - 06/13/2026     Pay Date: 06/18/2026
-   Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+SANDPIPER CHILD CARE CENTER
+7213 INDU5TRIAL WAY   CA
+                         EARNINGS STATEMENT
+   Employee: TYLER IVANOVA        Emp ID: 68545
+   Position: Teacher
+Pay Period: 03/05/2026 - 03/18/2026     Pay Date: 03/23/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             52.84     80.00       4,227.20     54,953.60
-GROSS PAY                                  4,227.20     54,953.60
+Regular             25.68     80.00       2,054.40     12,326.40
+GROSS PAY                                  2,054.40     12,326.40
 DEDUCTIONS
-      Federal Income Tax                       169.08
-  Social Security                          262.08
-  Medicare                                  61.29
-  CA SDI                                    46.49
-   NET PAY                                  3,688.26
-  --------------------------------------------------------------
+  Federal Income Tax                       225.98
+     Social Security                          127.37
+   Medicare                                  29.78
+  CA SD1                                    22.59
+NET PAY                                  1,648.68
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2026]
+RECEIVED MAR 27 2026  - mailroom

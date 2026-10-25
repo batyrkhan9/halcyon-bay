@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+5759 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA COSTA        Emp ID: 95309
+Position: Dental assistant
+Pay Period: 06/04/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             70.78    173.33      12,268.30     85,878.10
+GROSS PAY                                 12,268.30     85,878.10
+   DEDUCTIONS
+  Federal Income Tax                       981.46
+  Social Security                          760.63
+  Medicare                                 177.89
+  CA SDI                                   134.95
+NET PAY                                 10,213.37
+    --------------------------------------------------------------
+
+FAX RECEIVED 08/11/2026 10:44   P.01

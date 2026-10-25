@@ -1,20 +1,17 @@
-BAYLINE LOGISTICS INC
-673 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: NICOLE JUNG        Emp ID: 82535
- Position: Warehouse associate
-Pay Period: 05/12/2025 - 05/25/2025     Pay Date: 05/30/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular            101.77     80.00       8,141.60     89,557.60
-GROSS PAY                                  8,141.60     89,557.60
- DEDUCTIONS
-  Federal Income Tax                       569.91
-  S0cial Security                          504.77
-  Medicare                                 118.05
-  CA SDI                                    89.55
-NET PAY                                  6,859.32
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 03/01/2025 - 03/31/2025
+  Member: HANNAH THOMPSON       Account ending 4851
 
-RECEIVED JUN 30 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,096.59
+  Deposits                     6,274.96
+  Withdrawals                 -6,463.20
+  Ending balance               1,908.35
+
+DEPOSITS AND CRED1TS
+  03/03  PAYROLL DIR DEP LAS BRISAS RESTAUR       3,137.48
+  03/18  PAYROLL DIR DEP LAS BRISAS RESTAUR       3,137.48
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 04/20/2025 HBCH mailroom  pg 1/1 --

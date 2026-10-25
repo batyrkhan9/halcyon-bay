@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+ 6932 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEON1 BROWN        Emp ID: 96740
+Position: Field technician
+Pay Period: 07/09/2026 - 07/22/2026     Pay Date: 07/27/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    11,824.06    177,360.90
+GROSS PAY                                 11,824.06    177,360.90
+DEDUCT1ONS
+  Federal Income Tax                       591.20
+  5ocial 5ecurity                          733.09
+  Medicare                                 171.44
+  CA SDI                                   130.06
+NET PAY                                 10,198.27
+--------------------------------------------------------------
+
+RECEIVED SEP 08 2026  - mailroom

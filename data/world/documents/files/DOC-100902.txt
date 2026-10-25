@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-959 HARBOR WAY   CA
+CALDER FREIGHT LINES
+3461 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA ROMERO        Emp ID: 42407
-Position: Teacher
-Pay Period: 12/23/2025 - 01/05/2026     Pay Date: 01/10/2026
-Pay Frequency: Bi-Weekly
+ Employee: LEILANI FITZGERALD        Emp ID: 67598
+Position: Driver
+Pay Period: 08/16/2025 - 08/30/2025     Pay Date: 09/04/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-_ _ _ _
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             39.41     80.00       3,152.80      3,152.80
-GROSS PAY                                  3,152.80      3,152.80
+Salary                                     2,425.47     41,232.99
+GROSS PAY                                  2,425.47     41,232.99
 DEDUCTIONS
-  Federal Income Tax                       126.11
-  Social Security                          195.47
-  Medicare                                  45.71
-  CA SDI                                    34.68
-NET PAY                                  2,750.83
+  Federal Income Tax                       242.54
+    Social Security                          150.37
+      Medicare                                  35.16
+  CA SDI                                    26.68
+NET PAY                                  1,970.72
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/25/2026]
+RECEIVED SEP 13 2025  - mailroom

@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-9210 INDUSTRIAL WAY   CA
+MIRADOR PUBLIC LIBRARY
+2375 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE QUINN        Emp ID: 94209
-Position: Nursery worker
-Pay Period: 07/01/2026 - 07/15/2026     Pay Date: 07/20/2026
-Pay Frequency: Semi-Monthly
+Employee: RAYMOND CHOI        Emp ID: 24465
+   Position: Library assistant
+Pay Period: 02/23/2026 - 03/01/2026     Pay Date: 03/06/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
+| |   .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.93     86.67       2,507.36     35,103.04
-GROSS PAY                                  2,507.36     35,103.04
+Salary                                       298.10      2,981.00
+    GROSS PAY                                    298.10      2,981.00
 DEDUCTIONS
-  Federal 1ncome Tax                       175.51
-  Social Security                          155.45
-  Medicare                                  36.35
-       CA SDI                                    27.58
- NET PAY                                  2,112.47
+  Federal Income Tax                        17.88
+  Social Security                           18.48
+  Medicare                                   4.32
+    CA SDI                                     3.27
+NET PAY                                    254.15
 --------------------------------------------------------------
 
-FAX RECEIVED 08/01/2026 10:15   P.01
+-- scanned 03/27/2026 HBCH mailroom  pg 1/1 --

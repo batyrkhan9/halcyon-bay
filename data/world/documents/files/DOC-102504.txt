@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+8642 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JIA SILVA        Emp ID: 62855
+Position: Field technician
+Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.57     80.00       2,205.60     35,289.60
+GROSS PAY                                  2,205.60     35,289.60
+DEDUCTIONS
+  Federal Income Tax                       220.56
+  Social Security                          136.74
+  Medicare                                  31.98
+  CA SDI                                    24.26
+NET PAY                                  1,792.06
+--------------------------------------------------------------
+
+-- scanned 08/08/2026 HBCH mailroom  pg 1/1 --

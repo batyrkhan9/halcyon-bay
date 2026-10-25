@@ -1,20 +1,18 @@
-POINT CORRIN BOATWORKS
-2479 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: CARMEN JIMENEZ        Emp ID: 11124
-Position: Mechanic
-Pay Period: 07/02/2026 - 07/16/2026      Pay Date: 07/21/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.34     48.00         832.32     11,652.48
-GROSS PAY                                     832.32     11,652.48
-DEDUCTIONS
-  Federal Income Tax                        33.29
-  Social Security                           51.60
-     Medicare                                  12.06
-  CA SDI                                     9.15
-NET PAY                                    726.22
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  EMILY PEREIRA
+Your social security number: XXX-XX-8067
+   Dependents: 1
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    69,633.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    69,633.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    69,633.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 08/01/2026 10:48   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+  Your signature: /s/ Emily Pereira        Date: 04/03/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/29/2026]

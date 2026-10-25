@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-1240 INDUSTRIAL WAY   CA
+BAYLINE LOGISTICS INC
+3702 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: NICOLE MENDOZA        Emp ID: 29772
-Position: Driver
-Pay Period: 07/18/2026 - 08/01/2026     Pay Date: 08/06/2026
-Pay Frequency: Semi-Monthly
-    --------------------------------------------------------------
+Employee: TERRELL RAMIREZ        Emp ID: 79532
+Position: Warehouse associate
+Pay Period: 01/07/2026 - 02/05/2026     Pay Date: 02/10/2026
+Pay Frequency: Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             18.34     10.00         183.40      2,751.00
-GROSS PAY                                    183.40      2,751.00
+Regu1ar            104.67    173.33      18,142.45     36,284.90
+GROSS PAY                                 18,142.45     36,284.90
 DEDUCTIONS
-  Federal Income Tax                        20.17
-   Social Security                           11.37
-  Medicare                                   2.65
-     CA SDI                                     2.01
-NET PAY                                     147.20
---------------------------------------------------------------
+  Federal Income Tax                     1,088.54
+  Social Security                        1,124.83
+  Medicare                                 263.06
+  CA SDI                                   199.56
+NET PAY                                 15,466.46
+   --------------------------------------------------------------
 
-RECEIVED AUG 09 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/14/2026]

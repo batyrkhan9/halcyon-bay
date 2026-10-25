@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+9217 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RODRIGO GARCIA        Emp ID: 43937
+Position: Nursery worker
+Pay Period: 02/18/2025 - 03/03/2025     Pay Date: 03/08/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             34.30     80.00       2,744.00     13,720.00
+GROSS PAY                                  2,744.00     13,720.00
+DEDUCTIONS
+  Federal Income Tax                       192.08
+  Social Security                          170.12
+  Medicare                                  39.78
+   CA SDI                                    30.18
+ NET PAY                                  2,311.84
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/21/2025]

@@ -1,20 +1,20 @@
-   BAYLINE LOGISTICS INC
-1172 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: DANIELA QUINN        Emp ID: 24115
-  Position: Warehouse associate
-Pay Period: 02/07/2025 - 03/08/2025     Pay Date: 03/13/2025
-  Pay Frequency: Monthly
-   --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             25.76    173.33       4,464.98     13,394.94
- GROSS PAY                                  4,464.98     13,394.94
-DEDUCTIONS
-     Federal Income Tax                       312.54
-     Social Security                          276.82
-  Medicare                                  64.74
-   CA SDI                                    49.11
-NET PAY                                  3,761.77
+VISTA SERENA MEDICAL OFFICES
+   8418 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAYLA SATO        Emp ID: 65225
+Position: Medical receptionist
+Pay Period: 01/30/2025 - 02/13/2025     Pay Date: 02/18/2025
+Pay Frequency: Semi-Monthly
     --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      3,491.03     13,964.12
+GROSS PAY                                  3,491.03     13,964.12
+DEDUCTIONS
+  Federal Income Tax                       139.64
+  Social Security                          216.44
+  Medicare                                  50.62
+  CA 5DI                                    38.40
+ NET PAY                                  3,045.93
+--------------------------------------------------------------
 
--- scanned 04/21/2025 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 03 2025  - mailroom

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+129 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: OLIVIA GOMEZ        Emp 1D: 32304
+    Position: Software engineer
+Pay Period: 03/07/2026 - 03/13/2026     Pay Date: 03/18/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             33.41     40.00       1,336.40     14,700.40
+GROSS PAY                                  1,336.40     14,700.40
+DEDUCTIONS
+  Federal Income Tax                       106.91
+  Social 5ecurity                           82.85
+  Medicare                                  19.37
+  CA SDI                                    14.70
+NET PAY                                  1,112.57
+--------------------------------------------------------------
+
+RECEIVED APR 08 2026  - mailroom

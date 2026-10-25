@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-  1289 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: PAOLA SILVA        Emp ID: 24366
-Position: Line worker
-Pay Period: 06/11/2026 - 06/17/2026     Pay Date: 06/22/2026
+BLUE KELP SOFTWARE LLC
+2661 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI WALKER-MURPHY        Emp ID: 63069
+Position: Software engineer
+Pay Period: 12/06/2025 - 12/12/2025     Pay Date: 12/17/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.35     12.25         224.79      5,619.75
-GROSS PAY                                    224.79      5,619.75
+Salary                                       313.52     15,989.52
+    GROSS PAY                                    313.52     15,989.52
 DEDUCTIONS
-  Federal Income Tax                        11.23
-  Social Security                           13.93
-   Medicare                                   3.25
-  CA SDI                                     2.47
-NET PAY                                    193.91
+  Federal Income Tax                        25.08
+  Social Security                           19.43
+  Medicare                                   4.54
+   CA SDI                                     3.44
+NET PAY                                    261.03
 --------------------------------------------------------------
 
-FAX RECEIVED 07/02/2026 10:41   P.01
+FAX RECEIVED 12/27/2025 10:31   P.01

@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-6402 INDUSTRIAL WAY    CA
+MIRADOR PUBLIC LIBRARY
+2439 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KEISHA IYER        Emp ID: 75265
- Position: Warehouse associate
-Pay Period: 11/22/2024 - 12/21/2024     Pay Date: 12/26/2024
-Pay Frequency: Monthly
+Employee: JOSE HAYES        Emp ID: 58171
+Position: Library assistant
+Pay Period: 11/27/2024 - 12/10/2024     Pay Date: 12/15/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,375.72     43,884.36
-GROSS PAY                                  3,375.72     43,884.36
+Regular             69.88     80.00       5,590.40    139,760.00
+GROSS PAY                                  5,590.40    139,760.00
 DEDUCTIONS
-  Federal Income Tax                       168.78
-  Social Security                          209.29
-  Medicare                                  48.94
-  CA SDI                                    37.13
-NET PAY                                  2,911.58
+   Federal Income Tax                       447.23
+  Social Security                          346.60
+  Medicare                                  81.06
+  CA SDI                                    61.49
+NET PAY                                  4,654.02
 --------------------------------------------------------------
 
--- scanned 02/10/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 12/31/2024 10:40   P.01

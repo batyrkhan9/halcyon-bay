@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+ 4181 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA PEREIRA        Emp ID: 73847
+Position: Laborer
+Pay Period: 07/01/2025 - 07/15/2025     Pay Date: 07/20/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.43     33.25         612.80      8,579.20
+GROSS PAY                                    612.80      8,579.20
+DEDUCTIONS
+  Federal Income Tax                        61.28
+  Social Security                           37.99
+  Medicare                                   8.88
+  CA SDI                                     6.74
+NET PAY                                    497.91
+  --------------------------------------------------------------
+
+FAX RECEIVED 08/07/2025 10:41   P.01

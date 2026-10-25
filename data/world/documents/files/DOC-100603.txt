@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-9451 COMMERCE WAY   CA
+VISTA SERENA MEDICAL OFFICES
+3319 HARBOR WAY    CA
                          EARNINGS STATEMENT
-Employee: JOSE ROBINSON        Emp ID: 38873
-Position: Laborer
-Pay Period: 08/15/2025 - 08/28/2025     Pay Date: 09/02/2025
-Pay Frequency: Bi-Weekly
+Employee: JIA ZAMORA        Emp ID: 79300
+Position: Medical receptionist
+    Pay Period: 06/01/2025 - 06/07/2025     Pay Date: 06/12/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.65     14.00         233.10      4,195.80
-   GROSS PAY                                    233.10      4,195.80
-DEDUCTIONS
-  Federal Income Tax                        18.64
-  Social Security                           14.45
-  Medicare                                   3.38
-    CA SDI                                     2.56
-NET PAY                                    194.07
+ Regular             18.61     10.00         186.10      4,466.40
+   GROSS PAY                                    186.10      4,466.40
+~ ~ .  ,
+   DEDUCTIONS
+    Federal Income Tax                        18.61
+  Social Security                           11.53
+  Medicare                                   2.69
+  CA SDI                                     2.04
+NET PAY                                    151.23
 --------------------------------------------------------------
 
--- scanned 09/08/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUN 16 2025  - mailroom

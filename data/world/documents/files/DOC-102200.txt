@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+5169 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MINH ALVAREZ        Emp ID: 56776
+  Position: Line worker
+Pay Period: 06/15/2026 - 06/28/2026      Pay Date: 07/03/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.33     80.00       2,106.40     29,489.60
+  GROSS PAY                                  2,106.40     29,489.60
+ DEDUCTIONS
+  Federal Income Tax                       231.70
+  Social Security                          130.59
+  Medicare                                  30.54
+     CA SDI                                    23.17
+NET PAY                                  1,690.40
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/24/2026]

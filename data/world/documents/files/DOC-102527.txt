@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+    4811 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: CAROL SOUZA        Emp ID: 16007
+Position: Technician
+Pay Period: 07/06/2026 - 07/19/2026     Pay Date: 07/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     3,389.48     50,842.20
+    GROSS PAY                                  3,389.48     50,842.20
+DEDUCTIONS
+  Federal Income Tax                       203.36
+  Social Security                          210.14
+     Medicare                                  49.14
+  CA SDI                                    37.28
+  NET PAY                                  2,889.56
+  --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/10/2026]

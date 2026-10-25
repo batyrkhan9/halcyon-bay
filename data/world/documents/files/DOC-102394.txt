@@ -1,0 +1,21 @@
+    COASTAL VALLEY ENERGY
+5299 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAMON O'BRIEN        Emp ID: 25458
+Position: Field technician
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+_ _ _ _
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     3,485.04     48,790.56
+GROSS PAY                                  3,485.04     48,790.56
+DEDUCTIONS
+    Federal Income Tax                       243.95
+  Social Security                          216.07
+  Medicare                                  50.53
+  CA SDI                                    38.33
+NET PAY                                  2,936.16
+--------------------------------------------------------------
+
+-- scanned 08/01/2026 HBCH mailroom  pg 1/1 --

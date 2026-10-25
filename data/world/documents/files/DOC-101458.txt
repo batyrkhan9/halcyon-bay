@@ -1,21 +1,21 @@
-PORT ELLERY CANNERY CO
-4576 MARKET WAY   CA
-                           EARNINGS STATEMENT
-Employee: SERG1O RIVERA        Emp ID: 34173
-Position: Line worker
-  Pay Period: 06/04/2026 - 06/18/2026     Pay Date: 06/23/2026
-Pay Frequency: Semi-Monthly
-_ _ _ _
+SANTA LUCITA FARMS
+9263 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ESPERANZA PARK        Emp ID: 22166
+Position: Field supervisor
+Pay Period: 01/14/2026 - 01/27/2026     Pay Date: 02/01/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Salary                                       494.76      5,937.12
-GROSS PAY                                    494.76      5,937.12
-DEDUCTI0NS
-   Federal Income Tax                        24.73
-    Social Security                           30.67
-  Medicare                                   7.17
-  CA SDI                                     5.44
-NET PAY                                    426.75
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             56.59     80.00       4,527.20     13,581.60
+GROSS PAY                                  4,527.20     13,581.60
+DEDUCTIONS
+       Federal Income Tax                       407.44
+  Social Security                          280.68
+| |   .
+  Medicare                                  65.64
+  CA SDI                                    49.79
+NET PAY                                  3,723.65
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/24/2026]
+RECEIVED FEB 16 2026  - mailroom

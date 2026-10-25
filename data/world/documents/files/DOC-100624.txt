@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-3316 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+5688 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: AMINA MEDINA        Emp ID: 54284
-Position: 5oftware engineer
-Pay Period: 08/23/2025 - 09/05/2025     Pay Date: 09/10/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
+Employee: LINH LI        Emp ID: 72453
+| |   .
+ Position: Mechanic
+Pay Period: 05/15/2025 - 05/29/2025     Pay Date: 06/03/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      4,867.42     92,480.98
- GROSS PAY                                  4,867.42     92,480.98
+Salary                                     2,979.22     32,771.42
+GROSS PAY                                  2,979.22     32,771.42
 DEDUCTIONS
-  Federal Income Tax                       194.69
-  Social Security                          301.78
-      Medicare                                  70.57
-  CA SDI                                    53.54
-NET PAY                                   4,246.84
-    --------------------------------------------------------------
+  Federal Income Tax                       268.12
+  Social Security                          184.71
+  Medicare                                  43.19
+  CA SDI                                    32.77
+NET PAY                                  2,450.43
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/18/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/21/2025]

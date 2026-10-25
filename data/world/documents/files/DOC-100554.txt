@@ -1,21 +1,21 @@
-SUNSET COAST HOME CARE
-3851 HARBOR WAY   CA
+POINT CORRIN BOATWORKS
+2317 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: SANJAY GOMEZ        Emp ID: 96718
-Position: Home care aide
-Pay Period: 07/04/2025 - 07/18/2025     Pay Date: 07/23/2025
-Pay Frequency: Semi-Monthly
+Employee: DENNIS KAHANANUI        Emp ID: 25286
+Position: Mechanic
+Pay Period: 05/06/2025 - 05/19/2025     Pay Date: 05/24/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  . : .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.76     86.67       1,712.60     23,976.40
-GROSS PAY                                  1,712.60     23,976.40
+Regular             16.70     28.75         480.12      5,281.32
+GROSS PAY                                    480.12      5,281.32
+| |   .
 DEDUCTIONS
-  Federal Income Tax                        85.63
-  Social Security                          106.18
-  Medicare                                  24.83
-  CA SDI                                    18.83
-NET PAY                                  1,477.13
+  Federal Income Tax                        33.60
+  Social Security                           29.76
+   Medicare                                   6.96
+  CA SDI                                     5.28
+NET PAY                                    404.52
 --------------------------------------------------------------
 
--- scanned 08/08/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 06/07/2025 10:27   P.01

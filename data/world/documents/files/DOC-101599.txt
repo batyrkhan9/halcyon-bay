@@ -1,0 +1,18 @@
+   Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  LUCIA ALMEIDA
+Y0ur social security number: XXX-XX-9071
+Dependents: 0
+   Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    91,949.00
+ 8   Additiona1 income from Schedule 1, line 10 ......         0.00
+  9   Total inc0me ....................................    91,949.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    91,949.00
+ 12  Standard deduction ..............................    14,600.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Y0ur signature: /s/ Lucia Almeida         Date: 04/01/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/10/2026]

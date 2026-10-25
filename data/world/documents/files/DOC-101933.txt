@@ -1,21 +1,21 @@
-OTTER BAY AQUARIUM
-6090 HARBOR WAY   CA
+PORT ELLERY CANNERY CO
+8576 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: GRACE SULLIVAN-MEHTA        Emp 1D: 89437
-Position: Guest services
-Pay Period: 08/08/2026 - 08/14/2026     Pay Date: 08/19/2026
-Pay Frequency: Weekly
-~ ~ .  ,
+Employee: TUAN JUNG        Emp ID: 90608
+    Position: Line worker
+Pay Period: 06/09/2026 - 06/22/2026     Pay Date: 06/27/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Salary                                       942.09     31,088.97
-GROSS PAY                                    942.09     31,088.97
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,242.41     15,724.25
+GROSS PAY                                  1,242.41     15,724.25
 DEDUCTIONS
-  Federal Income Tax                        75.36
-     Social Security                           58.41
-  Medicare                                  13.66
-  CA SDI                                    10.36
-  NET PAY                                    784.30
+   Federal Income Tax                        86.96
+  Social Security                           77.02
+  Medicare                                  18.01
+  CA SDI                                    13.66
+NET PAY                                  1,046.76
 --------------------------------------------------------------
+  includes overtime 1.50 hrs
 
--- scanned 09/12/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 05 2026  - mailroom

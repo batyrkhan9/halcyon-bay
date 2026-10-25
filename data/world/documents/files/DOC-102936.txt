@@ -1,0 +1,21 @@
+    ARROYO VERDE NUR5ERY
+9288 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAMON LEWIS        Emp ID: 15253
+Position: Nursery worker
+Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       339.27      5,767.59
+    GROSS PAY                                    339.27      5,767.59
+| |   .
+DEDUCTIONS
+  Federal Income Tax                        27.14
+  Social Security                           21.03
+     Medicare                                   4.91
+  CA SDI                                     3.73
+NET PAY                                    282.46
+--------------------------------------------------------------
+
+-- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+8639 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA ROMERO        Emp ID: 76494
+Position: Mechanic
+Pay Period: 04/26/2025 - 05/02/2025     Pay Date: 05/07/2025
+    Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             44.28     40.00       1,771.20     33,652.80
+GROSS PAY                                  1,771.20     33,652.80
+DEDUCTIONS
+  Federal Income Tax                       194.83
+  Social Security                          109.81
+  Medicare                                  25.68
+   CA SDI                                    19.48
+NET PAY                                  1,421.40
+  --------------------------------------------------------------
+
+FAX RECEIVED 05/12/2025 10:45   P.01

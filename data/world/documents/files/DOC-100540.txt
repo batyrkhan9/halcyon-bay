@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-1857 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+  3256 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MEGAN WU        Emp ID: 79420
-Position: Warehouse associate
-Pay Period: 06/17/2025 - 06/30/2025     Pay Date: 07/05/2025
+Employee: JUAN MEDINA        Emp ID: 38863
+Position: Cust0dian
+Pay Period: 04/29/2025 - 05/12/2025     Pay Date: 05/17/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             94.76     80.00       7,580.80    106,131.20
-GROSS PAY                                  7,580.80    106,131.20
-DEDUCTIONS
-  Federal Income Tax                       758.08
-  Social Security                          470.01
-  Medicare                                 109.92
-  CA SDI                                    83.38
-NET PAY                                  6,159.41
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                       669.50      6,695.00
+GROSS PAY                                    669.50      6,695.00
+  DEDUCTIONS
+  Federal Income Tax                        66.95
+   Social Security                           41.50
+  Medicare                                   9.70
+  CA SDI                                     7.36
+NET PAY                                    543.99
 --------------------------------------------------------------
 
-RECEIVED AUG 02 2025  - mailroom
+-- scanned 06/04/2025 HBCH mailroom  pg 1/1 --

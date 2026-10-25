@@ -1,0 +1,20 @@
+   BAYLINE LOGISTICS INC
+2415 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: TERRELL SALAZAR        Emp ID: 90236
+Position: Warehouse associate
+Pay Period: 02/13/2025 - 02/19/2025     Pay Date: 02/24/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                       576.43      4,611.44
+GROSS PAY                                    576.43      4,611.44
+DEDUCTIONS
+  Federal Income Tax                        28.82
+  Social Security                           35.73
+  Medicare                                   8.35
+  CA SDI                                     6.34
+NET PAY                                    497.19
+--------------------------------------------------------------
+
+-- scanned 03/15/2025 HBCH mailroom  pg 1/1 --

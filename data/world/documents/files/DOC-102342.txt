@@ -1,0 +1,20 @@
+CALDER FREIGHT L1NES
+7886 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUIS ORTIZ        Emp ID: 91127
+Position: Driver
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            120.48     40.00       4,819.20    130,118.40
+GROSS PAY                                  4,819.20    130,118.40
+  DEDUCTIONS
+  Federal 1ncome Tax                       240.96
+  S0cial Security                          298.79
+  Medicare                                  69.87
+  CA SDI                                    53.01
+NET PAY                                  4,156.57
+--------------------------------------------------------------
+
+RECEIVED JUL 30 2026  - mailroom

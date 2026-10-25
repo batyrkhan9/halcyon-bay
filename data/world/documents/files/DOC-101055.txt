@@ -1,20 +1,21 @@
- SUNSET COAST HOME CARE
-8839 HARBOR WAY   CA
+BAYLINE LOGISTICS INC
+  . : .
+ 9125 INDUSTRIAL WAY    CA
                          EARNINGS STATEMENT
-Employee: GRACE ZHANG        Emp 1D: 87531
-Position: Home care aide
-Pay Period: 03/17/2026 - 03/23/2026     Pay Date: 03/28/2026
-  Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-  Regular             78.75     40.00       3,150.00     40,950.00
-    GROSS PAY                                  3,150.00     40,950.00
+Employee: ROHAN CARTER-JACKSON        Emp ID: 25858
+Position: Warehouse associate
+Pay Period: 09/16/2025 - 10/15/2025     Pay Date: 10/20/2025
+ Pay Frequency: Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.20    173.33       3,674.60     36,746.00
+GROSS PAY                                  3,674.60     36,746.00
 DEDUCTIONS
-  Federal Income Tax                       346.50
-  Social Security                          195.30
-  Medicare                                  45.67
-  CA SDI                                    34.65
-    NET PAY                                  2,527.88
-    --------------------------------------------------------------
+  Federal Income Tax                       330.71
+  Social Security                          227.82
+   Medicare                                  53.28
+  CA SDI                                    40.42
+NET PAY                                  3,022.37
+--------------------------------------------------------------
 
-FAX RECEIVED 04/08/2026 10:31   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/29/2025]

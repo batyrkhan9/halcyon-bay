@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+ 9845 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JIA ZAMORA        Emp ID: 79300
+Position: Medical receptionist
+Pay Period: 05/25/2025 - 05/31/2025     Pay Date: 06/05/2025
+  Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.61     10.00         186.10      4,280.30
+GROSS PAY                                    186.10      4,280.30
+DEDUCTIONS
+  Federal Income Tax                        18.61
+  Social Security                           11.53
+   Medicare                                   2.69
+  CA SDI                                     2.04
+NET PAY                                    151.23
+--------------------------------------------------------------
+
+FAX RECEIVED 06/16/2025 10:46   P.01

@@ -1,0 +1,21 @@
+TIDEWATER CONSTRUCTION
+7391 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEI SULLIVAN        Emp ID: 45019
+Position: Laborer
+_ _ _ _
+Pay Period: 03/31/2026 - 04/14/2026     Pay Date: 04/19/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             68.96     86.67       5,976.76     47,814.08
+GROSS PAY                                  5,976.76     47,814.08
+DEDUCTIONS
+    Federal Income Tax                       239.07
+  Social Security                          370.55
+  Medicare                                  86.66
+   CA SDI                                    65.74
+   NET PAY                                  5,214.74
+--------------------------------------------------------------
+
+FAX RECEIVED 05/15/2026 10:46   P.01

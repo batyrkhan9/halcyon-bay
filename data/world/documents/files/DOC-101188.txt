@@ -1,21 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-7520 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: TOMASZ MEND0ZA        Emp ID: 27640
-Position: Line cook
-   Pay Period: 04/04/2026 - 04/18/2026     Pay Date: 04/23/2026
+MIRADOR PUBLIC LIBRARY
+1587 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: KAVYA ESPINOZA        Emp ID: 69858
+Position: Library assistant
+Pay Period: 10/27/2025 - 11/10/2025     Pay Date: 11/15/2025
 Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.27     63.75       1,164.71      9,317.68
-GROSS PAY                                  1,164.71      9,317.68
-| |   .
-DEDUCT1ONS
-  Federal Income Tax                        46.58
-  Social Security                           72.21
-  Medicare                                  16.88
-  CA SDI                                    12.81
-NET PAY                                  1,016.23
---------------------------------------------------------------
+Regular             20.51     86.67       1,777.60     39,107.20
+GROSS PAY                                  1,777.60     39,107.20
+~ ~ .  ,
+   DEDUCTIONS
+  Federal 1ncome Tax                       177.76
+      Social Security                          110.21
+  Medicare                                  25.77
+    CA SDI                                    19.55
+NET PAY                                  1,444.31
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]
+-- scanned 12/10/2025 HBCH mailroom  pg 1/1 --

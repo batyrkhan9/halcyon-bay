@@ -1,17 +1,21 @@
-    COASTLINE SAVINGS BANK
-Statement Period 09/01/2026 - 09/10/2026
-Member: SUNITA FALEOLO       Account ending 2713
-  . : .
+GOLDEN HOUR SENI0R LIVING
+713 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: ANDREW WRIGHT        Emp ID: 76209
+ Position: Caregiver
+Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
+Pay Frequency: Bi-Weekly
+_ _ _ _
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,272.00     13,992.00
+GROSS PAY                                  1,272.00     13,992.00
+DEDUCTIONS
+   Federal Income Tax                        89.04
+  Social Security                           78.86
+  Medicare                                  18.44
+  CA SDI                                    13.99
+NET PAY                                  1,071.67
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,140.84
-  Deposits                       948.67
-  Withdrawals                   -986.61
-  Ending balance               2,102.90
-
-DEPOSITS AND CREDITS
-  09/10  PAYROLL DIR DEP HARBOR POINT HOTEL         948.67
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED SEP 15 2026  - mailroom
+RECEIVED JUL 10 2026  - mailroom

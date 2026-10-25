@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-4054 INDUSTRIAL WAY   CA
+CALDER FREIGHT LINES
+7491 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: JAMAL THOMPSON        Emp ID: 82684
-Position: Custodian
-Pay Period: 07/21/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Weekly
+Employee: JORGE LI-ESPINOZA        Emp ID: 27213
+Position: Driver
+Pay Period: 03/16/2026 - 03/29/2026     Pay Date: 04/03/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             47.98     40.00       1,919.20     59,495.20
-GROSS PAY                                  1,919.20     59,495.20
+Regular             17.97     40.00         718.80      5,031.60
+GROSS PAY                                    718.80      5,031.60
 DEDUCTIONS
-    Federal Income Tax                        95.96
-  Social Security                          118.99
-  Medicare                                  27.82
-  CA SDI                                    21.11
- NET PAY                                  1,655.32
+  Federal Income Tax                        28.75
+      Social Security                           44.56
+  Medicare                                  10.42
+  CA SDI                                     7.90
+NET PAY                                    627.17
 --------------------------------------------------------------
 
-FAX RECEIVED 08/13/2026 10:15   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/21/2026]

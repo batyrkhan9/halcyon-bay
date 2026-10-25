@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+7964 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ASHLEY FONOTI        Emp ID: 31483
+Position: Medical receptionist
+Pay Period: 09/02/2025 - 09/15/2025     Pay Date: 09/20/2025
+   Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.94     80.00       2,315.20     43,988.80
+GROSS PAY                                  2,315.20     43,988.80
+DEDUCTIONS
+  Federal Income Tax                       208.36
+  Social Security                          143.54
+  Medicare                                  33.57
+  CA SD1                                    25.46
+NET PAY                                  1,904.27
+--------------------------------------------------------------
+
+FAX RECEIVED 10/19/2025 10:53   P.01

@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-7702 INDUSTRIAL WAY   CA
+SUNSET COAST HOME CARE
+9527 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: HASSAN GUTIERREZ        Emp ID: 86096
-Position: Line cook
-Pay Period: 06/14/2025 - 06/27/2025      Pay Date: 07/02/2025
-Pay Frequency: Bi-Weekly
+Employee: VALERIA O'BRIEN        Emp ID: 76830
+P0sition: Home care aide
+Pay Period: 04/19/2025 - 05/03/2025     Pay Date: 05/08/2025
+Pay Frequency: 5emi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             37.88     80.00       3,030.40     42,425.60
-GROSS PAY                                  3,030.40     42,425.60
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+   Regular            101.45     86.67       8,792.67     79,134.03
+    GROSS PAY                                  8,792.67     79,134.03
 DEDUCTIONS
-   Federal Income Tax                       272.73
-  Social Security                          187.88
-  Medicare                                  43.94
-  CA SDI                                    33.33
-NET PAY                                  2,492.52
-   --------------------------------------------------------------
+  Federal Income Tax                       879.26
+   Social Security                          545.14
+  Medicare                                 127.49
+  CA SDI                                    96.71
+NET PAY                                  7,144.07
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2025]
+RECEIVED JUN 03 2025  - mailroom

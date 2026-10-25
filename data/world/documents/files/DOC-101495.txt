@@ -1,11 +1,20 @@
-COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-NOTICE OF ACTION
-Medi-Cal Approval
-Date: 06/17/2026
-Beneficiary: LUIS KOWALSKI
+PORT ELLERY CANNERY CO
+2127 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: JUAN BELL        Emp ID: 55906
+Position: Line worker
+Pay Period: 01/12/2026 - 01/26/2026     Pay Date: 01/31/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             18.03     68.25       1,230.55      3,691.65
+GROSS PAY                                  1,230.55      3,691.65
+DEDUCTIONS
+  Federal Income Tax                        86.13
+  Social Security                           76.29
+  Medicare                                  17.84
+  CA SDI                                    13.53
+NET PAY                                  1,036.76
+--------------------------------------------------------------
 
-| |   .
-You are approved for full scope Medi-Cal with no share of cost beginning 06/01/2026.
-Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
-
-FAX RECEIVED 07/27/2026 10:16   P.01
+FAX RECEIVED 03/10/2026 10:29   P.01

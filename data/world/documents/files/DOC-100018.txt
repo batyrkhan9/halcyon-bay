@@ -1,0 +1,20 @@
+   CALDER FREIGHT LINES
+277 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE KANG        Emp ID: 59700
+Position: Driver
+Pay Period: 10/31/2024 - 11/13/2024     Pay Date: 11/18/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             17.43     14.00         244.02      5,856.48
+GROSS PAY                                    244.02      5,856.48
+DEDUCTIONS
+  Federal Income Tax                        24.40
+  Social Security                           15.12
+   Medicare                                   3.53
+  CA SDI                                     2.68
+NET PAY                                    198.29
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/09/2024]

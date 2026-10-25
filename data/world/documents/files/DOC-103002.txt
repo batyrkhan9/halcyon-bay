@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+  1164 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: DONNA RODR1GUEZ        Emp ID: 22421
+Position: Caregiver
+Pay Period: 07/27/2026 - 08/09/2026     Pay Date: 08/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             29.29     80.00       2,343.20     39,834.40
+GROSS PAY                                  2,343.20     39,834.40
+   DEDUCTIONS
+  Federal Income Tax                       117.16
+  Social Security                          145.27
+  Medicare                                  33.97
+  CA SDI                                    25.77
+NET PAY                                  2,021.03
+--------------------------------------------------------------
+
+-- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

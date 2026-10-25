@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+2243 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI CORTEZ        Emp ID: 56766
+Position: Teacher
+Pay Period: 08/15/2026 - 08/28/2026     Pay Date: 09/02/2026
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,042.53     36,765.54
+    GROSS PAY                                  2,042.53     36,765.54
+DEDUCTIONS
+   Federal Income Tax                       102.12
+  Social Security                          126.63
+  Medicare                                  29.61
+  CA SDI                                    22.46
+NET PAY                                  1,761.71
+--------------------------------------------------------------
+
+-- scanned 09/11/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-ARROYO VERDE NURSERY
-8406 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: HECTOR VO        Emp ID: 53069
-Position: Nursery worker
-Pay Period: 06/14/2026 - 06/27/2026     Pay Date: 07/02/2026
-Pay Frequency: Bi-Weekly
+SEASIDE DENTAL GROUP
+1536 INDUSTRIAL WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: BRENDA NOVAK        Emp ID: 50705
+Position: Dental assistant
+Pay Period: 01/16/2026 - 01/30/2026     Pay Date: 02/04/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.00     80.00       3,680.00     51,520.00
-GROSS PAY                                  3,680.00     51,520.00
+Regular             89.66     86.67       7,770.83     23,312.49
+GROSS PAY                                  7,770.83     23,312.49
 DEDUCTIONS
-  Federal Income Tax                       404.80
-  Social Security                          228.16
-  Medicare                                  53.36
-  CA SDI                                    40.48
-NET PAY                                  2,953.20
+   Federal Income Tax                       699.37
+      Social Security                          481.79
+  Medicare                                 112.67
+  CA SDI                                    85.47
+NET PAY                                  6,391.53
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/21/2026]
+FAX RECEIVED 02/08/2026 10:38   P.01

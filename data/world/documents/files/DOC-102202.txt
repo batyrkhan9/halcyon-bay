@@ -1,0 +1,21 @@
+    MIRADOR GROCERY CO-OP
+9733 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: YUSUF JACKSON        Emp ID: 88593
+Position: Cashier
+ Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              58.35     80.00       4,668.00     65,352.00
+GROSS PAY                                  4,668.00     65,352.00
+DEDUCTIONS
+  Federal Income Tax                       326.76
+  Social Security                          289.41
+  Medicare                                  67.68
+  CA SDI                                    51.34
+| |   .
+NET PAY                                  3,932.81
+--------------------------------------------------------------
+
+FAX RECEIVED 07/24/2026 10:12   P.01

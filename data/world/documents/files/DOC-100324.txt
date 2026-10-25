@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-5016 COMMERCE WAY   CA
+OTTER BAY AQUARIUM
+    2274 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: PATRICIA RIVERA        Emp ID: 43490
-  Position: Custodian
-Pay Period: 05/02/2025 - 05/15/2025     Pay Date: 05/20/2025
+    Employee: NOOR HO        Emp ID: 72268
+Position: Guest services
+Pay Period: 01/30/2025 - 02/12/2025     Pay Date: 02/17/2025
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.10     46.00         832.60      8,326.00
-GROSS PAY                                    832.60      8,326.00
-DEDUCTIONS
-  Federal Income Tax                        74.93
-  5ocial Security                           51.62
-  Medicare                                  12.07
-  CA SDI                                     9.15
-NET PAY                                    684.83
-  . : .
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             67.39     80.00       5,391.20     21,564.80
+GROSS PAY                                  5,391.20     21,564.80
+DEDUCTIONS
+  Federal Income Tax                       377.38
+      S0cial Security                          334.25
+   Medicare                                  78.17
+  CA SDI                                    59.30
+  NET PAY                                  4,542.10
+--------------------------------------------------------------
+  includes overtime 2.00 hrs
 
-RECEIVED MAY 29 2025  - mailroom
+RECEIVED APR 02 2025  - mailroom

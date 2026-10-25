@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-2510 COMMERCE WAY   CA
+PACIFIC RIM JANITORIAL
+5638 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL FALEOLO        Emp ID: 74900
-Position: Mechanic
-    Pay Period: 08/06/2026 - 08/19/2026     Pay Date: 08/24/2026
-Pay Frequency: Bi-Weekly
+Employee: NICOLE MARTINEZ        Emp ID: 68965
+Position: Custodian
+Pay Period: 05/27/2026 - 06/02/2026     Pay Date: 06/07/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
-Salary                                     2,518.66     42,817.22
-| |   .
- GROSS PAY                                  2,518.66     42,817.22
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.14     31.50         539.91     12,417.93
+GROSS PAY                                    539.91     12,417.93
 DEDUCTIONS
-     Federal Income Tax                       176.30
-  Social Security                          156.15
-  Medicare                                  36.52
-  CA SD1                                    27.70
-NET PAY                                   2,121.99
+  Federal Income Tax                        43.19
+  Social Security                           33.47
+    Medicare                                   7.82
+  CA SDI                                     5.93
+  NET PAY                                    449.50
 --------------------------------------------------------------
 
-RECEIVED SEP 10 2026  - mailroom
+FAX RECEIVED 07/01/2026 10:29   P.01

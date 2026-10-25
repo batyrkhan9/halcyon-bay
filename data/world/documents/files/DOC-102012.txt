@@ -1,20 +1,20 @@
-    LAS BRISAS RESTAURANT GROUP
-7945 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: JOSE QUINN        Emp ID: 57435
-Position: Line cook
-Pay Period: 08/24/2026 - 09/07/2026     Pay Date: 09/12/2026
-  Pay Frequency: Semi-Monthly
+SUNSET COAST HOME CARE
+3063 COMMERCE WAY    CA
+                            EARNINGS STATEMENT
+Employee: DESTINY PARK        Emp ID: 65232
+Position: Home care aide
+   Pay Period: 05/29/2026 - 06/12/2026     Pay Date: 06/17/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                       550.16      9,352.72
-   GROSS PAY                                    550.16      9,352.72
-  DEDUCTIONS
-    Federal Income Tax                        27.50
-  Social Security                           34.11
-  Medicare                                   7.97
-   CA SDI                                     6.05
-NET PAY                                    474.53
-   --------------------------------------------------------------
+Regular             18.80     49.00         921.20     11,054.40
+GROSS PAY                                    921.20     11,054.40
+DEDUCTIONS
+  Federal Inc0me Tax                       101.33
+  Social Security                           57.11
+  Medicare                                  13.35
+  CA SDI                                    10.13
+NET PAY                                    739.28
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/19/2026]
+-- scanned 07/12/2026 HBCH mailroom  pg 1/1 --

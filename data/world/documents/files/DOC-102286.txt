@@ -1,0 +1,21 @@
+CYPRESS FLAT5 AUTO BODY
+7456 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: PEDRO LOPEZ        Emp ID: 20945
+Position: Technician
+Pay Period: 06/29/2026 - 07/12/2026      Pay Date: 07/17/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.31     80.00       1,544.80     23,172.00
+GROSS PAY                                  1,544.80     23,172.00
+DEDUCTIONS
+~ ~ .  ,
+  Federal Income Tax                        92.68
+  Social Security                           95.77
+     Medicare                                  22.40
+  CA SDI                                    16.99
+   NET PAY                                  1,316.96
+--------------------------------------------------------------
+
+-- scanned 07/28/2026 HBCH mailroom  pg 1/1 --

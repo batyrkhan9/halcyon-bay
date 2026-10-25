@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+6259 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: ETHAN MURPHY        Emp ID: 85383
+Position: Technician
+Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Salary                                     2,326.62     30,246.06
+  GRO5S PAY                                  2,326.62     30,246.06
+DEDUCTIONS
+  Federal Income Tax                       232.66
+  Social Security                          144.25
+     Medicare                                  33.73
+  CA SDI                                    25.59
+NET PAY                                  1,890.39
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]

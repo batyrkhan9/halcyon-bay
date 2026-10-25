@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+   1523 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: KIM WALKER        Emp ID: 48841
+Position: Dental assistant
+Pay Period: 03/26/2025 - 04/08/2025     Pay Date: 04/13/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,971.05     47,768.40
+GR0SS PAY                                   5,971.05     47,768.40
+DEDUCTIONS
+  Federal Inc0me Tax                       417.97
+  Social Security                          370.20
+  Medicare                                  86.58
+  CA SDI                                    65.68
+NET PAY                                  5,030.62
+--------------------------------------------------------------
+
+-- scanned 04/23/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+7002 MARKET WAY    CA
+                         EARNINGS STATEMENT
+  Empl0yee: BEATRIZ DAVIS        Emp ID: 62483
+Position: Nursery worker
+Pay Period: 07/14/2026 - 07/28/2026     Pay Date: 08/02/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.54     32.00         561.28      8,419.20
+GROSS PAY                                    561.28      8,419.20
+DEDUCTIONS
+  Federal Income Tax                        61.74
+  Social Security                           34.79
+  Medicare                                   8.13
+  CA SDI                                     6.17
+NET PAY                                    450.45
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/22/2026]

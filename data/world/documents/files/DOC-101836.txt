@@ -1,20 +1,19 @@
-OTTER BAY AQUARIUM
-140 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: MEGAN YOUNG        Emp ID: 96079
-   Position: Guest services
-Pay Period: 08/14/2026 - 08/27/2026     Pay Date: 09/01/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.92     61.75       1,044.81     18,806.58
-GROSS PAY                                   1,044.81     18,806.58
-DEDUCTIONS
-  Federal Income Tax                        41.79
-  Social Security                           64.77
-  Medicare                                  15.15
-  CA SDI                                    11.49
-NET PAY                                    911.61
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 04/01/2026 - 04/30/2026
+Member: HANNAH ZHOU       Account ending 4049
+_ _ _ _
 
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+      Beginning balance              558.09
+  Deposits                     2,901.57
+  Withdrawals                 -2,814.52
+  Ending balance                 645.14
+
+DEPOSITS AND CREDITS
+  04/02  PAYROLL DIR DEP HARBOR POINT H0TEL         967.19
+    04/16  PAYROLL DIR DEP HARBOR POINT HOTEL         967.19
+  04/30  PAYROLL DIR DEP HARBOR POINT HOTEL         967.19
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 05/21/2026 HBCH mailroom  pg 1/1 --

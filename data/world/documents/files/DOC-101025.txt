@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+ 8031 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI CHEN        Emp ID: 88954
+Position: Warehouse associate
+Pay Period: 06/30/2025 - 07/29/2025     Pay Date: 08/03/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,603.65     12,829.20
+GROSS PAY                                  1,603.65     12,829.20
+DEDUCTIONS
+  Federal Income Tax                       144.32
+  Social Security                           99.42
+  Medicare                                  23.25
+      CA SDI                                    17.64
+NET PAY                                  1,319.02
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/19/2025]

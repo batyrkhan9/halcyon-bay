@@ -1,20 +1,22 @@
-ARROYO VERDE NURSERY
-     7145 COMMERCE WAY   CA
+SEASIDE DENTAL GROUP
+1862 HARB0R WAY   CA
                          EARNINGS STATEMENT
-Employee: DONALD KIM        Emp ID: 63949
-   Position: Nursery worker
-Pay Period: 10/05/2025 - 10/19/2025     Pay Date: 10/24/2025
+Employee: NICOLE HAYES        Emp ID: 50152
+Position: Dental assistant
+Pay Period: 06/17/2025 - 07/01/2025     Pay Date: 07/06/2025
 Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.55     53.25         987.79     19,755.80
-GROSS PAY                                    987.79     19,755.80
+Salary                                     1,546.08     20,099.04
+GROSS PAY                                   1,546.08     20,099.04
 DEDUCTIONS
-  Federal Income Tax                        88.90
-    Social Security                           61.24
-   Medicare                                  14.32
-  CA SDI                                    10.86
-NET PAY                                    812.47
-  --------------------------------------------------------------
+  Federal Income Tax                        77.30
+  Social Security                           95.85
+  Medicare                                  22.41
+  CA SDI                                    17.00
+NET PAY                                  1,333.52
+_ _ _ _
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
 
-FAX RECEIVED 11/23/2025 10:21   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2025]

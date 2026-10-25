@@ -1,0 +1,20 @@
+SUNSET COAST HOME CARE
+1234 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONALD SHAH        Emp ID: 86210
+Position: Home care aide
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            100.21     80.00       8,016.80    112,235.20
+GROSS PAY                                  8,016.80    112,235.20
+DEDUCTIONS
+  Federal Income Tax                       561.17
+  Social Security                          497.04
+  Medicare                                 116.24
+      CA SDI                                    88.18
+NET PAY                                  6,754.17
+--------------------------------------------------------------
+
+FAX RECEIVED 07/22/2026 10:56   P.01

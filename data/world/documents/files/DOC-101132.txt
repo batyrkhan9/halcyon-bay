@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+6763 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: DONALD WANG        Emp ID: 59888
+Position: Housekeeper
+Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,966.27     87,257.94
+GRO5S PAY                                  3,966.27     87,257.94
+DEDUCTIONS
+  Federal Income Tax                       436.28
+  Social 5ecurity                          245.90
+  Medicare                                  57.51
+  CA SDI                                    43.62
+NET PAY                                  3,182.96
+    --------------------------------------------------------------
+
+-- scanned 11/19/2025 HBCH mailroom  pg 1/1 --

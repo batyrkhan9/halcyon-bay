@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-    3655 COMMERCE WAY   CA
+PACIFIC RIM JANITORIAL
+6372 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MEGAN YOUNG        Emp ID: 96079
-Position: Guest services
-Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+Employee: KEISHA JACKSON        Emp ID: 69649
+Position: Custodian
+Pay Period: 04/02/2026 - 04/15/2026     Pay Date: 04/20/2026
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-    EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             16.92     61.75       1,044.81     17,761.77
-GROSS PAY                                  1,044.81     17,761.77
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             28.12     80.00       2,249.60     17,996.80
+  GROSS PAY                                  2,249.60     17,996.80
 DEDUCTIONS
-  Federal Income Tax                        62.68
-  Social Security                           64.77
-  Medicare                                  15.15
-  CA SDI                                    11.49
-NET PAY                                     890.72
---------------------------------------------------------------
+  Federal Income Tax                        89.98
+  Social Security                          139.47
+     Medicare                                  32.61
+  CA SDI                                    24.74
+NET PAY                                  1,962.80
+    --------------------------------------------------------------
 
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/22/2026 10:34   P.01

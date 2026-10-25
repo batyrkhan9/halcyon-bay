@@ -1,21 +1,21 @@
-MARISOL CLEANING SERVICES
-1065 HARBOR WAY   CA
+BAYLINE LOGISTICS INC
+1415 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: RAJNI KHALIL        Emp ID: 20497
-Position: Cleaner
-Pay Period: 09/03/2026 - 09/09/2026      Pay Date: 09/14/2026
+Employee: STEVEN MENDOZA        Emp ID: 51554
+Position: Warehouse associate
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             27.25     40.00       1,090.00     40,330.00
-GR0SS PAY                                  1,090.00     40,330.00
-  . : .
-DEDUCTIONS
-     Federal Income Tax                       119.90
-  Social Security                           67.58
-     Medicare                                  15.80
-  CA SDI                                    11.99
-NET PAY                                    874.73
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.18     40.00       2,327.20     62,834.40
+GROSS PAY                                  2,327.20     62,834.40
+   DEDUCTIONS
+  Federal Income Tax                       255.99
+| |   .
+  Socia1 Security                          144.28
+  Medicare                                  33.74
+  CA SDI                                    25.59
+NET PAY                                  1,867.60
 --------------------------------------------------------------
 
-FAX RECEIVED 09/21/2026 10:17   P.01
+FAX RECEIVED 07/14/2026 10:19   P.01

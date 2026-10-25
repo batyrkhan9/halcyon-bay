@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-   (copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  DONALD AGUILAR
- Your social security number: XXX-XX-7093
-Dependents: 1
-Income
- 1a   Total amount from Form(s) W-2, box 1 ...........    83,881.00
- 8    Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    83,881.00
- 10  Adjustments to income ...........................         0.00
-  11  Adjusted gross income ...........................    83,881.00
- 12  Standard deduction ..............................    21,900.00
-_ _ _ _
+SANDPIPER CHILD CARE CENTER
+9112 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: KIM BUI        Emp ID: 39335
+Position: Teacher
+Pay Period: 10/20/2025 - 11/02/2025     Pay Date: 11/07/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     8,306.48    191,049.04
+~ ~ .  ,
+GROSS PAY                                  8,306.48    191,049.04
+DEDUCTIONS
+  Federal Income Tax                       913.71
+   Social Security                          515.00
+   Medicare                                 120.44
+   CA SDI                                    91.37
+NET PAY                                  6,665.96
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Donald Aguilar        Date: 04/04/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/26/2025]

@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+5591 INDUSTRIAL WAY   CA
+                          EARNINGS 5TATEMENT
+Employee: WEI COSTA        Emp ID: 90287
+Position: Dental assistant
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       377.75      6,044.00
+GROSS PAY                                    377.75      6,044.00
+DEDUCTIONS
+   Federal Inc0me Tax                        22.66
+  Social Security                           23.42
+      Medicare                                   5.47
+   CA SDI                                     4.15
+NET PAY                                    322.05
+--------------------------------------------------------------
+
+FAX RECEIVED 09/04/2026 10:58   P.01

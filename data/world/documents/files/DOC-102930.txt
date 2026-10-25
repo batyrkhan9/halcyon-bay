@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+6020 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+  Employee: MEGAN VASQUEZ        Emp ID: 18855
+Position: Warehouse associate
+Pay Period: 08/07/2026 - 08/20/2026     Pay Date: 08/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.54     80.00       1,403.20     23,854.40
+  GROSS PAY                                  1,403.20     23,854.40
+DEDUCTIONS
+  Federal Income Tax                        98.22
+  Social Security                           86.99
+  Medicare                                  20.34
+  CA SD1                                    15.43
+NET PAY                                  1,182.22
+--------------------------------------------------------------
+
+FAX RECEIVED 09/10/2026 10:39   P.01

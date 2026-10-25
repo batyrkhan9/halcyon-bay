@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-3836 INDUSTRIAL WAY   CA
+ SEASIDE DENTAL GROUP
+9358 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ABIGAIL KING        Emp ID: 91305
-Position: Cleaner
-Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
-Pay Frequency: Bi-Weekly
+Employee: SUNITA IVANOVA        Emp ID: 98923
+Position: Dental assistant
+Pay Period: 01/28/2026 - 02/26/2026     Pay Date: 03/03/2026
+  Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             94.29     80.00       7,543.20    105,604.80
-GROSS PAY                                  7,543.20    105,604.80
- DEDUCTIONS
-  Federal Income Tax                       528.02
-   Social Security                          467.67
-  Medicare                                 109.37
-  CA SDI                                    82.97
-NET PAY                                  6,355.17
+Regular             16.50    173.33       2,859.94      8,579.82
+GROSS PAY                                  2,859.94      8,579.82
+DEDUCTIONS
+  Federal Income Tax                       228.79
+  Social Security                          177.31
+  Medicare                                  41.46
+  CA SDI                                    31.45
+NET PAY                                  2,380.93
 --------------------------------------------------------------
 
-RECEIVED JUL 28 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/15/2026]

@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1505 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRANDON CRUZ        Emp ID: 89614
+Position: Technician
+Pay Period: 11/15/2024 - 11/21/2024     Pay Date: 11/26/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       248.98     11,951.04
+GROSS PAY                                    248.98     11,951.04
+DEDUCTIONS
+  Federal Income Tax                        17.42
+  Social Security                           15.43
+     Medicare                                   3.61
+  CA SDI                                     2.73
+NET PAY                                    209.79
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/15/2024]

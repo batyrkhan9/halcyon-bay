@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+7790 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: DENNIS LOPEZ        Emp ID: 11384
+Position: Cashier
+Pay Period: 01/22/2025 - 02/04/2025     Pay Date: 02/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.83     80.00       1,586.40      4,759.20
+GROSS PAY                                  1,586.40      4,759.20
+DEDUCTIONS
+   Federal Income Tax                       126.91
+  Social Security                           98.35
+  Medicare                                  23.00
+  CA SDI                                    17.45
+NET PAY                                  1,320.69
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/16/2025]

@@ -1,20 +1,20 @@
-ARROYO VERDE NURSERY
-3522 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
- Employee: JOSE TRAN        Emp ID: 86555
-Position: Nursery worker
-Pay Period: 07/29/2026 - 08/12/2026     Pay Date: 08/17/2026
+ SUNSET COAST HOME CARE
+175 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: DESTINY PARK        Emp ID: 65232
+Position: Home care aide
+Pay Period: 06/13/2026 - 06/27/2026     Pay Date: 07/02/2026
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,275.54     84,408.64
-   GROSS PAY                                  5,275.54     84,408.64
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.80     49.00         921.20     11,975.60
+GROSS PAY                                     921.20     11,975.60
 DEDUCTIONS
-  Federal Income Tax                       263.77
-  Social Security                          327.08
-  Medicare                                  76.49
-  CA SDI                                    58.03
-NET PAY                                  4,550.17
-    --------------------------------------------------------------
+  Federal Income Tax                       101.33
+  Social Security                           57.11
+  Medicare                                  13.35
+  CA SDI                                    10.13
+NET PAY                                    739.28
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/17/2026]
+-- scanned 07/12/2026 HBCH mailroom  pg 1/1 --

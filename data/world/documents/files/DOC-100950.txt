@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-7321 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+4772 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ABIGAIL CORTEZ        Emp ID: 97148
-  Position: Software engineer
-Pay Period: 01/14/2026 - 01/27/2026     Pay Date: 02/01/2026
+Employee: CARLOS NAVARRO        Emp ID: 31236
+Position: Mechanic
+Pay Period: 08/16/2025 - 08/29/2025     Pay Date: 09/03/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.02     80.00       1,921.60      5,764.80
-GROSS PAY                                  1,921.60      5,764.80
+Salary                                     1,552.50     27,945.00
+  GROSS PAY                                  1,552.50     27,945.00
 DEDUCTIONS
-  Federa1 Income Tax                        96.08
-   Social Security                          119.13
-  Medicare                                  27.86
-     CA SDI                                    21.13
-NET PAY                                  1,657.40
+  Federal Income Tax                        93.15
+   Social Security                           96.25
+  Medicare                                  22.51
+  CA SDI                                    17.07
+NET PAY                                  1,323.52
 --------------------------------------------------------------
 
-RECEIVED FEB 13 2026  - mailroom
+FAX RECEIVED 10/05/2025 10:30   P.01

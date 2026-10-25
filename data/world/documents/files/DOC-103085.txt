@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+2161 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HECTOR IBARRA        Emp ID: 25319
+Position: Warehouse associate
+Pay Period: 08/06/2026 - 09/04/2026     Pay Date: 09/09/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+   Regular             16.53     24.75         409.12      3,682.08
+GROSS PAY                                    409.12      3,682.08
+DEDUCTIONS
+   Federal Income Tax                        32.72
+  Social Security                           25.36
+  Medicare                                   5.93
+  CA SDI                                     4.50
+NET PAY                                    340.61
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/20/2026]

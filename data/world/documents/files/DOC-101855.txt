@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-   4721 HARBOR WAY   CA
+VISTA SERENA MEDICAL OFFICES
+7941 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL WATANABE        Emp ID: 32807
-   Position: Home care aide
- Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
- Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+Empl0yee: JESSICA BRYANT        Emp ID: 72554
+Position: Medical receptionist
+ Pay Period: 04/10/2026 - 04/24/2026     Pay Date: 04/29/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.52     28.25         466.69      7,467.04
-GROSS PAY                                    466.69      7,467.04
+Regular             17.01     52.75         897.28      7,178.24
+GROSS PAY                                    897.28      7,178.24
 DEDUCTIONS
-  Federal Income Tax                        46.66
-  Social Security                           28.93
-  Medicare                                   6.76
-  CA 5DI                                     5.13
-  NET PAY                                    379.21
+  Federal Income Tax                        98.70
+   Social Security                           55.63
+      Medicare                                  13.01
+      CA SDI                                     9.87
+NET PAY                                    720.07
 --------------------------------------------------------------
 
--- scanned 09/07/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAY 29 2026  - mailroom

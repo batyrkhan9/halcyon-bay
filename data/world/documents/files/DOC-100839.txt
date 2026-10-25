@@ -1,20 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-1740 MARKET WAY   CA
+ELLERY HARDWARE SUPPLY
+2964 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: SUNITA SOUZA        Emp ID: 30396
-Position: Library assistant
-Pay Period: 11/14/2025 - 11/28/2025     Pay Date: 12/03/2025
-Pay Frequency: Semi-Monthly
+Employee: HIROSHI WU        Emp ID: 33786
+Position: Sales associate
+Pay Period: 08/07/2025 - 08/20/2025     Pay Date: 08/25/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       959.30     22,063.90
-GROSS PAY                                    959.30     22,063.90
+EARNING5             RATE      HOURS     THIS PERIOD        YTD
+Regular             26.75     80.00       2,140.00     36,380.00
+GROSS PAY                                  2,140.00     36,380.00
 DEDUCTIONS
-  Federal Income Tax                        57.55
-   Social Security                           59.47
-   Medicare                                  13.91
-  CA SDI                                    10.55
-NET PAY                                    817.82
+  Federal Income Tax                       214.00
+      Social Security                          132.68
+  Medicare                                  31.03
+  CA SDI                                    23.54
+NET PAY                                  1,738.75
 --------------------------------------------------------------
 
-RECEIVED DEC 27 2025  - mailroom
+FAX RECEIVED 08/28/2025 10:44   P.01

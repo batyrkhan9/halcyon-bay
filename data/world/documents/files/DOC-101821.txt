@@ -1,10 +1,20 @@
-COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-NOTICE OF ACTION
-    Medi-Cal Approval
-Date: 08/09/2026
-    Beneficiary: AIKO BANKS
+VISTA SERENA MEDICAL OFFICES
+5907 1NDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUCIA CONTRERAS        Emp ID: 70952
+Position: Medical receptionist
+Pay Period: 03/05/2026 - 04/03/2026     Pay Date: 04/08/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             19.41    173.33       3,364.34     13,457.36
+GROSS PAY                                  3,364.34     13,457.36
+DEDUCTI0NS
+  Federal Income Tax                       168.21
+  Social Security                          208.58
+  Medicare                                  48.78
+  CA SDI                                    37.00
+NET PAY                                  2,901.77
+--------------------------------------------------------------
 
-You are approved for full scope Medi-Cal with no share of cost beginning 08/01/2026.
-Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
-
-FAX RECEIVED 09/05/2026 10:54   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/15/2026]

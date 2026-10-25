@@ -1,0 +1,20 @@
+ POINT CORRIN BOATWORKS
+4925 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: ARACELI RUIZ         Emp ID: 29059
+Position: Mechanic
+Pay Period: 03/28/2025 - 04/26/2025     Pay Date: 05/01/2025
+     Pay Frequency: Monthly
+    --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       767.53      3,837.65
+GROSS PAY                                    767.53      3,837.65
+DEDUCTIONS
+     Federal Income Tax                        76.75
+  Social Security                           47.58
+  Medicare                                  11.12
+  CA SDI                                     8.44
+NET PAY                                    623.64
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/18/2025]

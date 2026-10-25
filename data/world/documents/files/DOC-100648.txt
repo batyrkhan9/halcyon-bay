@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-5505 MARKET WAY   CA
+MIRADOR GROCERY CO-OP
+    3578 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ARTURO CASTILLO         Emp ID: 97699
-  Position: Driver
-Pay Period: 09/02/2025 - 09/15/2025     Pay Date: 09/20/2025
-   Pay Frequency: Bi-Weekly
+Employee: BRANDON ALLEN        Emp ID: 76995
+ Position: Cashier
+Pay Period: 05/16/2025 - 05/30/2025     Pay Date: 06/04/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             31.85     80.00       2,548.00     48,412.00
-GROSS PAY                                  2,548.00     48,412.00
-    DEDUCTIONS
-  Federal Income Tax                       101.92
-  Social Security                          157.97
-  Medicare                                  36.94
-  CA SDI                                    28.02
-   NET PAY                                  2,223.15
+Regular             17.70     36.50         646.05      7,106.55
+GROSS PAY                                    646.05      7,106.55
+DEDUCTIONS
+  Federal Income Tax                        32.30
+  Social Security                           40.05
+  Medicare                                   9.36
+  CA SDI                                     7.10
+   NET PAY                                    557.24
 --------------------------------------------------------------
 
-FAX RECEIVED 09/26/2025 10:50   P.01
+-- scanned 07/05/2025 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-6342 COMMERCE WAY   CA
+SUNSET COAST HOME CARE
+1951 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: GRACE KOWALSKI        Emp ID: 69885
-Position: Custodian
-     Pay Period: 07/08/2026 - 07/14/2026     Pay Date: 07/19/2026
-Pay Frequency: Weekly
+Employee: DANIELA GARCIA        Emp ID: 98078
+Position: Home care aide
+Pay Period: 02/14/2026 - 02/27/2026     Pay Date: 03/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             16.92      8.00         135.36      3,925.44
-GROSS PAY                                    135.36      3,925.44
-DEDUCTIONS
-  Federal Income Tax                         6.76
-     Social Security                            8.39
-   Medicare                                   1.96
-  CA SDI                                     1.48
-NET PAY                                    116.77
+Salary                                     3,652.52     18,262.60
+GROSS PAY                                  3,652.52     18,262.60
+    DEDUCT1ONS
+  Federal Income Tax                       365.25
+  Social Security                          226.45
+  Medicare                                  52.96
+  CA SDI                                    40.17
+   NET PAY                                  2,967.69
 --------------------------------------------------------------
 
--- scanned 08/01/2026 HBCH mailroom  pg 1/1 --
+-- scanned 03/28/2026 HBCH mailroom  pg 1/1 --

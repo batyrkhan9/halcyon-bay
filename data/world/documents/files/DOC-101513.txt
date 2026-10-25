@@ -1,21 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-1786 INDUSTRIAL WAY   CA
+VISTA SERENA MEDICAL OFFICES
+4062 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: YUSUF LIN        Emp ID: 98161
-Position: Caregiver
-Pay Period: 07/03/2026 - 07/09/2026     Pay Date: 07/14/2026
-Pay Frequency: Weekly
+Employee: MANUEL ZHOU        Emp ID: 74667
+Position: Medical receptionist
+Pay Period: 02/13/2026 - 02/26/2026     Pay Date: 03/03/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                     1,953.76     54,705.28
-   GROSS PAY                                  1,953.76     54,705.28
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,517.85      7,589.25
+  GROSS PAY                                  1,517.85      7,589.25
 DEDUCTIONS
-   Federal Income Tax                        97.68
-  Social 5ecurity                          121.13
-    Medicare                                  28.33
-  CA SDI                                    21.49
-NET PAY                                  1,685.13
-| |   .
+  Federal Income Tax                        91.07
+  Social Security                           94.10
+    Medicare                                  22.00
+  CA SD1                                    16.69
+NET PAY                                  1,293.99
 --------------------------------------------------------------
 
-FAX RECEIVED 07/29/2026 10:47   P.01
+RECEIVED MAR 18 2026  - mailroom

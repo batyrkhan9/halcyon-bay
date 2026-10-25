@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+_ _ _ _
+9642 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: MADISON RAHMAN        Emp ID: 57931
+Position: Technician
+Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,314.51    101,032.16
+GROSS PAY                                  6,314.51    101,032.16
+DEDUCTIONS
+  Federal Income Tax                       315.72
+  Social Security                          391.50
+  Medicare                                  91.56
+  CA SDI                                    69.46
+NET PAY                                  5,446.27
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/27/2026]

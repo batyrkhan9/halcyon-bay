@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+8334 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SOFIA WALSH        Emp ID: 29024
+Position: Line cook
+Pay Period: 07/26/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              54.07     40.00       2,162.80     69,209.60
+  GROSS PAY                                  2,162.80     69,209.60
+DEDUCTIONS
+  Federal Income Tax                       216.28
+  Social Security                          134.09
+  Medicare                                  31.36
+    CA SDI                                    23.79
+     NET PAY                                  1,757.28
+ --------------------------------------------------------------
+
+FAX RECEIVED 08/10/2026 10:43   P.01

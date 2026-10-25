@@ -1,0 +1,22 @@
+PORT ELLERY CANNERY CO
+8159 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE DAVIS        Emp ID: 59446
+Position: Line worker
+~ ~ .  ,
+  Pay Period: 06/10/2025 - 06/16/2025     Pay Date: 06/21/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.65     40.00         946.00     23,650.00
+GROSS PAY                                    946.00     23,650.00
+DEDUCTIONS
+  Federal Income Tax                        37.84
+  Social Security                           58.65
+  Medicare                                  13.71
+  CA SD1                                    10.40
+NET PAY                                    825.40
+--------------------------------------------------------------
+  includes overtime 3.00 hrs
+
+RECEIVED JUL 15 2025  - mailroom

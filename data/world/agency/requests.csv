@@ -1,1 +1,27 @@
 recorded_on,request_id,agency_ref,client_account,requested_action,requested_date,agency_note
+2026-07-04,GCR-R-40010,GCR-612723,HB25116260,CREDIT_REPORT,07/04/2026,"Debtor unresponsive to 3 letters. Requesting approval to report to Equifax, Experian and TransUnion."
+2026-07-07,GCR-R-40020,GCR-612016,HB25110139,CREDIT_REPORT,07/07/2026,Req auth to furnish acct to credit bureaus (Metro 2) - no payment arrangement.
+2026-07-11,GCR-R-40028,GCR-613101,25111019,CREDIT_REPORT,07/11/2026,No contact 120+ days. Request credit bureau reporting per client agreement.
+2026-07-18,GCR-R-40032,GCR-610706,HB25100172,CREDIT_REPORT,07/18/2026,No contact 120+ days. Request credit bureau reporting per client agreement.
+2026-07-22,GCR-R-40036,GCR-613878,26104242,LAWSUIT,07/22/2026,Balance over suit threshold. Req permission to litigate.
+2026-07-22,GCR-R-40042,GCR-613892,HB26104051,LAWSUIT,07/22/2026,Skip trace shows employment. Requesting authorization to file suit in Santa Lucita County Superior Court.
+2026-07-23,GCR-R-40053,GCR-613831,HB25121384,LAWSUIT,07/23/2026,Skip trace shows employment. Requesting authorization to file suit in Santa Lucita County Superior Court.
+2026-07-28,GCR-R-40063,GCR-612793,25117025,CREDIT_REPORT,07/28/2026,No contact 120+ days. Request credit bureau reporting per client agreement.
+2026-07-29,GCR-R-40071,GCR-613521,HB25110400,LAWSUIT,07/29/2026,Balance over suit threshold. Req permission to litigate.
+2026-08-01,GCR-R-40082,GCR-613441,25121141,SELL_DEBT,08/01/2026,Include in Q3 debt sale? Please authorize.
+2026-08-04,GCR-R-40087,GCR-613479,HB26100262,LAWSUIT,08/04/2026,Debtor refuses to pay. Request approval for legal action.
+2026-08-07,GCR-R-40091,GCR-613264,HB25118590,LIEN,08/07/2026,Debtor owns property per county records. Request approval to record a judgment lien.
+2026-08-10,GCR-R-40096,GCR-613932,HB26106192,SELL_DEBT,08/10/2026,Include in Q3 debt sale? Please authorize.
+2026-08-11,GCR-R-40100,GCR-613911,HB26107553,LAWSUIT,08/11/2026,Debtor refuses to pay. Request approval for legal action.
+2026-08-12,GCR-R-40110,GCR-612912,HB25117902,CREDIT_REPORT,08/12/2026,Please authorize credit reporting on this account.
+2026-08-12,GCR-R-40112,GCR-613273,HB25120245,SELL_DEBT,08/12/2026,Account eligible for portfolio sale. Requesting approval to sell to debt buyer.
+2026-08-15,GCR-R-40123,GCR-612987,HB25117851,CREDIT_REPORT,08/15/2026,"Debtor unresponsive to 3 letters. Requesting approval to report to Equifax, Experian and TransUnion."
+2026-08-18,GCR-R-40130,GCR-613856,HB26100442,LIEN,08/18/2026,Debtor owns property per county records. Request approval to record a judgment lien.
+2026-08-19,GCR-R-40134,GCR-612851,HB25117090,SELL_DEBT,08/19/2026,Req approval to sell account (aged inventory).
+2026-08-20,GCR-R-40136,GCR-611041,HB25101462,CREDIT_REPORT,08/20/2026,No contact 120+ days. Request credit bureau reporting per client agreement.
+2026-08-23,GCR-R-40146,GCR-613313,HB25120292,LAWSUIT,08/23/2026,Debtor refuses to pay. Request approval for legal action.
+2026-08-31,GCR-R-40152,GCR-610373,HB24310137,CREDIT_REPORT,08/31/2026,Please authorize credit reporting on this account.
+2026-09-04,GCR-R-40158,GCR-611215,HB25104715,CREDIT_REPORT,09/04/2026,Req auth to furnish acct to credit bureaus (Metro 2) - no payment arrangement.
+2026-09-12,GCR-R-40166,GCR-610977,HB25102652,CREDIT_REPORT,09/12/2026,Req auth to furnish acct to credit bureaus (Metro 2) - no payment arrangement.
+2026-09-12,GCR-R-40170,GCR-613164,HB25119411,LAWSUIT,09/12/2026,Balance over suit threshold. Req permission to litigate.
+2026-09-15,GCR-R-40175,GCR-612735,HB25114909,SELL_DEBT,09/15/2026,Include in Q3 debt sale? Please authorize.

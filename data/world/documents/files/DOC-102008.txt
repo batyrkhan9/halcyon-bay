@@ -1,20 +1,21 @@
-   ARROYO VERDE NURSERY
-4038 INDUSTRIAL WAY   CA
+MIRADOR GROCERY CO-OP
+~ ~ .  ,
+ 8464 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSE TRAN        Emp ID: 86555
-Position: Nursery w0rker
-Pay Period: 08/13/2026 - 08/27/2026     Pay Date: 09/01/2026
-Pay Frequency: Semi-Monthly
+Employee: KIM RAHMAN        Emp ID: 36588
+    Position: Cashier
+Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
+Pay Frequency: Bi-Week1y
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,275.54     89,684.18
-  GROSS PAY                                  5,275.54     89,684.18
-    DEDUCTIONS
-  Federal Income Tax                       474.79
-  Social Security                          327.08
-  Medicare                                  76.49
-   CA SDI                                    58.03
-NET PAY                                  4,339.15
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     9,791.23    107,703.53
+    GROSS PAY                                  9,791.23    107,703.53
+DEDUCTIONS
+  Federal Income Tax                     1,077.03
+  Social Security                          607.05
+  Medicare                                 141.97
+  CA SDI                                   107.70
+NET PAY                                  7,857.48
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/17/2026]
+RECEIVED JUL 10 2026  - mailroom

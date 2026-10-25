@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-8015 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: KEONI PARK        Emp ID: 82767
-Position: Cleaner
-Pay Period: 08/11/2026 - 08/24/2026     Pay Date: 08/29/2026
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
+HARBOR POINT HOTEL
+4881 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: MARISOL SUZUKI        Emp ID: 40952
+Position: Housekeeper
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.28     57.75         997.92     17,962.56
-GROSS PAY                                    997.92     17,962.56
-DEDUCTIONS
-  Federal Income Tax                        49.89
-  Social Security                           61.87
-   Medicare                                  14.47
-  CA SDI                                    10.97
-NET PAY                                    860.72
+Regular             18.29     54.75       1,001.38     13,017.94
+GROSS PAY                                  1,001.38     13,017.94
+    DEDUCTIONS
+  Federal Income Tax                        90.12
+     Social 5ecurity                           62.08
+  Medicare                                  14.52
+  CA SDI                                    11.01
+NET PAY                                     823.65
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]

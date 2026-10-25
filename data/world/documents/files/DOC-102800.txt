@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1606 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI WALKER        Emp ID: 61082
+Position: Technician
+Pay Period: 08/06/2026 - 08/12/2026     Pay Date: 08/17/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,947.87     97,279.71
+GROSS PAY                                  2,947.87     97,279.71
+DEDUCTIONS
+      Federal Income Tax                       176.87
+  Social Security                          182.76
+  Medicare                                  42.74
+  CA SDI                                    32.42
+NET PAY                                  2,513.08
+--------------------------------------------------------------
+
+FAX RECEIVED 09/04/2026 10:49   P.01

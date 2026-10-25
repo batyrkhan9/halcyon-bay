@@ -1,21 +1,20 @@
-OTTER BAY AQUARIUM
-3650 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Emp1oyee: PAOLA O'BRIEN-IVANOVA        Emp ID: 83205
-Position: Guest services
-| |   .
-Pay Period: 07/04/2026 - 07/17/2026     Pay Date: 07/22/2026
+BLUE KELP SOFTWARE LLC
+7980 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: GREGORY RAO        Emp ID: 23295
+Position: Software engineer
+Pay Period: 03/14/2026 - 03/27/2026     Pay Date: 04/01/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.86     14.00         264.04      3,960.60
-GROSS PAY                                    264.04      3,960.60
-DEDUCTIONS
-  Federal Income Tax                        18.48
-  Social Security                           16.37
-  Medicare                                   3.82
-  CA SDI                                     2.90
-NET PAY                                    222.47
-   --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     30.00         552.30      3,866.10
+GROSS PAY                                    552.30      3,866.10
+ DEDUCTIONS
+  Federal Income Tax                        49.70
+  Social Security                           34.24
+    Medicare                                   8.00
+  CA SDI                                     6.07
+NET PAY                                    454.29
+--------------------------------------------------------------
 
--- scanned 08/15/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 04/26/2026 10:45   P.01

@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+   9460 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARMEN BRYANT        Emp ID: 51065
+Position: Mechanic
+Pay Period: 07/03/2026 - 07/16/2026     Pay Date: 07/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,091.60     31,374.00
+| |   .
+GROSS PAY                                  2,091.60     31,374.00
+DEDUCTIONS
+  Federal Income Tax                       188.24
+      Social Security                          129.67
+  Medicare                                  30.32
+  CA SDI                                    23.00
+NET PAY                                  1,720.37
+--------------------------------------------------------------
+
+FAX RECEIVED 08/01/2026 10:58   P.01

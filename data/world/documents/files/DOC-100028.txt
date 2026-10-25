@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-  5195 COMMERCE WAY   CA
+CYPRESS FLATS AUTO BODY
+    8298 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KYLE BROWN        Emp ID: 51117
-Position: Driver
-Pay Period: 12/12/2024 - 12/18/2024     Pay Date: 12/23/2024
-    Pay Frequency: Weekly
+Employee: BRANDON CRUZ        Emp ID: 89614
+Position: Technician
+Pay Period: 11/22/2024 - 11/28/2024      Pay Date: 12/03/2024
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             99.95     40.00       3,998.00    207,896.00
-   GROSS PAY                                  3,998.00    207,896.00
-DEDUCTIONS
-  Federal Income Tax                       399.80
-  Social Security                          247.87
-  Medicare                                  57.97
-     CA SDI                                    43.97
-NET PAY                                  3,248.39
+Salary                                       248.98     12,200.02
+GROSS PAY                                    248.98     12,200.02
+  DEDUCTIONS
+  Federal Income Tax                        17.42
+     Social Security                           15.43
+  Medicare                                   3.61
+  CA SDI                                     2.73
+ NET PAY                                    209.79
 --------------------------------------------------------------
 
-FAX RECEIVED 01/04/2025 10:32   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/15/2024]

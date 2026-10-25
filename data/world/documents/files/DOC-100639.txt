@@ -1,21 +1,20 @@
-SEASIDE DENTAL GROUP
-4798 MARKET WAY   CA
+SUNSET COAST HOME CARE
+   1474 HARBOR WAY   CA
                          EARNINGS STATEMENT
-  . : .
-Employee: LINDA IVANOVA        Emp ID: 81489
-Position: Dental assistant
-Pay Period: 08/04/2025 - 08/17/2025     Pay Date: 08/22/2025
+Employee: YESENIA LEE         Emp ID: 84328
+Position: Home care aide
+Pay Period: 05/01/2025 - 05/14/2025      Pay Date: 05/19/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             59.70     80.00       4,776.00     81,192.00
-GROSS PAY                                  4,776.00     81,192.00
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,807.42     28,074.20
+ GROSS PAY                                  2,807.42     28,074.20
 DEDUCTIONS
-  Federal Income Tax                       191.04
-  Social Security                          296.11
-  Medicare                                  69.25
-  CA SDI                                    52.53
-NET PAY                                  4,167.07
---------------------------------------------------------------
+  Federal Income Tax                       112.29
+  Social Security                          174.06
+  Medicare                                  40.70
+  CA SD1                                    30.88
+  NET PAY                                  2,449.49
+    --------------------------------------------------------------
 
-RECEIVED SEP 23 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/28/2025]

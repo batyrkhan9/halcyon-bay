@@ -1,0 +1,20 @@
+GOLDEN H0UR SENIOR LIVING
+5944 HARBOR WAY   CA
+                         EARN1NGS STATEMENT
+Employee: MARIA ALVAREZ        Emp ID: 69273
+Position: Caregiver
+Pay Period: 06/12/2026 - 07/11/2026     Pay Date: 07/16/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,031.44      7,220.08
+GROSS PAY                                  1,031.44      7,220.08
+  DEDUCTIONS
+  Federal Income Tax                        51.57
+   Social Security                           63.94
+  Medicare                                  14.95
+  CA SDI                                    11.34
+NET PAY                                    889.64
+--------------------------------------------------------------
+
+-- scanned 08/23/2026 HBCH mailroom  pg 1/1 --

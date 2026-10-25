@@ -1,21 +1,20 @@
-   COASTAL VALLEY ENERGY
-4156 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-Employee: GUADALUPE XU        Emp ID: 60887
-Position: Field technician
-Pay Period: 04/14/2026 - 04/20/2026      Pay Date: 04/25/2026
-_ _ _ _
-Pay Frequency: Weekly
-    --------------------------------------------------------------
- EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regu1ar             16.91     40.00         676.40     11,498.80
-GROSS PAY                                    676.40     11,498.80
-DEDUCTION5
-  Federal Inc0me Tax                        67.64
-   Social Security                           41.93
-  Medicare                                   9.80
-  CA SDI                                     7.44
-NET PAY                                    549.59
+HARBOR POINT HOTEL
+5188 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA ADAMS        Emp ID: 48883
+Position: Housekeeper
+Pay Period: 10/23/2025 - 11/05/2025     Pay Date: 11/10/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+    Salary                                       947.30     21,787.90
+GROSS PAY                                    947.30     21,787.90
+DEDUCTIONS
+   Federal Income Tax                       104.20
+      Social Security                           58.73
+  Medicare                                  13.73
+  CA SDI                                    10.42
+NET PAY                                    760.22
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/13/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/01/2025]

@@ -1,20 +1,20 @@
-    PACIFIC RIM JANITORIAL
-3389 HARBOR WAY   CA
+MARISOL CLEANING SERVICES
+ 7915 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: KENJI MURPHY        Emp ID: 76768
-    Position: Custodian
-Pay Period: 08/23/2026 - 09/05/2026     Pay Date: 09/10/2026
+Employee: SUNITA LE        Emp ID: 17157
+Position: Cleaner
+Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.42     80.00       3,713.60     70,558.40
- GROSS PAY                                  3,713.60     70,558.40
-DEDUCTIONS
-  Federal Income Tax                       334.22
-  Social Security                          230.24
-  Medicare                                  53.84
-   CA SDI                                    40.85
-NET PAY                                  3,054.45
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.35     46.75         857.86     12,010.04
+GROSS PAY                                    857.86     12,010.04
+    DEDUCTIONS
+  Federal Income Tax                        68.62
+  Social Security                           53.18
+    Medicare                                  12.43
+  CA SDI                                     9.43
+NET PAY                                    714.20
 --------------------------------------------------------------
 
--- scanned 09/25/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]

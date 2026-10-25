@@ -1,20 +1,21 @@
-    SEASIDE DENTAL GROUP
-6089 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
- Employee: ANDRE FITZGERALD-ESPINOZA        Emp ID: 28700
-Position: Dental assistant
-Pay Period: 03/14/2025 - 03/27/2025     Pay Date: 04/01/2025
+   OTTER BAY AQUARIUM
+  6141 MARKET WAY   CA
+                             EARNINGS STATEMENT
+   Employee: TYLER VO        Emp ID: 74804
+   Position: Guest services
+Pay Period: 12/22/2024 - 01/04/2025     Pay Date: 01/09/2025
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             21.33     80.00       1,706.40     11,944.80
-GROSS PAY                                  1,706.40     11,944.80
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,151.71      2,151.71
+GROSS PAY                                  2,151.71      2,151.71
 DEDUCTIONS
-  Federal Income Tax                       119.44
-  Social Security                          105.79
-  Medicare                                  24.74
-  CA SDI                                    18.77
-NET PAY                                  1,437.66
+  Federal Income Tax                       150.61
+  Social Security                          133.40
+  Medicare                                  31.20
+| |   .
+  CA SDI                                    23.66
+NET PAY                                  1,812.84
 --------------------------------------------------------------
 
-FAX RECEIVED 04/06/2025 10:26   P.01
+FAX RECEIVED 01/30/2025 10:16   P.01

@@ -1,17 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2026 - 02/07/2026
-Member: DEEPA ANDERSON       Account ending 8662
+  HARBOR POINT HOTEL
+9791 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN NAVARRO        Emp ID: 28844
+Position: Housekeeper
+Pay Period: 08/31/2025 - 09/13/2025      Pay Date: 09/18/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     4,499.89     85,497.91
+GROSS PAY                                  4,499.89     85,497.91
+DEDUCTIONS
+  Federal Income Tax                       494.98
+  Social Security                          278.99
+  Medicare                                  65.24
+  CA SDI                                    49.49
+NET PAY                                  3,611.19
+| |   .
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              347.04
-_ _ _ _
-  Deposits                       573.41
-  Withdrawals                   -596.34
-     Ending balance                 324.11
-
-DEPOSITS AND CREDITS
-   02/07  PAYROLL DIR DEP POINT CORRIN BOATW         573.41
-
-   Thank you for banking with us.  Page 1 of 2
-
-RECEIVED FEB 20 2026  - mailroom
+FAX RECEIVED 10/06/2025 10:17   P.01

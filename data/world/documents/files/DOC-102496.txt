@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+9825 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN QUINN        Emp ID: 78021
+Position: Line worker
+ Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,516.87     21,236.18
+   GROSS PAY                                  1,516.87     21,236.18
+DEDUCTIONS
+  Federal Income Tax                       136.51
+  Social Security                           94.04
+  Medicare                                  21.99
+  CA SDI                                    16.68
+NET PAY                                  1,247.65
+--------------------------------------------------------------
+
+FAX RECEIVED 08/07/2026 10:46   P.01

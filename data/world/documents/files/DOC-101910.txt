@@ -1,21 +1,21 @@
-ELLERY HARDWARE SUPPLY
-7530 HARBOR WAY   CA
+  M1RADOR GROCERY CO-OP
+5535 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-    Employee: ALYSSA MEDINA-SULLIVAN        Emp ID: 23004
-Position: Sales associate
-Pay Period: 08/19/2026 - 09/01/2026     Pay Date: 09/06/2026
-| |   .
+Empl0yee: TYLER BANKS        Emp ID: 47557
+Position: Cashier
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.05     80.00       2,164.00     38,952.00
-GROSS PAY                                  2,164.00     38,952.00
+Salary                                     1,326.72     17,247.36
+GROSS PAY                                  1,326.72     17,247.36
 DEDUCTIONS
-  Federal Income Tax                       129.84
-  Social Security                          134.16
-  Medicare                                  31.37
-  CA SDI                                    23.80
-NET PAY                                  1,844.83
+  Federal Income Tax                        66.33
+  Social Security                           82.25
+  . : .
+  Medicare                                  19.23
+  CA SDI                                    14.59
+   NET PAY                                  1,144.32
 --------------------------------------------------------------
 
-FAX RECEIVED 09/11/2026 10:43   P.01
+FAX RECEIVED 07/04/2026 10:33   P.01

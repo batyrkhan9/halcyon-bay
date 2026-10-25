@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+8972 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM BRYANT        Emp ID: 97989
+Position: Cashier
+Pay Period: 08/26/2026 - 09/01/2026      Pay Date: 09/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.76     40.00       1,950.40     70,214.40
+GROSS PAY                                  1,950.40     70,214.40
+DEDUCTIONS
+  Federal Income Tax                       175.53
+  Social Security                          120.92
+  Medicare                                  28.28
+  CA SDI                                    21.45
+NET PAY                                  1,604.22
+--------------------------------------------------------------
+
+RECEIVED SEP 20 2026  - mailroom

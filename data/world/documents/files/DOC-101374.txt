@@ -1,20 +1,21 @@
-HARBOR POINT HOTEL
-1965 HARBOR WAY   CA
+ELLERY HARDWARE SUPPLY
+2145 MARKET WAY    CA
                          EARNINGS STATEMENT
-Employee: NICOLE SMITH        Emp ID: 26361
-Position: Housekeeper
-Pay Period: 06/20/2026 - 06/26/2026     Pay Date: 07/01/2026
-Pay Frequency: Weekly
+Employee: IMANI ZAMORA        Emp ID: 10504
+Position: Sales associate
+  Pay Period: 12/24/2025 - 01/06/2026     Pay Date: 01/11/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       688.81     17,909.06
-GROSS PAY                                    688.81     17,909.06
-DEDUCTIONS
-      Federal Income Tax                        61.99
-  Social Security                           42.70
-      Medicare                                   9.98
-  CA SDI                                     7.57
-NET PAY                                    566.57
+Regular             17.89     80.00       1,431.20      1,431.20
+GROSS PAY                                  1,431.20      1,431.20
+    DEDUCTIONS
+   Federal Income Tax                       114.49
+  Social Security                           88.73
+  Medicare                                  20.75
+  CA SDI                                    15.74
+NET PAY                                  1,191.49
 --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
-FAX RECEIVED 07/17/2026 10:30   P.01
+RECEIVED FEB 01 2026  - mailroom

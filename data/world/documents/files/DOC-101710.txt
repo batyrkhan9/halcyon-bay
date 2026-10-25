@@ -1,21 +1,20 @@
-   MIRADOR GROCERY CO-OP
-4843 MARKET WAY   CA
-                             EARNINGS STATEMENT
-Employee: KEONI BELL        Emp ID: 87707
-Position: Cashier
-Pay Period: 07/13/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
+HARBOR POINT HOTEL
+8500 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDREW HAYES        Emp ID: 50556
+Position: Housekeeper
+Pay Period: 04/02/2026 - 05/01/2026     Pay Date: 05/06/2026
+Pay Frequency: Monthly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             41.50     86.67       3,596.80     53,952.00
-GROSS PAY                                  3,596.80     53,952.00
-DEDUCTIONS
-  Federal Income Tax                       215.80
-  Social Security                          223.00
-    Medicare                                  52.15
-  CA SDI                                    39.56
-~ ~ .  ,
-NET PAY                                  3,066.29
+Salary                                    16,487.94     82,439.70
+GROSS PAY                                 16,487.94     82,439.70
+ DEDUCTIONS
+  Federal Income Tax                     1,154.15
+   Socia1 Security                        1,022.25
+  Medicare                                 239.07
+   CA SDI                                   181.36
+NET PAY                                 13,891.11
 --------------------------------------------------------------
 
--- scanned 08/18/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAY 12 2026  - mailroom

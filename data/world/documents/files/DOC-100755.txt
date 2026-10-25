@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-_ _ _ _
-7343 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: LOGAN ALLEN        Emp ID: 68718
- Position: Teacher
-Pay Period: 10/28/2025 - 11/10/2025     Pay Date: 11/15/2025
+MIRADOR GROCERY CO-OP
+  424 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: JESSICA HADDAD         Emp ID: 61026
+Position: Cashier
+ Pay Period: 07/10/2025 - 07/23/2025     Pay Date: 07/28/2025
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.15     80.00       1,852.00     42,596.00
- GROSS PAY                                  1,852.00     42,596.00
+Salary                                     6,048.32     90,724.80
+GROSS PAY                                  6,048.32     90,724.80
 DEDUCTIONS
-     Federal Income Tax                        74.08
-  Social Security                          114.82
-     Medicare                                  26.85
-  CA SDI                                    20.37
-NET PAY                                  1,615.88
+  Federal Income Tax                       483.86
+     Social Security                          374.99
+  Medicare                                  87.70
+  CA 5DI                                    66.53
+NET PAY                                  5,035.24
 --------------------------------------------------------------
 
--- scanned 11/21/2025 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 05 2025  - mailroom

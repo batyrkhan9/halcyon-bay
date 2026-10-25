@@ -1,21 +1,21 @@
- MIRADOR PUBLIC LIBRARY
-3155 HARBOR WAY    CA
-                         EARNINGS STATEMENT
-Employee: SOFIA TUIASOSOPO        Emp ID: 31784
-Position: Library assistant
-Pay Period: 09/25/2025 - 10/08/2025     Pay Date: 10/13/2025
-    Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             41.10     80.00       3,288.00     69,048.00
-GROSS PAY                                  3,288.00     69,048.00
-    DEDUCT1ONS
-~ ~ .  ,
-     Federal Income Tax                       164.40
-  Social Security                          203.85
-  Medicare                                  47.67
-  CA SDI                                    36.16
-NET PAY                                  2,835.92
+SANTA LUCITA FARMS
+   2190 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: SANJAY CHAVEZ        Emp ID: 99328
+Position: Field supervisor
+    Pay Period: 06/15/2025 - 06/28/2025     Pay Date: 07/03/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             17.37     34.00         590.58      8,268.12
+GROSS PAY                                    590.58      8,268.12
+DEDUCTIONS
+  Federal 1ncome Tax                        29.52
+  Social Security                           36.61
+  Medicare                                   8.56
+  CA SDI                                     6.49
+NET PAY                                    509.40
+  . : .
 --------------------------------------------------------------
 
-RECEIVED NOV 11 2025  - mailroom
+RECEIVED AUG 01 2025  - mailroom

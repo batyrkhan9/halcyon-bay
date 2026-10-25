@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+    9298 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GREGORY PARK         Emp ID: 72861
+Position: Laborer
+Pay Peri0d: 03/21/2026 - 04/03/2026     Pay Date: 04/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,058.06      7,406.42
+GROSS PAY                                  1,058.06      7,406.42
+   DEDUCTIONS
+   Federal Income Tax                        95.22
+  Social Security                           65.60
+   Medicare                                  15.34
+  CA SDI                                    11.63
+NET PAY                                    870.27
+--------------------------------------------------------------
+
+RECEIVED APR 13 2026  - mailroom

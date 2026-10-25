@@ -1,17 +1,19 @@
- SEASIDE DENTAL GROUP
-4005 HARBOR 5T
-
-September 04, 2025
-
-To Whom It May Concern:
-
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  MICHAEL SINGH
+Your social security number: XXX-XX-9800
+    Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........     9,983.00
+ 8    Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................     9,983.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................     9,983.00
 _ _ _ _
-This letter confirms that David Coleman has been employed with Seaside Dental Group since
-June 2020 in the position of Dental assistant. Their rate of pay is $22.53 per hour, for a regular schedule of 40 hours per week.
-Employment is ongoing. Please contact our office with any questions.
+ 12  Standard deduction ..............................    21,900.00
 
-Sincerely,
-Caleb Scott
-Human Resources
+ Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Michael 5ingh        Date: 04/04/2025
 
--- scanned 09/18/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/22/2025]

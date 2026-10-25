@@ -1,20 +1,21 @@
-SUNSET COAST HOME CARE
-7004 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-    Employee: ISABEL RAO        Emp ID: 45990
-Position: Home care aide
-Pay Period: 09/04/2026 - 09/10/2026     Pay Date: 09/15/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             22.80     40.00         912.00     33,744.00
-GROSS PAY                                     912.00     33,744.00
- DEDUCTI0NS
-  Federal Income Tax                        91.20
-  Social Security                           56.54
-  Medicare                                  13.22
-  CA SDI                                    10.03
-NET PAY                                    741.01
---------------------------------------------------------------
+PACIFIC TIDE BANK
+ Statement Period 06/01/2026 - 06/30/2026
+Member: LOGAN LI       Account ending 8982
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+CHECKING SUMMARY
+  Beginning balance            1,680.95
+  Deposits                    15,072.25
+| |   .
+  Withdrawals                -15,675.14
+  Ending balance               1,078.06
+
+   DEPOSITS AND CREDITS
+  06/01  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,014.45
+     06/08  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,014.45
+  06/15  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,014.45
+  06/22  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,014.45
+  06/29  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,014.45
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2026]

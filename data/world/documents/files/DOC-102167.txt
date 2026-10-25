@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+2436 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SERGIO VO        Emp ID: 18638
+Position: Guest services
+Pay Period: 05/03/2026 - 06/01/2026     Pay Date: 06/06/2026
+Pay Frequency: Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.85    173.33       4,653.91     27,923.46
+   GROSS PAY                                  4,653.91     27,923.46
+ DEDUCTIONS
+  Federal Income Tax                       511.93
+  Social Security                          288.54
+  Medicare                                  67.48
+    CA SDI                                    51.19
+NET PAY                                   3,734.77
+--------------------------------------------------------------
+
+-- scanned 07/21/2026 HBCH mailroom  pg 1/1 --

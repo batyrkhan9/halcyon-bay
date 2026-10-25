@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-6106 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: PAOLA DELGADO        Emp ID: 95861
-  Position: Caregiver
- Pay Period: 02/01/2025 - 02/14/2025     Pay Date: 02/19/2025
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            119.37     80.00       9,549.60     38,198.40
-    GROSS PAY                                  9,549.60     38,198.40
+CALDER FREIGHT LINES
+8820 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: ASHLEY GARCIA        Emp ID: 50800
+Position: Driver
+Pay Period: 12/08/2024 - 01/06/2025     Pay Date: 01/11/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+ Regular             27.53    173.33       4,771.77      4,771.77
+GROSS PAY                                  4,771.77      4,771.77
 DEDUCTIONS
-  Federal Income Tax                       668.47
-  Social Security                          592.07
-    Medicare                                 138.46
-  CA SDI                                   105.04
-NET PAY                                  8,045.56
+  Federal Income Tax                       429.45
+     Social Security                          295.85
+  Medicare                                  69.19
+  CA SDI                                    52.48
+NET PAY                                  3,924.80
 --------------------------------------------------------------
 
-FAX RECEIVED 03/19/2025 10:20   P.01
+FAX RECEIVED 01/21/2025 10:21   P.01

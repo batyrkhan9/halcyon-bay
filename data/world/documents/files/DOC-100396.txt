@@ -1,20 +1,17 @@
-SEASIDE DENTAL GROUP
-2918 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: BAO WHITE         Emp ID: 71040
-Position: Dental assistant
-Pay Period: 05/19/2025 - 06/01/2025     Pay Date: 06/06/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                     1,253.72     15,044.64
-GROSS PAY                                  1,253.72     15,044.64
-    DEDUCTIONS
-    Federal Income Tax                        50.14
-  Social Security                           77.73
-  Medicare                                  18.17
-  CA SDI                                    13.79
-NET PAY                                  1,093.89
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+ Statement Period 03/01/2025 - 03/31/2025
+   Member: LINH BUI       Account ending 7593
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/23/2025]
+CHECKING SUMMARY
+  Beginning balance            2,170.87
+  Deposits                     2,446.00
+  Withdrawals                 -2,397.08
+  Ending balance               2,219.79
+
+DEPOSITS AND CREDITS
+  03/09  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,223.00
+  03/24  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,223.00
+
+Thank you for banking with us.   Page 1 of 2
+
+RECEIVED APR 17 2025  - mailroom

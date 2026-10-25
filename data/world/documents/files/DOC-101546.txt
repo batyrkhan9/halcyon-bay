@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+   8401 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINDA SUZUKI        Emp ID: 57970
+     Position: Dental assistant
+Pay Period: 02/18/2026 - 03/03/2026     Pay Date: 03/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.52     80.00       3,721.60     18,608.00
+GROSS PAY                                   3,721.60     18,608.00
+DEDUCTIONS
+      Federal Income Tax                       186.08
+  Social Security                          230.73
+  Medicare                                  53.96
+  CA SDI                                    40.93
+NET PAY                                  3,209.90
+--------------------------------------------------------------
+
+FAX RECEIVED 03/27/2026 10:46   P.01

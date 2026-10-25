@@ -1,0 +1,20 @@
+  ELLERY HARDWARE SUPPLY
+    9163 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDREW PATEL        Emp ID: 26604
+Position: Sales associate
+Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOUR5     THIS PERIOD        YTD
+Salary                                     1,933.31     27,066.34
+GROSS PAY                                  1,933.31     27,066.34
+DEDUCTIONS
+  Federal Income Tax                       212.66
+  Social Security                          119.86
+      Medicare                                  28.03
+  CA SDI                                    21.26
+NET PAY                                  1,551.50
+--------------------------------------------------------------
+
+RECEIVED AUG 05 2026  - mailroom

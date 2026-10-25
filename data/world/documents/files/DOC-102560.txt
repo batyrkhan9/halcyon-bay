@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+8466 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN IYER        Emp ID: 34571
+ P0sition: Cashier
+Pay Peri0d: 07/02/2026 - 07/15/2026     Pay Date: 07/20/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             40.36     80.00       3,228.80     48,432.00
+GROSS PAY                                  3,228.80     48,432.00
+DEDUCTIONS
+   Federal Income Tax                       161.44
+   Social Security                          200.18
+  Medicare                                  46.81
+  CA SDI                                    35.51
+NET PAY                                  2,784.86
+--------------------------------------------------------------
+
+-- scanned 08/14/2026 HBCH mailroom  pg 1/1 --

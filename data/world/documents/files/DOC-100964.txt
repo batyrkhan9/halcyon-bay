@@ -1,16 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-1652 MISSION ST
+CALDER FREIGHT LINES
+ 5755 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HANNAH VALENCIA        Emp ID: 54819
+    Position: Driver
+Pay Period: 09/17/2025 - 09/30/2025     Pay Date: 10/05/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     8,429.35    168,587.00
+GROSS PAY                                  8,429.35    168,587.00
+DEDUCTIONS
+    Federal Income Tax                       421.46
+  Social Security                          522.62
+  Medicare                                 122.22
+    CA SDI                                    92.72
+NET PAY                                  7,270.33
+    --------------------------------------------------------------
 
-February 05, 2026
-
-To Whom It May Concern:
-
-This letter confirms that Logan Moore-Iyer has been employed with Golden Hour Senior Living since
-August 2023 in the position of Caregiver. Their current annual salary is $74,141.00.
-Emp1oyment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Leila Haddad
-   Human Resources
-
--- scanned 02/22/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/09/2025 HBCH mailroom  pg 1/1 --

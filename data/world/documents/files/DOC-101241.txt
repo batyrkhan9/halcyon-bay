@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-1294 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-| |   .
-Employee: PAOLA SILVA        Emp ID: 24366
-    Position: Line worker
-Pay Period: 06/04/2026 - 06/10/2026     Pay Date: 06/15/2026
+COASTAL VALLEY ENERGY
+8511 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DARNELL ADAMS        Emp ID: 41133
+  Position: Field technician
+Pay Period: 12/11/2025 - 12/17/2025     Pay Date: 12/22/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.35     12.25         224.79      5,394.96
-GROSS PAY                                    224.79      5,394.96
+Regular             28.01     40.00       1,120.40     57,140.40
+GROSS PAY                                  1,120.40     57,140.40
 DEDUCTIONS
-    Federal Income Tax                        24.72
-  Social Security                           13.93
-      Medicare                                   3.25
-   CA SDI                                     2.47
-NET PAY                                    180.42
+  Federal Income Tax                        44.81
+  Social Security                           69.46
+  Medicare                                  16.24
+     CA SDI                                    12.32
+    NET PAY                                    977.57
 --------------------------------------------------------------
 
-RECEIVED JUL 02 2026  - mailroom
+RECEIVED DEC 29 2025  - mailroom

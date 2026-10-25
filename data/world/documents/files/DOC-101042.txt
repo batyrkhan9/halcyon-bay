@@ -1,20 +1,21 @@
-G0LDEN HOUR SEN1OR LIVING
-  3712 HARBOR WAY   CA
+COASTAL VALLEY ENERGY
+9593 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM JOSHI        Emp ID: 49723
-Position: Caregiver
-Pay Period: 02/26/2026 - 03/11/2026     Pay Date: 03/16/2026
+Employee: MADISON KIM        Emp ID: 68575
+Position: Field technician
+Pay Period: 09/08/2025 - 09/21/2025     Pay Date: 09/26/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       519.12      3,114.72
-GROSS PAY                                    519.12      3,114.72
-DEDUCTIONS
-  Federal Income Tax                        41.52
-  Social Security                           32.18
-      Medicare                                   7.52
-  CA SDI                                     5.71
-NET PAY                                    432.19
-  --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.28     80.00       1,862.40     37,248.00
+GROSS PAY                                  1,862.40     37,248.00
+    DEDUCTIONS
+  . : .
+   Federal Income Tax                       186.24
+  Social Security                          115.46
+  Medicare                                  27.00
+  CA SDI                                    20.48
+NET PAY                                  1,513.22
+--------------------------------------------------------------
 
--- scanned 04/01/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/23/2025 HBCH mailroom  pg 1/1 --

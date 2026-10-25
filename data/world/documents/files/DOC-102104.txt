@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+6376 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: JUAN ADAMS        Emp ID: 32923
+Position: Field technician
+Pay Period: 05/22/2026 - 06/04/2026     Pay Date: 06/09/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       930.62     11,167.44
+GR0SS PAY                                    930.62     11,167.44
+DEDUCTIONS
+  Federal Income Tax                        55.83
+  S0cial Security                           57.69
+  Medicare                                  13.49
+  CA SDI                                    10.23
+NET PAY                                    793.38
+--------------------------------------------------------------
+
+FAX RECEIVED 07/18/2026 10:31   P.01

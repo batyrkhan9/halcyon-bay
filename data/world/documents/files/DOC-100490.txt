@@ -1,20 +1,20 @@
 POINT CORRIN BOATWORKS
-5783 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: WILLIAM JUNG        Emp ID: 15077
+7462 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Employee: ARACELI RUIZ        Emp ID: 29059
 Position: Mechanic
-Pay Period: 06/10/2025 - 06/16/2025     Pay Date: 06/21/2025
-Pay Frequency: Weekly
-  --------------------------------------------------------------
+Pay Period: 02/26/2025 - 03/27/2025     Pay Date: 04/01/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.60     40.00         864.00     21,600.00
- GROSS PAY                                    864.00     21,600.00
+Salary                                       767.53      3,070.12
+GROSS PAY                                     767.53      3,070.12
 DEDUCTIONS
-  Federal Income Tax                        77.76
-  Social Security                           53.56
-  Medicare                                  12.52
-  CA SDI                                     9.50
-NET PAY                                    710.66
+  Federal Income Tax                        76.75
+  Social Security                           47.58
+  Medicare                                  11.12
+  CA SDI                                     8.44
+NET PAY                                    623.64
 --------------------------------------------------------------
 
-RECEIVED JUL 19 2025  - mailroom
+FAX RECEIVED 05/18/2025 10:13   P.01

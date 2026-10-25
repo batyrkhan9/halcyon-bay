@@ -1,20 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-     5752 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: SUSAN GONZALEZ        Emp ID: 59775
-P0sition: Line cook
-Pay Period: 06/04/2026 - 07/03/2026     Pay Date: 07/08/2026
-Pay Frequency: Monthly
+ARR0YO VERDE NURSERY
+| |   .
+664 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: LEILANI SILVA        Emp ID: 72889
+Position: Nursery worker
+Pay Period: 11/05/2025 - 12/04/2025     Pay Date: 12/09/2025
+    Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             38.29    173.33       6,636.81     46,457.67
-GROSS PAY                                  6,636.81     46,457.67
-DEDUCTIONS
-   Federal Income Tax                       597.31
-  Social Security                          411.48
-  Medicare                                  96.23
-  CA SDI                                    73.00
-NET PAY                                  5,458.79
+Regular             110.49    173.33      19,151.23    229,814.76
+GROSS PAY                                 19,151.23    229,814.76
+    DEDUCTIONS
+      Federal Income Tax                     2,106.63
+  Social Security                        1,187.37
+  Medicare                                 277.69
+    CA SDI                                   210.66
+NET PAY                                 15,368.88
 --------------------------------------------------------------
 
-FAX RECEIVED 07/24/2026 10:44   P.01
+-- scanned 02/20/2026 HBCH mailroom  pg 1/1 --

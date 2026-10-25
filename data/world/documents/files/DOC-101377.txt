@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+4926 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE KELLY        Emp ID: 17049
+Position: Library assistant
+Pay Period: 01/07/2026 - 01/21/2026     Pay Date: 01/26/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.94     86.67       5,108.33     10,216.66
+GROSS PAY                                  5,108.33     10,216.66
+DEDUCTIONS
+     Federal Inc0me Tax                       510.83
+  Social Security                          316.71
+   Medicare                                  74.07
+  CA SDI                                    56.19
+NET PAY                                  4,150.53
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/01/2026]

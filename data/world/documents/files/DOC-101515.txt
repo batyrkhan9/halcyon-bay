@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3630 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL ZHOU        Emp ID: 74667
+P0sition: Medical receptionist
+Pay Period: 01/30/2026 - 02/12/2026     Pay Date: 02/17/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     1,517.85      6,071.40
+GROSS PAY                                  1,517.85      6,071.40
+DEDUCTIONS
+    Federal Income Tax                        91.07
+  Social Security                           94.10
+  Medicare                                  22.00
+  CA SDI                                    16.69
+NET PAY                                  1,293.99
+--------------------------------------------------------------
+
+-- scanned 03/18/2026 HBCH mailroom  pg 1/1 --

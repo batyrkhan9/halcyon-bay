@@ -1,21 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-    9866 MARKET WAY   CA
+  MARISOL CLEANING SERVICES
+7473 COMMERCE WAY    CA
                          EARNINGS STATEMENT
-   Employee: JOSHUA DESAI        Emp ID: 77234
-Position: Teacher
-Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
+  Employee: RONALD TRAN        Emp ID: 48076
+Position: Cleaner
+Pay Period: 12/09/2025 - 12/22/2025      Pay Date: 12/27/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     TH1S PERIOD        YTD
- Regular             87.01     80.00       6,960.80     97,451.20
-GROSS PAY                                  6,960.80     97,451.20
-_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             44.21     80.00       3,536.80     91,956.80
+GROSS PAY                                  3,536.80     91,956.80
 DEDUCTIONS
-    Federal Income Tax                       626.47
-  Social Security                          431.57
-  Medicare                                 100.93
-  CA 5DI                                    76.56
-  NET PAY                                  5,725.27
+  . : .
+  Federal Income Tax                       176.84
+  Social Security                          219.28
+  Medicare                                  51.28
+  CA SDI                                    38.90
+ NET PAY                                  3,050.50
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]
+RECEIVED JAN 15 2026  - mailroom

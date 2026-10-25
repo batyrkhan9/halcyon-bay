@@ -1,613 +1,722 @@
 recorded_on,note_id,application_id,account_no,author,written_on,text
-2025-01-01,N7000001,FA-24-04101,,S-001,2024-11-20,Sent missing info letter.
-2025-01-01,N7000003,FA-24-04104,,S-005,2024-11-28,"Called pt, will bring stubs next week."
-2025-01-01,N7000006,FA-24-04106,,S-006,2024-11-29,Sent missing info letter.
-2025-01-01,N7000009,FA-24-04103,,S-006,2024-11-29,LVM for pt re: missing pay stubs.
-2025-01-01,N7000013,FA-24-04107,,S-001,2024-12-03,Sent missing info letter.
-2025-01-01,N7000016,FA-24-04114,,S-001,2024-12-07,Mailed request for proof of income. 30 days to respond.
-2025-01-01,N7000017,FA-24-04120,,S-006,2024-12-14,"Called pt, will bring stubs next week."
-2025-01-01,N7000018,FA-24-04119,,S-005,2024-12-16,Sent missing info letter.
-2025-01-01,N7000021,FA-24-04132,,S-006,2024-12-21,LVM for pt re: missing pay stubs.
-2025-01-01,N7000023,FA-24-04133,,S-005,2024-12-27,Mailed request for proof of income. 30 days to respond.
-2025-01-08,N7000027,FA-24-04119,,S-005,2025-01-08,Over 400%. Explained 12 month interest free plan option to pt.
-2025-01-08,N7000028,FA-25-00001,,S-006,2025-01-08,Mailed request for proof of income. 30 days to respond.
-2025-01-09,N7000030,FA-25-00004,,S-006,2025-01-09,LVM for pt re: missing pay stubs.
-2025-01-11,N7000034,FA-24-04134,,S-006,2025-01-11,"221% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-01-14,N7000035,FA-24-04124,,S-006,2025-01-14,"Approved free care, adj posted."
-2025-01-16,N7000037,FA-25-00017,,S-005,2025-01-16,Mailed request for proof of income. 30 days to respond.
-2025-01-17,N7000040,FA-25-00016,,S-006,2025-01-17,Sent missing info letter.
-2025-01-20,N7000041,FA-25-00031,,S-005,2025-01-20,Mailed request for proof of income. 30 days to respond.
-2025-01-20,N7000044,FA-25-00029,,S-001,2025-01-20,LVM for pt re: missing pay stubs.
-2025-01-21,N7000047,FA-24-04130,,S-001,2025-01-21,Approval letter sent. 144% of FPL.
-2025-01-22,N7000051,FA-25-00032,,S-001,2025-01-22,Sent missing info letter.
-2025-01-22,N7000052,FA-24-04116,,S-001,2025-01-22,"Verified income from pay stubs, 34% FPL. Approved 100%, letter mailed."
-2025-01-25,N7000053,FA-24-04106,,S-005,2025-01-25,Approval letter sent. 93% of FPL.
-2025-01-25,N7000054,FA-24-04126,,S-001,2025-01-25,"Approved free care, adj posted."
-2025-01-27,N7000055,FA-25-00018,,S-005,2025-01-27,Over 400%. Explained 12 month interest free plan option to pt.
-2025-01-28,N7000058,FA-25-00017,,S-001,2025-01-28,"223% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-02-01,N7000061,FA-25-00040,,S-006,2025-02-01,Mailed request for proof of income. 30 days to respond.
-2025-02-02,N7000064,FA-25-00036,,S-001,2025-02-02,LVM for pt re: missing pay stubs.
-2025-02-04,N7000067,FA-25-00047,,S-005,2025-02-04,Sent missing info letter.
-2025-02-04,N7000069,FA-25-00004,,S-006,2025-02-04,"Income 656% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-02-05,N7000070,FA-25-00024,,S-006,2025-02-05,"LVM x2, no call back."
-2025-02-07,N7000071,FA-25-00033,,S-001,2025-02-07,Over 400%. Explained 12 month interest free plan option to pt.
-2025-02-08,N7000072,FA-25-00032,,S-001,2025-02-08,Discount approved. Pt to pay balance or set up plan.
-2025-02-12,N7000073,FA-25-00045,,S-006,2025-02-12,Approval letter sent. 152% of FPL.
-2025-02-12,N7000075,FA-25-00056,,S-006,2025-02-12,Sent missing info letter.
-2025-02-12,N7000078,FA-25-00050,,S-006,2025-02-12,Discount approved. Pt to pay balance or set up plan.
-2025-02-13,N7000082,FA-25-00049,,S-001,2025-02-13,Approval letter sent. 34% of FPL.
-2025-02-14,N7000086,FA-25-00031,,S-005,2025-02-14,Discount approved. Pt to pay balance or set up plan.
-2025-02-16,N7000088,FA-25-00038,,S-006,2025-02-16,"Pt said will send stubs, nothing received."
-2025-02-17,N7000089,FA-25-00065,,S-006,2025-02-17,"Called pt, will bring stubs next week."
-2025-02-17,N7000090,FA-25-00062,,S-001,2025-02-17,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-02-21,N7000094,FA-25-00066,,S-006,2025-02-21,Over 400%. Explained 12 month interest free plan option to pt.
-2025-02-23,N7000095,FA-25-00052,,S-005,2025-02-23,Discount approved. Pt to pay balance or set up plan.
-2025-02-25,N7000096,FA-25-00074,,S-001,2025-02-25,"Called pt, will bring stubs next week."
-2025-02-25,N7000098,FA-25-00077,,S-006,2025-02-25,LVM for pt re: missing pay stubs.
-2025-02-27,N7000102,FA-25-00075,,S-006,2025-02-27,"Approved free care, adj posted."
-2025-03-02,N7000104,FA-25-00091,,S-001,2025-03-02,Discount approved. Pt to pay balance or set up plan.
-2025-03-03,N7000107,FA-25-00092,,S-006,2025-03-03,Over 400%. Explained 12 month interest free plan option to pt.
-2025-03-05,N7000108,FA-25-00063,,S-006,2025-03-05,2nd request for income docs mailed.
-2025-03-06,N7000112,FA-25-00077,,S-001,2025-03-06,Approval letter sent. 116% of FPL.
-2025-03-07,N7000115,FA-25-00097,,S-006,2025-03-07,"Income 489% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-07,N7000116,FA-25-00058,,S-005,2025-03-07,"Pt said will send stubs, nothing received."
-2025-03-08,N7000117,FA-25-00074,,S-006,2025-03-08,Discount approved. Pt to pay balance or set up plan.
-2025-03-09,N7000118,FA-25-00105,,S-004,2025-03-09,"Income 618% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-10,N7000121,FA-25-00113,,S-006,2025-03-10,"Approved free care, adj posted."
-2025-03-12,N7000122,FA-25-00116,,S-005,2025-03-12,Approval letter sent. 49% of FPL.
-2025-03-12,N7000123,FA-25-00114,,S-006,2025-03-12,Mailed request for proof of income. 30 days to respond.
-2025-03-12,N7000126,FA-25-00060,,S-005,2025-03-12,"Income 705% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-12,N7000130,FA-25-00069,,S-006,2025-03-12,"Approved free care, adj posted."
-2025-03-13,N7000134,FA-25-00099,,S-005,2025-03-13,Discount approved. Pt to pay balance or set up plan.
-2025-03-13,N7000136,FA-25-00071,,S-006,2025-03-13,"278% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-03-14,N7000138,FA-25-00080,,S-004,2025-03-14,"Verified income from pay stubs, 181% FPL. Approved 100%, letter mailed."
-2025-03-16,N7000141,FA-25-00122,,S-001,2025-03-16,LVM for pt re: missing pay stubs.
-2025-03-18,N7000142,FA-25-00100,,S-001,2025-03-18,"Income 419% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-18,N7000144,FA-25-00123,,S-001,2025-03-18,"Called pt, will bring stubs next week."
-2025-03-19,N7000145,FA-25-00068,,S-004,2025-03-19,"Pt said will send stubs, nothing received."
-2025-03-21,N7000146,FA-25-00132,,S-005,2025-03-21,"Income 734% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-21,N7000147,FA-25-00127,,S-006,2025-03-21,Over 400%. Explained 12 month interest free plan option to pt.
-2025-03-21,N7000148,FA-25-00110,,S-001,2025-03-21,Approval letter sent. 102% of FPL.
-2025-03-23,N7000149,FA-25-00119,,S-001,2025-03-23,"Verified income from pay stubs, 95% FPL. Approved 100%, letter mailed."
-2025-03-24,N7000153,FA-25-00141,,S-006,2025-03-24,Mailed request for proof of income. 30 days to respond.
-2025-03-26,N7000154,FA-25-00158,,S-001,2025-03-26,"Income 674% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-03-26,N7000157,FA-25-00122,,S-001,2025-03-26,Discount approved. Pt to pay balance or set up plan.
-2025-03-27,N7000159,FA-25-00157,,S-006,2025-03-27,LVM for pt re: missing pay stubs.
-2025-03-28,N7000160,FA-25-00149,,S-006,2025-03-28,Approval letter sent. 59% of FPL.
-2025-03-28,N7000162,FA-25-00155,,S-001,2025-03-28,Mailed request for proof of income. 30 days to respond.
-2025-03-30,N7000165,FA-25-00086,,S-005,2025-03-30,"Verified income from pay stubs, 58% FPL. Approved 100%, letter mailed."
-2025-03-30,N7000169,FA-25-00130,,S-006,2025-03-30,Discount approved. Pt to pay balance or set up plan.
-2025-04-01,N7000171,FA-25-00170,,S-005,2025-04-01,"Called pt, will bring stubs next week."
-2025-04-01,N7000173,FA-25-00153,,S-001,2025-04-01,Over 400%. Explained 12 month interest free plan option to pt.
-2025-04-03,N7000174,FA-25-00108,,S-005,2025-04-03,"Approved free care, adj posted."
-2025-04-03,N7000177,FA-25-00138,,S-005,2025-04-03,"362% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-04-06,N7000179,FA-25-00172,,S-001,2025-04-06,Mailed request for proof of income. 30 days to respond.
-2025-04-06,N7000182,FA-25-00150,,S-004,2025-04-06,"Approved free care, adj posted."
-2025-04-06,N7000184,FA-25-00125,,S-004,2025-04-06,"Verified income from pay stubs, 39% FPL. Approved 100%, letter mailed."
-2025-04-07,N7000187,FA-25-00184,,S-005,2025-04-07,Mailed request for proof of income. 30 days to respond.
-2025-04-07,N7000188,FA-25-00114,,S-001,2025-04-07,"Income 617% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-04-07,N7000189,FA-25-00178,,S-005,2025-04-07,Sent missing info letter.
-2025-04-09,N7000193,FA-25-00180,,S-006,2025-04-09,Mailed request for proof of income. 30 days to respond.
-2025-04-09,N7000197,FA-25-00181,,S-006,2025-04-09,"Called pt, will bring stubs next week."
-2025-04-10,N7000199,FA-25-00135,,S-005,2025-04-10,"Income 755% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-04-11,N7000203,FA-25-00187,,S-006,2025-04-11,Sent missing info letter.
-2025-04-13,N7000206,FA-25-00176,,S-005,2025-04-13,Discount approved. Pt to pay balance or set up plan.
-2025-04-18,N7000207,FA-25-00208,,S-001,2025-04-18,"Verified income from pay stubs, 79% FPL. Approved 100%, letter mailed."
-2025-04-19,N7000209,FA-25-00155,,S-005,2025-04-19,Approval letter sent. 95% of FPL.
-2025-04-20,N7000213,FA-25-00214,,S-005,2025-04-20,Approval letter sent. 87% of FPL.
-2025-04-21,N7000216,FA-25-00172,,S-004,2025-04-21,Approval letter sent. 181% of FPL.
-2025-04-21,N7000220,FA-25-00201,,S-004,2025-04-21,LVM for pt re: missing pay stubs.
-2025-04-23,N7000223,FA-25-00180,,S-006,2025-04-23,"Income 678% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-04-23,N7000227,FA-25-00205,,S-006,2025-04-23,"369% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-04-23,N7000230,FA-25-00222,,S-006,2025-04-23,Discount approved. Pt to pay balance or set up plan.
-2025-04-23,N7000234,FA-25-00193,,S-005,2025-04-23,Over 400%. Explained 12 month interest free plan option to pt.
-2025-04-24,N7000236,FA-25-00211,,S-005,2025-04-24,"363% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-04-25,N7000238,FA-25-00186,,S-005,2025-04-25,"LVM x2, no call back."
-2025-04-26,N7000239,FA-25-00229,,S-001,2025-04-26,"Called pt, will bring stubs next week."
-2025-04-27,N7000240,FA-25-00216,,S-006,2025-04-27,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-04-27,N7000244,FA-25-00232,,S-005,2025-04-27,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-04-28,N7000245,FA-25-00202,,S-006,2025-04-28,"Verified income from pay stubs, 166% FPL. Approved 100%, letter mailed."
-2025-04-28,N7000249,FA-25-00218,,S-005,2025-04-28,"Verified income from pay stubs, 157% FPL. Approved 100%, letter mailed."
-2025-04-28,N7000252,FA-25-00178,,S-001,2025-04-28,"342% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-04-30,N7000255,FA-25-00230,,S-006,2025-04-30,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-04-30,N7000257,FA-25-00225,,S-004,2025-04-30,"356% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-05-02,N7000258,FA-25-00201,,S-005,2025-05-02,Discount approved. Pt to pay balance or set up plan.
-2025-05-05,N7000262,FA-25-00236,,S-001,2025-05-05,Discount approved. Pt to pay balance or set up plan.
-2025-05-08,N7000264,FA-25-00209,,S-005,2025-05-08,"Approved free care, adj posted."
-2025-05-08,N7000267,FA-25-00243,,S-005,2025-05-08,LVM for pt re: missing pay stubs.
-2025-05-08,N7000269,FA-25-00224,,S-004,2025-05-08,"239% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-05-08,N7000270,FA-25-00241,,S-005,2025-05-08,Approval letter sent. 178% of FPL.
-2025-05-13,N7000271,FA-25-00253,,S-001,2025-05-13,LVM for pt re: missing pay stubs.
-2025-05-13,N7000274,FA-25-00206,,S-001,2025-05-13,2nd request for income docs mailed.
-2025-05-13,N7000276,FA-25-00250,,S-005,2025-05-13,"Called pt, will bring stubs next week."
-2025-05-15,N7000280,FA-25-00199,,S-004,2025-05-15,"LVM x2, no call back."
-2025-05-16,N7000282,FA-25-00220,,S-005,2025-05-16,"LVM x2, no call back."
-2025-05-16,N7000285,FA-25-00270,,S-006,2025-05-16,Mailed request for proof of income. 30 days to respond.
-2025-05-17,N7000286,FA-25-00246,,S-004,2025-05-17,"Approved free care, adj posted."
-2025-05-18,N7000290,FA-25-00280,,S-006,2025-05-18,"Approved free care, adj posted."
-2025-05-19,N7000294,FA-25-00255,,S-001,2025-05-19,"Income 763% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-05-21,N7000295,FA-25-00295,,S-006,2025-05-21,"Called pt, will bring stubs next week."
-2025-05-22,N7000298,FA-25-00286,,S-005,2025-05-22,"Called pt, will bring stubs next week."
-2025-05-24,N7000301,FA-25-00282,,S-005,2025-05-24,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-05-24,N7000302,FA-25-00289,,S-005,2025-05-24,"Approved free care, adj posted."
-2025-05-24,N7000303,FA-25-00293,,S-005,2025-05-24,"Called pt, will bring stubs next week."
-2025-05-24,N7000306,FA-25-00298,,S-004,2025-05-24,"Called pt, will bring stubs next week."
-2025-05-25,N7000308,FA-25-00297,,S-005,2025-05-25,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-05-28,N7000309,FA-25-00243,,S-005,2025-05-28,"Verified income from pay stubs, 154% FPL. Approved 100%, letter mailed."
-2025-05-28,N7000312,FA-25-00291,,S-004,2025-05-28,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-05-28,N7000314,FA-25-00275,,S-006,2025-05-28,"Approved free care, adj posted."
-2025-05-31,N7000318,FA-25-00253,,S-006,2025-05-31,Approval letter sent. 85% of FPL.
-2025-06-02,N7000322,FA-25-00277,,S-004,2025-06-02,"Approved free care, adj posted."
-2025-06-03,N7000324,FA-25-00302,,S-001,2025-06-03,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-06-04,N7000326,FA-25-00263,,S-006,2025-06-04,"Approved free care, adj posted."
-2025-06-04,N7000329,FA-25-00239,,S-006,2025-06-04,"LVM x2, no call back."
-2025-06-04,N7000332,FA-25-00293,,S-001,2025-06-04,"Verified income from pay stubs, 125% FPL. Approved 100%, letter mailed."
-2025-06-04,N7000334,FA-25-00298,,S-001,2025-06-04,Over 400%. Explained 12 month interest free plan option to pt.
-2025-06-05,N7000336,FA-25-00307,,S-006,2025-06-05,Discount approved. Pt to pay balance or set up plan.
-2025-06-07,N7000340,FA-25-00327,,S-006,2025-06-07,"Verified income from pay stubs, 51% FPL. Approved 100%, letter mailed."
-2025-06-07,N7000341,FA-25-00331,,S-001,2025-06-07,Sent missing info letter.
-2025-06-08,N7000342,FA-25-00287,,S-004,2025-06-08,"253% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-06-08,N7000343,FA-25-00329,,S-005,2025-06-08,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-06-10,N7000344,FA-25-00295,,S-001,2025-06-10,Approval letter sent. 54% of FPL.
-2025-06-10,N7000348,FA-25-00272,,S-005,2025-06-10,"LVM x2, no call back."
-2025-06-11,N7000350,FA-25-00334,,S-001,2025-06-11,Approval letter sent. 165% of FPL.
-2025-06-12,N7000354,FA-25-00317,,S-005,2025-06-12,Approval letter sent. 132% of FPL.
-2025-06-12,N7000356,FA-25-00341,,S-001,2025-06-12,"Approved free care, adj posted."
-2025-06-14,N7000357,FA-25-00325,,S-005,2025-06-14,Over 400%. Explained 12 month interest free plan option to pt.
-2025-06-15,N7000360,FA-25-00342,,S-005,2025-06-15,"Called pt, will bring stubs next week."
-2025-06-17,N7000362,FA-25-00343,,S-006,2025-06-17,Approval letter sent. 58% of FPL.
-2025-06-17,N7000366,FA-25-00364,,S-006,2025-06-17,Sent missing info letter.
-2025-06-17,N7000369,FA-25-00365,,S-001,2025-06-17,Sent missing info letter.
-2025-06-19,N7000373,FA-25-00358,,S-006,2025-06-19,"Called pt, will bring stubs next week."
-2025-06-20,N7000376,FA-25-00361,,S-005,2025-06-20,Sent missing info letter.
-2025-06-22,N7000377,FA-25-00347,,S-004,2025-06-22,"374% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-06-22,N7000380,FA-25-00377,,S-001,2025-06-22,"Called pt, will bring stubs next week."
-2025-06-23,N7000381,FA-25-00384,,S-005,2025-06-23,LVM for pt re: missing pay stubs.
-2025-06-24,N7000385,FA-25-00386,,S-005,2025-06-24,Sent missing info letter.
-2025-06-25,N7000389,FA-25-00368,,S-001,2025-06-25,Discount approved. Pt to pay balance or set up plan.
-2025-06-25,N7000391,FA-25-00370,,S-006,2025-06-25,Mailed request for proof of income. 30 days to respond.
-2025-06-27,N7000394,FA-25-00322,,S-001,2025-06-27,"Verified income from pay stubs, 122% FPL. Approved 100%, letter mailed."
-2025-06-28,N7000395,FA-25-00354,,S-006,2025-06-28,"362% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-06-29,N7000398,FA-25-00385,,S-001,2025-06-29,"Called pt, will bring stubs next week."
-2025-06-29,N7000399,FA-25-00389,,S-006,2025-06-29,"Called pt, will bring stubs next week."
-2025-06-29,N7000400,FA-25-00401,,S-005,2025-06-29,"Verified income from pay stubs, 177% FPL. Approved 100%, letter mailed."
-2025-06-29,N7000402,FA-25-00338,,S-005,2025-06-29,"255% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-06-29,N7000404,FA-25-00311,,S-004,2025-06-29,"LVM x2, no call back."
-2025-06-30,N7000407,FA-25-00330,,S-006,2025-06-30,"Verified income from pay stubs, 39% FPL. Approved 100%, letter mailed."
-2025-06-30,N7000409,FA-25-00397,,S-006,2025-06-30,Mailed request for proof of income. 30 days to respond.
-2025-07-01,N7000411,FA-25-00382,,S-004,2025-07-01,"Verified income from pay stubs, 88% FPL. Approved 100%, letter mailed."
-2025-07-02,N7000414,FA-25-00403,,S-005,2025-07-02,"Verified income from employer letter, 146% FPL. Approved 100%, letter mailed."
-2025-07-03,N7000415,FA-25-00375,,S-004,2025-07-03,"Approved free care, adj posted."
-2025-07-03,N7000416,FA-25-00352,,S-001,2025-07-03,Approval letter sent. 27% of FPL.
-2025-07-04,N7000417,FA-25-00410,,S-006,2025-07-04,"Approved free care, adj posted."
-2025-07-05,N7000419,FA-25-00406,,S-001,2025-07-05,LVM for pt re: missing pay stubs.
-2025-07-07,N7000422,FA-25-00392,,S-004,2025-07-07,Discount approved. Pt to pay balance or set up plan.
-2025-07-10,N7000424,FA-25-00407,,S-006,2025-07-10,Approval letter sent. 66% of FPL.
-2025-07-12,N7000428,FA-25-00402,,S-006,2025-07-12,Approval letter sent. 111% of FPL.
-2025-07-13,N7000429,FA-25-00416,,S-006,2025-07-13,"Approved free care, adj posted."
-2025-07-14,N7000433,FA-25-00436,,S-006,2025-07-14,LVM for pt re: missing pay stubs.
-2025-07-14,N7000437,FA-25-00413,,S-001,2025-07-14,"Approved free care, adj posted."
-2025-07-15,N7000441,FA-25-00424,,S-001,2025-07-15,Mailed request for proof of income. 30 days to respond.
-2025-07-16,N7000445,FA-25-00428,,S-004,2025-07-16,Mailed request for proof of income. 30 days to respond.
-2025-07-17,N7000446,FA-25-00440,,S-005,2025-07-17,"Called pt, will bring stubs next week."
-2025-07-18,N7000449,FA-25-00405,,S-006,2025-07-18,Discount approved. Pt to pay balance or set up plan.
-2025-07-18,N7000450,FA-25-00411,,S-001,2025-07-18,"310% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-07-18,N7000453,FA-25-00451,,S-006,2025-07-18,"Called pt, will bring stubs next week."
-2025-07-18,N7000454,FA-25-00447,,S-004,2025-07-18,"Called pt, will bring stubs next week."
-2025-07-18,N7000456,FA-25-00421,,S-004,2025-07-18,2nd request for income docs mailed.
-2025-07-19,N7000460,FA-25-00438,,S-001,2025-07-19,"Called pt, will bring stubs next week."
-2025-07-19,N7000461,FA-25-00406,,S-006,2025-07-19,"Approved free care, adj posted."
-2025-07-20,N7000464,FA-25-00389,,S-004,2025-07-20,"Approved free care, adj posted."
-2025-07-22,N7000468,FA-25-00457,,S-005,2025-07-22,Sent missing info letter.
-2025-07-24,N7000470,FA-25-00431,,S-001,2025-07-24,"Verified income from benefit letter, 160% FPL. Approved 100%, letter mailed."
-2025-07-25,N7000472,FA-25-00466,,S-001,2025-07-25,"Called pt, will bring stubs next week."
-2025-07-26,N7000473,FA-25-00456,,S-001,2025-07-26,Approval letter sent. 134% of FPL.
-2025-07-26,N7000475,FA-25-00397,,S-001,2025-07-26,Discount approved. Pt to pay balance or set up plan.
-2025-07-27,N7000479,FA-25-00455,,S-001,2025-07-27,"Approved free care, adj posted."
-2025-07-28,N7000481,FA-25-00424,,S-004,2025-07-28,Discount approved. Pt to pay balance or set up plan.
-2025-07-29,N7000485,FA-25-00467,,S-001,2025-07-29,Sent missing info letter.
-2025-07-29,N7000488,FA-25-00464,,S-001,2025-07-29,"355% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-07-29,N7000489,FA-25-00460,,S-006,2025-07-29,"Verified income from tax return, 173% FPL. Approved 100%, letter mailed."
-2025-07-31,N7000490,FA-25-00449,,S-005,2025-07-31,"Verified income from self-attestation, 40% FPL. Approved 100%, letter mailed."
-2025-08-01,N7000492,FA-25-00447,,S-006,2025-08-01,Discount approved. Pt to pay balance or set up plan.
-2025-08-03,N7000494,FA-25-00440,,S-001,2025-08-03,Over 400%. Explained 12 month interest free plan option to pt.
-2025-08-03,N7000498,FA-25-00469,,S-006,2025-08-03,"Approved free care, adj posted."
-2025-08-04,N7000500,FA-25-00451,,S-005,2025-08-04,Approval letter sent. 40% of FPL.
-2025-08-05,N7000504,FA-25-00476,,S-004,2025-08-05,"296% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-08-10,N7000507,FA-25-00482,,S-004,2025-08-10,"Approved free care, adj posted."
-2025-08-11,N7000509,FA-25-00474,,S-005,2025-08-11,Over 400%. Explained 12 month interest free plan option to pt.
-2025-08-11,N7000513,FA-25-00496,,S-001,2025-08-11,"Verified income from employer letter, 88% FPL. Approved 100%, letter mailed."
-2025-08-12,N7000516,FA-25-00485,,S-001,2025-08-12,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-08-12,N7000518,FA-25-00433,,S-001,2025-08-12,"213% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-08-14,N7000521,FA-25-00497,,S-001,2025-08-14,Mailed request for proof of income. 30 days to respond.
-2025-08-18,N7000523,FA-25-00508,,S-001,2025-08-18,LVM for pt re: missing pay stubs.
-2025-08-18,N7000526,FA-25-00487,,S-004,2025-08-18,"Verified income from pay stubs, 81% FPL. Approved 100%, letter mailed."
-2025-08-21,N7000528,FA-25-00511,,S-004,2025-08-21,Mailed request for proof of income. 30 days to respond.
-2025-08-23,N7000530,FA-25-00524,,S-004,2025-08-23,"Verified income from pay stubs, 186% FPL. Approved 100%, letter mailed."
-2025-08-25,N7000533,FA-25-00523,,S-005,2025-08-25,Sent missing info letter.
-2025-08-25,N7000536,FA-25-00527,,S-001,2025-08-25,Sent missing info letter.
-2025-08-26,N7000538,FA-25-00519,,S-006,2025-08-26,"Verified income from pay stubs, 79% FPL. Approved 100%, letter mailed."
-2025-08-27,N7000540,FA-25-00515,,S-004,2025-08-27,"Verified income from pay stubs, 23% FPL. Approved 100%, letter mailed."
-2025-08-28,N7000542,FA-25-00504,,S-005,2025-08-28,2nd request for income docs mailed.
-2025-08-30,N7000545,FA-25-00489,,S-001,2025-08-30,Discount approved. Pt to pay balance or set up plan.
-2025-08-31,N7000547,FA-25-00536,,S-004,2025-08-31,"238% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-01,N7000548,FA-25-00534,,S-005,2025-09-01,Approval letter sent. 138% of FPL.
-2025-09-01,N7000551,FA-25-00537,,S-004,2025-09-01,Approval letter sent. 137% of FPL.
-2025-09-02,N7000554,FA-25-00511,,S-004,2025-09-02,"Verified income from tax return, 108% FPL. Approved 100%, letter mailed."
-2025-09-02,N7000555,FA-25-00512,,S-001,2025-09-02,"Income 592% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-09-03,N7000556,FA-25-00541,,S-001,2025-09-03,Mailed request for proof of income. 30 days to respond.
-2025-09-04,N7000557,FA-25-00549,,S-001,2025-09-04,Mailed request for proof of income. 30 days to respond.
-2025-09-05,N7000560,FA-25-00533,,S-001,2025-09-05,"Approved free care, adj posted."
-2025-09-06,N7000562,FA-25-00553,,S-001,2025-09-06,"Approved free care, adj posted."
-2025-09-07,N7000565,FA-25-00564,,S-004,2025-09-07,Sent missing info letter.
-2025-09-07,N7000567,FA-25-00527,,S-004,2025-09-07,"279% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-08,N7000569,FA-25-00508,,S-004,2025-09-08,Over 400%. Explained 12 month interest free plan option to pt.
-2025-09-09,N7000573,FA-25-00538,,S-001,2025-09-09,"Approved free care, adj posted."
-2025-09-13,N7000574,FA-25-00550,,S-001,2025-09-13,"Approved free care, adj posted."
-2025-09-14,N7000577,FA-25-00544,,S-001,2025-09-14,"Approved free care, adj posted."
-2025-09-15,N7000578,FA-25-00578,,S-001,2025-09-15,"Income 804% FPL, over limit. Denial letter mailed with payment plan offer."
-2025-09-15,N7000581,FA-25-00497,,S-004,2025-09-15,"Approved free care, adj posted."
-2025-09-15,N7000582,FA-25-00514,,S-005,2025-09-15,Discount approved. Pt to pay balance or set up plan.
-2025-09-16,N7000584,FA-25-00576,,S-004,2025-09-16,"Approved free care, adj posted."
-2025-09-16,N7000588,FA-25-00584,,S-001,2025-09-16,LVM for pt re: missing pay stubs.
-2025-09-16,N7000590,FA-25-00568,,S-004,2025-09-16,"Approved free care, adj posted."
-2025-09-19,N7000592,FA-25-00546,,S-005,2025-09-19,2nd request for income docs mailed.
-2025-09-20,N7000593,FA-25-00586,,S-004,2025-09-20,"295% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-20,N7000597,FA-25-00594,,S-004,2025-09-20,Sent missing info letter.
-2025-09-20,N7000601,FA-25-00574,,S-004,2025-09-20,"253% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-21,N7000603,FA-25-00587,,S-006,2025-09-21,Sent missing info letter.
-2025-09-21,N7000604,FA-25-00585,,S-006,2025-09-21,"Verified income from pay stubs, 114% FPL. Approved 100%, letter mailed."
-2025-09-21,N7000608,FA-25-00596,,S-005,2025-09-21,Over 400%. Explained 12 month interest free plan option to pt.
-2025-09-22,N7000611,FA-25-00591,,S-001,2025-09-22,"381% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-23,N7000615,FA-25-00584,,S-001,2025-09-23,"291% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-23,N7000617,FA-25-00595,,S-004,2025-09-23,Discount approved. Pt to pay balance or set up plan.
-2025-09-24,N7000618,FA-25-00603,,S-005,2025-09-24,Mailed request for proof of income. 30 days to respond.
-2025-09-25,N7000622,FA-25-00569,,S-001,2025-09-25,Over 400%. Explained 12 month interest free plan option to pt.
-2025-09-25,N7000626,FA-25-00525,,S-001,2025-09-25,Approval letter sent. 186% of FPL.
-2025-09-26,N7000629,FA-25-00549,,S-005,2025-09-26,"234% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-26,N7000631,FA-25-00609,,S-004,2025-09-26,Over 400%. Explained 12 month interest free plan option to pt.
-2025-09-28,N7000632,FA-25-00593,,S-001,2025-09-28,"250% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-09-29,N7000635,FA-25-00548,,S-001,2025-09-29,Over 400%. Explained 12 month interest free plan option to pt.
-2025-09-29,N7000636,FA-25-00560,,S-004,2025-09-29,"Verified income from pay stubs, 174% FPL. Approved 100%, letter mailed."
-2025-09-30,N7000638,FA-25-00621,,S-005,2025-09-30,Mailed request for proof of income. 30 days to respond.
-2025-09-30,N7000642,FA-25-00598,,S-004,2025-09-30,Approval letter sent. 176% of FPL.
-2025-09-30,N7000643,FA-25-00589,,S-006,2025-09-30,"Verified income from pay stubs, 143% FPL. Approved 100%, letter mailed."
-2025-10-01,N7000645,FA-25-00619,,S-004,2025-10-01,Mailed request for proof of income. 30 days to respond.
-2025-10-01,N7000649,FA-25-00564,,S-004,2025-10-01,"371% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-03,N7000652,FA-25-00625,,S-006,2025-10-03,"Approved free care, adj posted."
-2025-10-03,N7000654,FA-25-00632,,S-004,2025-10-03,Discount approved. Pt to pay balance or set up plan.
-2025-10-03,N7000656,FA-25-00628,,S-006,2025-10-03,LVM for pt re: missing pay stubs.
-2025-10-04,N7000657,FA-25-00587,,S-005,2025-10-04,"292% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-04,N7000658,FA-25-00613,,S-001,2025-10-04,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-10-05,N7000660,FA-25-00579,,S-004,2025-10-05,"Pt said will send stubs, nothing received."
-2025-10-06,N7000663,FA-25-00640,,S-001,2025-10-06,LVM for pt re: missing pay stubs.
-2025-10-07,N7000665,FA-25-00633,,S-006,2025-10-07,Over 400%. Explained 12 month interest free plan option to pt.
-2025-10-10,N7000669,FA-25-00594,,S-004,2025-10-10,Over 400%. Explained 12 month interest free plan option to pt.
-2025-10-11,N7000671,FA-25-00651,,S-004,2025-10-11,Mailed request for proof of income. 30 days to respond.
-2025-10-11,N7000675,FA-25-00603,,S-004,2025-10-11,"301% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-11,N7000676,FA-25-00647,,S-006,2025-10-11,"Called pt, will bring stubs next week."
-2025-10-11,N7000679,FA-25-00628,,S-004,2025-10-11,"Verified income from benefit letter, 67% FPL. Approved 100%, letter mailed."
-2025-10-12,N7000680,FA-25-00621,,S-005,2025-10-12,"Approved free care, adj posted."
-2025-10-14,N7000684,FA-25-00616,,S-005,2025-10-14,Discount approved. Pt to pay balance or set up plan.
-2025-10-15,N7000686,FA-25-00638,,S-004,2025-10-15,"251% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-15,N7000687,FA-25-00660,,S-004,2025-10-15,Mailed request for proof of income. 30 days to respond.
-2025-10-17,N7000690,FA-25-00639,,S-001,2025-10-17,"Verified income from pay stubs, 111% FPL. Approved 100%, letter mailed."
-2025-10-18,N7000694,FA-25-00630,,S-004,2025-10-18,"387% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-18,N7000696,FA-25-00672,,S-005,2025-10-18,Sent missing info letter.
-2025-10-20,N7000700,FA-25-00673,,S-001,2025-10-20,"Called pt, will bring stubs next week."
-2025-10-20,N7000703,FA-25-00665,,S-004,2025-10-20,Mailed request for proof of income. 30 days to respond.
-2025-10-22,N7000707,FA-25-00653,,S-005,2025-10-22,"Approved free care, adj posted."
-2025-10-23,N7000710,FA-25-00655,,S-001,2025-10-23,"375% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-23,N7000714,FA-25-00663,,S-004,2025-10-23,"245% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-10-24,N7000718,FA-25-00670,,S-004,2025-10-24,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-10-27,N7000719,FA-25-00678,,S-006,2025-10-27,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2025-10-29,N7000721,FA-25-00688,,S-005,2025-10-29,"Verified income from pay stubs, 142% FPL. Approved 100%, letter mailed."
-2025-10-29,N7000724,FA-25-00677,,S-006,2025-10-29,"Verified income from pay stubs, 24% FPL. Approved 100%, letter mailed."
-2025-11-01,N7000726,FA-25-00649,,S-004,2025-11-01,2nd request for income docs mailed.
-2025-11-01,N7000727,FA-25-00640,,S-004,2025-11-01,"Verified income from pay stubs, 54% FPL. Approved 100%, letter mailed."
-2025-11-04,N7000730,FA-25-00707,,S-001,2025-11-04,"Called pt, will bring stubs next week."
-2025-11-04,N7000731,FA-25-00672,,S-001,2025-11-04,"Approved free care, adj posted."
-2025-11-05,N7000735,FA-25-00708,,S-001,2025-11-05,Sent missing info letter.
-2025-11-06,N7000736,FA-25-00690,,S-005,2025-11-06,Approval letter sent. 107% of FPL.
-2025-11-07,N7000738,FA-25-00696,,S-004,2025-11-07,Approval letter sent. 143% of FPL.
-2025-11-08,N7000742,FA-25-00703,,S-001,2025-11-08,Approval letter sent. 177% of FPL.
-2025-11-11,N7000746,FA-25-00724,,S-006,2025-11-11,Sent missing info letter.
-2025-11-11,N7000748,FA-25-00716,,S-005,2025-11-11,Mailed request for proof of income. 30 days to respond.
-2025-11-11,N7000749,FA-25-00673,,S-001,2025-11-11,"Approved free care, adj posted."
-2025-11-11,N7000753,FA-25-00721,,S-001,2025-11-11,Sent missing info letter.
-2025-11-12,N7000755,FA-25-00712,,S-004,2025-11-12,Sent missing info letter.
-2025-11-12,N7000758,FA-25-00687,,S-005,2025-11-12,"Verified income from self-attestation, 130% FPL. Approved 100%, letter mailed."
-2025-11-13,N7000762,FA-25-00662,,S-001,2025-11-13,2nd request for income docs mailed.
-2025-11-14,N7000766,FA-25-00665,,S-001,2025-11-14,"339% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-11-15,N7000767,FA-25-00742,,S-006,2025-11-15,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-11-16,N7000771,FA-25-00666,,S-004,2025-11-16,"223% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-11-19,N7000775,FA-25-00736,,S-005,2025-11-19,Over 400%. Explained 12 month interest free plan option to pt.
-2025-11-21,N7000777,FA-25-00749,,S-001,2025-11-21,Mailed request for proof of income. 30 days to respond.
-2025-11-21,N7000780,FA-25-00738,,S-001,2025-11-21,Approval letter sent. 150% of FPL.
-2025-11-23,N7000783,FA-25-00715,,S-005,2025-11-23,Discount approved. Pt to pay balance or set up plan.
-2025-11-23,N7000786,FA-25-00735,,S-004,2025-11-23,Approval letter sent. 179% of FPL.
-2025-11-23,N7000788,FA-25-00751,,S-005,2025-11-23,Sent missing info letter.
-2025-11-24,N7000790,FA-25-00756,,S-004,2025-11-24,"Called pt, will bring stubs next week."
-2025-11-24,N7000792,FA-25-00753,,S-001,2025-11-24,"Verified income from benefit letter, 70% FPL. Approved 100%, letter mailed."
-2025-11-26,N7000795,FA-25-00718,,S-001,2025-11-26,Over 400%. Explained 12 month interest free plan option to pt.
-2025-11-26,N7000796,FA-25-00776,,S-005,2025-11-26,Sent missing info letter.
-2025-11-27,N7000797,FA-25-00777,,S-001,2025-11-27,"Verified income from pay stubs, 86% FPL. Approved 100%, letter mailed."
-2025-11-27,N7000799,FA-25-00765,,S-006,2025-11-27,"228% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-11-28,N7000802,FA-25-00769,,S-001,2025-11-28,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-11-29,N7000804,FA-25-00760,,S-004,2025-11-29,Discount approved. Pt to pay balance or set up plan.
-2025-11-30,N7000808,FA-25-00767,,S-004,2025-11-30,Approval letter sent. 102% of FPL.
-2025-12-01,N7000811,FA-25-00768,,S-006,2025-12-01,Discount approved. Pt to pay balance or set up plan.
-2025-12-02,N7000813,FA-25-00707,,S-001,2025-12-02,Approval letter sent. 177% of FPL.
-2025-12-02,N7000814,FA-25-00783,,S-004,2025-12-02,"Approved free care, adj posted."
-2025-12-02,N7000817,FA-25-00789,,S-004,2025-12-02,Mailed request for proof of income. 30 days to respond.
-2025-12-03,N7000819,FA-25-00721,,S-005,2025-12-03,Discount approved. Pt to pay balance or set up plan.
-2025-12-04,N7000821,FA-25-00740,,S-001,2025-12-04,Approval letter sent. 26% of FPL.
-2025-12-05,N7000822,FA-25-00764,,S-001,2025-12-05,"Approved free care, adj posted."
-2025-12-07,N7000825,FA-25-00758,,S-001,2025-12-07,"249% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-12-07,N7000828,FA-25-00754,,S-005,2025-12-07,Discount approved. Pt to pay balance or set up plan.
-2025-12-07,N7000832,FA-25-00751,,S-005,2025-12-07,"Approved free care, adj posted."
-2025-12-08,N7000833,FA-25-00712,,S-004,2025-12-08,"Verified income from pay stubs, 29% FPL. Approved 100%, letter mailed."
-2025-12-08,N7000835,FA-25-00749,,S-004,2025-12-08,"Verified income from pay stubs, 166% FPL. Approved 100%, letter mailed."
-2025-12-08,N7000836,FA-25-00766,,S-005,2025-12-08,Discount approved. Pt to pay balance or set up plan.
-2025-12-09,N7000838,FA-25-00796,,S-004,2025-12-09,"Verified income from pay stubs, 65% FPL. Approved 100%, letter mailed."
-2025-12-10,N7000840,FA-25-00778,,S-005,2025-12-10,"Approved free care, adj posted."
-2025-12-11,N7000841,FA-25-00771,,S-001,2025-12-11,2nd request for income docs mailed.
-2025-12-12,N7000844,FA-25-00784,,S-004,2025-12-12,"Verified income from pay stubs, 120% FPL. Approved 100%, letter mailed."
-2025-12-13,N7000846,FA-25-00816,,S-004,2025-12-13,Discount approved. Pt to pay balance or set up plan.
-2025-12-13,N7000849,FA-25-00792,,S-004,2025-12-13,"226% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-12-14,N7000851,FA-25-00813,,S-004,2025-12-14,Approval letter sent. 87% of FPL.
-2025-12-16,N7000855,FA-25-00817,,S-004,2025-12-16,LVM for pt re: missing pay stubs.
-2025-12-20,N7000859,FA-25-00810,,S-006,2025-12-20,Approval letter sent. 173% of FPL.
-2025-12-20,N7000861,FA-25-00833,,S-005,2025-12-20,Sent missing info letter.
-2025-12-20,N7000863,FA-25-00789,,S-004,2025-12-20,Over 400%. Explained 12 month interest free plan option to pt.
-2025-12-21,N7000867,FA-25-00808,,S-004,2025-12-21,"297% FPL - discount approved, pt owes 30%. Letter mailed."
-2025-12-22,N7000870,FA-25-00843,,S-001,2025-12-22,Sent missing info letter.
-2025-12-22,N7000872,FA-25-00839,,S-001,2025-12-22,"Approved free care, adj posted."
-2025-12-23,N7000876,FA-25-00845,,S-006,2025-12-23,Sent missing info letter.
-2025-12-23,N7000880,FA-25-00814,,S-004,2025-12-23,"Verified income from pay stubs, 128% FPL. Approved 100%, letter mailed."
-2025-12-24,N7000883,FA-25-00832,,S-005,2025-12-24,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2025-12-24,N7000886,FA-25-00806,,S-001,2025-12-24,Discount approved. Pt to pay balance or set up plan.
-2025-12-25,N7000887,FA-25-00822,,S-004,2025-12-25,"Pt said will send stubs, nothing received."
-2025-12-27,N7000890,FA-25-00841,,S-001,2025-12-27,"Verified income from pay stubs, 184% FPL. Approved 100%, letter mailed."
-2025-12-29,N7000891,FA-25-00851,,S-005,2025-12-29,Discount approved. Pt to pay balance or set up plan.
-2026-01-01,N7000894,FA-25-00861,,S-006,2026-01-01,"Called pt, will bring stubs next week."
-2026-01-01,N7000898,FA-25-00824,,S-001,2026-01-01,Approval letter sent. 106% of FPL.
-2026-01-05,N7000901,FA-25-00873,,S-004,2026-01-05,Over 400%. Explained 12 month interest free plan option to pt.
-2026-01-08,N7000904,FA-26-00014,,S-001,2026-01-08,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-01-12,N7000906,FA-26-00016,,S-004,2026-01-12,Mailed request for proof of income. 30 days to respond.
-2026-01-14,N7000907,FA-25-00863,,S-005,2026-01-14,"249% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-01-15,N7000911,FA-25-00871,,S-004,2026-01-15,Discount approved. Pt to pay balance or set up plan.
-2026-01-16,N7000913,FA-26-00022,,S-004,2026-01-16,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-01-16,N7000916,FA-26-00036,,S-001,2026-01-16,Sent missing info letter.
-2026-01-17,N7000917,FA-26-00012,,S-001,2026-01-17,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2026-01-17,N7000918,FA-26-00005,,S-004,2026-01-17,Discount approved. Pt to pay balance or set up plan.
-2026-01-18,N7000919,FA-25-00837,,S-001,2026-01-18,2nd request for income docs mailed.
-2026-01-18,N7000920,FA-26-00042,,S-001,2026-01-18,"Called pt, will bring stubs next week."
-2026-01-18,N7000921,FA-25-00866,,S-004,2026-01-18,"Verified income from benefit letter, 180% FPL. Approved 100%, letter mailed."
-2026-01-19,N7000922,FA-26-00018,,S-004,2026-01-19,"332% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-01-19,N7000925,FA-26-00034,,S-001,2026-01-19,Discount approved. Pt to pay balance or set up plan.
-2026-01-21,N7000926,FA-26-00040,,S-005,2026-01-21,"Approved free care, adj posted."
-2026-01-21,N7000928,FA-26-00035,,S-004,2026-01-21,Mailed request for proof of income. 30 days to respond.
-2026-01-23,N7000929,FA-26-00051,,S-001,2026-01-23,"273% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-01-23,N7000933,FA-26-00045,,S-004,2026-01-23,Sent missing info letter.
-2026-01-24,N7000935,FA-26-00053,,S-004,2026-01-24,LVM for pt re: missing pay stubs.
-2026-01-25,N7000939,FA-26-00024,,S-004,2026-01-25,"324% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-01-25,N7000941,FA-26-00049,,S-004,2026-01-25,Mailed request for proof of income. 30 days to respond.
-2026-01-26,N7000942,FA-26-00063,,S-005,2026-01-26,LVM for pt re: missing pay stubs.
-2026-01-28,N7000945,FA-26-00043,,S-001,2026-01-28,"Approved free care, adj posted."
-2026-01-28,N7000949,FA-25-00874,,S-006,2026-01-28,Discount approved. Pt to pay balance or set up plan.
-2026-01-30,N7000952,FA-26-00020,,S-004,2026-01-30,Approval letter sent. 24% of FPL.
-2026-01-30,N7000953,FA-26-00068,,S-001,2026-01-30,LVM for pt re: missing pay stubs.
-2026-01-31,N7000957,FA-26-00026,,S-004,2026-01-31,"352% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-01-31,N7000958,FA-26-00065,,S-006,2026-01-31,Mailed request for proof of income. 30 days to respond.
-2026-02-01,N7000961,FA-26-00032,,S-005,2026-02-01,Approval letter sent. 75% of FPL.
-2026-02-01,N7000965,FA-26-00070,,S-004,2026-02-01,Mailed request for proof of income. 30 days to respond.
-2026-02-02,N7000969,FA-26-00019,,S-001,2026-02-02,Discount approved. Pt to pay balance or set up plan.
-2026-02-03,N7000970,FA-26-00016,,S-004,2026-02-03,Discount approved. Pt to pay balance or set up plan.
-2026-02-03,N7000971,FA-26-00066,,S-005,2026-02-03,Discount approved. Pt to pay balance or set up plan.
-2026-02-04,N7000975,FA-26-00055,,S-004,2026-02-04,Approval letter sent. 79% of FPL.
-2026-02-04,N7000978,FA-26-00076,,S-004,2026-02-04,Mailed request for proof of income. 30 days to respond.
-2026-02-05,N7000982,FA-26-00035,,S-001,2026-02-05,"Approved free care, adj posted."
-2026-02-05,N7000984,FA-26-00074,,S-004,2026-02-05,Mailed request for proof of income. 30 days to respond.
-2026-02-07,N7000988,FA-26-00083,,S-001,2026-02-07,Approval letter sent. 86% of FPL.
-2026-02-08,N7000990,FA-26-00073,,S-001,2026-02-08,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-02-09,N7000991,FA-26-00077,,S-004,2026-02-09,Sent missing info letter.
-2026-02-11,N7000995,FA-26-00090,,S-005,2026-02-11,Mailed request for proof of income. 30 days to respond.
-2026-02-11,N7000996,FA-26-00075,,S-005,2026-02-11,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-02-11,N7000998,FA-26-00110,,S-006,2026-02-11,Sent missing info letter.
-2026-02-12,N7001001,FA-26-00095,,S-004,2026-02-12,Over 400%. Explained 12 month interest free plan option to pt.
-2026-02-13,N7001004,FA-26-00100,,S-005,2026-02-13,Mailed request for proof of income. 30 days to respond.
-2026-02-14,N7001008,FA-26-00096,,S-005,2026-02-14,Sent missing info letter.
-2026-02-15,N7001011,FA-26-00088,,S-005,2026-02-15,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-02-16,N7001015,FA-26-00118,,S-004,2026-02-16,"Approved free care, adj posted."
-2026-02-17,N7001017,FA-26-00053,,S-004,2026-02-17,Approval letter sent. 112% of FPL.
-2026-02-17,N7001021,FA-26-00038,,S-004,2026-02-17,"335% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-02-18,N7001025,FA-26-00072,,S-004,2026-02-18,"Approved free care, adj posted."
-2026-02-19,N7001029,FA-26-00099,,S-005,2026-02-19,"Approved free care, adj posted."
-2026-02-20,N7001031,FA-26-00085,,S-001,2026-02-20,"214% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-02-21,N7001032,FA-26-00090,,S-001,2026-02-21,"Approved free care, adj posted."
-2026-02-22,N7001036,FA-26-00070,,S-004,2026-02-22,"Verified income from pay stubs, 152% FPL. Approved 100%, letter mailed."
-2026-02-23,N7001039,FA-26-00117,,S-006,2026-02-23,Approval letter sent. 164% of FPL.
-2026-02-23,N7001041,FA-26-00125,,S-001,2026-02-23,Sent missing info letter.
-2026-02-24,N7001043,FA-26-00108,,S-006,2026-02-24,"Pt said will send stubs, nothing received."
-2026-02-24,N7001044,FA-26-00104,,S-006,2026-02-24,"Approved free care, adj posted."
-2026-02-27,N7001046,FA-26-00110,,S-004,2026-02-27,"218% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-02-27,N7001049,FA-26-00081,,S-001,2026-02-27,"Pt said will send stubs, nothing received."
-2026-02-28,N7001051,FA-26-00126,,S-005,2026-02-28,Discount approved. Pt to pay balance or set up plan.
-2026-03-01,N7001055,FA-26-00131,,S-001,2026-03-01,Mailed request for proof of income. 30 days to respond.
-2026-03-05,N7001058,FA-26-00143,,S-005,2026-03-05,Over 400%. Explained 12 month interest free plan option to pt.
-2026-03-05,N7001062,FA-26-00076,,S-001,2026-03-05,"Verified income from pay stubs, 158% FPL. Approved 100%, letter mailed."
-2026-03-05,N7001063,FA-26-00141,,S-001,2026-03-05,Mailed request for proof of income. 30 days to respond.
-2026-03-07,N7001065,FA-26-00145,,S-001,2026-03-07,Sent missing info letter.
-2026-03-08,N7001068,FA-26-00135,,S-004,2026-03-08,"326% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-03-11,N7001070,FA-26-00152,,S-006,2026-03-11,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2026-03-11,N7001073,FA-26-00150,,S-001,2026-03-11,Discount approved. Pt to pay balance or set up plan.
-2026-03-16,N7001074,FA-26-00151,,S-001,2026-03-16,Approval letter sent. 148% of FPL.
-2026-03-16,N7001077,FA-26-00148,,S-004,2026-03-16,"Verified income from pay stubs, 82% FPL. Approved 100%, letter mailed."
-2026-03-19,N7001081,FA-26-00163,,S-006,2026-03-19,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-03-19,N7001085,FA-26-00161,,S-004,2026-03-19,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-03-21,N7001087,FA-26-00153,,S-001,2026-03-21,"Approved free care, adj posted."
-2026-03-21,N7001089,FA-26-00177,,S-004,2026-03-21,Sent missing info letter.
-2026-03-23,N7001090,FA-26-00179,,S-004,2026-03-23,Mailed request for proof of income. 30 days to respond.
-2026-03-25,N7001093,FA-26-00189,,S-004,2026-03-25,Mailed request for proof of income. 30 days to respond.
-2026-03-27,N7001095,FA-26-00183,,S-004,2026-03-27,Sent missing info letter.
-2026-03-29,N7001096,FA-26-00171,,S-006,2026-03-29,"Approved free care, adj posted."
-2026-03-30,N7001100,FA-26-00197,,S-004,2026-03-30,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2026-03-31,N7001101,FA-26-00206,,S-005,2026-03-31,Approval letter sent. 142% of FPL.
-2026-04-02,N7001103,FA-26-00159,,S-006,2026-04-02,"LVM x2, no call back."
-2026-04-05,N7001105,FA-26-00177,,S-006,2026-04-05,"226% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-04-05,N7001107,FA-26-00158,,S-005,2026-04-05,"241% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-04-06,N7001110,FA-26-00157,,S-006,2026-04-06,2nd request for income docs mailed.
-2026-04-08,N7001112,FA-26-00221,,S-004,2026-04-08,Approval letter sent. 41% of FPL.
-2026-04-09,N7001113,FA-26-00225,,S-005,2026-04-09,"Verified income from self-attestation, 80% FPL. Approved 100%, letter mailed."
-2026-04-10,N7001114,FA-26-00212,,S-004,2026-04-10,"Income 697% FPL, over limit. Denial letter mailed with payment plan offer."
-2026-04-12,N7001116,FA-26-00199,,S-005,2026-04-12,"Verified income from benefit letter, 148% FPL. Approved 100%, letter mailed."
-2026-04-13,N7001118,FA-26-00192,,S-006,2026-04-13,Approval letter sent. 77% of FPL.
-2026-04-13,N7001119,FA-26-00238,,S-001,2026-04-13,Mailed request for proof of income. 30 days to respond.
-2026-04-14,N7001123,FA-26-00203,,S-004,2026-04-14,"214% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-04-14,N7001127,FA-26-00183,,S-004,2026-04-14,Discount approved. Pt to pay balance or set up plan.
-2026-04-16,N7001128,FA-26-00193,,S-004,2026-04-16,Approval letter sent. 131% of FPL.
-2026-04-16,N7001131,FA-26-00234,,S-004,2026-04-16,"369% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-04-16,N7001133,FA-26-00237,,S-006,2026-04-16,"Called pt, will bring stubs next week."
-2026-04-17,N7001135,FA-26-00235,,S-006,2026-04-17,"Income 712% FPL, over limit. Denial letter mailed with payment plan offer."
-2026-04-18,N7001137,FA-26-00251,,S-001,2026-04-18,LVM for pt re: missing pay stubs.
-2026-04-19,N7001141,FA-26-00265,,S-001,2026-04-19,LVM for pt re: missing pay stubs.
-2026-04-19,N7001143,FA-26-00233,,S-004,2026-04-19,Approval letter sent. 23% of FPL.
-2026-04-19,N7001144,FA-26-00201,,S-001,2026-04-19,2nd request for income docs mailed.
-2026-04-19,N7001147,FA-26-00227,,S-004,2026-04-19,Over 400%. Explained 12 month interest free plan option to pt.
-2026-04-21,N7001149,FA-26-00189,,S-001,2026-04-21,Over 400%. Explained 12 month interest free plan option to pt.
-2026-04-21,N7001152,FA-26-00252,,S-001,2026-04-21,LVM for pt re: missing pay stubs.
-2026-04-21,N7001156,FA-26-00267,,S-001,2026-04-21,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-04-23,N7001158,FA-26-00219,,S-004,2026-04-23,Approval letter sent. 68% of FPL.
-2026-04-25,N7001161,FA-26-00272,,S-006,2026-04-25,LVM for pt re: missing pay stubs.
-2026-04-27,N7001165,FA-26-00249,,S-006,2026-04-27,Over 400%. Explained 12 month interest free plan option to pt.
-2026-04-28,N7001167,FA-26-00296,,S-004,2026-04-28,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-04-30,N7001170,FA-26-00291,,S-004,2026-04-30,Mailed request for proof of income. 30 days to respond.
-2026-05-01,N7001171,FA-26-00280,,S-006,2026-05-01,Approval letter sent. 23% of FPL.
-2026-05-01,N7001175,FA-26-00274,,S-006,2026-05-01,"Verified income from pay stubs, 107% FPL. Approved 100%, letter mailed."
-2026-05-01,N7001176,FA-26-00287,,S-005,2026-05-01,"Called pt, will bring stubs next week."
-2026-05-01,N7001180,FA-26-00259,,S-001,2026-05-01,Approval letter sent. 139% of FPL.
-2026-05-03,N7001184,FA-26-00285,,S-001,2026-05-03,"Approved free care, adj posted."
-2026-05-03,N7001185,FA-26-00298,,S-004,2026-05-03,"218% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-05-08,N7001188,FA-26-00309,,S-004,2026-05-08,Mailed request for proof of income. 30 days to respond.
-2026-05-09,N7001189,FA-26-00312,,S-005,2026-05-09,"261% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-05-09,N7001192,FA-26-00252,,S-005,2026-05-09,Approval letter sent. 68% of FPL.
-2026-05-10,N7001196,FA-26-00306,,S-005,2026-05-10,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
-2026-05-11,N7001199,FA-26-00324,,S-001,2026-05-11,Sent missing info letter.
-2026-05-11,N7001203,FA-26-00327,,S-004,2026-05-11,Approval letter sent. 105% of FPL.
-2026-05-12,N7001206,FA-26-00265,,S-001,2026-05-12,"Verified income from pay stubs, 95% FPL. Approved 100%, letter mailed."
-2026-05-12,N7001208,FA-26-00244,,S-001,2026-05-12,"284% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-05-13,N7001210,FA-26-00325,,S-001,2026-05-13,"Called pt, will bring stubs next week."
-2026-05-13,N7001214,FA-26-00326,,S-004,2026-05-13,"Medi-Cal confirmed active in eligibility portal, approved 100%."
-2026-05-14,N7001216,FA-26-00237,,S-006,2026-05-14,Approval letter sent. 113% of FPL.
-2026-05-16,N7001219,FA-26-00344,,S-004,2026-05-16,Sent missing info letter.
-2026-05-16,N7001220,FA-26-00314,,S-004,2026-05-16,"Income 617% FPL, over limit. Denial letter mailed with payment plan offer."
-2026-05-16,N7001223,FA-26-00381,,S-004,2026-05-16,LVM for pt re: missing pay stubs.
-2026-05-16,N7001227,FA-26-00387,,S-006,2026-05-16,Sent missing info letter.
-2026-05-16,N7001230,FA-26-00398,,S-001,2026-05-16,Discount approved. Pt to pay balance or set up plan.
-2026-05-17,N7001232,FA-26-00324,,S-001,2026-05-17,"Verified income from tax return, 100% FPL. Approved 100%, letter mailed."
-2026-05-17,N7001235,FA-26-00354,,S-001,2026-05-17,"Called pt, will bring stubs next week."
-2026-05-17,N7001237,FA-26-00257,,S-005,2026-05-17,"LVM x2, no call back."
-2026-05-17,N7001241,FA-26-00408,,S-004,2026-05-17,LVM for pt re: missing pay stubs.
-2026-05-18,N7001244,FA-26-00363,,S-005,2026-05-18,LVM for pt re: missing pay stubs.
-2026-05-18,N7001248,FA-26-00366,,S-004,2026-05-18,Mailed request for proof of income. 30 days to respond.
-2026-05-18,N7001250,FA-26-00287,,S-001,2026-05-18,Approval letter sent. 112% of FPL.
-2026-05-19,N7001254,FA-26-00317,,S-001,2026-05-19,Approval letter sent. 151% of FPL.
-2026-05-19,N7001258,FA-26-00251,,S-001,2026-05-19,Approval letter sent. 163% of FPL.
-2026-05-19,N7001259,FA-26-00396,,S-005,2026-05-19,"Approved free care, adj posted."
-2026-05-20,N7001261,FA-26-00384,,S-001,2026-05-20,Approval letter sent. 160% of FPL.
-2026-05-20,N7001263,FA-26-00272,,S-004,2026-05-20,Over 400%. Explained 12 month interest free plan option to pt.
-2026-05-20,N7001266,FA-26-00400,,S-001,2026-05-20,"Verified income from tax return, 188% FPL. Approved 100%, letter mailed."
-2026-05-21,N7001270,FA-26-00377,,S-001,2026-05-21,Approval letter sent. 167% of FPL.
-2026-05-21,N7001272,FA-26-00323,,S-004,2026-05-21,"Verified income from employer letter, 81% FPL. Approved 100%, letter mailed."
-2026-05-22,N7001275,FA-26-00283,,S-005,2026-05-22,"LVM x2, no call back."
-2026-05-22,N7001276,FA-26-00404,,S-004,2026-05-22,"Verified income from employer letter, 152% FPL. Approved 100%, letter mailed."
-2026-05-23,N7001278,FA-26-00409,,S-001,2026-05-23,"354% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-05-24,N7001281,FA-26-00291,,S-001,2026-05-24,"332% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-05-24,N7001284,FA-26-00307,,S-001,2026-05-24,"Pt said will send stubs, nothing received."
-2026-05-25,N7001286,FA-26-00361,,S-006,2026-05-25,Discount approved. Pt to pay balance or set up plan.
-2026-05-26,N7001290,FA-26-00375,,S-001,2026-05-26,Discount approved. Pt to pay balance or set up plan.
-2026-05-27,N7001291,FA-26-00402,,S-005,2026-05-27,"Approved free care, adj posted."
-2026-05-28,N7001295,FA-26-00330,,S-005,2026-05-28,"Approved free care, adj posted."
-2026-05-28,N7001299,FA-26-00358,,S-001,2026-05-28,Approval letter sent. 113% of FPL.
-2026-05-30,N7001303,FA-26-00389,,S-001,2026-05-30,"Income 499% FPL, over limit. Denial letter mailed with payment plan offer."
-2026-05-31,N7001305,FA-26-00383,,S-001,2026-05-31,Approval letter sent. 175% of FPL.
-2026-05-31,N7001307,FA-26-00401,,S-004,2026-05-31,"Income 792% FPL, over limit. Denial letter mailed with payment plan offer."
-2026-06-05,N7001308,FA-26-00359,,S-004,2026-06-05,Approval letter sent. 131% of FPL.
-2026-06-09,N7001309,FA-26-00333,,S-004,2026-06-09,2nd request for income docs mailed.
-2026-06-12,N7001310,FA-26-00408,,S-004,2026-06-12,"231% FPL - discount approved, pt owes 30%. Letter mailed."
-2026-06-14,N7001313,FA-26-00342,,S-001,2026-06-14,"Pt said will send stubs, nothing received."
-2026-07-01,N7001317,FA-26-00414,,S-009,2026-07-01,App + income docs scanned to FA queue.
-2026-07-02,N7001319,FA-26-00415,,S-009,2026-07-02,Pt dropped off FA application with pay stubs at PFS window.
-2026-07-02,N7001321,FA-26-00417,,S-008,2026-07-02,"FA app received by mail, stubs attached."
-2026-07-04,N7001323,FA-26-00423,,S-009,2026-07-04,"Pt asked about financial assistance, gave app. Returned same day."
-2026-07-04,N7001326,FA-26-00427,,S-011,2026-07-04,Pt dropped off FA application with pay stubs at PFS window.
-2026-07-04,N7001328,FA-26-00428,,S-009,2026-07-04,App + income docs scanned to FA queue.
-2026-07-05,N7001331,FA-26-00432,,S-012,2026-07-05,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-06,N7001333,FA-26-00435,,S-011,2026-07-06,App + income docs scanned to FA queue.
-2026-07-06,N7001334,FA-26-00436,,S-009,2026-07-06,"FA app received by mail, stubs attached."
-2026-07-06,N7001337,FA-26-00442,,S-009,2026-07-06,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-09,N7001341,FA-26-00446,,S-008,2026-07-09,"Pt states has Medi-Cal, card copied."
-2026-07-09,N7001342,FA-26-00449,,S-013,2026-07-09,Pt dropped off FA application with pay stubs at PFS window.
-2026-07-09,N7001343,FA-26-00450,,S-007,2026-07-09,App + income docs scanned to FA queue.
-2026-07-15,N7001345,FA-26-00466,,S-007,2026-07-15,"FA app received by mail, stubs attached."
-2026-07-15,N7001348,FA-26-00468,,S-011,2026-07-15,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-15,N7001349,FA-26-00469,,S-013,2026-07-15,Pt dropped off FA application with pay stubs at PFS window.
-2026-07-17,N7001350,FA-26-00472,,S-012,2026-07-17,App + income docs scanned to FA queue.
-2026-07-17,N7001351,FA-26-00476,,S-013,2026-07-17,App + income docs scanned to FA queue.
-2026-07-19,N7001355,FA-26-00485,,S-011,2026-07-19,Pt dropped off FA application with pay stubs at PFS window.
-2026-07-20,N7001356,FA-26-00486,,S-013,2026-07-20,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-20,N7001357,FA-26-00488,,S-009,2026-07-20,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-21,N7001359,FA-26-00489,,S-007,2026-07-21,"FA app received by mail, stubs attached."
-2026-07-21,N7001360,FA-26-00493,,S-012,2026-07-21,"FA app received by mail, stubs attached."
-2026-07-22,N7001362,FA-26-00496,,S-007,2026-07-22,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-22,N7001364,FA-26-00498,,S-008,2026-07-22,"Pt experiencing homelessness, staying at shelter. Gave FA app."
-2026-07-24,N7001368,FA-26-00506,,S-012,2026-07-24,App + income docs scanned to FA queue.
-2026-07-24,N7001371,FA-26-00510,,S-013,2026-07-24,"FA app received by mail, stubs attached."
-2026-07-27,N7001374,FA-26-00515,,S-011,2026-07-27,"FA app received by mail, stubs attached."
-2026-07-30,N7001377,FA-26-00526,,S-012,2026-07-30,"Spoke w/ pt re balance, pt submitting FA app."
-2026-07-31,N7001378,FA-26-00533,,S-011,2026-07-31,"Spoke w/ pt re balance, pt submitting FA app."
-2026-08-01,N7001382,FA-26-00534,,S-007,2026-08-01,"Pt asked about financial assistance, gave app. Returned same day."
-2026-08-02,N7001386,FA-26-00544,,S-013,2026-08-02,App + income docs scanned to FA queue.
-2026-08-04,N7001387,FA-26-00548,,S-009,2026-08-04,App + income docs scanned to FA queue.
-2026-08-08,N7001390,FA-26-00553,,S-007,2026-08-08,App + income docs scanned to FA queue.
-2026-08-08,N7001391,FA-26-00560,,S-011,2026-08-08,App + income docs scanned to FA queue.
-2026-08-10,N7001394,FA-26-00569,,S-009,2026-08-10,"FA app received by mail, stubs attached."
-2026-08-14,N7001398,FA-26-00579,,S-012,2026-08-14,Pt dropped off FA application with pay stubs at PFS window.
-2026-08-16,N7001402,FA-26-00586,,S-008,2026-08-16,"Spoke w/ pt re balance, pt submitting FA app."
-2026-08-16,N7001403,FA-26-00587,,S-012,2026-08-16,App + income docs scanned to FA queue.
-2026-08-16,N7001406,FA-26-00588,,S-009,2026-08-16,App + income docs scanned to FA queue.
-2026-08-16,N7001408,FA-26-00589,,S-012,2026-08-16,"FA app received by mail, stubs attached."
-2026-08-19,N7001412,FA-26-00599,,S-013,2026-08-19,Pt dropped off FA application with pay stubs at PFS window.
-2026-08-20,N7001415,FA-26-00601,,S-013,2026-08-20,"FA app received by mail, stubs attached."
-2026-08-21,N7001416,FA-26-00603,,S-012,2026-08-21,"FA app received by mail, stubs attached."
-2026-08-24,N7001419,FA-26-00608,,S-009,2026-08-24,"Spoke w/ pt re balance, pt submitting FA app."
-2026-08-24,N7001422,FA-26-00610,,S-013,2026-08-24,"Spoke w/ pt re balance, pt submitting FA app."
-2026-08-31,N7001426,FA-26-00627,,S-007,2026-08-31,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-03,N7001428,FA-26-00634,,S-012,2026-09-03,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-03,N7001429,FA-26-00636,,S-012,2026-09-03,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-07,N7001432,FA-26-00650,,S-008,2026-09-07,"FA app received by mail, stubs attached."
-2026-09-09,N7001433,FA-26-00658,,S-011,2026-09-09,"FA app received by mail, stubs attached."
-2026-09-10,N7001437,FA-26-00662,,S-011,2026-09-10,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-10,N7001438,FA-26-00664,,S-007,2026-09-10,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-10,N7001442,FA-26-00665,,S-007,2026-09-10,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-10,N7001444,FA-26-00666,,S-011,2026-09-10,"FA app received by mail, stubs attached."
-2026-09-11,N7001448,FA-26-00668,,S-009,2026-09-11,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-12,N7001452,FA-26-00677,,S-007,2026-09-12,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-12,N7001453,FA-26-00682,,S-007,2026-09-12,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-13,N7001455,FA-26-00684,,S-008,2026-09-13,Pt dropped off FA application with pay stubs at PFS window.
-2026-09-13,N7001458,FA-26-00687,,S-013,2026-09-13,"Pt states has Medi-Cal, card copied."
-2026-09-14,N7001462,FA-26-00690,,S-012,2026-09-14,"FA app received by mail, stubs attached."
-2026-09-15,N7001465,FA-26-00692,,S-011,2026-09-15,"FA app received by mail, stubs attached."
-2026-09-15,N7001466,FA-26-00695,,S-011,2026-09-15,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-16,N7001470,FA-26-00700,,S-008,2026-09-16,App + income docs scanned to FA queue.
-2026-09-18,N7001471,FA-26-00708,,S-011,2026-09-18,Pt dropped off FA application with pay stubs at PFS window.
-2026-09-19,N7001472,FA-26-00709,,S-012,2026-09-19,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-21,N7001476,FA-26-00713,,S-008,2026-09-21,"Pt asked about financial assistance, gave app. Returned same day."
-2026-09-21,N7001480,FA-26-00714,,S-008,2026-09-21,App + income docs scanned to FA queue.
-2026-09-22,N7001481,FA-26-00715,,S-008,2026-09-22,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-22,N7001484,FA-26-00717,,S-012,2026-09-22,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-24,N7001485,FA-26-00725,,S-009,2026-09-24,App + income docs scanned to FA queue.
-2026-09-26,N7001487,FA-26-00731,,S-007,2026-09-26,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-28,N7001489,FA-26-00737,,S-013,2026-09-28,"Spoke w/ pt re balance, pt submitting FA app."
-2026-09-28,N7001491,FA-26-00738,,S-013,2026-09-28,Pt dropped off FA application with pay stubs at PFS window.
+2025-01-01,N7000002,FA-24-04107,,S-001,2024-12-08,LVM for pt re: missing pay stubs.
+2025-01-01,N7000005,FA-24-04113,,S-005,2024-12-13,Sent missing info letter.
+2025-01-01,N7000008,FA-24-04108,,S-001,2024-12-14,Sent missing info letter.
+2025-01-01,N7000011,FA-24-04112,,S-006,2024-12-15,Sent missing info letter.
+2025-01-01,N7000014,FA-24-04126,,S-005,2024-12-23,Sent missing info letter.
+2025-01-01,N7000016,FA-24-04136,,S-001,2024-12-30,"Called pt, will bring stubs next week."
+2025-01-08,N7000019,FA-24-04120,,S-001,2025-01-08,"Approved free care, adj posted."
+2025-01-08,N7000021,FA-24-04101,,S-001,2025-01-08,"Income 704% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-01-09,N7000023,FA-24-04132,,S-001,2025-01-09,"Verified income from pay stubs, 72% FPL. Approved 100%, letter mailed."
+2025-01-09,N7000026,FA-24-04143,,S-006,2025-01-09,"386% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-01-10,N7000027,FA-25-00004,,S-001,2025-01-10,LVM for pt re: missing pay stubs.
+2025-01-10,N7000029,FA-24-04107,,S-005,2025-01-10,Approval letter sent. 88% of FPL.
+2025-01-10,N7000033,FA-24-04116,,S-006,2025-01-10,"Approved free care, adj posted."
+2025-01-11,N7000037,FA-24-04135,,S-001,2025-01-11,"284% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-01-11,N7000039,FA-24-04121,,S-005,2025-01-11,"Approved free care, adj posted."
+2025-01-11,N7000040,FA-24-04126,,S-005,2025-01-11,"Verified income from pay stubs, 75% FPL. Approved 100%, letter mailed."
+2025-01-12,N7000042,FA-25-00003,,S-001,2025-01-12,"Income 765% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-01-12,N7000046,FA-24-04130,,S-006,2025-01-12,"Verified income from pay stubs, 107% FPL. Approved 100%, letter mailed."
+2025-01-12,N7000050,FA-24-04140,,S-006,2025-01-12,"Bank stmt shows savings approx $13,753. Over FAP asset limit, denied."
+2025-01-13,N7000051,FA-25-00009,,S-006,2025-01-13,Approval letter sent. 166% of FPL.
+2025-01-13,N7000055,FA-24-04113,,S-006,2025-01-13,Over 400%. Explained 12 month interest free plan option to pt.
+2025-01-16,N7000058,FA-25-00013,,S-001,2025-01-16,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-01-16,N7000060,FA-25-00012,,S-006,2025-01-16,"Bank stmt shows savings approx $20,510. Over FAP asset limit, denied."
+2025-01-18,N7000061,FA-24-04102,,S-005,2025-01-18,"Bank stmt shows savings approx $39,388. Over FAP asset limit, denied."
+2025-01-21,N7000064,FA-24-04136,,S-001,2025-01-21,"323% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-01-22,N7000066,FA-25-00014,,S-001,2025-01-22,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-01-22,N7000067,FA-25-00016,,S-005,2025-01-22,Mailed request for proof of income. 30 days to respond.
+2025-01-27,N7000070,FA-25-00018,,S-005,2025-01-27,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-01-27,N7000071,FA-25-00008,,S-005,2025-01-27,Approval letter sent. 167% of FPL.
+2025-01-27,N7000075,FA-25-00019,,S-006,2025-01-27,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-01-28,N7000078,FA-25-00022,,S-005,2025-01-28,Sent missing info letter.
+2025-02-04,N7000079,FA-25-00016,,S-005,2025-02-04,Approval letter sent. 149% of FPL.
+2025-02-06,N7000080,FA-25-00030,,S-001,2025-02-06,"351% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-02-07,N7000082,FA-25-00041,,S-004,2025-02-07,"341% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-02-07,N7000086,FA-25-00043,,S-001,2025-02-07,Mailed request for proof of income. 30 days to respond.
+2025-02-09,N7000087,FA-25-00047,,S-004,2025-02-09,Mailed request for proof of income. 30 days to respond.
+2025-02-11,N7000091,FA-25-00022,,S-005,2025-02-11,"Approved free care, adj posted."
+2025-02-15,N7000095,FA-25-00036,,S-001,2025-02-15,Discount approved. Pt to pay balance or set up plan.
+2025-02-17,N7000098,FA-25-00054,,S-005,2025-02-17,Over 400%. Explained 12 month interest free plan option to pt.
+2025-02-18,N7000099,FA-25-00040,,S-006,2025-02-18,"Approved free care, adj posted."
+2025-02-19,N7000103,FA-25-00057,,S-005,2025-02-19,"Bank stmt shows savings approx $23,755. Over FAP asset limit, denied."
+2025-02-22,N7000105,FA-25-00068,,S-001,2025-02-22,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-02-22,N7000109,FA-25-00047,,S-001,2025-02-22,Approval letter sent. 155% of FPL.
+2025-02-23,N7000112,FA-25-00043,,S-001,2025-02-23,Approval letter sent. 65% of FPL.
+2025-02-23,N7000116,FA-25-00059,,S-001,2025-02-23,"Approved free care, adj posted."
+2025-02-24,N7000120,FA-25-00046,,S-005,2025-02-24,Discount approved. Pt to pay balance or set up plan.
+2025-02-24,N7000123,FA-25-00070,,S-005,2025-02-24,Sent missing info letter.
+2025-02-25,N7000127,FA-25-00060,,S-001,2025-02-25,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-03-03,N7000129,FA-25-00079,,S-001,2025-03-03,"Called pt, will bring stubs next week."
+2025-03-09,N7000131,FA-25-00065,,S-001,2025-03-09,Over 400%. Explained 12 month interest free plan option to pt.
+2025-03-10,N7000135,FA-25-00097,,S-006,2025-03-10,Approval letter sent. 164% of FPL.
+2025-03-11,N7000138,FA-25-00087,,S-004,2025-03-11,Approval letter sent. 49% of FPL.
+2025-03-12,N7000139,FA-25-00085,,S-001,2025-03-12,Discount approved. Pt to pay balance or set up plan.
+2025-03-13,N7000140,FA-25-00101,,S-001,2025-03-13,"Bank stmt shows savings approx $38,426. Over FAP asset limit, denied."
+2025-03-13,N7000142,FA-25-00104,,S-005,2025-03-13,Receives CalFresh benefits - approved free care without stubs.
+2025-03-14,N7000146,FA-25-00073,,S-001,2025-03-14,"Income 500% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-03-16,N7000148,FA-25-00118,,S-006,2025-03-16,LVM for pt re: missing pay stubs.
+2025-03-20,N7000149,FA-25-00117,,S-005,2025-03-20,Discount approved. Pt to pay balance or set up plan.
+2025-03-21,N7000152,FA-25-00090,,S-006,2025-03-21,"Income 655% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-03-21,N7000156,FA-25-00113,,S-005,2025-03-21,"Bank stmt shows savings approx $12,396. Over FAP asset limit, denied."
+2025-03-22,N7000159,FA-25-00115,,S-006,2025-03-22,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-03-22,N7000162,FA-25-00124,,S-005,2025-03-22,Sent missing info letter.
+2025-03-22,N7000164,FA-25-00100,,S-001,2025-03-22,"Verified income from pay stubs, 121% FPL. Approved 100%, letter mailed."
+2025-03-24,N7000168,FA-25-00093,,S-001,2025-03-24,Approval letter sent. 178% of FPL.
+2025-03-25,N7000170,FA-25-00108,,S-005,2025-03-25,Approval letter sent. 115% of FPL.
+2025-03-26,N7000172,FA-25-00134,,S-001,2025-03-26,"381% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-03-27,N7000176,FA-25-00079,,S-004,2025-03-27,"Income 634% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-03-27,N7000179,FA-25-00119,,S-001,2025-03-27,Approval letter sent. 130% of FPL.
+2025-03-27,N7000183,FA-25-00141,,S-006,2025-03-27,Sent missing info letter.
+2025-03-27,N7000184,FA-25-00114,,S-005,2025-03-27,"Bank stmt shows savings approx $11,483. Over FAP asset limit, denied."
+2025-03-27,N7000186,FA-25-00110,,S-006,2025-03-27,"App received 401 days after 1st statement. Outside 240 day window, denied."
+2025-03-29,N7000188,FA-25-00103,,S-005,2025-03-29,"Verified income from pay stubs, 56% FPL. Approved 100%, letter mailed."
+2025-03-30,N7000191,FA-25-00133,,S-006,2025-03-30,"Bank stmt shows savings approx $47,866. Over FAP asset limit, denied."
+2025-03-31,N7000192,FA-25-00082,,S-004,2025-03-31,Over 400%. Explained 12 month interest free plan option to pt.
+2025-04-01,N7000196,FA-25-00118,,S-006,2025-04-01,"Approved free care, adj posted."
+2025-04-03,N7000198,FA-25-00140,,S-004,2025-04-03,Discount approved. Pt to pay balance or set up plan.
+2025-04-03,N7000200,FA-25-00111,,S-006,2025-04-03,Discount approved. Pt to pay balance or set up plan.
+2025-04-04,N7000203,FA-25-00150,,S-005,2025-04-04,Mailed request for proof of income. 30 days to respond.
+2025-04-04,N7000204,FA-25-00125,,S-001,2025-04-04,Discount approved. Pt to pay balance or set up plan.
+2025-04-04,N7000208,FA-25-00145,,S-001,2025-04-04,"App received 359 days after 1st statement. Outside 240 day window, denied."
+2025-04-05,N7000212,FA-25-00126,,S-005,2025-04-05,Approval letter sent. 115% of FPL.
+2025-04-10,N7000215,FA-25-00171,,S-004,2025-04-10,LVM for pt re: missing pay stubs.
+2025-04-11,N7000216,FA-25-00173,,S-006,2025-04-11,Mailed request for proof of income. 30 days to respond.
+2025-04-12,N7000218,FA-25-00141,,S-001,2025-04-12,"Verified income from pay stubs, 112% FPL. Approved 100%, letter mailed."
+2025-04-14,N7000219,FA-25-00156,,S-005,2025-04-14,Approval letter sent. 135% of FPL.
+2025-04-14,N7000220,FA-25-00170,,S-004,2025-04-14,Approval letter sent. 57% of FPL.
+2025-04-16,N7000224,FA-25-00174,,S-006,2025-04-16,Sent missing info letter.
+2025-04-17,N7000225,FA-25-00142,,S-005,2025-04-17,"Pt said will send stubs, nothing received."
+2025-04-18,N7000229,FA-25-00130,,S-004,2025-04-18,Approval letter sent. 48% of FPL.
+2025-04-19,N7000230,FA-25-00154,,S-006,2025-04-19,"Verified income from pay stubs, 127% FPL. Approved 100%, letter mailed."
+2025-04-19,N7000234,FA-25-00188,,S-001,2025-04-19,Sent missing info letter.
+2025-04-21,N7000235,FA-25-00158,,S-004,2025-04-21,"Verified income from pay stubs, 102% FPL. Approved 100%, letter mailed."
+2025-04-21,N7000236,FA-25-00184,,S-001,2025-04-21,Over 400%. Explained 12 month interest free plan option to pt.
+2025-04-22,N7000238,FA-25-00198,,S-005,2025-04-22,"Approved free care, adj posted."
+2025-04-22,N7000239,FA-25-00171,,S-006,2025-04-22,Approval letter sent. 189% of FPL.
+2025-04-25,N7000242,FA-25-00182,,S-001,2025-04-25,Discount approved. Pt to pay balance or set up plan.
+2025-04-25,N7000244,FA-25-00180,,S-005,2025-04-25,"Verified income from pay stubs, 113% FPL. Approved 100%, letter mailed."
+2025-04-25,N7000246,FA-25-00159,,S-006,2025-04-25,Discount approved. Pt to pay balance or set up plan.
+2025-04-26,N7000249,FA-25-00175,,S-006,2025-04-26,"Approved free care, adj posted."
+2025-04-27,N7000252,FA-25-00173,,S-006,2025-04-27,"Income 476% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-04-27,N7000256,FA-25-00186,,S-001,2025-04-27,Approval letter sent. 165% of FPL.
+2025-04-28,N7000258,FA-25-00164,,S-005,2025-04-28,"284% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-04-29,N7000261,FA-25-00194,,S-004,2025-04-29,"Verified income from pay stubs, 171% FPL. Approved 100%, letter mailed."
+2025-04-30,N7000264,FA-25-00207,,S-001,2025-04-30,LVM for pt re: missing pay stubs.
+2025-05-02,N7000267,FA-25-00220,,S-005,2025-05-02,Mailed request for proof of income. 30 days to respond.
+2025-05-02,N7000271,FA-25-00201,,S-001,2025-05-02,"288% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-05-03,N7000273,FA-25-00216,,S-005,2025-05-03,"Approved free care, adj posted."
+2025-05-05,N7000276,FA-25-00211,,S-005,2025-05-05,Pt sent tax return instead of stubs. FAP requires pay stubs - denied.
+2025-05-06,N7000279,FA-25-00225,,S-006,2025-05-06,"Income 591% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-05-06,N7000281,FA-25-00223,,S-005,2025-05-06,Sent missing info letter.
+2025-05-07,N7000283,FA-25-00235,,S-001,2025-05-07,"Approved free care, adj posted."
+2025-05-07,N7000285,FA-25-00228,,S-001,2025-05-07,Pt sent employer letter instead of stubs. FAP requires pay stubs - denied.
+2025-05-08,N7000289,FA-25-00196,,S-005,2025-05-08,Discount approved. Pt to pay balance or set up plan.
+2025-05-08,N7000290,FA-25-00242,,S-001,2025-05-08,LVM for pt re: missing pay stubs.
+2025-05-10,N7000291,FA-25-00221,,S-001,2025-05-10,Approval letter sent. 25% of FPL.
+2025-05-10,N7000293,FA-25-00213,,S-004,2025-05-10,Approval letter sent. 124% of FPL.
+2025-05-12,N7000296,FA-25-00232,,S-005,2025-05-12,Discount approved. Pt to pay balance or set up plan.
+2025-05-14,N7000300,FA-25-00248,,S-006,2025-05-14,"Called pt, will bring stubs next week."
+2025-05-14,N7000304,FA-25-00254,,S-006,2025-05-14,Approval letter sent. 100% of FPL.
+2025-05-15,N7000307,FA-25-00251,,S-006,2025-05-15,Mailed request for proof of income. 30 days to respond.
+2025-05-17,N7000310,FA-25-00218,,S-001,2025-05-17,"Approved free care, adj posted."
+2025-05-17,N7000311,FA-25-00220,,S-001,2025-05-17,"Income 589% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-05-19,N7000315,FA-25-00239,,S-005,2025-05-19,"250% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-05-19,N7000316,FA-25-00207,,S-006,2025-05-19,Discount approved. Pt to pay balance or set up plan.
+2025-05-19,N7000320,FA-25-00258,,S-005,2025-05-19,"App received 414 days after 1st statement. Outside 240 day window, denied."
+2025-05-20,N7000322,FA-25-00262,,S-005,2025-05-20,LVM for pt re: missing pay stubs.
+2025-05-21,N7000324,FA-25-00223,,S-006,2025-05-21,"225% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-05-22,N7000325,FA-25-00230,,S-004,2025-05-22,"LVM x2, no call back."
+2025-05-25,N7000327,FA-25-00238,,S-005,2025-05-25,"359% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-05-29,N7000329,FA-25-00269,,S-005,2025-05-29,"Approved free care, adj posted."
+2025-05-29,N7000333,FA-25-00253,,S-001,2025-05-29,Discount approved. Pt to pay balance or set up plan.
+2025-05-29,N7000336,FA-25-00266,,S-006,2025-05-29,"LVM x2, no call back."
+2025-05-30,N7000340,FA-25-00264,,S-001,2025-05-30,"Verified income from benefit letter, 25% FPL. Approved 100%, letter mailed."
+2025-06-02,N7000343,FA-25-00289,,S-001,2025-06-02,Approval letter sent. 117% of FPL.
+2025-06-02,N7000345,FA-25-00242,,S-006,2025-06-02,Approval letter sent. 96% of FPL.
+2025-06-03,N7000348,FA-25-00276,,S-005,2025-06-03,Approval letter sent. 136% of FPL.
+2025-06-04,N7000352,FA-25-00271,,S-004,2025-06-04,"Approved free care, adj posted."
+2025-06-04,N7000355,FA-25-00107,HB25107496,S-004,2025-06-04,Visit within 12 months of FA approval - applied same discount level.
+2025-06-05,N7000356,FA-25-00292,,S-004,2025-06-05,Over 400%. Explained 12 month interest free plan option to pt.
+2025-06-05,N7000357,FA-25-00308,,S-005,2025-06-05,Sent missing info letter.
+2025-06-06,N7000361,FA-25-00248,,S-005,2025-06-06,"Income 554% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-06-06,N7000363,FA-25-00311,,S-005,2025-06-06,"Verified income from pay stubs, 81% FPL. Approved 100%, letter mailed."
+2025-06-07,N7000367,FA-25-00301,,S-005,2025-06-07,"Called pt, will bring stubs next week."
+2025-06-07,N7000368,FA-25-00303,,S-001,2025-06-07,"Verified income from pay stubs, 63% FPL. Approved 100%, letter mailed."
+2025-06-11,N7000371,FA-25-00321,,S-001,2025-06-11,Approval letter sent. 32% of FPL.
+2025-06-12,N7000375,FA-25-00313,,S-006,2025-06-12,Discount approved. Pt to pay balance or set up plan.
+2025-06-12,N7000376,FA-25-00314,,S-005,2025-06-12,"App received 330 days after 1st statement. Outside 240 day window, denied."
+2025-06-13,N7000380,FA-25-00294,,S-001,2025-06-13,"Verified income from pay stubs, 141% FPL. Approved 100%, letter mailed."
+2025-06-13,N7000381,FA-25-00318,,S-001,2025-06-13,"Called pt, will bring stubs next week."
+2025-06-16,N7000385,FA-25-00326,,S-006,2025-06-16,"Called pt, will bring stubs next week."
+2025-06-18,N7000389,FA-25-00301,,S-005,2025-06-18,Approval letter sent. 62% of FPL.
+2025-06-18,N7000390,FA-25-00346,,S-005,2025-06-18,LVM for pt re: missing pay stubs.
+2025-06-20,N7000391,FA-25-00350,,S-006,2025-06-20,"Called pt, will bring stubs next week."
+2025-06-21,N7000393,FA-25-00277,,S-001,2025-06-21,Discount approved. Pt to pay balance or set up plan.
+2025-06-21,N7000396,FA-25-00287,,S-001,2025-06-21,Approval letter sent. 111% of FPL.
+2025-06-22,N7000399,FA-25-00359,,S-006,2025-06-22,LVM for pt re: missing pay stubs.
+2025-06-23,N7000400,FA-25-00337,,S-005,2025-06-23,"Bank stmt shows savings approx $10,820. Over FAP asset limit, denied."
+2025-06-25,N7000403,FA-25-00326,,S-006,2025-06-25,Discount approved. Pt to pay balance or set up plan.
+2025-06-26,N7000404,FA-25-00323,,S-006,2025-06-26,"Approved free care, adj posted."
+2025-06-28,N7000406,FA-25-00376,,S-001,2025-06-28,"Income 464% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-06-28,N7000409,FA-25-00319,,S-005,2025-06-28,Over 400%. Explained 12 month interest free plan option to pt.
+2025-06-29,N7000412,FA-25-00371,,S-001,2025-06-29,LVM for pt re: missing pay stubs.
+2025-06-29,N7000415,FA-25-00382,,S-004,2025-06-29,"Called pt, will bring stubs next week."
+2025-07-04,N7000416,FA-25-00390,,S-001,2025-07-04,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-07-05,N7000417,FA-25-00316,,S-005,2025-07-05,Discount approved. Pt to pay balance or set up plan.
+2025-07-06,N7000418,FA-25-00357,,S-004,2025-07-06,"Income 669% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-07-07,N7000421,FA-25-00350,,S-005,2025-07-07,"288% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-07-07,N7000424,FA-25-00359,,S-004,2025-07-07,"324% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-07-08,N7000425,FA-25-00399,,S-004,2025-07-08,LVM for pt re: missing pay stubs.
+2025-07-10,N7000426,FA-25-00372,,S-001,2025-07-10,Approval letter sent. 102% of FPL.
+2025-07-10,N7000427,FA-25-00398,,S-001,2025-07-10,Sent missing info letter.
+2025-07-10,N7000429,FA-25-00386,,S-006,2025-07-10,"Calc 72,993 / 15,650 = 466% FPL. Over income."
+2025-07-11,N7000432,FA-25-00363,,S-004,2025-07-11,Discount approved. Pt to pay balance or set up plan.
+2025-07-13,N7000436,FA-25-00342,,S-004,2025-07-13,2nd request for income docs mailed.
+2025-07-15,N7000438,FA-25-00405,,S-005,2025-07-15,Mailed request for proof of income. 30 days to respond.
+2025-07-17,N7000442,FA-25-00346,,S-004,2025-07-17,"Income 747% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-07-17,N7000445,FA-25-00417,,S-001,2025-07-17,Sent missing info letter.
+2025-07-18,N7000446,FA-25-00387,,S-006,2025-07-18,"Verified income from self-attestation, 130% FPL. Approved 100%, letter mailed."
+2025-07-18,N7000449,FA-25-00414,,S-006,2025-07-18,"Income 784% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-07-20,N7000453,FA-25-00353,,S-001,2025-07-20,"Verified income from pay stubs, 158% FPL. Approved 100%, letter mailed."
+2025-07-21,N7000456,FA-25-00426,,S-006,2025-07-21,Approval letter sent. 147% of FPL.
+2025-07-21,N7000460,FA-25-00393,,S-001,2025-07-21,"Pt said will send stubs, nothing received."
+2025-07-22,N7000463,FA-25-00397,,S-004,2025-07-22,"279% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-07-22,N7000465,FA-25-00420,,S-001,2025-07-22,Approval letter sent. 171% of FPL.
+2025-07-24,N7000466,FA-25-00432,,S-005,2025-07-24,"Bank stmt shows savings approx $39,114. Over FAP asset limit, denied."
+2025-07-25,N7000467,FA-25-00437,,S-004,2025-07-25,"Called pt, will bring stubs next week."
+2025-07-26,N7000471,FA-25-00436,,S-005,2025-07-26,"Verified income from employer letter, 79% FPL. Approved 100%, letter mailed."
+2025-07-26,N7000474,FA-25-00401,,S-001,2025-07-26,"Approved free care, adj posted."
+2025-07-27,N7000478,FA-25-00407,,S-004,2025-07-27,Approval letter sent. 115% of FPL.
+2025-07-27,N7000481,FA-25-00429,,S-001,2025-07-27,"Approved free care, adj posted."
+2025-07-28,N7000482,FA-25-00439,,S-001,2025-07-28,Approval letter sent. 114% of FPL.
+2025-07-29,N7000486,FA-25-00449,,S-001,2025-07-29,Mailed request for proof of income. 30 days to respond.
+2025-07-29,N7000489,FA-25-00382,,S-004,2025-07-29,Approval letter sent. 186% of FPL.
+2025-07-31,N7000490,FA-25-00453,,S-006,2025-07-31,Sent missing info letter.
+2025-08-01,N7000491,FA-25-00445,,S-001,2025-08-01,Over 400%. Pt agreed to 12 month interest free plan.
+2025-08-03,N7000495,FA-25-00444,,S-001,2025-08-03,"Approved free care, adj posted."
+2025-08-03,N7000496,FA-25-00459,,S-001,2025-08-03,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-08-04,N7000499,FA-25-00398,,S-004,2025-08-04,Approval letter sent. 88% of FPL.
+2025-08-05,N7000501,FA-25-00442,,S-004,2025-08-05,"Income 512% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-08-05,N7000504,FA-25-00431,,S-001,2025-08-05,Approval letter sent. 53% of FPL.
+2025-08-05,N7000506,FA-25-00465,,S-001,2025-08-05,Approval letter sent. 112% of FPL.
+2025-08-06,N7000510,FA-25-00404,,S-006,2025-08-06,"LVM x2, no call back."
+2025-08-08,N7000514,FA-25-00475,,S-001,2025-08-08,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-08-09,N7000517,FA-25-00461,,S-001,2025-08-09,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-08-12,N7000518,FA-25-00453,,S-001,2025-08-12,"230% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-08-12,N7000520,FA-25-00451,,S-001,2025-08-12,"281% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-08-13,N7000523,FA-25-00418,,S-001,2025-08-13,"Income 574% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-08-14,N7000525,FA-25-00467,,S-005,2025-08-14,"App received 264 days after 1st statement. Outside 240 day window, denied."
+2025-08-14,N7000527,FA-25-00477,,S-004,2025-08-14,Over 400%. Pt agreed to 12 month interest free plan.
+2025-08-15,N7000529,FA-25-00491,,S-006,2025-08-15,Sent missing info letter.
+2025-08-15,N7000533,FA-25-00446,,S-005,2025-08-15,"Approved free care, adj posted."
+2025-08-16,N7000537,FA-25-00498,,S-005,2025-08-16,LVM for pt re: missing pay stubs.
+2025-08-16,N7000539,FA-25-00462,,S-004,2025-08-16,"Income 807% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-08-17,N7000541,FA-25-00449,,S-001,2025-08-17,"Verified income from employer letter, 168% FPL. Approved 100%, letter mailed."
+2025-08-18,N7000544,FA-25-00472,,S-001,2025-08-18,Approval letter sent. 97% of FPL.
+2025-08-18,N7000545,FA-25-00493,,S-006,2025-08-18,Over 400%. Explained 12 month interest free plan option to pt.
+2025-08-18,N7000548,FA-25-00505,,S-001,2025-08-18,Sent missing info letter.
+2025-08-18,N7000550,FA-25-00356,HB25112010,S-005,2025-08-18,Visit within 12 months of FA approval - applied same discount level.
+2025-08-19,N7000551,FA-25-00507,,S-001,2025-08-19,Receives CalFresh benefits - approved free care without stubs.
+2025-08-20,N7000552,FA-25-00510,,S-005,2025-08-20,Sent missing info letter.
+2025-08-25,N7000553,FA-25-00517,,S-001,2025-08-25,Sent missing info letter.
+2025-08-27,N7000557,FA-25-00538,,S-004,2025-08-27,LVM for pt re: missing pay stubs.
+2025-08-27,N7000560,FA-25-00528,,S-004,2025-08-27,Mailed request for proof of income. 30 days to respond.
+2025-08-27,N7000563,FA-25-00519,,S-004,2025-08-27,"Called pt, will bring stubs next week."
+2025-08-28,N7000565,FA-25-00534,,S-004,2025-08-28,Mailed request for proof of income. 30 days to respond.
+2025-08-28,N7000568,FA-25-00495,,S-005,2025-08-28,"Income 421% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-08-29,N7000571,FA-25-00531,,S-001,2025-08-29,LVM for pt re: missing pay stubs.
+2025-08-30,N7000574,FA-25-00549,,S-004,2025-08-30,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-08-31,N7000575,FA-25-00454,,S-001,2025-08-31,"248% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-08-31,N7000576,FA-25-00503,,S-004,2025-08-31,Approval letter sent. 119% of FPL.
+2025-09-01,N7000579,FA-25-00512,,S-001,2025-09-01,"Income 551% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-09-01,N7000583,FA-25-00553,,S-006,2025-09-01,LVM for pt re: missing pay stubs.
+2025-09-01,N7000587,FA-25-00547,,S-006,2025-09-01,"Bank stmt shows savings approx $25,345. Over FAP asset limit, denied."
+2025-09-02,N7000588,FA-25-00473,,S-004,2025-09-02,"387% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-09-03,N7000590,FA-25-00481,,S-004,2025-09-03,"LVM x2, no call back."
+2025-09-04,N7000592,FA-25-00545,,S-001,2025-09-04,LVM for pt re: missing pay stubs.
+2025-09-04,N7000595,FA-25-00548,,S-004,2025-09-04,Approval letter sent. 123% of FPL.
+2025-09-04,N7000598,FA-25-00524,,S-004,2025-09-04,"Income 460% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-09-05,N7000601,FA-25-00550,,S-004,2025-09-05,"Called pt, will bring stubs next week."
+2025-09-05,N7000602,FA-25-00541,,S-001,2025-09-05,"Verified income from pay stubs, 58% FPL. Approved 100%, letter mailed."
+2025-09-06,N7000606,FA-25-00529,,S-004,2025-09-06,"250% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-09-06,N7000607,FA-25-00505,,S-005,2025-09-06,Approval letter sent. 151% of FPL.
+2025-09-08,N7000608,FA-25-00568,,S-001,2025-09-08,LVM for pt re: missing pay stubs.
+2025-09-08,N7000610,FA-25-00522,,S-005,2025-09-08,Approval letter sent. 68% of FPL.
+2025-09-09,N7000612,FA-25-00540,,S-001,2025-09-09,Over 400%. Explained 12 month interest free plan option to pt.
+2025-09-10,N7000613,FA-25-00571,,S-005,2025-09-10,Sent missing info letter.
+2025-09-11,N7000614,FA-25-00536,,S-001,2025-09-11,Discount approved. Pt to pay balance or set up plan.
+2025-09-13,N7000618,FA-25-00510,,S-001,2025-09-13,"Approved free care, adj posted."
+2025-09-14,N7000620,FA-25-00567,,S-004,2025-09-14,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-09-17,N7000623,FA-25-00545,,S-005,2025-09-17,"Income 511% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-09-17,N7000626,FA-25-00573,,S-004,2025-09-17,"Verified income from pay stubs, 69% FPL. Approved 100%, letter mailed."
+2025-09-17,N7000629,FA-25-00563,,S-006,2025-09-17,Discount approved. Pt to pay balance or set up plan.
+2025-09-18,N7000633,FA-25-00572,,S-004,2025-09-18,"Income 806% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-09-18,N7000637,FA-25-00583,,S-006,2025-09-18,"Verified income from pay stubs, 180% FPL. Approved 100%, letter mailed."
+2025-09-19,N7000638,FA-25-00553,,S-004,2025-09-19,"Approved free care, adj posted."
+2025-09-22,N7000639,FA-25-00569,,S-004,2025-09-22,Over 400%. Explained 12 month interest free plan option to pt.
+2025-09-22,N7000640,FA-25-00601,,S-005,2025-09-22,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-09-23,N7000644,FA-25-00600,,S-006,2025-09-23,"Called pt, will bring stubs next week."
+2025-09-24,N7000645,FA-25-00603,,S-004,2025-09-24,LVM for pt re: missing pay stubs.
+2025-09-24,N7000647,FA-25-00278,HB25114420,S-004,2025-09-24,Visit within 12 months of FA approval - applied same discount level.
+2025-09-25,N7000651,FA-25-00604,,S-001,2025-09-25,"285% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-09-25,N7000654,FA-25-00574,,S-001,2025-09-25,"213% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-09-25,N7000656,FA-25-00608,,S-004,2025-09-25,"Pt sent CalFresh NOA only, says no job. Need income proof."
+2025-09-26,N7000658,FA-25-00609,,S-004,2025-09-26,"361% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-09-26,N7000662,FA-25-00531,,S-001,2025-09-26,Approval letter sent. 48% of FPL.
+2025-09-27,N7000666,FA-25-00606,,S-006,2025-09-27,"Called pt, will bring stubs next week."
+2025-09-29,N7000670,FA-25-00619,,S-001,2025-09-29,"Called pt, will bring stubs next week."
+2025-09-29,N7000672,FA-25-00615,,S-004,2025-09-29,Only doc is CalFresh notice - no income listed. Requested stubs.
+2025-09-30,N7000675,FA-25-00616,,S-006,2025-09-30,"Verified income from pay stubs, 166% FPL. Approved 100%, letter mailed."
+2025-10-03,N7000679,FA-25-00593,,S-006,2025-10-03,"Approved free care, adj posted."
+2025-10-04,N7000681,FA-25-00628,,S-001,2025-10-04,"Verified income from tax return, 138% FPL. Approved 100%, letter mailed."
+2025-10-04,N7000683,FA-25-00588,,S-004,2025-10-04,"385% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-10-05,N7000686,FA-25-00623,,S-001,2025-10-05,"353% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-10-05,N7000689,FA-25-00630,,S-001,2025-10-05,LVM for pt re: missing pay stubs.
+2025-10-05,N7000691,FA-25-00626,,S-001,2025-10-05,"Called pt, will bring stubs next week."
+2025-10-06,N7000692,FA-25-00639,,S-005,2025-10-06,Mailed request for proof of income. 30 days to respond.
+2025-10-06,N7000693,FA-25-00613,,S-004,2025-10-06,"299% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-10-07,N7000694,FA-25-00634,,S-005,2025-10-07,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-10-07,N7000696,FA-25-00648,,S-001,2025-10-07,Mailed request for proof of income. 30 days to respond.
+2025-10-09,N7000700,FA-25-00611,,S-001,2025-10-09,Approval letter sent. 93% of FPL.
+2025-10-11,N7000704,FA-25-00594,,S-001,2025-10-11,2nd request for income docs mailed.
+2025-10-13,N7000708,FA-25-00665,,S-005,2025-10-13,Mailed request for proof of income. 30 days to respond.
+2025-10-14,N7000710,FA-25-00641,,S-006,2025-10-14,Approval letter sent. 68% of FPL.
+2025-10-14,N7000712,FA-25-00661,,S-005,2025-10-14,Over 400%. Explained 12 month interest free plan option to pt.
+2025-10-14,N7000716,FA-25-00654,,S-001,2025-10-14,Discount approved. Pt to pay balance or set up plan.
+2025-10-14,N7000720,FA-25-00642,,S-004,2025-10-14,"Income 787% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-10-16,N7000724,FA-25-00620,,S-005,2025-10-16,"Pt said will send stubs, nothing received."
+2025-10-17,N7000725,FA-25-00668,,S-006,2025-10-17,LVM for pt re: missing pay stubs.
+2025-10-17,N7000728,FA-25-00606,,S-001,2025-10-17,Approval letter sent. 187% of FPL.
+2025-10-17,N7000731,FA-25-00591,,S-001,2025-10-17,2nd request for income docs mailed.
+2025-10-17,N7000734,FA-25-00645,,S-001,2025-10-17,Approval letter sent. 26% of FPL.
+2025-10-17,N7000735,FA-25-00666,,S-006,2025-10-17,"App received 279 days after 1st statement. Outside 240 day window, denied."
+2025-10-18,N7000736,FA-25-00663,,S-006,2025-10-18,"Over 400%. Offered 12 month interest free plan, pt refused."
+2025-10-21,N7000737,FA-25-00699,,S-004,2025-10-21,Approval letter sent. 150% of FPL.
+2025-10-23,N7000740,FA-25-00603,,S-001,2025-10-23,"Income 604% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-10-23,N7000743,FA-25-00705,,S-001,2025-10-23,"Approved free care, adj posted."
+2025-10-23,N7000746,FA-25-00680,,S-004,2025-10-23,"Approved free care, adj posted."
+2025-10-24,N7000750,FA-25-00713,,S-001,2025-10-24,LVM for pt re: missing pay stubs.
+2025-10-24,N7000752,FA-25-00686,,S-001,2025-10-24,Over 400%. Explained 12 month interest free plan option to pt.
+2025-10-25,N7000756,FA-25-00625,,S-004,2025-10-25,"LVM x2, no call back."
+2025-10-27,N7000759,FA-25-00675,,S-001,2025-10-27,"Income 487% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-10-28,N7000761,FA-25-00631,,S-006,2025-10-28,Approval letter sent. 137% of FPL.
+2025-10-28,N7000763,FA-25-00692,,S-005,2025-10-28,Approval letter sent. 187% of FPL.
+2025-10-29,N7000767,FA-25-00672,,S-004,2025-10-29,"Verified income from pay stubs, 119% FPL. Approved 100%, letter mailed."
+2025-10-29,N7000768,FA-25-00619,,S-001,2025-10-29,"355% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-10-30,N7000769,FA-25-00683,,S-004,2025-10-30,"325% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-10-30,N7000770,FA-25-00696,,S-006,2025-10-30,"Approved free care, adj posted."
+2025-10-30,N7000771,FA-25-00717,,S-004,2025-10-30,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-10-31,N7000772,FA-25-00690,,S-004,2025-10-31,Discount approved. Pt to pay balance or set up plan.
+2025-11-02,N7000776,FA-25-00721,,S-004,2025-11-02,Approval letter sent. 95% of FPL.
+2025-11-02,N7000777,FA-25-00626,,S-001,2025-11-02,"314% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-11-04,N7000778,FA-25-00740,,S-004,2025-11-04,Approval letter sent. 75% of FPL.
+2025-11-04,N7000781,FA-25-00685,,S-001,2025-11-04,Approval letter sent. 180% of FPL.
+2025-11-04,N7000783,FA-25-00734,,S-004,2025-11-04,Mailed request for proof of income. 30 days to respond.
+2025-11-04,N7000784,FA-25-00723,,S-001,2025-11-04,Approval letter sent. 129% of FPL.
+2025-11-04,N7000785,FA-25-00722,,S-001,2025-11-04,"Approved free care, adj posted."
+2025-11-06,N7000787,FA-25-00664,,S-004,2025-11-06,2nd request for income docs mailed.
+2025-11-07,N7000789,FA-25-00747,,S-004,2025-11-07,Approval letter sent. 181% of FPL.
+2025-11-08,N7000793,FA-25-00728,,S-006,2025-11-08,Over 400%. Explained 12 month interest free plan option to pt.
+2025-11-08,N7000797,FA-25-00667,,S-001,2025-11-08,"Pt said will send stubs, nothing received."
+2025-11-08,N7000799,FA-25-00743,,S-004,2025-11-08,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-11-08,N7000800,FA-25-00726,,S-004,2025-11-08,Discount approved. Pt to pay balance or set up plan.
+2025-11-08,N7000802,FA-25-00295,HB25117408,S-004,2025-11-08,Covered under existing FA approval (06/07/2025).
+2025-11-09,N7000804,FA-25-00665,,S-004,2025-11-09,Approval letter sent. 91% of FPL.
+2025-11-09,N7000808,FA-25-00757,,S-005,2025-11-09,Sent missing info letter.
+2025-11-11,N7000812,FA-25-00713,,S-006,2025-11-11,Discount approved. Pt to pay balance or set up plan.
+2025-11-12,N7000815,FA-25-00737,,S-005,2025-11-12,"Approved free care, adj posted."
+2025-11-13,N7000819,FA-25-00768,,S-006,2025-11-13,LVM for pt re: missing pay stubs.
+2025-11-13,N7000821,FA-25-00764,,S-004,2025-11-13,Only doc is CalFresh notice - no income listed. Requested stubs.
+2025-11-14,N7000825,FA-25-00731,,S-004,2025-11-14,Over 400%. Explained 12 month interest free plan option to pt.
+2025-11-14,N7000826,FA-25-00762,,S-005,2025-11-14,Sent missing info letter.
+2025-11-14,N7000829,FA-25-00761,,S-001,2025-11-14,"232% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-11-21,N7000830,FA-25-00734,,S-001,2025-11-21,"Approved free care, adj posted."
+2025-11-22,N7000833,FA-25-00738,,S-001,2025-11-22,"339% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-11-23,N7000837,FA-25-00791,,S-001,2025-11-23,"Approved free care, adj posted."
+2025-11-23,N7000838,FA-25-00771,,S-005,2025-11-23,"Bank stmt shows savings approx $34,485. Over FAP asset limit, denied."
+2025-11-24,N7000840,FA-25-00785,,S-004,2025-11-24,Mailed request for proof of income. 30 days to respond.
+2025-11-24,N7000841,FA-25-00762,,S-004,2025-11-24,Approval letter sent. 82% of FPL.
+2025-11-26,N7000842,FA-25-00719,,S-004,2025-11-26,Over 400%. Explained 12 month interest free plan option to pt.
+2025-11-26,N7000844,FA-25-00765,,S-004,2025-11-26,Approval letter sent. 116% of FPL.
+2025-11-27,N7000845,FA-25-00800,,S-004,2025-11-27,Mailed request for proof of income. 30 days to respond.
+2025-11-27,N7000847,FA-25-00790,,S-005,2025-11-27,Approval letter sent. 92% of FPL.
+2025-11-29,N7000850,FA-25-00779,,S-004,2025-11-29,"Approved free care, adj posted."
+2025-11-29,N7000854,FA-25-00662,HB25119222,S-004,2025-11-29,Covered under existing FA approval (10/09/2025).
+2025-11-30,N7000857,FA-25-00804,,S-006,2025-11-30,"239% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-12-01,N7000859,FA-25-00789,,S-006,2025-12-01,Over 400%. Explained 12 month interest free plan option to pt.
+2025-12-01,N7000863,FA-25-00801,,S-001,2025-12-01,Over 400%. Explained 12 month interest free plan option to pt.
+2025-12-04,N7000865,FA-25-00781,,S-005,2025-12-04,"Approved free care, adj posted."
+2025-12-05,N7000869,FA-25-00827,,S-004,2025-12-05,"Verified income from pay stubs, 140% FPL. Approved 100%, letter mailed."
+2025-12-06,N7000871,FA-25-00833,,S-001,2025-12-06,Approval letter sent. 143% of FPL.
+2025-12-06,N7000872,FA-25-00792,,S-001,2025-12-06,"Verified income from benefit letter, 43% FPL. Approved 100%, letter mailed."
+2025-12-08,N7000875,FA-25-00829,,S-001,2025-12-08,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2025-12-08,N7000879,FA-25-00803,,S-004,2025-12-08,"Approved free care, adj posted."
+2025-12-09,N7000881,FA-25-00822,,S-005,2025-12-09,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-12-09,N7000882,FA-25-00839,,S-004,2025-12-09,Only doc is CalFresh notice - no income listed. Requested stubs.
+2025-12-10,N7000883,FA-25-00826,,S-004,2025-12-10,Discount approved. Pt to pay balance or set up plan.
+2025-12-10,N7000887,FA-25-00845,,S-006,2025-12-10,Mailed request for proof of income. 30 days to respond.
+2025-12-11,N7000889,FA-25-00840,,S-004,2025-12-11,LVM for pt re: missing pay stubs.
+2025-12-11,N7000891,FA-25-00843,,S-001,2025-12-11,Discount approved. Pt to pay balance or set up plan.
+2025-12-11,N7000894,FA-25-00824,,S-001,2025-12-11,"Approved free care, adj posted."
+2025-12-11,N7000896,FA-25-00836,,S-004,2025-12-11,"Offered 12 month interest free plan, pt declined."
+2025-12-12,N7000897,FA-25-00815,,S-004,2025-12-12,2nd request for income docs mailed.
+2025-12-13,N7000898,FA-25-00811,,S-004,2025-12-13,Discount approved. Pt to pay balance or set up plan.
+2025-12-13,N7000902,FA-25-00852,,S-005,2025-12-13,Approval letter sent. 73% of FPL.
+2025-12-13,N7000905,FA-25-00787,,S-004,2025-12-13,"LVM x2, no call back."
+2025-12-15,N7000909,FA-25-00830,,S-006,2025-12-15,Discount approved. Pt to pay balance or set up plan.
+2025-12-16,N7000910,FA-25-00807,,S-005,2025-12-16,"Approved free care, adj posted."
+2025-12-18,N7000912,FA-25-00105,HB25119448,S-001,2025-12-18,New visit 2025-11-24 covered by FA approval of 2025-03-19 (12 mo). Adj posted.
+2025-12-19,N7000915,FA-25-00871,,S-001,2025-12-19,Over 400%. Explained 12 month interest free plan option to pt.
+2025-12-20,N7000918,FA-25-00861,,S-001,2025-12-20,Pt refused payment plan. Will pay later per pt.
+2025-12-21,N7000922,FA-25-00863,,S-004,2025-12-21,Mailed request for proof of income. 30 days to respond.
+2025-12-22,N7000923,FA-25-00837,,S-001,2025-12-22,"Verified income from pay stubs, 168% FPL. Approved 100%, letter mailed."
+2025-12-22,N7000926,FA-25-00880,,S-004,2025-12-22,LVM for pt re: missing pay stubs.
+2025-12-22,N7000928,FA-25-00883,,S-005,2025-12-22,"362% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-12-22,N7000929,FA-25-00884,,S-001,2025-12-22,Mailed request for proof of income. 30 days to respond.
+2025-12-23,N7000930,FA-25-00860,,S-006,2025-12-23,"Income 495% FPL, over limit. Denial letter mailed with payment plan offer."
+2025-12-23,N7000934,FA-25-00885,,S-001,2025-12-23,Receives CalFresh benefits - approved free care without stubs.
+2025-12-24,N7000935,FA-25-00877,,S-001,2025-12-24,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2025-12-25,N7000938,FA-25-00875,,S-001,2025-12-25,"Called pt, will bring stubs next week."
+2025-12-25,N7000939,FA-25-00869,,S-001,2025-12-25,Discount approved. Pt to pay balance or set up plan.
+2025-12-26,N7000942,FA-25-00882,,S-006,2025-12-26,Mailed request for proof of income. 30 days to respond.
+2025-12-27,N7000946,FA-25-00813,,S-006,2025-12-27,"Verified income from pay stubs, 44% FPL. Approved 100%, letter mailed."
+2025-12-28,N7000948,FA-25-00859,,S-005,2025-12-28,"303% FPL - discount approved, pt owes 30%. Letter mailed."
+2025-12-28,N7000950,FA-25-00853,,S-001,2025-12-28,"Verified income from pay stubs, 160% FPL. Approved 100%, letter mailed."
+2025-12-30,N7000954,FA-25-00855,,S-004,2025-12-30,Over 400%. Explained 12 month interest free plan option to pt.
+2026-01-01,N7000958,FA-25-00899,,S-006,2026-01-01,"Called pt, will bring stubs next week."
+2026-01-01,N7000962,FA-25-00863,,S-005,2026-01-01,"Verified income from self-attestation, 75% FPL. Approved 100%, letter mailed."
+2026-01-02,N7000966,FA-25-00840,,S-006,2026-01-02,"Verified income from pay stubs, 102% FPL. Approved 100%, letter mailed."
+2026-01-02,N7000968,FA-25-00865,,S-004,2026-01-02,"218% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-02,N7000971,FA-25-00912,,S-004,2026-01-02,Approval letter sent. 80% of FPL.
+2026-01-02,N7000975,FA-25-00901,,S-001,2026-01-02,Sent missing info letter.
+2026-01-03,N7000978,FA-25-00895,,S-001,2026-01-03,"Verified income from pay stubs, 31% FPL. Approved 100%, letter mailed."
+2026-01-04,N7000979,FA-25-00847,,S-001,2026-01-04,"Verified income from employer letter, 97% FPL. Approved 100%, letter mailed."
+2026-01-04,N7000983,FA-25-00893,,S-004,2026-01-04,"Approved free care, adj posted."
+2026-01-04,N7000986,FA-25-00873,,S-004,2026-01-04,"Verified income from pay stubs, 183% FPL. Approved 100%, letter mailed."
+2026-01-04,N7000989,FA-25-00704,HB25120501,S-004,2026-01-04,Visit within 12 months of FA approval - applied same discount level.
+2026-01-05,N7000992,FA-25-00892,,S-004,2026-01-05,"Income 419% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-01-07,N7000996,FA-26-00003,,S-004,2026-01-07,"Verified income from employer letter, 84% FPL. Approved 100%, letter mailed."
+2026-01-07,N7000999,FA-25-00866,,S-005,2026-01-07,"Pt said will send stubs, nothing received."
+2026-01-07,N7001001,FA-25-00903,,S-005,2026-01-07,"389% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-07,N7001004,FA-25-00897,,S-006,2026-01-07,"315% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-07,N7001006,FA-25-00900,,S-006,2026-01-07,Over 400%. Explained 12 month interest free plan option to pt.
+2026-01-08,N7001009,FA-25-00886,,S-001,2026-01-08,"363% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-08,N7001011,FA-25-00845,,S-001,2026-01-08,"Income 632% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-01-09,N7001015,FA-26-00002,,S-004,2026-01-09,LVM for pt re: missing pay stubs.
+2026-01-09,N7001017,FA-25-00880,,S-001,2026-01-09,Approval letter sent. 108% of FPL.
+2026-01-09,N7001020,FA-25-00908,,S-005,2026-01-09,"324% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-10,N7001021,FA-26-00014,,S-005,2026-01-10,Approval letter sent. 34% of FPL.
+2026-01-10,N7001025,FA-25-00204,HB25121212,S-005,2026-01-10,New visit 2025-12-23 covered by FA approval of 2025-04-29 (12 mo). Adj posted.
+2026-01-11,N7001027,FA-26-00040,,S-004,2026-01-11,Sent missing info letter.
+2026-01-11,N7001031,FA-25-00913,,S-001,2026-01-11,Over 400%. Explained 12 month interest free plan option to pt.
+2026-01-12,N7001032,FA-26-00026,,S-004,2026-01-12,LVM for pt re: missing pay stubs.
+2026-01-12,N7001033,FA-26-00034,,S-004,2026-01-12,Approval letter sent. 153% of FPL.
+2026-01-12,N7001036,FA-26-00001,,S-005,2026-01-12,"Bank stmt shows savings approx $38,846. Over FAP asset limit, denied."
+2026-01-12,N7001038,FA-26-00030,,S-004,2026-01-12,"Pt sent CalFresh NOA only, says no job. Need income proof."
+2026-01-13,N7001040,FA-26-00022,,S-001,2026-01-13,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-01-13,N7001043,FA-26-00016,,S-006,2026-01-13,"Income 516% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-01-15,N7001045,FA-26-00036,,S-004,2026-01-15,"351% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-15,N7001049,FA-26-00042,,S-005,2026-01-15,Sent missing info letter.
+2026-01-16,N7001051,FA-25-00905,,S-001,2026-01-16,"LVM x2, no call back."
+2026-01-18,N7001052,FA-25-00875,,S-004,2026-01-18,Approval letter sent. 163% of FPL.
+2026-01-19,N7001053,FA-26-00029,,S-001,2026-01-19,Approval letter sent. 132% of FPL.
+2026-01-19,N7001056,FA-25-00777,HB25121653,S-004,2026-01-19,Covered under existing FA approval (11/18/2025).
+2026-01-20,N7001059,FA-26-00059,,S-004,2026-01-20,Mailed request for proof of income. 30 days to respond.
+2026-01-20,N7001060,FA-26-00055,,S-005,2026-01-20,Approval letter sent. 160% of FPL.
+2026-01-20,N7001063,FA-26-00057,,S-004,2026-01-20,LVM for pt re: missing pay stubs.
+2026-01-21,N7001065,FA-26-00050,,S-005,2026-01-21,LVM for pt re: missing pay stubs.
+2026-01-21,N7001067,FA-26-00052,,S-006,2026-01-21,Discount approved. Pt to pay balance or set up plan.
+2026-01-22,N7001071,FA-26-00046,,S-005,2026-01-22,"227% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-01-23,N7001075,FA-26-00068,,S-001,2026-01-23,Mailed request for proof of income. 30 days to respond.
+2026-01-24,N7001076,FA-26-00060,,S-001,2026-01-24,"Called pt, will bring stubs next week."
+2026-01-24,N7001078,FA-26-00018,,S-005,2026-01-24,Discount approved. Pt to pay balance or set up plan.
+2026-01-24,N7001082,FA-26-00062,,S-004,2026-01-24,LVM for pt re: missing pay stubs.
+2026-01-24,N7001085,FA-26-00064,,S-001,2026-01-24,LVM for pt re: missing pay stubs.
+2026-01-26,N7001086,FA-26-00066,,S-004,2026-01-26,LVM for pt re: missing pay stubs.
+2026-01-28,N7001088,FA-26-00033,,S-001,2026-01-28,Approval letter sent. 128% of FPL.
+2026-01-29,N7001090,FA-26-00044,,S-004,2026-01-29,"Approved free care, adj posted."
+2026-01-29,N7001091,FA-26-00047,,S-004,2026-01-29,Approval letter sent. 123% of FPL.
+2026-01-29,N7001092,FA-26-00070,,S-001,2026-01-29,Mailed request for proof of income. 30 days to respond.
+2026-01-30,N7001096,FA-26-00077,,S-005,2026-01-30,Sent missing info letter.
+2026-01-30,N7001097,FA-25-00470,HB26100670,S-005,2026-01-30,Covered under existing FA approval (08/13/2025).
+2026-02-01,N7001101,FA-26-00080,,S-005,2026-02-01,"273% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-02-01,N7001104,FA-26-00054,,S-005,2026-02-01,"Verified income from tax return, 25% FPL. Approved 100%, letter mailed."
+2026-02-01,N7001107,FA-26-00086,,S-004,2026-02-01,"Called pt, will bring stubs next week."
+2026-02-03,N7001109,FA-26-00010,,S-004,2026-02-03,2nd request for income docs mailed.
+2026-02-03,N7001110,FA-26-00083,,S-004,2026-02-03,"Over 400%. Offered 12 month interest free plan, pt refused."
+2026-02-03,N7001112,FA-26-00071,,S-004,2026-02-03,Over 400%. Pt accepted 12 month payment plan.
+2026-02-04,N7001114,FA-26-00002,,S-001,2026-02-04,"Approved free care, adj posted."
+2026-02-04,N7001117,FA-26-00007,,S-004,2026-02-04,"375% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-02-04,N7001120,FA-26-00025,,S-001,2026-02-04,"LVM x2, no call back."
+2026-02-04,N7001121,FA-26-00099,,S-006,2026-02-04,Approval letter sent. 170% of FPL.
+2026-02-04,N7001124,FA-26-00062,,S-001,2026-02-04,Discount approved. Pt to pay balance or set up plan.
+2026-02-04,N7001125,FA-25-00906,,S-001,2026-02-04,2nd request for income docs mailed.
+2026-02-05,N7001129,FA-26-00076,,S-005,2026-02-05,"Income 579% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-02-05,N7001130,FA-26-00102,,S-005,2026-02-05,Sent missing info letter.
+2026-02-06,N7001132,FA-26-00097,,S-001,2026-02-06,"Approved free care, adj posted."
+2026-02-06,N7001134,FA-25-00120,HB26100771,S-006,2026-02-06,Visit within 12 months of FA approval - applied same discount level.
+2026-02-08,N7001136,FA-26-00082,,S-001,2026-02-08,"Verified income from employer letter, 175% FPL. Approved 100%, letter mailed."
+2026-02-08,N7001138,FA-26-00112,,S-005,2026-02-08,Sent missing info letter.
+2026-02-08,N7001141,FA-26-00106,,S-004,2026-02-08,Over 400%. Pt accepted 12 month payment plan.
+2026-02-09,N7001142,FA-26-00042,,S-006,2026-02-09,Discount approved. Pt to pay balance or set up plan.
+2026-02-10,N7001145,FA-26-00045,,S-004,2026-02-10,Discount approved. Pt to pay balance or set up plan.
+2026-02-12,N7001148,FA-26-00130,,S-005,2026-02-12,"Over 400%. Offered 12 month interest free plan, pt refused."
+2026-02-13,N7001152,FA-26-00144,,S-001,2026-02-13,"Verified income from tax return, 23% FPL. Approved 100%, letter mailed."
+2026-02-13,N7001156,FA-26-00123,,S-001,2026-02-13,"Verified income from tax return, 122% FPL. Approved 100%, letter mailed."
+2026-02-13,N7001157,FA-26-00118,,S-004,2026-02-13,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2026-02-13,N7001159,FA-26-00136,,S-006,2026-02-13,"Out of state pt (Atlanta). Over 400%. Offered plan, pt declined."
+2026-02-17,N7001162,FA-26-00084,,S-004,2026-02-17,"Verified income from pay stubs, 90% FPL. Approved 100%, letter mailed."
+2026-02-17,N7001163,FA-26-00086,,S-006,2026-02-17,"Approved free care, adj posted."
+2026-02-18,N7001166,FA-26-00122,,S-006,2026-02-18,"386% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-02-18,N7001169,FA-26-00100,,S-005,2026-02-18,"Pt said will send stubs, nothing received."
+2026-02-19,N7001172,FA-26-00070,,S-001,2026-02-19,"Income 520% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-02-19,N7001173,FA-26-00133,,S-001,2026-02-19,Approval letter sent. 105% of FPL.
+2026-02-20,N7001177,FA-26-00145,,S-004,2026-02-20,"Approved free care, adj posted."
+2026-02-20,N7001181,FA-26-00158,,S-006,2026-02-20,"326% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-02-23,N7001183,FA-26-00094,,S-005,2026-02-23,2nd request for income docs mailed.
+2026-02-23,N7001185,FA-26-00151,,S-004,2026-02-23,Approval letter sent. 50% of FPL.
+2026-02-26,N7001186,FA-26-00147,,S-004,2026-02-26,"Verified income from employer letter, 80% FPL. Approved 100%, letter mailed."
+2026-02-27,N7001190,FA-26-00128,,S-004,2026-02-27,"Verified income from pay stubs, 123% FPL. Approved 100%, letter mailed."
+2026-02-28,N7001191,FA-26-00143,,S-005,2026-02-28,"Income 787% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-02-28,N7001195,FA-26-00169,,S-004,2026-02-28,"Called pt, will bring stubs next week."
+2026-03-02,N7001198,FA-26-00179,,S-005,2026-03-02,"Called pt, will bring stubs next week."
+2026-03-03,N7001202,FA-26-00183,,S-001,2026-03-03,Sent missing info letter.
+2026-03-03,N7001203,FA-26-00134,,S-006,2026-03-03,"Verified income from self-attestation, 131% FPL. Approved 100%, letter mailed."
+2026-03-04,N7001206,FA-26-00185,,S-004,2026-03-04,Sent missing info letter.
+2026-03-05,N7001210,FA-26-00192,,S-004,2026-03-05,Mailed request for proof of income. 30 days to respond.
+2026-03-06,N7001213,FA-26-00166,,S-006,2026-03-06,Over 400%. Explained 12 month interest free plan option to pt.
+2026-03-06,N7001215,FA-26-00153,,S-005,2026-03-06,Approval letter sent. 38% of FPL.
+2026-03-07,N7001218,FA-26-00161,,S-004,2026-03-07,"388% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-03-08,N7001221,FA-26-00178,,S-001,2026-03-08,"Approved free care, adj posted."
+2026-03-08,N7001223,FA-26-00160,,S-005,2026-03-08,Discount approved. Pt to pay balance or set up plan.
+2026-03-08,N7001227,FA-26-00197,,S-001,2026-03-08,LVM for pt re: missing pay stubs.
+2026-03-09,N7001229,FA-26-00181,,S-004,2026-03-09,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-03-10,N7001231,FA-26-00175,,S-006,2026-03-10,Approval letter sent. 34% of FPL.
+2026-03-10,N7001235,FA-26-00169,,S-005,2026-03-10,Discount approved. Pt to pay balance or set up plan.
+2026-03-12,N7001237,FA-26-00176,,S-006,2026-03-12,Discount approved. Pt to pay balance or set up plan.
+2026-03-16,N7001241,FA-26-00206,,S-001,2026-03-16,"Called pt, will bring stubs next week."
+2026-03-16,N7001243,FA-26-00191,,S-001,2026-03-16,"325% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-03-18,N7001247,FA-26-00228,,S-004,2026-03-18,LVM for pt re: missing pay stubs.
+2026-03-18,N7001248,FA-26-00192,,S-001,2026-03-18,Discount approved. Pt to pay balance or set up plan.
+2026-03-18,N7001251,FA-26-00217,,S-001,2026-03-18,Sent missing info letter.
+2026-03-19,N7001254,FA-26-00210,,S-004,2026-03-19,"Verified income from pay stubs, 99% FPL. Approved 100%, letter mailed."
+2026-03-19,N7001255,FA-26-00171,,S-005,2026-03-19,"LVM x2, no call back."
+2026-03-19,N7001259,FA-26-00183,,S-004,2026-03-19,Discount approved. Pt to pay balance or set up plan.
+2026-03-21,N7001260,FA-26-00196,,S-001,2026-03-21,"Income 791% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-03-22,N7001263,FA-26-00212,,S-005,2026-03-22,"295% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-03-23,N7001264,FA-26-00235,,S-004,2026-03-23,Mailed request for proof of income. 30 days to respond.
+2026-03-23,N7001266,FA-26-00215,,S-004,2026-03-23,Approval letter sent. 45% of FPL.
+2026-03-23,N7001270,FA-26-00204,,S-004,2026-03-23,Approval letter sent. 136% of FPL.
+2026-03-23,N7001274,FA-26-00179,,S-004,2026-03-23,Over 400%. Explained 12 month interest free plan option to pt.
+2026-03-24,N7001277,FA-26-00208,,S-004,2026-03-24,Discount approved. Pt to pay balance or set up plan.
+2026-03-24,N7001280,FA-26-00240,,S-001,2026-03-24,"Income 456% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-03-24,N7001284,FA-26-00231,,S-004,2026-03-24,"214% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-03-27,N7001285,FA-26-00250,,S-004,2026-03-27,Sent missing info letter.
+2026-03-29,N7001287,FA-26-00246,,S-001,2026-03-29,"Pt on CalFresh/EBT, has no pay stubs. Letter sent for income docs."
+2026-03-30,N7001290,FA-26-00255,,S-001,2026-03-30,"Called pt, will bring stubs next week."
+2026-03-30,N7001294,FA-26-00241,,S-004,2026-03-30,Approval letter sent. 46% of FPL.
+2026-03-31,N7001297,FA-26-00254,,S-001,2026-03-31,Mailed request for proof of income. 30 days to respond.
+2026-04-01,N7001298,FA-26-00244,,S-001,2026-04-01,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-04-03,N7001302,FA-26-00253,,S-001,2026-04-03,"341% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-04-03,N7001306,FA-26-00217,,S-001,2026-04-03,Over 400%. Explained 12 month interest free plan option to pt.
+2026-04-04,N7001307,FA-26-00265,,S-005,2026-04-04,Only doc is CalFresh notice - no income listed. Requested stubs.
+2026-04-05,N7001309,FA-26-00249,,S-004,2026-04-05,"389% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-04-06,N7001311,FA-26-00271,,S-006,2026-04-06,"Called pt, will bring stubs next week."
+2026-04-07,N7001313,FA-26-00258,,S-004,2026-04-07,"280% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-04-07,N7001315,FA-26-00281,,S-006,2026-04-07,Sent missing info letter.
+2026-04-08,N7001317,FA-26-00261,,S-006,2026-04-08,Pt refused payment plan. Will pay later per pt.
+2026-04-09,N7001318,FA-26-00288,,S-001,2026-04-09,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-04-10,N7001322,FA-26-00290,,S-001,2026-04-10,LVM for pt re: missing pay stubs.
+2026-04-10,N7001323,FA-26-00229,,S-005,2026-04-10,"Pt said will send stubs, nothing received."
+2026-04-11,N7001324,FA-26-00247,,S-001,2026-04-11,Discount approved. Pt to pay balance or set up plan.
+2026-04-11,N7001325,FA-26-00273,,S-006,2026-04-11,"App received 280 days after 1st statement. Outside 240 day window, denied."
+2026-04-12,N7001327,FA-26-00250,,S-004,2026-04-12,"Verified income from employer letter, 46% FPL. Approved 100%, letter mailed."
+2026-04-12,N7001330,FA-26-00299,,S-005,2026-04-12,"Pt on CalFresh/EBT, has no pay stubs. Letter sent for income docs."
+2026-04-15,N7001331,FA-26-00263,,S-004,2026-04-15,"Approved free care, adj posted."
+2026-04-15,N7001333,FA-26-00301,,S-004,2026-04-15,Pt refused payment plan. Will pay later per pt.
+2026-04-17,N7001334,FA-26-00267,,S-001,2026-04-17,"Income 610% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-04-18,N7001338,FA-26-00289,,S-005,2026-04-18,"Approved free care, adj posted."
+2026-04-19,N7001341,FA-26-00254,,S-006,2026-04-19,Over 400%. Explained 12 month interest free plan option to pt.
+2026-04-19,N7001345,FA-26-00271,,S-004,2026-04-19,Over 400%. Explained 12 month interest free plan option to pt.
+2026-04-19,N7001348,FA-26-00311,,S-001,2026-04-19,Discount approved. Pt to pay balance or set up plan.
+2026-04-19,N7001352,FA-26-00317,,S-005,2026-04-19,"Pt on CalFresh/EBT, has no pay stubs. Letter sent for income docs."
+2026-04-20,N7001353,FA-26-00255,,S-004,2026-04-20,Over 400%. Explained 12 month interest free plan option to pt.
+2026-04-22,N7001354,FA-26-00324,,S-001,2026-04-22,"Pt staying at shelter / no address. Approved full charity, no income docs needed."
+2026-04-23,N7001358,FA-26-00306,,S-005,2026-04-23,"Pt said will send stubs, nothing received."
+2026-04-24,N7001359,FA-26-00281,,S-001,2026-04-24,"Approved free care, adj posted."
+2026-04-25,N7001361,FA-26-00292,,S-005,2026-04-25,"Verified income from pay stubs, 113% FPL. Approved 100%, letter mailed."
+2026-04-25,N7001365,FA-26-00284,,S-005,2026-04-25,2nd request for income docs mailed.
+2026-04-25,N7001367,FA-26-00295,,S-004,2026-04-25,"321% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-04-27,N7001369,FA-26-00297,,S-001,2026-04-27,Over 400%. Explained 12 month interest free plan option to pt.
+2026-04-28,N7001372,FA-26-00308,,S-005,2026-04-28,"Approved free care, adj posted."
+2026-04-28,N7001374,FA-26-00332,,S-001,2026-04-28,LVM for pt re: missing pay stubs.
+2026-04-30,N7001376,FA-26-00259,,S-006,2026-04-30,Approval letter sent. 57% of FPL.
+2026-05-01,N7001378,FA-26-00337,,S-004,2026-05-01,Mailed request for proof of income. 30 days to respond.
+2026-05-02,N7001381,FA-26-00343,,S-005,2026-05-02,Sent missing info letter.
+2026-05-03,N7001382,FA-26-00333,,S-004,2026-05-03,"Offered 12 month interest free plan, pt declined."
+2026-05-04,N7001385,FA-26-00348,,S-001,2026-05-04,Sent missing info letter.
+2026-05-05,N7001389,FA-26-00340,,S-004,2026-05-05,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-05-06,N7001390,FA-26-00361,,S-001,2026-05-06,Mailed request for proof of income. 30 days to respond.
+2026-05-08,N7001392,FA-26-00351,,S-001,2026-05-08,Approval letter sent. 98% of FPL.
+2026-05-10,N7001396,FA-26-00367,,S-004,2026-05-10,LVM for pt re: missing pay stubs.
+2026-05-10,N7001398,FA-26-00358,,S-001,2026-05-10,"Called pt, will bring stubs next week."
+2026-05-10,N7001402,FA-26-00315,,S-005,2026-05-10,2nd request for income docs mailed.
+2026-05-10,N7001404,FA-26-00322,,S-005,2026-05-10,"Pt said will send stubs, nothing received."
+2026-05-11,N7001407,FA-26-00355,,S-006,2026-05-11,"Approved free care, adj posted."
+2026-05-12,N7001410,FA-26-00349,,S-001,2026-05-12,"Approved free care, adj posted."
+2026-05-13,N7001411,FA-26-00375,,S-004,2026-05-13,"317% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-14,N7001413,FA-26-00413,,S-004,2026-05-14,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-05-14,N7001415,FA-26-00446,,S-001,2026-05-14,Mailed request for proof of income. 30 days to respond.
+2026-05-14,N7001419,FA-26-00466,,S-005,2026-05-14,Mailed request for proof of income. 30 days to respond.
+2026-05-14,N7001420,FA-26-00372,,S-001,2026-05-14,Sent missing info letter.
+2026-05-14,N7001423,FA-26-00485,,S-004,2026-05-14,Sent missing info letter.
+2026-05-14,N7001424,FA-26-00492,,S-001,2026-05-14,LVM for pt re: missing pay stubs.
+2026-05-15,N7001426,FA-26-00473,,S-001,2026-05-15,"Called pt, will bring stubs next week."
+2026-05-16,N7001430,FA-26-00369,,S-001,2026-05-16,"Verified income from benefit letter, 42% FPL. Approved 100%, letter mailed."
+2026-05-16,N7001434,FA-26-00370,,S-001,2026-05-16,Approval letter sent. 65% of FPL.
+2026-05-17,N7001437,FA-26-00400,,S-004,2026-05-17,Sent missing info letter.
+2026-05-17,N7001440,FA-26-00418,,S-004,2026-05-17,Sent missing info letter.
+2026-05-17,N7001442,FA-26-00419,,S-004,2026-05-17,Mailed request for proof of income. 30 days to respond.
+2026-05-17,N7001445,FA-26-00438,,S-004,2026-05-17,Mailed request for proof of income. 30 days to respond.
+2026-05-17,N7001448,FA-26-00353,,S-001,2026-05-17,Discount approved. Pt to pay balance or set up plan.
+2026-05-17,N7001452,FA-26-00458,,S-001,2026-05-17,Sent missing info letter.
+2026-05-18,N7001455,FA-26-00405,,S-001,2026-05-18,"Called pt, will bring stubs next week."
+2026-05-18,N7001459,FA-26-00426,,S-001,2026-05-18,Mailed request for proof of income. 30 days to respond.
+2026-05-18,N7001463,FA-26-00433,,S-001,2026-05-18,"Verified income from pay stubs, 45% FPL. Approved 100%, letter mailed."
+2026-05-19,N7001466,FA-26-00384,,S-006,2026-05-19,LVM for pt re: missing pay stubs.
+2026-05-19,N7001469,FA-26-00361,,S-006,2026-05-19,"Income 700% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-05-19,N7001470,FA-26-00411,,S-004,2026-05-19,"Income 600% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-05-19,N7001472,FA-26-00489,,S-001,2026-05-19,"Called pt, will bring stubs next week."
+2026-05-20,N7001473,FA-26-00407,,S-004,2026-05-20,"245% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-20,N7001474,FA-25-00434,HB26108099,S-005,2026-05-20,Covered under existing FA approval (07/27/2025).
+2026-05-21,N7001476,FA-26-00427,,S-001,2026-05-21,Over 400%. Explained 12 month interest free plan option to pt.
+2026-05-21,N7001477,FA-26-00365,,S-005,2026-05-21,Approval letter sent. 110% of FPL.
+2026-05-21,N7001481,FA-26-00475,,S-005,2026-05-21,Discount approved. Pt to pay balance or set up plan.
+2026-05-21,N7001483,FA-26-00477,,S-004,2026-05-21,"Approved free care, adj posted."
+2026-05-21,N7001485,FA-26-00499,,S-006,2026-05-21,"Calc 123,718 / 15,960 = 775% FPL. Over income."
+2026-05-22,N7001486,FA-26-00380,,S-001,2026-05-22,Discount approved. Pt to pay balance or set up plan.
+2026-05-22,N7001489,FA-26-00385,,S-001,2026-05-22,Approval letter sent. 160% of FPL.
+2026-05-22,N7001493,FA-26-00402,,S-001,2026-05-22,"Verified income from tax return, 120% FPL. Approved 100%, letter mailed."
+2026-05-22,N7001494,FA-26-00416,,S-005,2026-05-22,"Medi-Cal confirmed active in eligibility portal, approved 100%."
+2026-05-22,N7001495,FA-26-00450,,S-005,2026-05-22,Discount approved. Pt to pay balance or set up plan.
+2026-05-22,N7001496,FA-26-00457,,S-001,2026-05-22,Approval letter sent. 108% of FPL.
+2026-05-22,N7001497,FA-26-00464,,S-004,2026-05-22,"Income 522% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-05-22,N7001498,FA-26-00487,,S-004,2026-05-22,"237% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-23,N7001501,FA-26-00390,,S-005,2026-05-23,Discount approved. Pt to pay balance or set up plan.
+2026-05-23,N7001503,FA-26-00398,,S-001,2026-05-23,"Income 583% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-05-25,N7001504,FA-26-00404,,S-001,2026-05-25,Approval letter sent. 173% of FPL.
+2026-05-25,N7001506,FA-26-00452,,S-006,2026-05-25,Discount approved. Pt to pay balance or set up plan.
+2026-05-25,N7001507,FA-26-00479,,S-004,2026-05-25,"Approved free care, adj posted."
+2026-05-26,N7001508,FA-26-00374,,S-001,2026-05-26,Discount approved. Pt to pay balance or set up plan.
+2026-05-26,N7001509,FA-26-00337,,S-004,2026-05-26,"303% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-27,N7001512,FA-26-00423,,S-001,2026-05-27,Discount approved. Pt to pay balance or set up plan.
+2026-05-27,N7001514,FA-26-00443,,S-004,2026-05-27,"383% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-28,N7001516,FA-26-00376,,S-005,2026-05-28,"Approved free care, adj posted."
+2026-05-28,N7001519,FA-26-00454,,S-005,2026-05-28,"294% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-29,N7001523,FA-26-00471,,S-001,2026-05-29,"325% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-05-30,N7001525,FA-26-00418,,S-006,2026-05-30,Discount approved. Pt to pay balance or set up plan.
+2026-05-31,N7001526,FA-26-00397,,S-004,2026-05-31,Discount approved. Pt to pay balance or set up plan.
+2026-05-31,N7001527,FA-26-00419,,S-001,2026-05-31,Approval letter sent. 102% of FPL.
+2026-06-01,N7001529,FA-26-00409,,S-001,2026-06-01,"353% FPL - discount approved, pt owes 30%. Letter mailed."
+2026-06-01,N7001531,FA-26-00438,,S-001,2026-06-01,Approval letter sent. 53% of FPL.
+2026-06-02,N7001534,FA-26-00473,,S-005,2026-06-02,"Approved free care, adj posted."
+2026-06-03,N7001536,FA-26-00372,,S-006,2026-06-03,"Income 449% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-06-07,N7001537,FA-26-00400,,S-004,2026-06-07,"Income 552% FPL, over limit. Denial letter mailed with payment plan offer."
+2026-06-07,N7001541,FA-26-00463,,S-001,2026-06-07,2nd request for income docs mailed.
+2026-06-10,N7001545,FA-26-00415,,S-004,2026-06-10,"Verified income from pay stubs, 48% FPL. Approved 100%, letter mailed."
+2026-06-10,N7001546,FA-26-00492,,S-005,2026-06-10,Discount approved. Pt to pay balance or set up plan.
+2026-06-14,N7001547,FA-26-00456,,S-006,2026-06-14,"Pt said will send stubs, nothing received."
+2026-06-15,N7001550,FA-26-00503,,S-005,2026-06-15,"Pt sent CalFresh NOA only, says no job. Need income proof."
+2026-07-01,N7001554,FA-26-00504,,S-013,2026-07-01,"Pt is a full time student, gets CalFresh (EBT). No job, no pay stubs."
+2026-07-03,N7001555,FA-26-00507,,S-008,2026-07-03,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-03,N7001559,FA-26-00510,,S-012,2026-07-03,Only income doc is CalFresh NOA.
+2026-07-05,N7001562,FA-26-00521,,S-012,2026-07-05,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-07,N7001564,FA-26-00518,,S-001,2026-07-07,"Per pt, household income ~$3,200 monthly. No docs submitted."
+2026-07-09,N7001567,FA-26-00532,,S-011,2026-07-09,App + income docs scanned to FA queue.
+2026-07-10,N7001568,FA-26-00540,,S-013,2026-07-10,Pt dropped off FA application with pay stubs at PFS window.
+2026-07-11,N7001570,FA-26-00542,,S-009,2026-07-11,"FA app received by mail, stubs attached."
+2026-07-12,N7001572,FA-26-00546,,S-011,2026-07-12,"FA app received by mail, stubs attached."
+2026-07-13,N7001575,FA-26-00547,,S-011,2026-07-13,App + income docs scanned to FA queue.
+2026-07-14,N7001576,FA-26-00549,,S-013,2026-07-14,"Spoke w/ pt re balance, pt submitting FA app."
+2026-07-15,N7001578,FA-26-00558,,S-008,2026-07-15,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-16,N7001579,FA-26-00564,,S-012,2026-07-16,"Spoke w/ pt re balance, pt submitting FA app."
+2026-07-16,N7001580,FA-26-00567,,S-013,2026-07-16,Pt dropped off FA application with pay stubs at PFS window.
+2026-07-18,N7001582,FA-26-00571,,S-012,2026-07-18,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-19,N7001586,FA-26-00584,,S-012,2026-07-19,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-20,N7001589,FA-26-00593,,S-012,2026-07-20,"Spoke w/ pt re balance, pt submitting FA app."
+2026-07-22,N7001592,FA-26-00600,,S-009,2026-07-22,App + income docs scanned to FA queue.
+2026-07-22,N7001594,FA-26-00602,,S-007,2026-07-22,Pt dropped off FA application with pay stubs at PFS window.
+2026-07-24,N7001598,FA-26-00606,,S-009,2026-07-24,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-24,N7001602,FA-26-00608,,S-013,2026-07-24,"FA app received by mail, stubs attached."
+2026-07-24,N7001604,FA-26-00611,,S-013,2026-07-24,Pt lives with sister's family (5 in home). Sister claims the kids on her taxes.
+2026-07-26,N7001607,FA-26-00619,,S-008,2026-07-26,App + income docs scanned to FA queue.
+2026-07-28,N7001608,FA-26-00629,,S-007,2026-07-28,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-28,N7001612,FA-26-00631,,S-012,2026-07-28,"Pt new to the US, no credit history, paid by direct deposit - no stubs yet. Brought employer letter."
+2026-07-28,N7001616,FA-26-00604,,S-004,2026-07-28,"Spoke w/ pt at window: approx $5,900/mo take home? will bring proof."
+2026-07-28,N7001619,FA-26-00633,,S-001,2026-07-28,"Pt says lost job in spring, new job pays less."
+2026-07-29,N7001623,FA-26-00636,,S-007,2026-07-29,Pt dropped off FA application with pay stubs at PFS window.
+2026-07-29,N7001626,FA-26-00638,,S-007,2026-07-29,Pt dropped off FA application with pay stubs at PFS window.
+2026-07-30,N7001627,FA-26-00643,,S-012,2026-07-30,"Pt asked about financial assistance, gave app. Returned same day."
+2026-07-31,N7001631,FA-26-00652,,S-011,2026-07-31,"Pt states has Medi-Cal, card copied."
+2026-07-31,N7001633,FA-26-00655,,S-013,2026-07-31,Pt lives with sister's family (5 in home). Sister claims the kids on her taxes.
+2026-08-01,N7001636,FA-26-00662,,S-009,2026-08-01,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-02,N7001639,FA-26-00665,,S-009,2026-08-02,"Pt asked about financial assistance, gave app. Returned same day."
+2026-08-02,N7001642,FA-26-00667,,S-008,2026-08-02,"Pt states has Medi-Cal, card copied."
+2026-08-04,N7001644,FA-26-00674,,S-013,2026-08-04,Pt dropped off FA application with pay stubs at PFS window.
+2026-08-05,N7001647,FA-26-00682,,S-011,2026-08-05,"Pt asked about financial assistance, gave app. Returned same day."
+2026-08-05,N7001648,FA-26-00683,,S-009,2026-08-05,App + income docs scanned to FA queue.
+2026-08-05,N7001651,FA-26-00684,,S-008,2026-08-05,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-05,N7001653,FA-26-00686,,S-007,2026-08-05,Pt dropped off FA application with pay stubs at PFS window.
+2026-08-05,N7001654,FA-26-00688,,S-012,2026-08-05,"Pt states has Medi-Cal, card copied."
+2026-08-05,N7001656,FA-26-00672,,S-012,2026-08-05,"pt says income around $6,700 a month, no paperwork with her today"
+2026-08-06,N7001658,FA-26-00692,,S-012,2026-08-06,Pt dropped off FA application with pay stubs at PFS window.
+2026-08-07,N7001662,FA-26-00694,,S-008,2026-08-07,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-07,N7001664,FA-26-00696,,S-013,2026-08-07,"FA app received by mail, stubs attached."
+2026-08-10,N7001668,FA-26-00713,,S-012,2026-08-10,App + income docs scanned to FA queue.
+2026-08-11,N7001671,FA-26-00715,,S-013,2026-08-11,"Pt asked about financial assistance, gave app. Returned same day."
+2026-08-14,N7001673,FA-26-00719,,S-007,2026-08-14,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-17,N7001677,FA-26-00732,,S-007,2026-08-17,"Pt experiencing homelessness, staying at shelter. Gave FA app."
+2026-08-17,N7001678,FA-26-00733,,S-013,2026-08-17,"Pt asked about financial assistance, gave app. Returned same day."
+2026-08-18,N7001680,FA-26-00734,,S-012,2026-08-18,"Pt experiencing homelessness, staying at shelter. Gave FA app."
+2026-08-19,N7001682,FA-26-00735,,S-013,2026-08-19,"FA app received by mail, stubs attached."
+2026-08-22,N7001685,FA-26-00745,,S-008,2026-08-22,App + income docs scanned to FA queue.
+2026-08-22,N7001686,FA-26-00746,,S-009,2026-08-22,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-23,N7001687,FA-26-00749,,S-007,2026-08-23,"Spoke w/ pt re balance, pt submitting FA app."
+2026-08-24,N7001691,FA-26-00743,,S-012,2026-08-24,"Per pt, household income ~$6,700 monthly. No docs submitted."
+2026-08-25,N7001692,FA-26-00757,,S-009,2026-08-25,Pt dropped off FA application with pay stubs at PFS window.
+2026-08-29,N7001693,FA-26-00769,,S-007,2026-08-29,App + income docs scanned to FA queue.
+2026-08-31,N7001696,FA-26-00778,,S-009,2026-08-31,App + income docs scanned to FA queue.
+2026-08-31,N7001699,FA-26-00780,,S-009,2026-08-31,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-01,N7001701,FA-26-00782,,S-007,2026-09-01,App + income docs scanned to FA queue.
+2026-09-03,N7001703,FA-26-00787,,S-009,2026-09-03,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-03,N7001706,FA-26-00788,,S-007,2026-09-03,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-04,N7001708,FA-26-00793,,S-012,2026-09-04,Pt dropped off FA application with pay stubs at PFS window.
+2026-09-05,N7001711,FA-26-00804,,S-013,2026-09-05,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-05,N7001713,FA-26-00805,,S-012,2026-09-05,App + income docs scanned to FA queue.
+2026-09-06,N7001717,FA-26-00808,,S-007,2026-09-06,"FA app received by mail, stubs attached."
+2026-09-07,N7001720,FA-26-00816,,S-012,2026-09-07,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-07,N7001724,FA-26-00818,,S-008,2026-09-07,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-07,N7001726,FA-26-00819,,S-008,2026-09-07,App + income docs scanned to FA queue.
+2026-09-08,N7001729,FA-26-00821,,S-013,2026-09-08,App + income docs scanned to FA queue.
+2026-09-08,N7001733,FA-26-00811,,S-001,2026-09-08,"Per pt, household income ~$11,100 monthly. No docs submitted."
+2026-09-09,N7001736,FA-26-00824,,S-009,2026-09-09,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-09,N7001739,FA-26-00827,,S-008,2026-09-09,App + income docs scanned to FA queue.
+2026-09-10,N7001740,FA-26-00839,,S-013,2026-09-10,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-10,N7001743,FA-26-00840,,S-013,2026-09-10,Pt dropped off FA application with pay stubs at PFS window.
+2026-09-11,N7001746,FA-26-00807,,S-004,2026-09-11,"Per pt, household income ~$5,500 monthly. No docs submitted."
+2026-09-12,N7001749,FA-26-00846,,S-011,2026-09-12,Pt dropped off FA application with pay stubs at PFS window.
+2026-09-12,N7001752,FA-26-00848,,S-011,2026-09-12,"Pt states has Medi-Cal, card copied."
+2026-09-12,N7001755,FA-26-00852,,S-012,2026-09-12,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-12,N7001756,FA-26-00823,,S-004,2026-09-12,"Spoke w/ pt at window: approx $6,000/mo take home? will bring proof."
+2026-09-12,N7001758,FA-26-00853,,S-011,2026-09-12,"Pt says lost job in spring, new job pays less."
+2026-09-13,N7001762,FA-26-00854,,S-011,2026-09-13,Only income doc is CalFresh NOA.
+2026-09-17,N7001764,FA-26-00869,,S-009,2026-09-17,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-19,N7001766,FA-26-00873,,S-007,2026-09-19,"Pt asked about financial assistance, gave app. Returned same day."
+2026-09-20,N7001770,FA-26-00882,,S-011,2026-09-20,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-20,N7001772,FA-26-00889,,S-013,2026-09-20,"FA app received by mail, stubs attached."
+2026-09-21,N7001774,FA-26-00892,,S-012,2026-09-21,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-23,N7001775,FA-26-00895,,S-007,2026-09-23,Pt dropped off FA application with pay stubs at PFS window.
+2026-09-24,N7001776,FA-26-00899,,S-011,2026-09-24,"Spoke w/ pt re balance, pt submitting FA app."
+2026-09-28,N7001779,FA-26-00915,,S-012,2026-09-28,"FA app received by mail, stubs attached."
+2026-09-28,N7001780,FA-26-00901,,S-011,2026-09-28,"pt says income around $4,100 a month, no paperwork with her today"

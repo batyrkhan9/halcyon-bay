@@ -1,0 +1,20 @@
+C0ASTAL VALLEY ENERGY
+8502 HARB0R WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOHN WILSON        Emp ID: 72561
+Position: Field technician
+Pay Period: 04/07/2025 - 04/20/2025     Pay Date: 04/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              16.78     80.00       1,342.40     12,081.60
+GROSS PAY                                  1,342.40     12,081.60
+DEDUCTIONS
+  Federal Income Tax                        67.12
+  Social Security                           83.22
+  Medicare                                  19.46
+  CA SDI                                    14.76
+NET PAY                                  1,157.84
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/23/2025]

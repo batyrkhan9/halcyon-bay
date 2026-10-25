@@ -1,0 +1,21 @@
+TIDEWATER CONSTRUCTION
+8341 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: ASHLEY ESPINOZA        Emp ID: 30068
+Position: Laborer
+Pay Period: 07/09/2026 - 07/22/2026     Pay Date: 07/27/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,080.95     75,926.83
+GROSS PAY                                  5,080.95     75,926.83
+DEDUCTIONS
+  Federal Income Tax                       355.66
+  Social Security                          315.01
+  Medicare                                  73.67
+  CA SDI                                    55.89
+NET PAY                                  4,280.72
+--------------------------------------------------------------
+  includes overtime 0.50 hrs
+
+FAX RECEIVED 08/05/2026 10:37   P.01

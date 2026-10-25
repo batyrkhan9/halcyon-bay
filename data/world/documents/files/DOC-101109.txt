@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+2519 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: TARIQ JIMENEZ        Emp ID: 79808
+Position: Driver
+Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             23.96     80.00       1,916.80     42,169.60
+GROSS PAY                                  1,916.80     42,169.60
+DEDUCTIONS
+   Federal Income Tax                       134.17
+  S0cial Security                          118.84
+  Medicare                                  27.79
+  CA SDI                                    21.08
+NET PAY                                  1,614.92
+--------------------------------------------------------------
+
+-- scanned 11/10/2025 HBCH mailroom  pg 1/1 --

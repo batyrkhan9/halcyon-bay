@@ -1,21 +1,21 @@
-BLUE KELP SOFTWARE LLC
-303 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-    Employee: SHARON LIU-NAVARRO        Emp ID: 58464
-Position: Software engineer
-Pay Period: 07/20/2026 - 08/02/2026     Pay Date: 08/07/2026
+MIRADOR PUBLIC LIBRARY
+2155 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROGELIO NASSER        Emp ID: 63938
+   Position: Library assistant
+Pay Period: 03/07/2026 - 03/20/2026     Pay Date: 03/25/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             50.43     80.00       4,034.40     64,550.40
-  GROSS PAY                                  4,034.40     64,550.40
-DEDUCTIONS
-  Federal Income Tax                       282.40
-  Social Security                          250.13
-      Medicare                                  58.49
-     CA SDI                                    44.37
-NET PAY                                  3,399.01
-_ _ _ _
+Regular            116.77     80.00       9,341.60     56,049.60
+    GROSS PAY                                  9,341.60     56,049.60
+~ ~ .  ,
+DEDUCTI0NS
+   Federal Income Tax                       467.08
+  Social Security                          579.17
+    Medicare                                 135.45
+  CA SDI                                   102.75
+NET PAY                                  8,057.15
 --------------------------------------------------------------
 
-RECEIVED AUG 14 2026  - mailroom
+-- scanned 04/23/2026 HBCH mailroom  pg 1/1 --

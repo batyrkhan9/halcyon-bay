@@ -1,10 +1,21 @@
-SOCIAL SECURITY ADMINISTRATION
-Retirement, Survivors and Disability Insurance
-Date: 03/14/2025
-   CARMEN IVANOVA
+MARISOL CLEANING SERVICES
+4154 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: BAO CRUZ        Emp ID: 55403
+Position: Cleaner
+Pay Period: 02/25/2025 - 03/10/2025     Pay Date: 03/15/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,154.29      6,925.74
+GROSS PAY                                  1,154.29      6,925.74
+ DEDUCTION5
+  Federal Income Tax                        80.80
+  . : .
+  Social Security                           71.56
+  Medicare                                  16.73
+  CA SDI                                    12.69
+NET PAY                                    972.51
+--------------------------------------------------------------
 
-This letter is proof of the benefits you receive.
-Beginning December 2024, the full monthly Social Security benefit is $1,972.61.
-We deduct $0.00 for medical insurance premiums each month.
-
-RECEIVED JUN 12 2025  - mailroom
+FAX RECEIVED 04/12/2025 10:38   P.01

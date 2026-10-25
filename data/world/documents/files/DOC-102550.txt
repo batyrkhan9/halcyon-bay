@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+ 483 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: EDUARDO FLORES        Emp ID: 76272
+  Position: Line worker
+    Pay Period: 07/14/2026 - 07/27/2026     Pay Date: 08/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Salary                                     2,473.39     39,451.54
+GROSS PAY                                  2,473.39     39,451.54
+DEDUCTIONS
+  Federal Income Tax                       173.13
+  Social Security                          153.35
+   Medicare                                  35.86
+  CA SDI                                    27.20
+NET PAY                                  2,083.85
+--------------------------------------------------------------
+  includes overtime 0.50 hrs
+
+-- scanned 08/11/2026 HBCH mailroom  pg 1/1 --

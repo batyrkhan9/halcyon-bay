@@ -1,18 +1,19 @@
-Form 1040   U.S. Individual Income Tax Return   2024
+Form 1040   U.S. Individua1 Income Tax Return   2024
 (copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  RAYMOND WALKER
-Your social security number: XXX-XX-6204
-Dependents: 4
-  Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    94,844.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    94,844.00
+Fi1ing Status: Married filing jointly
+Your first name and middle initial / Last name:  LINH SATO
+Your social security number: XXX-XX-5439
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........     9,797.00
+ 8   Additional income fr0m Schedule 1, line 10 ......         0.00
+ 9   Tota1 income ....................................     9,797.00
+| |   .
  10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    94,844.00
- 12   Standard deduction ..............................    21,900.00
+ 11  Adjusted gross income ...........................     9,797.00
+ 12  Standard deduction ..............................    21,900.00
 
 Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Raymond Walker        Date: 04/06/2025
+Your signature: /s/ Linh Sato        Date: 04/11/2025
 
--- scanned 07/17/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/14/2025 10:11   P.01

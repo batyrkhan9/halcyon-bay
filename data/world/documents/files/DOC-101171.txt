@@ -1,0 +1,20 @@
+MIRAD0R PUBLIC L1BRARY
+8351 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: AUSTIN TAYLOR        Emp ID: 37606
+Position: Library assistant
+Pay Period: 09/25/2025 - 10/24/2025     Pay Date: 10/29/2025
+  Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,836.19     75,198.09
+GROSS PAY                                  6,836.19     75,198.09
+DEDUCTIONS
+   Federal Income Tax                       410.17
+  Social Security                          423.84
+  Medicare                                  99.12
+  CA SDI                                    75.19
+NET PAY                                  5,827.87
+--------------------------------------------------------------
+
+FAX RECEIVED 12/03/2025 10:57   P.01

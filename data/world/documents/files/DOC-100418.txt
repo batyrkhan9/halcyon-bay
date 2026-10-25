@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-5320 HARBOR WAY   CA
+LAS BRISAS RESTAURANT GROUP
+3027 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: NICOLE JUNG         Emp ID: 82535
-Position: Warehouse associate
-Pay Period: 05/26/2025 - 06/08/2025     Pay Date: 06/13/2025
-Pay Frequency: Bi-Weekly
+Employee: HANNAH THOMPSON        Emp ID: 49493
+Position: Line cook
+Pay Period: 02/27/2025 - 03/13/2025     Pay Date: 03/18/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            101.77     80.00       8,141.60     97,699.20
-GROSS PAY                                  8,141.60     97,699.20
-   DEDUCTIONS
-     Federal Income Tax                       407.08
-  Social Security                          504.77
-  Medicare                                 118.05
-  CA SDI                                    89.55
-NET PAY                                  7,022.15
+ Salary                                     3,861.50     23,169.00
+GROSS PAY                                  3,861.50     23,169.00
+DEDUCTIONS
+     Federal Income Tax                       386.15
+  Social Security                          239.41
+  Medicare                                  55.99
+  CA SDI                                    42.47
+NET PAY                                  3,137.48
 --------------------------------------------------------------
 
-FAX RECEIVED 06/30/2025 10:27   P.01
+-- scanned 04/20/2025 HBCH mailroom  pg 1/1 --

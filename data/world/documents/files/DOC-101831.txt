@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-    Statement Period 08/01/2026 - 08/21/2026
-Member: SANJAY JIMENEZ       Account ending 8855
+ELLERY HARDWARE SUPPLY
+1762 MARKET WAY    CA
+                         EARNINGS STATEMENT
+  Employee: RAYMOND WALKER        Emp ID: 29911
+Position: Sales associate
+ Pay Period: 03/06/2026 - 04/04/2026     Pay Date: 04/09/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             16.60     49.00         813.40      3,253.60
+GROSS PAY                                    813.40      3,253.60
+DEDUCTIONS
+  Federal Income Tax                        56.93
+  Social Security                           50.43
+  Medicare                                  11.79
+     CA SDI                                     8.94
+NET PAY                                     685.31
+--------------------------------------------------------------
 
-   CHECKING SUMMARY
-   Beginning balance            2,946.17
-  Deposits                    10,013.16
-  Withdrawals                 -8,611.31
-  Ending balance               4,348.02
-
-    DEPOSITS AND CREDITS
-  08/21  PAYROLL DIR DEP TIDEWATER CONSTRUC       5,006.58
-  07/22  PAYROLL DIR DEP TIDEWATER CONSTRUC       5,006.58
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 09/05/2026 10:17   P.01
+-- scanned 05/19/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-   7871 HARBOR WAY   CA
+ARROYO VERDE NURSERY
+5800 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: WEI SALAZAR        Emp ID: 89574
-Position: Medical receptionist
-Pay Period: 11/24/2024 - 11/30/2024     Pay Date: 12/05/2024
-Pay Frequency: Weekly
+    Employee: BRIANNA NOVAK        Emp ID: 19287
+Position: Nursery worker
+Pay Period: 11/01/2024 - 11/15/2024     Pay Date: 11/20/2024
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     1,171.26     57,391.74
-GROSS PAY                                  1,171.26     57,391.74
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             48.55     86.67       4,207.83     92,572.26
+GROSS PAY                                  4,207.83     92,572.26
 DEDUCTIONS
-  Federal Income Tax                        58.56
-  Social Security                           72.61
-  Medicare                                  16.98
-  CA SDI                                    12.88
-NET PAY                                  1,010.23
+   Federal Income Tax                       462.86
+  Social Security                          260.88
+  Medicare                                  61.01
+  CA SDI                                    46.28
+  NET PAY                                  3,376.80
+  . : .
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/24/2024]
+RECEIVED DEC 14 2024  - mailroom

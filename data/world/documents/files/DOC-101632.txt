@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+9919 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MADISON RAO        Emp ID: 10162
+Position: Sales associate
+Pay Period: 04/04/2026 - 04/10/2026     Pay Date: 04/15/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+  Salary                                     5,903.56     88,553.40
+GROSS PAY                                  5,903.56     88,553.40
+DEDUCTIONS
+  Federal Income Tax                       649.39
+  Social Security                          366.02
+  Medicare                                  85.60
+  CA SDI                                    64.93
+NET PAY                                  4,737.62
+   --------------------------------------------------------------
+
+FAX RECEIVED 04/19/2026 10:20   P.01

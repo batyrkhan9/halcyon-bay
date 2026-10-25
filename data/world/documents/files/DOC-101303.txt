@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-4583 INDUSTRIAL WAY   CA
+SANTA LUCITA FARMS
+2992 HARBOR WAY   CA
+| |   .
                          EARNINGS STATEMENT
-   Employee: BRIANNA THOMPSON        Emp ID: 76024
-Position: Nursery worker
-Pay Period: 05/21/2026 - 06/03/2026     Pay Date: 06/08/2026
+Employee: HOA KAHANANUI        Emp ID: 21110
+Position: Field supervisor
+Pay Period: 12/05/2025 - 12/18/2025     Pay Date: 12/23/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             29.63     80.00       2,370.40     28,444.80
-  GROSS PAY                                  2,370.40     28,444.80
-DEDUCTI0NS
-  Federal Income Tax                       118.52
-  Social Security                          146.96
-  Medicare                                  34.37
-  CA SDI                                    26.07
-  NET PAY                                  2,044.48
+Regular             27.36     80.00       2,188.80     56,908.80
+GROSS PAY                                  2,188.80     56,908.80
+DEDUCTIONS
+  Federal Income Tax                       175.10
+  Social Security                          135.70
+      Medicare                                  31.73
+   CA SDI                                    24.07
+NET PAY                                  1,822.20
 --------------------------------------------------------------
 
-RECEIVED JUL 09 2026  - mailroom
+-- scanned 01/10/2026 HBCH mailroom  pg 1/1 --

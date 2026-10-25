@@ -1,21 +1,20 @@
- GOLDEN HOUR 5ENIOR LIVING
-3021 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: PAOLA DELGADO        Emp ID: 95861
-Position: Caregiver
-   Pay Period: 02/15/2025 - 02/28/2025     Pay Date: 03/05/2025
-_ _ _ _
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+ELLERY HARDWARE SUPPLY
+7185 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA BAKER        Emp ID: 25111
+    Position: Sales associate
+Pay Period: 12/15/2024 - 12/21/2024      Pay Date: 12/26/2024
+Pay Frequency: Weekly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar             119.37     80.00       9,549.60     47,748.00
-GROSS PAY                                   9,549.60     47,748.00
-  DEDUCTIONS
-  Federal Income Tax                       668.47
-  Social Security                          592.07
-  Medicare                                 138.46
-  CA SDI                                   105.04
-NET PAY                                  8,045.56
+Regular             41.39     40.00       1,655.60     86,091.20
+GROSS PAY                                  1,655.60     86,091.20
+DEDUCTIONS
+  Federal Income Tax                        82.78
+  Social Security                          102.64
+    Medicare                                  24.00
+  CA SDI                                    18.21
+NET PAY                                  1,427.97
 --------------------------------------------------------------
 
-FAX RECEIVED 03/19/2025 10:51   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/19/2025]

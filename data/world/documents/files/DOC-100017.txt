@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-2299 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: BRENDA SATO        Emp ID: 43886
-Position: Sales associate
-Pay Period: 10/27/2024 - 11/09/2024     Pay Date: 11/14/2024
+CALDER FREIGHT LINES
+666 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+Employee: CHLOE KANG        Emp ID: 59700
+Position: Driver
+Pay Period: 11/14/2024 - 11/27/2024     Pay Date: 12/02/2024
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-    Regular             18.57     54.00       1,002.78     23,063.94
-GROSS PAY                                  1,002.78     23,063.94
-DEDUCTIONS
-  Federal Inc0me Tax                        40.11
-  Social Security                           62.17
-    Medicare                                  14.54
-  CA SDI                                    11.03
-  NET PAY                                    874.93
---------------------------------------------------------------
+   EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             17.43     14.00         244.02      6,100.50
+GROSS PAY                                    244.02      6,100.50
+   DEDUCTIONS
+  Federal Income Tax                        24.40
+  Social 5ecurity                           15.12
+  Medicare                                   3.53
+   CA SDI                                     2.68
+NET PAY                                    198.29
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/13/2024]
+-- scanned 12/09/2024 HBCH mailroom  pg 1/1 --

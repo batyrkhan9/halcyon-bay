@@ -1,21 +1,20 @@
-ELLERY HARDWARE SUPPLY
-1518 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-   Employee: TERESA RAO        Emp ID: 41696
-Position: Sales associate
-Pay Period: 04/20/2025 - 05/04/2025     Pay Date: 05/09/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+MIRADOR GROCERY CO-OP
+6296 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+    Employee: ARTURO ADAMS        Emp ID: 73491
+Position: Cashier
+Pay Period: 03/09/2025 - 03/22/2025     Pay Date: 03/27/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             74.58     86.67       6,463.85     58,174.65
-GROSS PAY                                  6,463.85     58,174.65
-DEDUCTIONS
-  Federal Income Tax                       581.74
-  Social Security                          400.75
-  Medicare                                  93.72
-    CA SDI                                    71.10
-NET PAY                                  5,316.54
-~ ~ .  ,
+Regular             16.82     42.00         706.44      4,945.08
+GROSS PAY                                    706.44      4,945.08
+DEDUCTION5
+  Federal Income Tax                        63.57
+      Social Security                           43.79
+      Medicare                                  10.24
+  CA SDI                                     7.77
+NET PAY                                    581.07
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/08/2025]
+-- scanned 04/08/2025 HBCH mailroom  pg 1/1 --

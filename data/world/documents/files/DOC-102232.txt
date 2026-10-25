@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+ 2486 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA SALAZAR        Emp ID: 71793
+  Position: Housekeeper
+    Pay Period: 06/28/2026 - 07/12/2026     Pay Date: 07/17/2026
+ Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       932.57     13,055.98
+GROSS PAY                                    932.57     13,055.98
+ DEDUCTIONS
+  Federal Income Tax                        46.62
+  Social Security                           57.81
+  Medicare                                  13.52
+  CA SDI                                    10.25
+  NET PAY                                    804.37
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/26/2026]

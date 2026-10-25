@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-1135 HARBOR WAY   CA
+PACIFIC RIM JANITORIAL
+7313 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: BEATRIZ MARTINEZ        Emp ID: 47658
-Position: Laborer
-Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Employee: KEONI PATEL        Emp ID: 75736
+Position: Custodian
+Pay Period: 06/23/2026 - 07/06/2026     Pay Date: 07/11/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.08     80.00       2,166.40     38,995.20
-GROSS PAY                                  2,166.40     38,995.20
+Regular             17.83     54.00         962.82     13,479.48
+GROSS PAY                                    962.82     13,479.48
 DEDUCTIONS
-  Federal Income Tax                       151.64
-      Social Security                          134.31
-  Medicare                                  31.41
-  CA SDI                                    23.83
-NET PAY                                  1,825.21
+  Federal Income Tax                        86.65
+    Social Security                           59.69
+     Medicare                                  13.96
+  CA SDI                                    10.59
+NET PAY                                    791.93
 --------------------------------------------------------------
 
--- scanned 09/28/2026 HBCH mailroom  pg 1/1 --
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

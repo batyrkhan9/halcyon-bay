@@ -1,20 +1,21 @@
-  HARBOR POINT HOTEL
-339 HARBOR WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+  5573 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: RAYMOND LOPEZ        Emp ID: 16455
-  Position: Housekeeper
-Pay Period: 10/24/2025 - 11/07/2025     Pay Date: 11/12/2025
+   Employee: SARAH JOSHI        Emp ID: 45702
+   Position: Instructional aide
+Pay Period: 07/15/2025 - 07/29/2025     Pay Date: 08/03/2025
 Pay Frequency: Semi-Monthly
+| |   .
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.05     86.67       3,297.79     72,551.38
-GROSS PAY                                  3,297.79     72,551.38
-    DEDUCTIONS
-      Federal Income Tax                       164.88
-  Social Security                          204.46
-  Medicare                                  47.81
-  CA SDI                                    36.27
-NET PAY                                  2,844.37
+Regular             54.18     86.67       4,695.78     70,436.70
+GROSS PAY                                  4,695.78     70,436.70
+DEDUCTI0NS
+  Federal Income Tax                       516.53
+   Social Security                          291.13
+  Medicare                                  68.08
+  CA SDI                                    51.65
+NET PAY                                  3,768.39
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/07/2025]
+-- scanned 08/25/2025 HBCH mailroom  pg 1/1 --

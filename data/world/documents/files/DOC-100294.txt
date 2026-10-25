@@ -1,20 +1,19 @@
-MIRADOR GROCERY CO-OP
-6635 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: GREGORY WALKER        Emp ID: 48847
-Position: Cashier
- Pay Period: 04/05/2025 - 04/18/2025     Pay Date: 04/23/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.76     37.00         694.12      6,247.08
-GROSS PAY                                    694.12      6,247.08
-DEDUCTIONS
-      Federal Income Tax                        27.76
-  Social Security                           43.03
-  Medicare                                  10.06
-  CA SDI                                     7.63
-NET PAY                                     605.64
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 02/01/2025 - 02/28/2025
+Member: PEDRO CHAVEZ       Account ending 8390
 
-FAX RECEIVED 05/24/2025 10:17   P.01
+CHECKING 5UMMARY
+  Beginning balance            1,796.76
+  Deposits                    10,506.36
+  Withdrawals                 -8,930.40
+  Ending balance               3,372.72
+
+DEPOSITS AND CREDITS
+  02/04  PAYROLL DIR DEP ELLERY HARDWARE SU       2,626.59
+  02/11  PAYROLL DIR DEP ELLERY HARDWARE SU       2,626.59
+  02/18  PAYROLL DIR DEP ELLERY HARDWARE SU       2,626.59
+  02/25  PAYROLL DIR DEP ELLERY HARDWARE SU       2,626.59
+
+Thank you for banking with us.   Page 1 of 2
+
+-- scanned 03/21/2025 HBCH mailroom  pg 1/1 --

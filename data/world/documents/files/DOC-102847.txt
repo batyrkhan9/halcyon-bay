@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+8035 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO TAYLOR        Emp ID: 95723
+Position: Technician
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.94     70.50       1,264.77     22,765.86
+GROSS PAY                                  1,264.77     22,765.86
+  DEDUCTIONS
+  Federal Income Tax                       139.12
+  Social Security                           78.41
+  Medicare                                  18.33
+  CA SDI                                    13.91
+NET PAY                                  1,015.00
+    --------------------------------------------------------------
+
+-- scanned 09/07/2026 HBCH mailroom  pg 1/1 --

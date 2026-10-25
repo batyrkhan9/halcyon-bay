@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+2124 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MALIA KANG        Emp ID: 97537
+Position: Medical recepti0nist
+Pay Period: 06/17/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,331.97     56,315.61
+GROSS PAY                                  4,331.97     56,315.61
+DEDUCTIONS
+  Federal Income Tax                       433.19
+      Social Security                          268.58
+  Medicare                                  62.81
+  CA SDI                                    47.65
+NET PAY                                  3,519.74
+--------------------------------------------------------------
+
+-- scanned 08/05/2026 HBCH mailroom  pg 1/1 --

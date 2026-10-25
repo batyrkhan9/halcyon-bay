@@ -1,0 +1,18 @@
+Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  MAI NGUYEN
+   Your social security number: XXX-XX-6569
+Dependents: 5
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    10,417.00
+ 8   Additional income from 5chedule 1, line 10 ......         0.00
+ 9   Total income ....................................    10,417.00
+ 10  Adjustments to income ...........................         0.00
+ 11   Adjusted gross income ...........................    10,417.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+    Your signature: /s/ Mai Nguyen        Date: 04/08/2025
+
+-- scanned 02/11/2026 HBCH mailroom  pg 1/1 --

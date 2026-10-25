@@ -1,21 +1,21 @@
-SEASIDE DENTAL GROUP
-8197 MARKET WAY   CA
+SANDPIPER CH1LD CARE CENTER
+1013 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-_ _ _ _
-Employee: CHLOE LI        Emp ID: 25923
-Position: Dental assistant
-Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
-Pay Frequency: Bi-Weekly
+Employee: HANNAH RIVERA        Emp ID: 60914
+Position: Teacher
+Pay Period: 01/07/2026 - 01/21/2026     Pay Date: 01/26/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       281.36      3,939.04
-GROSS PAY                                    281.36      3,939.04
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             18.48     59.00       1,090.32      2,180.64
+GROSS PAY                                  1,090.32      2,180.64
 DEDUCTIONS
-  Federal Income Tax                        22.50
-   Social Security                           17.44
-  Medicare                                   4.08
-  CA SDI                                     3.09
-    NET PAY                                    234.25
+| |   .
+  Federal Income Tax                        76.32
+  Social Security                           67.60
+    Medicare                                  15.81
+  CA SDI                                    11.99
+NET PAY                                    918.60
 --------------------------------------------------------------
 
-RECEIVED JUL 22 2026  - mailroom
+RECEIVED FEB 11 2026  - mailroom

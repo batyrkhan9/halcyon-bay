@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+8010 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: ROGELIO SMITH        Emp ID: 18627
+Position: Cashier
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,595.31     61,120.27
+    GROSS PAY                                  3,595.31     61,120.27
+DEDUCTIONS
+  Federal Income Tax                       359.53
+  Social Security                          222.90
+   Medicare                                  52.13
+  CA SDI                                    39.54
+NET PAY                                  2,921.21
+ --------------------------------------------------------------
+
+FAX RECEIVED 09/07/2026 10:34   P.01

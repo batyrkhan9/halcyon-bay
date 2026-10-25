@@ -1,21 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-2413 HARBOR WAY   CA
+CALDER FREIGHT LINES
+     9954 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA MOORE        Emp ID: 72627
-Position: Line cook
-   Pay Period: 07/13/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Semi-Monthly
+Employee: WEI QUINN        Emp ID: 13196
+Position: Driver
+Pay Period: 04/09/2026 - 04/15/2026     Pay Date: 04/20/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.94     77.50       1,312.85     19,692.75
-GROSS PAY                                  1,312.85     19,692.75
-~ ~ .  ,
+  Regular             93.72     40.00       3,748.80     59,980.80
+GROSS PAY                                  3,748.80     59,980.80
 DEDUCTIONS
-  Federal Income Tax                       131.28
-    Social Security                           81.39
-     Medicare                                  19.03
-    CA SDI                                    14.44
-NET PAY                                  1,066.71
+  Federal Income Tax                       299.90
+      Social Security                          232.42
+  Medicare                                  54.35
+  CA SDI                                    41.23
+NET PAY                                  3,120.90
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/15/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/30/2026]

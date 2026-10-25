@@ -1,20 +1,18 @@
-MIRADOR PUBLIC LIBRARY
-7369 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: LINH CARTER        Emp ID: 49674
-Position: Library assistant
-Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,226.24     54,846.08
-GROSS PAY                                  3,226.24     54,846.08
-DEDUCTIONS
-  Federal Income Tax                       354.88
-  Social Security                          200.02
-  Medicare                                  46.78
-  CA SDI                                    35.48
-NET PAY                                  2,589.08
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  ASHLEY WALSH
+Your social security number: XXX-XX-8256
+Dependents: 4
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   146,550.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+    9   Total income ....................................   146,550.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   146,550.00
+ 12  Standard deduction ..............................    21,900.00
 
-RECEIVED SEP 06 2026  - mailroom
+Sign Here   Under pena1ties of perjury, I declare that I have examined this return...
+Your signature: /s/ Ashley Walsh        Date: 04/04/2026
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/26/2026]

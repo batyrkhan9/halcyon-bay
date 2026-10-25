@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+3895 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DARNELL KUMAR        Emp ID: 45633
+Position: Instructional aide
+Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.54     31.75         588.64     17,659.20
+GROSS PAY                                    588.64     17,659.20
+DEDUCTIONS
+  Federal Income Tax                        29.43
+  Social Security                           36.49
+  Medicare                                   8.53
+  CA SDI                                     6.47
+NET PAY                                    507.72
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/29/2026]

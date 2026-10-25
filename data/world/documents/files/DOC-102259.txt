@@ -1,0 +1,20 @@
+MIRAD0R GROCERY CO-OP
+7544 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI MEHTA        Emp ID: 72688
+Position: Cashier
+Pay Period: 06/06/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.20     86.67       2,357.42     28,289.04
+GROSS PAY                                  2,357.42     28,289.04
+DEDUCTIONS
+  Federal Income Tax                        94.29
+  Social Security                          146.16
+  Medicare                                  34.18
+  CA SDI                                    25.93
+NET PAY                                  2,056.86
+--------------------------------------------------------------
+
+-- scanned 07/28/2026 HBCH mailroom  pg 1/1 --

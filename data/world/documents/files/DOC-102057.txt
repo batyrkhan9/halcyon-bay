@@ -1,20 +1,20 @@
-   CYPRESS FLATS AUTO BODY
-9188 MARKET WAY   CA
+ARROYO VERDE NURSERY
+4827 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: HOA LIU        Emp ID: 91538
-Position: Technician
-Pay Period: 08/06/2026 - 08/19/2026     Pay Date: 08/24/2026
+Employee: RONALD FLORES        Emp ID: 97214
+Position: Nursery worker
+Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
 Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             70.36     80.00       5,628.80     95,689.60
-GRO5S PAY                                  5,628.80     95,689.60
+Regular             26.45     80.00       2,116.00     29,624.00
+    GROSS PAY                                  2,116.00     29,624.00
 DEDUCTIONS
-   Federal Income Tax                       506.59
-  Social Security                          348.98
-  Medicare                                  81.61
-  CA SDI                                    61.91
- NET PAY                                  4,629.71
+   Federal Income Tax                       211.60
+  Social Security                          131.19
+  Medicare                                  30.68
+  CA SDI                                    23.27
+NET PAY                                  1,719.26
 --------------------------------------------------------------
 
-RECEIVED SEP 22 2026  - mailroom
+FAX RECEIVED 07/15/2026 10:18   P.01

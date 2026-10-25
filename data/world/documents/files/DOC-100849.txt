@@ -1,17 +1,20 @@
 SUNSET COAST HOME CARE
-1333 MAIN ST
+ 2149 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILANI PETROV        Emp ID: 97306
+   Position: Home care aide
+Pay Period: 07/26/2025 - 08/24/2025     Pay Date: 08/29/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular            150.76    173.33      26,131.23    235,181.07
+GROSS PAY                                 26,131.23    235,181.07
+DEDUCTIONS
+  Federal Income Tax                     1,045.24
+  Social Security                        1,620.13
+  Medicare                                 378.90
+  CA SDI                                   287.44
+NET PAY                                 22,799.52
+--------------------------------------------------------------
 
-December 31, 2025
-
-To Whom It May Concern:
-
-~ ~ .  ,
-This letter confirms that Ernesto Robinson has been empl0yed with Sunset Coast Home Care since
-    April 2023 in the position of Home care aide. Their rate of pay is $39.84 per hour, for a regular schedule of 40 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Hiroshi Joshi
-Human Resources
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/03/2026]
+-- scanned 09/01/2025 HBCH mailroom  pg 1/1 --

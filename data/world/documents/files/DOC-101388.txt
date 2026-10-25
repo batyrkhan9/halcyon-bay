@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-620 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-~ ~ .  ,
-  Employee: FRANK QUINN        Emp ID: 54800
-Position: Custodian
-Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
-Pay Frequency: Semi-Monthly
+BLUE KELP SOFTWARE LLC
+7923 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO WRIGHT        Emp ID: 43299
+Position: Software engineer
+Pay Period: 01/07/2026 - 01/20/2026     Pay Date: 01/25/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,966.24     23,594.88
-GROSS PAY                                  1,966.24     23,594.88
-  DEDUCTIONS
-  Federal Income Tax                        98.31
-  Social Security                          121.90
-  Medicare                                  28.51
-  CA SDI                                    21.62
-NET PAY                                  1,695.90
+   Regular             21.23     80.00       1,698.40      3,396.80
+GROSS PAY                                  1,698.40      3,396.80
+DEDUCTIONS
+  Federal Income Tax                       152.85
+  Social Security                          105.30
+  Medicare                                  24.62
+| |   .
+  CA SDI                                    18.68
+NET PAY                                  1,396.95
 --------------------------------------------------------------
 
-RECEIVED JUL 18 2026  - mailroom
+-- scanned 02/02/2026 HBCH mailroom  pg 1/1 --

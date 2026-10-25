@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+2825 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+ Employee: KAVYA RODRIGUEZ        Emp ID: 45951
+Position: Line cook
+Pay Period: 03/25/2026 - 04/08/2026     Pay Date: 04/13/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular            124.08     86.67      10,754.01     75,278.07
+GROSS PAY                                  10,754.01     75,278.07
+DEDUCTIONS
+  Federal Income Tax                       537.70
+  Social Security                          666.74
+  Medicare                                 155.93
+  CA SDI                                   118.29
+NET PAY                                  9,275.35
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

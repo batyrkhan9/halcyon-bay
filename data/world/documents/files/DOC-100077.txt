@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
- 1764 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-Employee: MEGAN JOHNSON        Emp ID: 61705
-Position: Line cook
-Pay Period: 02/01/2025 - 02/14/2025     Pay Date: 02/19/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+OTTER BAY AQUARIUM
+2588 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: MARIA FONOTI-NGUYEN        Emp ID: 93382
+Position: Guest services
+Pay Period: 11/20/2024 - 11/26/2024     Pay Date: 12/01/2024
+Pay Frequency: Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             38.02     80.00       3,041.60     12,166.40
- GROSS PAY                                  3,041.60     12,166.40
+Regular             18.28     17.00         310.76     14,916.48
+GROSS PAY                                     310.76     14,916.48
 DEDUCTIONS
-  Federal Income Tax                       182.49
-  Social Security                          188.57
-  Medicare                                  44.10
-  CA SDI                                    33.45
-NET PAY                                  2,592.99
+  Federal Income Tax                        21.75
+  Social Security                           19.26
+  Medicare                                   4.50
+  CA SDI                                     3.41
+NET PAY                                    261.84
 --------------------------------------------------------------
 
--- scanned 03/01/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 01/01/2025 10:58   P.01

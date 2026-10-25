@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 05/01/2025 - 05/27/2025
-Member: KEISHA MENDOZA       Account ending 5623
+MARISOL CLEANING SERVICES
+1009 INDUSTRIAL WAY    CA
+                            EARNINGS STATEMENT
+Employee: BAO CRUZ        Emp ID: 55403
+Position: Cleaner
+Pay Period: 03/11/2025 - 03/24/2025     Pay Date: 03/29/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,154.29      8,080.03
+GROSS PAY                                   1,154.29      8,080.03
+DEDUCTIONS
+  Federal Income Tax                        80.80
+    Social Security                           71.56
+  Medicare                                  16.73
+  CA SDI                                    12.69
+NET PAY                                    972.51
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-  Beginning balance            1,109.64
-  Deposits                     1,051.78
-  Withdrawals                 -1,083.33
-  Ending balance               1,078.09
-
-DEPOSITS AND CREDITS
-  05/27  PAYROLL DIR DEP TIDEWATER CONSTRUC         525.89
-  05/13  PAYROLL DIR DEP TIDEWATER CONSTRUC         525.89
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 06/11/2025 10:54   P.01
+-- scanned 04/12/2025 HBCH mailroom  pg 1/1 --

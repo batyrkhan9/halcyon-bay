@@ -1,0 +1,20 @@
+     MARISOL CLEANING SERVICES
+3333 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: HASSAN SULLIVAN        Emp ID: 18775
+Position: Cleaner
+Pay Period: 07/11/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THI5 PERIOD        YTD
+   Salary                                     3,098.01     46,470.15
+GROSS PAY                                  3,098.01     46,470.15
+ DEDUCTIONS
+  Federal Income Tax                       278.82
+  Social Security                          192.07
+   Medicare                                  44.92
+  CA SDI                                    34.07
+   NET PAY                                  2,548.13
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2026]

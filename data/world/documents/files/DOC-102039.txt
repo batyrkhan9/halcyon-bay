@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+1523 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: STEVEN MENDOZA        Emp ID: 51554
+Position: Warehouse associate
+Pay Period: 06/11/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.18     40.00       2,327.20     58,180.00
+GROSS PAY                                  2,327.20     58,180.00
+DEDUCTIONS
+  Federal Income Tax                       255.99
+  Social Security                          144.28
+  Medicare                                  33.74
+  CA SDI                                    25.59
+   NET PAY                                  1,867.60
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/14/2026]

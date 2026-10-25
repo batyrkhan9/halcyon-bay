@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-8084 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: DANIELA WALKER        Emp ID: 64794
-Position: Software engineer
-Pay Period: 04/22/2025 - 05/05/2025     Pay Date: 05/10/2025
-    Pay Frequency: Bi-Weekly
+CYPRESS FLATS AUTO BODY
+3080 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: MADISON JEFFERSON        Emp ID: 17256
+  Position: Technician
+Pay Period: 01/09/2025 - 02/07/2025     Pay Date: 02/12/2025
+ Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-  Regular            142.40     80.00      11,392.00    113,920.00
-GROSS PAY                                 11,392.00    113,920.00
-DEDUCTI0NS
-  Federal Income Tax                       455.68
-  Social Security                          706.30
-  Medicare                                 165.18
-   CA SDI                                   125.31
-NET PAY                                  9,939.53
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,867.51      3,735.02
+GROSS PAY                                  1,867.51      3,735.02
+DEDUCTIONS
+  Federal Income Tax                       205.42
+  Social Security                          115.78
+   Medicare                                  27.07
+  CA SDI                                    20.54
+NET PAY                                  1,498.70
 --------------------------------------------------------------
 
-FAX RECEIVED 05/28/2025 10:21   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/28/2025]

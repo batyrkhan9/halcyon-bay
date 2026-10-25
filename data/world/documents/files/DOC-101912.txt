@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+4734 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER BANKS        Emp ID: 47557
+Position: Cashier
+Pay Period: 05/20/2026 - 06/02/2026     Pay Date: 06/07/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,326.72     15,920.64
+   GROSS PAY                                  1,326.72     15,920.64
+DEDUCTIONS
+  Federal Income Tax                        66.33
+  Social Security                           82.25
+  Medicare                                  19.23
+  CA SDI                                    14.59
+   NET PAY                                  1,144.32
+ --------------------------------------------------------------
+
+FAX RECEIVED 07/04/2026 10:37   P.01

@@ -1,21 +1,21 @@
-PORT ELLERY CANNERY CO
-7564 INDUSTRIAL WAY   CA
+MARISOL CLEANING SERVICES
+3638 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KENNETH MITCHELL        Emp ID: 27230
-Position: Line worker
-Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.09     53.25         963.29     13,486.06
- GROSS PAY                                    963.29     13,486.06
+Emp1oyee: ELENA JOSHI        Emp ID: 64646
+    Position: Cleaner
+Pay Period: 01/07/2026 - 01/13/2026     Pay Date: 01/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             59.27     40.00       2,370.80      7,112.40
+GROSS PAY                                  2,370.80      7,112.40
 DEDUCTIONS
-  Federal Income Tax                        77.06
-  Social Security                           59.72
-   Medicare                                  13.96
-  . : .
-  CA SDI                                    10.59
- NET PAY                                    801.96
+~ ~ .  ,
+  Federal Income Tax                       118.54
+  Social Security                          146.99
+  Medicare                                  34.37
+  CA SDI                                    26.07
+NET PAY                                  2,044.83
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/29/2026]

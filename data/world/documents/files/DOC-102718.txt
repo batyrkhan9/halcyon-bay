@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+6836 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAREN MOORE         Emp ID: 78196
+Position: Dental assistant
+Pay Period: 08/02/2026 - 08/08/2026     Pay Date: 08/13/2026
+    Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.96     21.00         356.16     11,753.28
+GROSS PAY                                    356.16     11,753.28
+DEDUCTIONS
+  Federal Income Tax                        14.24
+  Social Security                           22.08
+  Medicare                                   5.16
+  CA SDI                                     3.91
+NET PAY                                    310.77
+--------------------------------------------------------------
+
+-- scanned 08/29/2026 HBCH mailroom  pg 1/1 --

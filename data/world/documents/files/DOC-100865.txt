@@ -1,20 +1,10 @@
-SANTA LUCITA FARM5
-1002 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN MARTIN         Emp ID: 11212
-Position: Field supervisor
-Pay Period: 12/16/2025 - 12/22/2025     Pay Date: 12/27/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.05     40.00       1,402.00     72,904.00
-GROSS PAY                                  1,402.00     72,904.00
-DEDUCTIONS
-  Federal Income Tax                        56.08
-   Social Security                           86.92
-  Medicare                                  20.32
-      CA SDI                                    15.42
-NET PAY                                  1,223.26
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERV1CES
+ NOTICE OF ACTION
+Medi-Cal Appr0val
+Date: 07/22/2025
+Beneficiary: ROGELIO HO
 
-RECEIVED JAN 14 2026  - mailroom
+  You are approved for full scope Medi-Cal with no share of cost beginning 07/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+-- scanned 09/04/2025 HBCH mailroom  pg 1/1 --

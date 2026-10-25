@@ -1,0 +1,22 @@
+ARROYO VERDE NURSERY
+7907 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA BAKER        Emp ID: 71430
+Position: Nursery worker
+Pay Period: 06/29/2026 - 07/05/2026      Pay Date: 07/10/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                       733.54     20,539.12
+GROSS PAY                                    733.54     20,539.12
+| |   .
+DEDUCTIONS
+  Federal Income Tax                        80.68
+  Social Security                           45.47
+  Medicare                                  10.63
+     CA SDI                                     8.06
+NET PAY                                    588.70
+--------------------------------------------------------------
+  includes overtime 2.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]

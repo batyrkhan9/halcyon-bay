@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-    Statement Period 02/01/2026 - 02/05/2026
-Member: FATIMA RAO       Account ending 9253
+PACIFIC RIM JANITORIAL
+9040 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TARIQ ROMERO        Emp ID: 68903
+Position: Custodian
+Pay Period: 09/13/2025 - 09/26/2025     Pay Date: 10/01/2025
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             37.23     80.00       2,978.40     59,568.00
+GROSS PAY                                  2,978.40     59,568.00
+DEDUCTIONS
+    Federal Income Tax                       297.84
+  Social Security                          184.66
+  Medicare                                  43.18
+  CA SDI                                    32.76
+NET PAY                                  2,419.96
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,043.74
-  Deposits                     7,995.92
-   Withdrawals                 -7,116.36
-  Ending balance               2,923.30
-
-DEPOSITS AND CREDITS
-  02/05  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,997.96
-  01/22  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,997.96
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/22/2026]
+RECEIVED OCT 11 2025  - mailroom

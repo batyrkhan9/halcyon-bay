@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-4629 INDUSTRIAL WAY   CA
+BAYLINE LOGISTICS 1NC
+585 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: SANJAY HUSSAIN        Emp ID: 31920
-Position: Software engineer
-Pay Period: 02/14/2026 - 02/20/2026     Pay Date: 02/25/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
+Employee: RAVI CHEN        Emp ID: 88954
+Position: Warehouse associate
+Pay Period: 08/29/2025 - 09/27/2025     Pay Date: 10/02/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             31.25     40.00       1,250.00     10,000.00
-GROSS PAY                                  1,250.00     10,000.00
-DEDUCTIONS
-  Federal Income Tax                        75.00
-  Social Security                           77.50
-  Medicare                                  18.12
-  CA SDI                                    13.75
-    NET PAY                                  1,065.63
-    --------------------------------------------------------------
+Salary                                     1,603.65     16,036.50
+GROSS PAY                                  1,603.65     16,036.50
+ DEDUCTIONS
+  Federal Income Tax                       144.32
+  Social Security                           99.42
+  Medicare                                  23.25
+  CA SDI                                    17.64
+~ ~ .  ,
+NET PAY                                  1,319.02
+--------------------------------------------------------------
 
--- scanned 03/18/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 10/19/2025 10:15   P.01

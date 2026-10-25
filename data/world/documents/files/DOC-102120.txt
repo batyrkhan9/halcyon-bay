@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-644 HARBOR WAY   CA
+COASTAL VALLEY ENERGY
+6824 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: LETICIA HERNANDEZ        Emp ID: 46461
-Position: Teacher
-    Pay Period: 08/22/2026 - 09/05/2026     Pay Date: 09/10/2026
-Pay Frequency: Semi-Monthly
-| |   .
+Employee: JUAN FLORES        Emp ID: 67362
+Position: Field technician
+Pay Period: 06/24/2026 - 06/30/2026     Pay Date: 07/05/2026
+  Pay Frequency: Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             32.77     86.67       2,840.18     48,283.06
-GROSS PAY                                  2,840.18     48,283.06
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.92     14.50         274.34      7,407.18
+GROSS PAY                                    274.34      7,407.18
 DEDUCTIONS
-  Federal Income Tax                       312.41
-  Social Security                          176.09
-  Medicare                                  41.18
-  CA SDI                                    31.24
-NET PAY                                  2,279.26
- --------------------------------------------------------------
+  Federal Income Tax                        19.20
+  Social Security                           17.00
+  Medicare                                   3.97
+   CA SDI                                     3.01
+NET PAY                                    231.16
+  --------------------------------------------------------------
 
--- scanned 09/27/2026 HBCH mailroom  pg 1/1 --
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

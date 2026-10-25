@@ -1,0 +1,20 @@
+5EASIDE DENTAL GROUP
+5128 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Employee: CHLOE GUPTA        Emp ID: 89685
+Position: Dental assistant
+Pay Period: 06/02/2025 - 06/16/2025     Pay Date: 06/21/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.75     86.67       2,058.41     24,700.92
+GROSS PAY                                  2,058.41     24,700.92
+DEDUCTIONS
+     Federal Income Tax                       226.42
+  Social Security                          127.62
+  Medicare                                  29.84
+  CA SDI                                    22.64
+NET PAY                                  1,651.89
+--------------------------------------------------------------
+
+-- scanned 07/18/2025 HBCH mailroom  pg 1/1 --

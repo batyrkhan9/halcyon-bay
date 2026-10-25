@@ -1,21 +1,21 @@
-BLUE KELP SOFTWARE LLC
-_ _ _ _
-4251 INDUSTRIAL WAY   CA
+PORT ELLERY CANNERY CO
+    6450 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KIM L1N        Emp ID: 78557
-  Position: S0ftware engineer
-Pay Period: 08/21/2026 - 09/03/2026     Pay Date: 09/08/2026
+Employee: TUAN LE        Emp ID: 30052
+   Position: Line worker
+Pay Period: 06/27/2026 - 07/10/2026     Pay Date: 07/15/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.18     80.00       3,054.40     54,979.20
-GROSS PAY                                  3,054.40     54,979.20
+Regular              17.59     80.00       1,407.20     19,700.80
+GROSS PAY                                  1,407.20     19,700.80
 DEDUCTIONS
-  Federal Income Tax                       122.17
-  Social Security                          189.37
-  Medicare                                  44.28
-  CA SDI                                    33.59
-NET PAY                                  2,664.99
---------------------------------------------------------------
+_ _ _ _
+  Federal Income Tax                       140.72
+  Social Security                           87.24
+  Medicare                                  20.40
+  CA SDI                                    15.47
+NET PAY                                  1,143.37
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]
+FAX RECEIVED 07/18/2026 10:18   P.01

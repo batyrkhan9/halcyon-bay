@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+6928 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: SARAH KUMAR        Emp ID: 24605
+Position: Field technician
+ Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,548.04     56,768.64
+GROSS PAY                                   3,548.04     56,768.64
+DEDUCTIONS
+  Federal Income Tax                       283.84
+     Social Security                          219.97
+  Medicare                                  51.44
+  CA SDI                                    39.02
+NET PAY                                  2,953.77
+--------------------------------------------------------------
+
+-- scanned 08/13/2026 HBCH mailroom  pg 1/1 --

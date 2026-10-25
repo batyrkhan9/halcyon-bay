@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+4987 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: KIM BUI        Emp ID: 39335
+Position: Teacher
+Pay Period: 11/03/2025 - 11/16/2025     Pay Date: 11/21/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  . : .
+Salary                                     8,306.48    199,355.52
+GROSS PAY                                  8,306.48    199,355.52
+ DEDUCTIONS
+  Federal Income Tax                       913.71
+  Social Security                          515.00
+  Medicare                                 120.44
+  CA SDI                                    91.37
+NET PAY                                  6,665.96
+--------------------------------------------------------------
+
+FAX RECEIVED 11/26/2025 10:38   P.01

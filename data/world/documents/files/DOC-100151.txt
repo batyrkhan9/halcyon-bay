@@ -1,17 +1,21 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 03/01/2025 - 03/23/2025
-Member: JIA DESAI        Account ending 7019
+OTTER BAY AQUARIUM
+8052 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+ Employee: TYLER VO        Emp ID: 74804
+Position: Guest services
+    Pay Period: 01/05/2025 - 01/18/2025     Pay Date: 01/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,151.71      4,303.42
+GROSS PAY                                  2,151.71      4,303.42
+  . : .
+DEDUCTIONS
+  Federal Income Tax                       150.61
+  Social Security                          133.40
+  Medicare                                  31.20
+  CA SDI                                    23.66
+NET PAY                                  1,812.84
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance            2,616.95
-  Deposits                     4,789.82
-  Withdrawals                 -4,358.73
-  Ending balance               3,048.04
-
-DEPOSITS AND CREDITS
-  03/23  PAYROLL DIR DEP VISTA SERENA MEDIC       2,394.91
-  03/16  PAYROLL DIR DEP VISTA SERENA MEDIC       2,394.91
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED APR 03 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/30/2025]

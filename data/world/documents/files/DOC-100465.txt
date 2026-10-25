@@ -1,10 +1,20 @@
-SOCIAL SECURITY ADMINISTRATION
-Retirement, Survivors and Disability Insurance
-  Date: 06/16/2025
-SANJAY KELLY
+PORT ELLERY CANNERY CO
+3035 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ELENA SULLIVAN        Emp ID: 22336
+Position: Line worker
+Pay Period: 03/31/2025 - 04/13/2025     Pay Date: 04/18/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       669.37      5,354.96
+GROSS PAY                                    669.37      5,354.96
+DEDUCTIONS
+  Federal Income Tax                        73.63
+  Social Security                           41.50
+  Medicare                                   9.70
+  CA SDI                                     7.36
+NET PAY                                    537.18
+--------------------------------------------------------------
 
-This letter is proof of the benefits you receive.
-Beginning December 2024, the full monthly Social Security benefit is $2,393.74.
-We deduct $0.00 for medical insurance premiums each month.
-
-RECEIVED JUL 12 2025  - mailroom
+RECEIVED MAY 09 2025  - mailroom

@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-4130 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: RODRIGO ZHOU        Emp ID: 94114
-Position: Line w0rker
-  Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
-Pay Frequency: Bi-Weekly
+MARISOL CLEANING SERVICES
+5230 MARKET WAY   CA
+                         EARN1NGS STATEMENT
+   Employee: MINH CRUZ        Emp ID: 66242
+Position: Cleaner
+Pay Period: 02/13/2025 - 02/19/2025     Pay Date: 02/24/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Salary                                       864.06      8,640.60
-GROSS PAY                                    864.06      8,640.60
+   Regular             18.56      8.50         157.76      1,262.08
+  GROSS PAY                                    157.76      1,262.08
 DEDUCTIONS
-   Federal Income Tax                        60.48
-  Social Security                           53.57
-  Medicare                                  12.52
-  CA SDI                                     9.50
-  NET PAY                                    727.99
+  Federal Income Tax                        17.35
+  Social Security                            9.78
+   Medicare                                   2.28
+  CA SDI                                     1.73
+NET PAY                                    126.62
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2025]

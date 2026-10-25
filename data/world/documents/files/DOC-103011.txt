@@ -1,0 +1,21 @@
+TIDEWATER CONSTRUCTION
+8061 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: OMAR ESPINOZA        Emp ID: 17242
+  . : .
+Position: Laborer
+ Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.48     80.00       6,038.40    102,652.80
+  GROSS PAY                                  6,038.40    102,652.80
+DEDUCTIONS
+    Federal Income Tax                       241.53
+  Social Security                          374.38
+  Medicare                                  87.55
+    CA SDI                                    66.42
+NET PAY                                  5,268.52
+--------------------------------------------------------------
+
+-- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

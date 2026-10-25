@@ -1,20 +1,21 @@
-MARISOL CLEANING SERVICES
-2796 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: RAVI WILLIAMS        Emp ID: 88565
-Position: Cleaner
-Pay Period: 08/16/2026 - 08/29/2026     Pay Date: 09/03/2026
+BLUE KELP SOFTWARE LLC
+3028 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+~ ~ .  ,
+Employee: MARGARET OKAFOR        Emp ID: 34688
+Position: Engineering manager
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                       370.44      6,667.92
-GROSS PAY                                    370.44      6,667.92
- DEDUCTI0NS
-    Federal Income Tax                        33.33
-  Social 5ecurity                           22.96
-    Medicare                                   5.37
-     CA SDI                                     4.07
-NET PAY                                    304.71
-    --------------------------------------------------------------
+Regular             73.13     80.00       5,850.40     81,905.60
+GROSS PAY                                  5,850.40     81,905.60
+DEDUCTIONS
+  Federal Income Tax                       409.52
+  Social Security                          362.72
+  Medicare                                  84.83
+  CA SDI                                    64.35
+NET PAY                                  4,928.98
+  --------------------------------------------------------------
 
-FAX RECEIVED 09/21/2026 10:16   P.01
+FAX RECEIVED 07/14/2026 10:31   P.01

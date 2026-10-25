@@ -1,20 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-5704 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: IMANI CLARK        Emp ID: 51087
-Position: Medical receptionist
-Pay Period: 06/18/2025 - 07/02/2025     Pay Date: 07/07/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+HARBOR POINT HOTEL
+5261 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONALD FALEOLO        Emp ID: 63014
+Position: Housekeeper
+Pay Period: 03/23/2025 - 04/05/2025     Pay Date: 04/10/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.71     86.67       2,488.30     32,347.90
-GROSS PAY                                  2,488.30     32,347.90
+ Regular             34.77     80.00       2,781.60     22,252.80
+GROSS PAY                                   2,781.60     22,252.80
 DEDUCTIONS
-  Federal Income Tax                       124.41
-  Social Security                          154.27
-    Medicare                                  36.08
-  CA SDI                                    27.37
-NET PAY                                  2,146.17
+  Federal Income Tax                       305.97
+  Social Security                          172.45
+  Medicare                                  40.33
+  CA SDI                                    30.59
+NET PAY                                  2,232.26
 --------------------------------------------------------------
 
-RECEIVED JUL 20 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/20/2025]

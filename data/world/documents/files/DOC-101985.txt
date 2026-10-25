@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-    (copy - summary page)
-Filing Status: Single
-Your first name and middle initial / Last name:  KEONI PARK
-Your social security number: XXX-XX-7159
-Dependents: 0
- Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    25,946.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    25,946.00
-    10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    25,946.00
- 12  Standard deduction ..............................    14,600.00
+   GOLDEN HOUR SENIOR LIVING
+3531 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+ Employee: ANDREW WRIGHT        Emp ID: 76209
+Position: Caregiver
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Salary                                      1,272.00     16,536.00
+GROSS PAY                                  1,272.00     16,536.00
+   DEDUCTIONS
+   Federal Income Tax                        89.04
+  Social Security                           78.86
+  Medicare                                  18.44
+  CA SDI                                    13.99
+NET PAY                                  1,071.67
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Keoni Park        Date: 04/07/2026
-
-FAX RECEIVED 09/14/2026 10:20   P.01
+RECEIVED JUL 10 2026  - mailroom

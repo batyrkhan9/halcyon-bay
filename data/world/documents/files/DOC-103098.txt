@@ -1,0 +1,20 @@
+ PORT ELLERY CANNERY CO
+759 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: THAO THOMPSON        Emp ID: 17051
+   Position: Line worker
+Pay Period: 08/23/2026 - 09/05/2026     Pay Date: 09/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             17.55     16.50         289.58      5,502.02
+  GROSS PAY                                    289.58      5,502.02
+DEDUCTIONS
+  Federal Income Tax                        11.58
+      Social Security                           17.95
+   Medicare                                   4.19
+  CA SDI                                     3.18
+NET PAY                                    252.68
+--------------------------------------------------------------
+
+-- scanned 09/21/2026 HBCH mailroom  pg 1/1 --

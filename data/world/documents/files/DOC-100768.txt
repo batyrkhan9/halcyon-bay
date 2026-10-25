@@ -1,21 +1,20 @@
 COASTAL VALLEY ENERGY
- 9157 HARBOR WAY   CA
+617 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA DAVIS        Emp ID: 92624
+  Employee: KAI TUIASOSOPO        Emp ID: 53465
 Position: Field technician
-Pay Period: 10/23/2025 - 11/05/2025     Pay Date: 11/10/2025
-    Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.66     35.75         631.34     14,520.82
-GROSS PAY                                    631.34     14,520.82
+Pay Period: 07/11/2025 - 07/17/2025     Pay Date: 07/22/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56      8.00         148.48      4,305.92
+GROSS PAY                                    148.48      4,305.92
 DEDUCTIONS
-  Federal Income Tax                        44.19
-      Social Security                           39.14
-_ _ _ _
-  Medicare                                   9.15
-  CA SDI                                     6.94
-NET PAY                                    531.92
---------------------------------------------------------------
+  Federal Income Tax                         8.90
+  Social Security                            9.20
+  Medicare                                   2.15
+     CA SDI                                     1.63
+NET PAY                                    126.60
+ --------------------------------------------------------------
 
-RECEIVED NOV 23 2025  - mailroom
+RECEIVED AUG 07 2025  - mailroom

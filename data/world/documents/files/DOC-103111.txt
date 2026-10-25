@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+1052 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE MEDINA        Emp ID: 33805
+Position: Software engineer
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     58.00       1,067.78     19,220.04
+GROSS PAY                                  1,067.78     19,220.04
+  DEDUCTIONS
+    Federal Income Tax                        96.10
+  Social Security                           66.20
+  Medicare                                  15.48
+  CA SDI                                    11.74
+NET PAY                                    878.26
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/23/2026]

@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+7289 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN RAHMAN        Emp ID: 40841
+Position: Field technician
+    Pay Period: 11/04/2024 - 11/18/2024     Pay Date: 11/23/2024
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    12,005.17    264,113.74
+GROSS PAY                                 12,005.17    264,113.74
+DEDUCTIONS
+  Federal Income Tax                       960.41
+  Social Security                          744.32
+  Medicare                                 174.07
+   CA SDI                                   132.05
+NET PAY                                  9,994.32
+--------------------------------------------------------------
+
+-- scanned 01/01/2025 HBCH mailroom  pg 1/1 --

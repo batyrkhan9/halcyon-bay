@@ -1,20 +1,20 @@
-SANTA LUC1TA FARMS
-1183 INDUSTRIAL WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: RAFAEL PEREIRA        Emp ID: 14985
-Position: Field supervisor
-Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+    MIRADOR PUBLIC LIBRARY
+1861 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS JEFFERSON        Emp ID: 25618
+Position: Library assistant
+Pay Period: 11/02/2025 - 11/15/2025     Pay Date: 11/20/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    10,364.00    134,732.00
-GROSS PAY                                 10,364.00    134,732.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       668.07     16,033.68
+  GROSS PAY                                    668.07     16,033.68
 DEDUCTIONS
-  Federal Income Tax                       829.12
-  Social Security                          642.56
-  Medicare                                 150.27
-  CA SDI                                   114.00
-NET PAY                                  8,628.05
-   --------------------------------------------------------------
+  Federal Income Tax                        73.48
+      Social Security                           41.42
+  Medicare                                   9.68
+  CA SDI                                     7.34
+NET PAY                                    536.15
+--------------------------------------------------------------
 
--- scanned 07/04/2026 HBCH mailroom  pg 1/1 --
+-- scanned 12/31/2025 HBCH mailroom  pg 1/1 --

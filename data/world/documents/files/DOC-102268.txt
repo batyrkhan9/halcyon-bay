@@ -1,0 +1,18 @@
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing 5tatus: Married filing jointly
+Your first name and middle initial / Last name:  BRIANNA MARTIN
+Your social security number: XXX-XX-9593
+Dependents: 3
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    12,708.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    12,708.00
+ 10  Adjustments t0 income ...........................         0.00
+    11  Adjusted gross income ...........................    12,708.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Brianna Martin        Date: 04/04/2026
+
+FAX RECEIVED 07/28/2026 10:10   P.01

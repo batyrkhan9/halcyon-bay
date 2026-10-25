@@ -1,21 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-9717 INDUSTRIAL WAY   CA
+SANTA LUCITA FARMS
+    4911 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN BUI        Emp ID: 61996
-Position: Caregiver
-Pay Period: 06/08/2025 - 06/21/2025     Pay Date: 06/26/2025
-Pay Frequency: Bi-Week1y
-~ ~ .  ,
---------------------------------------------------------------
+Employee: MAI PETROV        Emp ID: 77397
+Position: Field supervis0r
+Pay Period: 03/29/2025 - 04/04/2025     Pay Date: 04/09/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             65.35     80.00       5,228.00     67,964.00
-GROSS PAY                                  5,228.00     67,964.00
+Salary                                     1,155.19     17,327.85
+  GROSS PAY                                  1,155.19     17,327.85
 DEDUCTIONS
-  Federa1 Income Tax                       522.80
-  Social Security                          324.13
-  Medicare                                  75.80
-  CA SDI                                    57.50
-   NET PAY                                  4,247.77
+  Federal Income Tax                        92.41
+  Social Security                           71.62
+  Medicare                                  16.75
+  CA SDI                                    12.70
+NET PAY                                    961.71
 --------------------------------------------------------------
 
-RECEIVED JUL 02 2025  - mailroom
+RECEIVED APR 22 2025  - mailroom

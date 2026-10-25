@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-5710 MARKET WAY   CA
+    SANDPIPER CHILD CARE CENTER
+9912 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSE RAMOS        Emp ID: 81789
-  Position: Laborer
-Pay Period: 06/09/2025 - 06/15/2025     Pay Date: 06/20/2025
-Pay Frequency: Weekly
-| |   .
+    Employee: THAO CLARK-SANCHEZ        Emp ID: 21319
+Position: Teacher
+Pay Period: 03/03/2025 - 03/16/2025     Pay Date: 03/21/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.40      9.50         174.80      4,370.00
-GRO5S PAY                                    174.80      4,370.00
+Salary                                       554.08      3,324.48
+  GROSS PAY                                    554.08      3,324.48
 DEDUCTIONS
-  Federal Income Tax                         6.99
-  Social Security                           10.83
-  Medicare                                   2.53
-   CA SDI                                     1.92
-    NET PAY                                    152.53
+  Federal Income Tax                        27.70
+    Social Security                           34.35
+   Medicare                                   8.03
+  CA SDI                                     6.09
+    NET PAY                                    477.91
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/28/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/19/2025]

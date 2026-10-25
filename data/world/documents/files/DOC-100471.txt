@@ -1,17 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 07/01/2025 - 07/12/2025
-  Member: NOOR CASTILLO       Account ending 6319
+ELLERY HARDWARE SUPPLY
+6001 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: GREGORY DOYLE        Emp ID: 37206
+Position: Sales associate
+Pay Period: 03/17/2025 - 03/30/2025     Pay Date: 04/04/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.40     80.00       1,632.00     11,424.00
+ GR0SS PAY                                  1,632.00     11,424.00
+DEDUCTIONS
+  Federal Income Tax                       114.24
+  Socia1 Security                          101.18
+  Medicare                                  23.66
+   CA SDI                                    17.95
+NET PAY                                  1,374.97
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,021.76
-  Deposits                     3,124.36
-  Withdrawals                 -2,843.16
-  Ending balance               2,302.96
-
-DEPOSITS AND CREDITS
-  07/12  PAYROLL DIR DEP OTTER BAY AQUARIUM       3,124.36
-~ ~ .  ,
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 07/15/2025 10:54   P.01
+FAX RECEIVED 05/11/2025 10:21   P.01

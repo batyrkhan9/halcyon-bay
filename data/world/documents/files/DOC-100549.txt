@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+3951 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MINH BUI        Emp ID: 85177
+Position: Instructional aide
+Pay Period: 04/22/2025 - 05/21/2025     Pay Date: 05/26/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    12,070.12     60,350.60
+GROSS PAY                                 12,070.12     60,350.60
+DEDUCTION5
+  Federal Income Tax                       844.90
+  Social Security                          748.34
+  Medicare                                 175.01
+    CA SDI                                   132.77
+   NET PAY                                 10,169.10
+--------------------------------------------------------------
+
+RECEIVED JUN 06 2025  - mailroom

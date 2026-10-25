@@ -1,20 +1,21 @@
-OTTER BAY AQUARIUM
-6972 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
- Employee: HECTOR LEE         Emp ID: 87137
-Position: Guest services
-Pay Period: 12/08/2025 - 12/14/2025     Pay Date: 12/19/2025
-Pay Frequency: Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.34     40.00       1,853.60     94,533.60
-GROSS PAY                                  1,853.60     94,533.60
-DEDUCTIONS
-  Federal Income Tax                       166.82
-  Social Security                          114.92
-  Medicare                                  26.87
-  CA SDI                                    20.39
-NET PAY                                  1,524.60
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 07/01/2025 - 07/31/2025
+Member: H1ROSHI WU       Account ending 6013
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/28/2025]
+    CHECKING SUMMARY
+     Beginning balance            2,696.86
+  Deposits                     3,477.50
+  Withdrawals                 -3,616.60
+    Ending balance               2,557.76
+
+DEPOSITS AND CREDITS
+  07/14  PAYROLL DIR DEP ELLERY HARDWARE SU       1,738.75
+  07/28  PAYROLL DIR DEP ELLERY HARDWARE SU       1,738.75
+
+SAVINGS SUMMARY  (Share Savings ending 8490)
+  Ending balance              25,501.09
+  Dividends paid                  10.20
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 08/28/2025 HBCH mailroom  pg 1/1 --

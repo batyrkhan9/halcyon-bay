@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+6067 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: AALIYAH MURPHY        Emp ID: 73572
+Position: Teacher
+Pay Period: 04/13/2026 - 04/27/2026     Pay Date: 05/02/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             49.30     86.67       4,272.83     38,455.47
+GROSS PAY                                  4,272.83     38,455.47
+DEDUCTIONS
+  Federal Income Tax                       213.64
+    Social Security                          264.91
+  Medicare                                  61.95
+    CA SDI                                    47.00
+  NET PAY                                  3,685.33
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]

@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-4388 MARKET WAY   CA
+COASTAL VALLEY ENERGY
+7499 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ARACELI HUANG        Emp ID: 51934
-Position: Field supervisor
-   Pay Period: 05/20/2025 - 06/18/2025     Pay Date: 06/23/2025
-   Pay Frequency: Monthly
-   --------------------------------------------------------------
+Empl0yee: RAMON CARTER        Emp ID: 81327
+Position: Field technician
+Pay Period: 04/13/2025 - 04/19/2025     Pay Date: 04/24/2025
+    Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            141.33    173.33      24,496.73    146,980.38
-GROSS PAY                                 24,496.73    146,980.38
+Salary                                       300.75      5,112.75
+GROSS PAY                                    300.75      5,112.75
 DEDUCTIONS
-  Federal Income Tax                     2,449.67
-  Social Security                        1,518.79
-   Medicare                                 355.20
-   CA SDI                                   269.46
-NET PAY                                 19,903.61
+     Federal Income Tax                        15.03
+  Social Security                           18.64
+  Medicare                                   4.36
+  CA SDI                                     3.30
+ NET PAY                                    259.42
 --------------------------------------------------------------
 
-FAX RECEIVED 07/05/2025 10:24   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/08/2025]

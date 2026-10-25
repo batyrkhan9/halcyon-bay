@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+8894 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: RONALD 5INGH        Emp 1D: 13678
+Position: Cashier
+Pay Period: 09/14/2025 - 09/27/2025     Pay Date: 10/02/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.28     68.25       1,247.61     24,952.20
+GROSS PAY                                  1,247.61     24,952.20
+DEDUCTIONS
+  Federal Income Tax                        62.38
+    Social Security                           77.35
+  Medicare                                  18.09
+  CA SDI                                    13.72
+NET PAY                                  1,076.07
+--------------------------------------------------------------
+
+RECEIVED OCT 06 2025  - mailroom

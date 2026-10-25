@@ -1,21 +1,21 @@
-    TIDEWATER CONSTRUCTION
-6273 HARBOR WAY   CA
+SEASIDE DENTAL GROUP
+8191 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-    Employee: DARNELL FONOTI        Emp ID: 40337
-Position: Laborer
-Pay Period: 06/29/2026 - 07/28/2026     Pay Date: 08/02/2026
-  Pay Frequency: Monthly
+   Employee: SANJAY SMITH        Emp ID: 45438
+Position: Dental assistant
+Pay Period: 03/23/2026 - 04/21/2026     Pay Date: 04/26/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Salary                                     7,398.48     59,187.84
-GROSS PAY                                  7,398.48     59,187.84
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+Sa1ary                                       863.72      3,454.88
+GROSS PAY                                    863.72      3,454.88
 DEDUCTIONS
-  Federal 1ncome Tax                       517.89
-  Social Security                          458.70
-      Medicare                                 107.27
-  CA SDI                                    81.38
-NET PAY                                   6,233.24
-| |   .
+  Federal Income Tax                        95.00
+  Social Security                           53.55
+  Medicare                                  12.52
+  CA SDI                                     9.50
+NET PAY                                    693.15
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/16/2026]
+RECEIVED MAY 11 2026  - mailroom

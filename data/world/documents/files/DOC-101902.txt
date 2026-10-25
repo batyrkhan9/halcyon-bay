@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-3025 HARB0R WAY   CA
-                         EARNINGS STATEMENT
-  . : .
-Employee: FATIMA TANAKA        Emp ID: 11145
-Position: Technician
-Pay Period: 08/20/2026 - 08/26/2026     Pay Date: 08/31/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+HALCYON BAY UNIFIED SCHOOL DIST
+3122 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Employee: ROHAN IYER        Emp ID: 93840
+Position: Instructional aide
+Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.88     12.75         240.72      8,425.20
-GROSS PAY                                    240.72      8,425.20
+Salary                                       913.37     11,873.81
+   GROSS PAY                                    913.37     11,873.81
 DEDUCTIONS
-  Federal Income Tax                        24.07
-  Social Security                           14.92
-  Medicare                                   3.49
-  CA SDI                                     2.64
-NET PAY                                    195.60
+  Federal Income Tax                       100.47
+  Social Security                           56.62
+  Medicare                                  13.24
+  CA SDI                                    10.04
+NET PAY                                     733.00
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/10/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/03/2026]

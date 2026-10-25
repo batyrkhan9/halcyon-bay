@@ -103,7 +103,7 @@ def history_fa_case(b: Builder, rng: random.Random, kind: str, files: bool) -> d
     if rng.random() < 0.10:
         pday = rday(rng, acc.fsd + timedelta(days=3), received - timedelta(days=1))
         if pday > acc.fsd:
-            b.pay(acc, pday, rng.randint(25, 200) * 100)
+            b.pay(acc, pday, min(rng.randint(25, 200) * 100, acc.f["patient_responsibility"] // 2))
     needs_info = kind == "CLOSED" or (kind in ("FREE", "DISCOUNT", "DENIED") and rng.random() < 0.3)
     if needs_info:
         ni_day = received + timedelta(days=rng.randint(2, 7))
@@ -146,7 +146,7 @@ def history_fa_case(b: Builder, rng: random.Random, kind: str, files: bool) -> d
             proof = "PAY_STUBS"
         app = b.application(rng, person, patient, accounts, received, household=hh, income_stated=None,
                             form=form, assets=assets, medi_cal=medi, homeless=hl)
-        truth = b.income_docs(rng, app, person, proof, target, docs_day, files=files, bank=rng.random() < 0.15)
+        truth = b.income_docs(rng, app, person, proof, target, docs_day, files=files, bank=rng.random() < 0.3)
         pct = truth / R.poverty_line(year, hh)
         outcome = R.band(pct)
         stated = round(truth / 100 * rng.uniform(0.96, 1.02) / 100) * 100
@@ -335,7 +335,8 @@ def history_noapp(b: Builder, rng, pool_paid: list) -> None:
     old_enough = acc.fsd <= date(2026, 2, 15)
     if payer == "SELF PAY" and old_enough and (stype == "INPATIENT" or rng.random() < 0.55):
         if rng.random() < 0.25:
-            b.pay(acc, acc.fsd + timedelta(days=rng.randint(10, 60)), rng.randint(20, 150) * 100)
+            b.pay(acc, acc.fsd + timedelta(days=rng.randint(10, 60)),
+                  min(rng.randint(20, 150) * 100, acc.f["patient_responsibility"] // 2))
         unpaid_flow(b, rng, [acc], allow_place=True, screened=False)
     elif payer != "SELF PAY" and old_enough and rng.random() < 0.12:
         unpaid_flow(b, rng, [acc], allow_place=True, screened=False)
@@ -393,7 +394,7 @@ def live_clear_case(b: Builder, rng, kind: str, pool_paid: list) -> dict:
     if patient is None:
         tmp_service = date(2026, 3, 1)
         patient = b.register(rng, person, tmp_service)  # registered_on fixed below
-    acc, received = live_timeline(b, rng, patient, payer=payer)
+    acc, received = live_timeline(b, rng, patient, payer=payer, recent_share=0.0 if returning else 0.35)
     if not returning:
         reg = acc.f["service_date"] if rng.random() < 0.7 else rday(rng, date(2012, 1, 1), date(2024, 12, 1))
         patient.f["registered_on"] = reg
@@ -402,7 +403,7 @@ def live_clear_case(b: Builder, rng, kind: str, pool_paid: list) -> dict:
     accounts = [acc]
     if rng.random() < 0.12 and acc.fsd < received - timedelta(days=4):
         pday = rday(rng, acc.fsd + timedelta(days=2), received - timedelta(days=1))
-        b.pay(acc, pday, rng.randint(40, 300) * 100)
+        b.pay(acc, pday, min(rng.randint(40, 300) * 100, acc.f["patient_responsibility"] // 2))
     hh = person.household
     docs_day = received if rng.random() < 0.7 else min(received + timedelta(days=rng.randint(1, 7)),
                                                         WORLD_END - timedelta(days=1))
@@ -417,7 +418,7 @@ def live_clear_case(b: Builder, rng, kind: str, pool_paid: list) -> dict:
         app = b.application(rng, person, patient, accounts, received, household=hh, income_stated=None, form=form,
                             assets=assets, medi_cal=medi, homeless=hl)
         truth = b.income_docs(rng, app, person, "PAY_STUBS", target, docs_day, files=True,
-                              bank=rng.random() < 0.2)
+                              bank=rng.random() < 0.35)
         if rng.random() < 0.12:
             b.income_docs(rng, app, person, "TAX_RETURN", truth, docs_day, files=True)
         pct = truth / R.poverty_line(year, hh)
@@ -433,8 +434,9 @@ def live_clear_case(b: Builder, rng, kind: str, pool_paid: list) -> dict:
                 "Spoke w/ pt re balance, pt submitting FA app.", "App + income docs scanned to FA queue.",
             ]), app=app)
         label = "pay stubs"
-        b.screen_answer(acc, person, outcome, pct, received, proof_label=label)
-        return {"person": person, "app": app, "accounts": accounts, "outcome": outcome, "pct": pct}
+        row = b.screen_answer(acc, person, outcome, pct, received, proof_label=label)
+        return {"person": person, "app": app, "accounts": accounts, "outcome": outcome, "pct": pct, "row": row,
+                "patient": patient}
     # Medi-Cal or homeless: free care without income documents
     app = b.application(rng, person, patient, accounts, received, household=hh, income_stated=None, form=form,
                         assets=None, medi_cal=medi, homeless=hl)
@@ -455,10 +457,11 @@ def live_clear_case(b: Builder, rng, kind: str, pool_paid: list) -> dict:
         b.w.note(received, note_staff(rng), "Pt states has Medi-Cal, card copied." if kind == "MEDICAL"
                  else "Pt experiencing homelessness, staying at shelter. Gave FA app.", app=app)
     why = "Medi-Cal" if kind == "MEDICAL" else "homeless"
-    b.screen_answer(acc, person, "FREE", None, received,
-                    reason=f"Patient is on Medi-Cal: free care without income documents." if kind == "MEDICAL"
-                    else "Patient is homeless: free care without income documents.")
-    return {"person": person, "app": app, "accounts": accounts, "outcome": "FREE", "pct": None, "why": why}
+    row = b.screen_answer(acc, person, "FREE", None, received,
+                          reason="Patient is on Medi-Cal: free care without income documents." if kind == "MEDICAL"
+                          else "Patient is homeless: free care without income documents.")
+    return {"person": person, "app": app, "accounts": accounts, "outcome": "FREE", "pct": None, "why": why,
+            "row": row, "patient": patient}
 
 
 def live_nowork(b: Builder, rng, pool_paid: list) -> None:
@@ -494,7 +497,7 @@ def build_base(b: Builder) -> dict:
              + ["CLOSED"] * COUNTS["H_CLOSED"])
     rng.shuffle(order)
     for kind in order:
-        hist_cases.append(history_fa_case(b, hist_rng, kind, files=hist_rng.random() < 0.4))
+        hist_cases.append(history_fa_case(b, hist_rng, kind, files=hist_rng.random() < 0.45))
     for _ in range(COUNTS["H_NOAPP"]):
         history_noapp(b, hist_rng, pool_paid)
     live_cases: list[dict] = []
@@ -525,8 +528,7 @@ def patterns(b: Builder, pools_: dict) -> None:
     free = sum(1 for a, s in final if s["decision"] == "FREE" and s["income_proof"] not in ("NONE", "")
                and s["medi_cal"] != "Y" and s["homeless"] != "Y")
     disc = sum(1 for a, s in final if s["decision"] == "DISCOUNT")
-    denied_income = sum(1 for a, s in final if s["decision"] == "DENIED" and tag(a) in ("", "DECOY_OK_INCOME")
-                        and "income" in s["reason"].lower())
+    denied_income = sum(1 for a, s in final if s["decision"] == "DENIED" and tag(a) == "")
     medi = sum(1 for a, s in final if s["decision"] == "FREE" and s["medi_cal"] == "Y")
     homeless = sum(1 for a, s in final if s["decision"] == "FREE" and s["homeless"] == "Y")
     late = sum(1 for a, s in final if tag(a) in ("ILLEGAL_LATE", "DECOY_LATE"))

@@ -1,0 +1,21 @@
+    OTTER BAY AQUARIUM
+    1225 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEBORAH PHAM        Emp ID: 17304
+Position: Guest services
+Pay Period: 12/11/2024 - 12/24/2024     Pay Date: 12/29/2024
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             22.47     80.00       1,797.60     46,737.60
+GROSS PAY                                  1,797.60     46,737.60
+DEDUCTION5
+  Federal Income Tax                       143.80
+~ ~ .  ,
+  Social Security                          111.45
+  Medicare                                  26.06
+  CA SDI                                    19.77
+NET PAY                                  1,496.52
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/01/2025]

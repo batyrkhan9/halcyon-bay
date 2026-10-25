@@ -1,20 +1,21 @@
-   ELLERY HARDWARE SUPPLY
-6976 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ABIGAIL KING        Emp ID: 74509
-Position: Sales associate
-   Pay Period: 03/31/2025 - 04/13/2025     Pay Date: 04/18/2025
-    Pay Frequency: Bi-Weekly
+SANDPIPER CHILD CARE CENTER
+7462 COMMERCE WAY   CA
+                           EARNING5 STATEMENT
+Employee: JAE MOORE-ORTIZ        Emp ID: 53572
+Position: Teacher
+Pay Period: 02/06/2025 - 02/19/2025     Pay Date: 02/24/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,421.12     11,368.96
-GROSS PAY                                  1,421.12     11,368.96
-DEDUCTI0NS
-  Federal Income Tax                       113.68
-  Social Security                           88.10
-  Medicare                                  20.60
-  CA SDI                                    15.63
-NET PAY                                  1,183.11
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             18.58     65.00       1,207.70      4,830.80
+GROSS PAY                                  1,207.70      4,830.80
+DEDUCTIONS
+  Federa1 Income Tax                        72.46
+  Social Security                           74.87
+~ ~ .  ,
+  Medicare                                  17.51
+  CA SDI                                    13.28
+NET PAY                                  1,029.58
 --------------------------------------------------------------
 
-FAX RECEIVED 05/26/2025 10:48   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2025]

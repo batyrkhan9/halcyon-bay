@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-2643 MARKET WAY   CA
-                           EARNINGS STATEMENT
-Emp1oyee: LARRY COSTA        Emp ID: 25749
-Position: Caregiver
-Pay Period: 09/01/2026 - 09/07/2026     Pay Date: 09/12/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
+BLUE KELP SOFTWARE LLC
+8468 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARGARET OKAFOR         Emp ID: 34688
+Position: Engineering manager
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              29.30     40.00       1,172.00     43,364.00
-GROSS PAY                                  1,172.00     43,364.00
+Regular             73.13     80.00       5,850.40     76,055.20
+GROSS PAY                                  5,850.40     76,055.20
 DEDUCTIONS
-  Federal Income Tax                       117.20
-  Social Security                           72.66
-  Medicare                                  16.99
-   CA SDI                                    12.89
-NET PAY                                    952.26
+   Federal Income Tax                       409.52
+  Social Security                          362.72
+  Medicare                                  84.83
+  CA SDI                                    64.35
+NET PAY                                  4,928.98
 --------------------------------------------------------------
 
--- scanned 09/22/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/14/2026 10:38   P.01

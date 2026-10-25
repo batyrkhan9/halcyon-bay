@@ -1,20 +1,18 @@
-LAS BRISAS RESTAURANT GROUP
-296 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN SANCHEZ        Emp ID: 93895
-Position: Line cook
-Pay Period: 06/11/2025 - 06/17/2025     Pay Date: 06/22/2025
-Pay Frequency: Week1y
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,513.14     37,828.50
-GROSS PAY                                  1,513.14     37,828.50
-DEDUCTIONS
-  Federal Income Tax                       166.44
-  Social Security                           93.81
-  Medicare                                  21.94
-  CA SDI                                    16.64
-    NET PAY                                  1,214.31
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  MADISON MENDOZA
+ Your social security number: XXX-XX-4346
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    26,035.00
+   8   Additional income from Schedule 1, line 10 ......         0.00
+    9   Total income ....................................    26,035.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    26,035.00
+ 12  Standard deduction ..............................    14,600.00
 
-RECEIVED JUL 16 2025  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Madison Mendoza        Date: 04/02/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/11/2025]

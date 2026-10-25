@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-3774 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+3616 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Empl0yee: SOFIA DANG        Emp ID: 92068
-Position: Housekeeper
-Pay Period: 06/02/2025 - 06/15/2025     Pay Date: 06/20/2025
+  Employee: TYLER FITZGERALD        Emp ID: 93076
+Position: Cashier
+ Pay Period: 03/28/2025 - 04/10/2025     Pay Date: 04/15/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,264.91     42,443.83
-GROSS PAY                                  3,264.91     42,443.83
+Regu1ar             16.74     25.50         426.87      3,414.96
+   GROSS PAY                                    426.87      3,414.96
 DEDUCTIONS
-  Federal Income Tax                       326.49
-      Social Security                          202.42
-  Medicare                                  47.34
-  CA SDI                                    35.91
-NET PAY                                  2,652.75
+  Federal Income Tax                        29.88
+  Social Security                           26.46
+  Medicare                                   6.19
+  CA SDI                                     4.69
+NET PAY                                    359.65
 --------------------------------------------------------------
 
-RECEIVED JUL 16 2025  - mailroom
+-- scanned 05/12/2025 HBCH mailroom  pg 1/1 --

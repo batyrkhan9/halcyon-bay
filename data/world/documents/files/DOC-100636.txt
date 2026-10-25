@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY CO
-  9024 HARBOR WAY   CA
+SUNSET COAST HOME CARE
+2083 MARKET WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: CARMEN SHAH        Emp ID: 84096
-Position: Line worker
-Pay Period: 08/30/2025 - 09/05/2025     Pay Date: 09/10/2025
-Pay Frequency: Weekly
+    Employee: YESENIA LEE        Emp ID: 84328
+Position: Home care aide
+Pay Period: 05/15/2025 - 05/28/2025     Pay Date: 06/02/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.86     40.00         874.40     32,352.80
-GROSS PAY                                    874.40     32,352.80
-DEDUCTIONS
-  Federal Income Tax                        87.44
-  Social Security                           54.21
-  Medicare                                  12.67
-  CA SDI                                     9.61
-NET PAY                                    710.47
-   --------------------------------------------------------------
+Salary                                     2,807.42     30,881.62
+| |   .
+GROSS PAY                                  2,807.42     30,881.62
+  DEDUCTIONS
+  Federal Income Tax                       112.29
+  Social Security                          174.06
+     Medicare                                  40.70
+  CA SDI                                    30.88
+NET PAY                                  2,449.49
+--------------------------------------------------------------
 
--- scanned 09/22/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/28/2025]

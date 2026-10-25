@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+8567 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+   Employee: MEI RODRIGUEZ        Emp ID: 39867
+Position: Guest services
+Pay Peri0d: 06/05/2026 - 06/19/2026     Pay Date: 06/24/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.23     53.50         975.30     11,703.60
+GROSS PAY                                    975.30     11,703.60
+DEDUCTIONS
+  Federal Income Tax                        58.51
+      Social Security                           60.46
+    Medicare                                  14.14
+    CA SDI                                    10.72
+NET PAY                                    831.47
+--------------------------------------------------------------
+
+FAX RECEIVED 07/13/2026 10:12   P.01

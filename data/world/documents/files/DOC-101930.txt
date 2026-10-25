@@ -1,20 +1,19 @@
-OTTER BAY AQUARIUM
-    2819 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE SULLIVAN-MEHTA        Emp ID: 89437
-Position: Guest services
-Pay Period: 08/15/2026 - 08/21/2026      Pay Date: 08/26/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       942.09     32,031.06
-GROSS PAY                                     942.09     32,031.06
-DEDUCTIONS
-  Federal Income Tax                       103.62
-  Social Security                           58.41
-  Medicare                                  13.66
-  CA SDI                                    10.36
-    NET PAY                                    756.04
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+  (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  TERESA C0NTRERAS
+Your social security number: XXX-XX-2785
+Dependents: 1
+Income
+  . : .
+ 1a  Total amount from Form(s) W-2, box 1 ...........    23,524.00
+   8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    23,524.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    23,524.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Teresa Contreras        Date: 04/01/2026
+
+RECEIVED JUL 05 2026  - mailroom

@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-3592 HARBOR WAY   CA
+GOLDEN HOUR SENIOR LIVING
+3509 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-  Employee: HUNG WALKER        Emp ID: 66614
-Position: Sales associate
-Pay Period: 06/24/2025 - 07/08/2025     Pay Date: 07/13/2025
-Pay Frequency: Semi-Monthly
+Employee: KEISHA ZAMORA        Emp ID: 10774
+    P0sition: Caregiver
+Pay Period: 05/08/2025 - 05/14/2025     Pay Date: 05/19/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             41.86     86.67       3,628.01     47,164.13
-GROSS PAY                                  3,628.01     47,164.13
-  DEDUCTION5
-     Federal Income Tax                       253.96
-  S0cial Security                          224.93
-  Medicare                                  52.60
-  CA SDI                                    39.90
-     NET PAY                                  3,056.62
---------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       244.65      4,893.00
+GROSS PAY                                    244.65      4,893.00
+DEDUCTIONS
+  Federal Income Tax                        17.12
+  Social Security                           15.16
+  Medicare                                   3.54
+      CA SDI                                     2.69
+ NET PAY                                     206.14
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/03/2025]

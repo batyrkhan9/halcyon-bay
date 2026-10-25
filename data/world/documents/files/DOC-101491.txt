@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-7404 HARBOR WAY   CA
+    PORT ELLERY CANNERY CO
+9590 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: PAOLA BUI        Emp ID: 84007
-Position: Caregiver
-    Pay Period: 06/11/2026 - 06/24/2026     Pay Date: 06/29/2026
-Pay Frequency: Bi-Weekly
+Employee: JUAN BELL        Emp 1D: 55906
+Position: Line worker
+| |   .
+Pay Period: 02/11/2026 - 02/25/2026     Pay Date: 03/02/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             44.23     80.00       3,538.40     45,999.20
-GROSS PAY                                  3,538.40     45,999.20
+    Regular             18.03     68.25       1,230.55      6,152.75
+   GROSS PAY                                  1,230.55      6,152.75
 DEDUCTIONS
-  Federal Income Tax                       318.45
-  Social Security                          219.38
-  Medicare                                  51.30
-  CA SDI                                    38.92
-  NET PAY                                  2,910.35
+  Federal Income Tax                        86.13
+  Social Security                           76.29
+  Medicare                                  17.84
+  CA SDI                                    13.53
+NET PAY                                  1,036.76
 --------------------------------------------------------------
 
-FAX RECEIVED 07/27/2026 10:57   P.01
+FAX RECEIVED 03/10/2026 10:22   P.01

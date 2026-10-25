@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-3352 INDUSTRIAL WAY   CA
+   OTTER BAY AQUARIUM
+2463 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA NASSER        Emp ID: 56521
-Position: Software engineer
-Pay Period: 08/15/2026 - 08/29/2026     Pay Date: 09/03/2026
-Pay Frequency: Semi-Monthly
+Employee: TARIQ YOUNG-DELGADO        Emp ID: 81763
+Position: Guest services
+Pay Period: 06/20/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             79.97     86.67       6,931.00    117,827.00
-GROSS PAY                                  6,931.00    117,827.00
+Salary                                      4,340.38     60,765.32
+GROSS PAY                                  4,340.38     60,765.32
 DEDUCTIONS
-  Federal Income Tax                       277.24
-  Social Security                          429.72
-  Medicare                                 100.50
-  CA SDI                                    76.24
-NET PAY                                  6,047.30
+  Federal Income Tax                       173.61
+  Social Security                          269.10
+  Medicare                                  62.93
+  CA SDI                                    47.74
+NET PAY                                  3,787.00
 --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/21/2026]
+FAX RECEIVED 07/14/2026 10:52   P.01

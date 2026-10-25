@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3565 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE KHALIL        Emp ID: 82229
+Position: Medical receptionist
+Pay Period: 06/30/2025 - 07/06/2025      Pay Date: 07/11/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             35.31     40.00       1,412.40     39,547.20
+GROSS PAY                                  1,412.40     39,547.20
+DEDUCTIONS
+   Federal Income Tax                       127.11
+  Social Security                           87.56
+  Medicare                                  20.48
+  CA SDI                                    15.53
+NET PAY                                  1,161.72
+    --------------------------------------------------------------
+
+RECEIVED JUL 25 2025  - mailroom

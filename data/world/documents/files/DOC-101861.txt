@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-6698 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ETHAN RAMIREZ        Emp ID: 28641
-Position: Custodian
-Pay Period: 08/07/2026 - 08/21/2026     Pay Date: 08/26/2026
+MARISOL CLEANING SERVICES
+  1046 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: JOSHUA HERNANDEZ         Emp ID: 75604
+Position: Cleaner
+  Pay Period: 04/03/2026 - 04/17/2026     Pay Date: 04/22/2026
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-Regular            128.11     86.67      11,103.29    177,652.64
- GROSS PAY                                 11,103.29    177,652.64
+Regular             27.29     86.67       2,365.22     18,921.76
+GROSS PAY                                  2,365.22     18,921.76
 DEDUCTIONS
-  Federal Income Tax                       666.19
-   Social Security                          688.40
-  Medicare                                 160.99
-   CA SDI                                   122.13
-NET PAY                                  9,465.58
+  Federal Income Tax                       189.21
+  Social Security                          146.64
+  Medicare                                  34.29
+   CA SDI                                    26.01
+  NET PAY                                  1,969.07
 --------------------------------------------------------------
 
-RECEIVED SEP 08 2026  - mailroom
+-- scanned 05/31/2026 HBCH mailroom  pg 1/1 --

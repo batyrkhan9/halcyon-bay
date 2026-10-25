@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-1610 COMMERCE WAY   CA
+MIRADOR GROCERY CO-OP
+ 4676 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JAE WALSH        Emp ID: 41072
-Position: Line worker
-Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Employee: RONALD HAYES        Emp ID: 97926
+Position: Cashier
+Pay Period: 03/10/2026 - 03/23/2026     Pay Date: 03/28/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             40.13     80.00       3,210.40     51,366.40
-GROSS PAY                                  3,210.40     51,366.40
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             16.69     43.50         726.02      5,082.14
+GROSS PAY                                    726.02      5,082.14
 DEDUCTIONS
-  Federal Income Tax                       256.83
-  Social Security                          199.04
-  Medicare                                  46.55
-  CA SDI                                    35.31
-NET PAY                                  2,672.67
+  Federal Income Tax                        43.56
+  Social Security                           45.01
+      Medicare                                  10.52
+  CA SDI                                     7.98
+NET PAY                                    618.95
 --------------------------------------------------------------
 
-RECEIVED AUG 14 2026  - mailroom
+RECEIVED APR 26 2026  - mailroom

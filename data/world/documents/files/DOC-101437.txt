@@ -1,20 +1,20 @@
-   ELLERY HARDWARE SUPPLY
-7461 INDUSTRIAL WAY   CA
+SANTA LUCITA FARMS
+9626 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ANDREW HERNANDEZ        Emp ID: 60852
-Position: Sales associate
-Pay Period: 04/14/2026 - 05/13/2026     Pay Date: 05/18/2026
-Pay Frequency: Monthly
+Employee: AHMED JOSHI        Emp ID: 95329
+Position: Field supervisor
+    Pay Period: 01/20/2026 - 02/03/2026     Pay Date: 02/08/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    17,982.36     89,911.80
-GROSS PAY                                 17,982.36     89,911.80
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             22.41     86.67       1,942.27      5,826.81
+   GROSS PAY                                  1,942.27      5,826.81
 DEDUCTIONS
-  Federal Income Tax                     1,618.41
-  Social Security                        1,114.90
-  Medicare                                 260.74
-  CA SDI                                   197.80
-NET PAY                                 14,790.51
+  Federal Income Tax                       155.38
+  Social Security                          120.42
+  Medicare                                  28.16
+     CA 5DI                                    21.36
+NET PAY                                  1,616.95
    --------------------------------------------------------------
 
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/12/2026]

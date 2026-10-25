@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+839 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUSTIN YOUNG        Emp ID: 72664
+Position: Nursery worker
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,420.42     75,147.14
+    GROSS PAY                                  4,420.42     75,147.14
+DEDUCTIONS
+  Federal Income Tax                       309.42
+  Social Security                          274.06
+  Medicare                                  64.09
+  CA SDI                                    48.62
+NET PAY                                  3,724.23
+--------------------------------------------------------------
+
+-- scanned 09/03/2026 HBCH mailroom  pg 1/1 --

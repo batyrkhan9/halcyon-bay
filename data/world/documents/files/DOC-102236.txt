@@ -1,0 +1,22 @@
+LAS BRISAS RESTAURANT GROUP
+5651 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: TYLER DO-LE        Emp ID: 98569
+    Position: Line cook
+| |   .
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,933.42     25,134.46
+GROSS PAY                                  1,933.42     25,134.46
+     DEDUCTIONS
+  Federal Income Tax                       154.67
+  Social Security                          119.87
+   Medicare                                  28.03
+  CA SDI                                    21.26
+ NET PAY                                  1,609.59
+--------------------------------------------------------------
+      includes overtime 2.00 hrs
+
+RECEIVED JUL 26 2026  - mailroom

@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+1333 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: PEDRO LEWIS-ITO        Emp ID: 62087
+Position: Cashier
+Pay Period: 06/16/2026 - 07/15/2026     Pay Date: 07/20/2026
+Pay Frequency: M0nthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.81    173.33       3,087.01     21,609.07
+GROSS PAY                                  3,087.01     21,609.07
+DEDUCTIONS
+  Federal Income Tax                       154.35
+  Social Security                          191.39
+  Medicare                                  44.76
+  CA SDI                                    33.95
+NET PAY                                   2,662.56
+--------------------------------------------------------------
+
+FAX RECEIVED 07/29/2026 10:20   P.01

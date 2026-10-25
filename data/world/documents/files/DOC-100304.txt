@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-  2049 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ABIGAIL KING        Emp ID: 74509
-Position: Sales associate
-Pay Period: 04/14/2025 - 04/27/2025     Pay Date: 05/02/2025
-Pay Frequency: Bi-Weekly
+TIDEWATER CONSTRUCTION
+8517 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: DEEPA ITO        Emp ID: 94686
+Position: Laborer
+Pay Period: 03/01/2025 - 03/07/2025     Pay Date: 03/12/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,421.12     12,790.08
-   GROSS PAY                                  1,421.12     12,790.08
+Regular             20.70     40.00         828.00      9,108.00
+GROSS PAY                                    828.00      9,108.00
 DEDUCTIONS
-  Federal Income Tax                        85.26
-  Social Security                           88.10
-  Medicare                                  20.60
-   CA SDI                                    15.63
-NET PAY                                  1,211.53
-  --------------------------------------------------------------
+  Federal Income Tax                        41.40
+  Social Security                           51.33
+  Medicare                                  12.00
+      CA SDI                                     9.10
+ NET PAY                                    714.17
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/26/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/25/2025]

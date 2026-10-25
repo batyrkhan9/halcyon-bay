@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-8887 HARBOR WAY   CA
+MIRADOR PUBLIC LIBRARY
+8225 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ROHAN SANCHEZ        Emp ID: 93895
-   Position: Line cook
-Pay Period: 06/18/2025 - 06/24/2025     Pay Date: 06/29/2025
-Pay Frequency: Weekly
+Employee: CHRISTOPHER JACKSON        Emp ID: 85813
+Position: Library assistant
+Pay Period: 04/16/2025 - 04/30/2025     Pay Date: 05/05/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,513.14     39,341.64
-GROSS PAY                                  1,513.14     39,341.64
-   DEDUCTIONS
-  Federal Income Tax                       166.44
-  Social Security                           93.81
-  Medicare                                  21.94
-  CA SDI                                    16.64
-NET PAY                                  1,214.31
+Regular             17.91     19.25         344.77      3,102.93
+GROSS PAY                                    344.77      3,102.93
+DEDUCTIONS
+  Federal Income Tax                        24.13
+  Social Security                           21.37
+  Medicare                                   4.99
+  CA SDI                                     3.79
+NET PAY                                    290.49
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2025]
+RECEIVED MAY 11 2025  - mailroom

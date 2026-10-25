@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+444 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN ABDULLAH        Emp 1D: 28284
+Position: Caregiver
+Pay Period: 07/26/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THI5 PERIOD        YTD
+Regular             24.87     40.00         994.80     31,833.60
+GROSS PAY                                    994.80     31,833.60
+DEDUCTIONS
+     Federal Income Tax                        99.48
+     Social Security                           61.67
+  Medicare                                  14.42
+  CA SDI                                    10.94
+NET PAY                                    808.29
+--------------------------------------------------------------
+
+-- scanned 08/29/2026 HBCH mailroom  pg 1/1 --

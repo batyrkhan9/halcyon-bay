@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-  4822 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAJNI ZHANG        Emp ID: 22462
-Position: Line worker
-Pay Period: 03/30/2025 - 04/13/2025     Pay Date: 04/18/2025
-Pay Frequency: Semi-Monthly
+BAYLINE LOGISTICS INC
+4404 MARKET WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: JESSICA KUMAR        Emp ID: 58216
+Position: Warehouse associate
+Pay Period: 01/26/2025 - 02/08/2025     Pay Date: 02/13/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             67.16     86.67       5,820.76     46,566.08
-GROSS PAY                                  5,820.76     46,566.08
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                       994.23      3,976.92
+GR0SS PAY                                    994.23      3,976.92
 DEDUCTIONS
-  Federal Income Tax                       582.07
-  Social Security                          360.88
-   Medicare                                  84.40
-     CA SDI                                    64.02
-NET PAY                                  4,729.39
-  --------------------------------------------------------------
+  Federal Income Tax                        89.48
+      Social Security                           61.64
+  Medicare                                  14.41
+  CA SDI                                    10.93
+NET PAY                                    817.77
+--------------------------------------------------------------
 
-FAX RECEIVED 05/01/2025 10:17   P.01
+-- scanned 03/08/2025 HBCH mailroom  pg 1/1 --

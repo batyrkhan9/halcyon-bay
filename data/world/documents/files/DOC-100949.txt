@@ -1,21 +1,21 @@
-    VISTA SERENA MEDICAL OFFICES
-5523 HARBOR WAY   CA
-  . : .
-                          EARNINGS STATEMENT
-Employee: NICOLE CHOI        Emp ID: 64809
-Position: Medical receptionist
-   Pay Period: 01/29/2026 - 02/04/2026     Pay Date: 02/09/2026
-Pay Frequency: Weekly
+POINT CORRIN BOATWORKS
+4154 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARLOS NAVARRO        Emp ID: 31236
+Position: Mechanic
+Pay Period: 08/30/2025 - 09/12/2025      Pay Date: 09/17/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       926.47      5,558.82
-GROSS PAY                                    926.47      5,558.82
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     1,552.50     29,497.50
+GROSS PAY                                  1,552.50     29,497.50
+  . : .
 DEDUCTIONS
-  Federal Income Tax                       101.91
-  Social Security                           57.44
-  Medicare                                  13.43
-  CA SDI                                    10.19
-NET PAY                                    743.50
+  Federal Income Tax                        93.15
+  Social Security                           96.25
+   Medicare                                  22.51
+  CA SDI                                    17.07
+NET PAY                                  1,323.52
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/13/2026]
+FAX RECEIVED 10/05/2025 10:29   P.01

@@ -1,0 +1,19 @@
+Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Head of household
+Your first name and midd1e initial / Last name:  JOSE GUPTA
+Your social security number: XXX-XX-3787
+_ _ _ _
+Dependents: 3
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    50,426.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    50,426.00
+ 10  Adjustments to income ...........................         0.00
+    11  Adjusted gross income ...........................    50,426.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+  Your signature: /s/ Jose Gupta        Date: 04/14/2025
+
+RECEIVED JAN 07 2026  - mailroom

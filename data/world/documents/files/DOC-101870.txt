@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-5029 INDUSTRIAL WAY   CA
+SANDPIPER CHILD CARE CENTER
+3397 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: THAO GARCIA        Emp ID: 83207
-Position: Line worker
-Pay Period: 08/08/2026 - 08/14/2026     Pay Date: 08/19/2026
-   Pay Frequency: Weekly
+Employee: JOSE SATO        Emp ID: 54246
+Position: Teacher
+Pay Period: 05/06/2026 - 05/20/2026     Pay Date: 05/25/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             44.84     40.00       1,793.60     59,188.80
- GROSS PAY                                  1,793.60     59,188.80
+Regular             58.33     86.67       5,055.46     50,554.60
+GROSS PAY                                  5,055.46     50,554.60
 DEDUCTIONS
-  Federal Income Tax                       161.42
-  Social Security                          111.20
-  Medicare                                  26.00
-  CA SDI                                    19.73
- NET PAY                                  1,475.25
---------------------------------------------------------------
+   Federal Income Tax                       303.32
+  Social Security                          313.43
+    Medicare                                  73.30
+    CA SDI                                    55.61
+NET PAY                                  4,309.80
+  --------------------------------------------------------------
 
--- scanned 09/09/2026 HBCH mailroom  pg 1/1 --
+-- scanned 06/02/2026 HBCH mailroom  pg 1/1 --

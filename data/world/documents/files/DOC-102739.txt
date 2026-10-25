@@ -1,0 +1,21 @@
+SANTA LUCITA FARMS
+680 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONALD MCCARTHY        Emp ID: 74409
+Position: Field supervisor
+Pay Period: 07/20/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,551.00     20,408.00
+GROSS PAY                                  2,551.00     20,408.00
+DEDUCTIONS
+  Federal Income Tax                       229.59
+| |   .
+  S0cial Security                          158.16
+  Medicare                                  36.99
+  CA SDI                                    28.06
+NET PAY                                  2,098.20
+--------------------------------------------------------------
+
+RECEIVED AUG 30 2026  - mailroom

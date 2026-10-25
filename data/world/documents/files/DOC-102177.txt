@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+3818 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MIN-JI CHOI        Emp ID: 47266
+Position: Library assistant
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             18.01     62.00       1,116.62     15,632.68
+GROSS PAY                                  1,116.62     15,632.68
+DEDUCTIONS
+  Federal Income Tax                        66.99
+  Social Security                           69.23
+  Medicare                                  16.19
+  CA SDI                                    12.28
+NET PAY                                    951.93
+--------------------------------------------------------------
+
+FAX RECEIVED 07/22/2026 10:42   P.01

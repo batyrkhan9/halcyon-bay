@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+5034 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH MENDOZA        Emp ID: 65232
+Position: Caregiver
+Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     1,905.78     32,398.26
+GROSS PAY                                  1,905.78     32,398.26
+DEDUCTIONS
+  Federal Inc0me Tax                       171.52
+  Social Security                          118.15
+  Medicare                                  27.63
+  CA SDI                                    20.96
+    NET PAY                                  1,567.52
+    --------------------------------------------------------------
+
+-- scanned 08/27/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+6095 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: HANNAH PARK        Emp ID: 46809
+Position: Line cook
+Pay Period: 06/21/2025 - 06/27/2025     Pay Date: 07/02/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            121.20     40.00       4,848.00    130,896.00
+GROSS PAY                                  4,848.00    130,896.00
+ DEDUCTIONS
+  Federal Income Tax                       193.92
+  Social Security                          300.57
+   Medicare                                  70.29
+  CA SDI                                    53.32
+NET PAY                                  4,229.90
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/14/2025]

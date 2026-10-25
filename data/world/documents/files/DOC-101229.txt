@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-1605 INDUSTRIAL WAY   CA
+SEASIDE DENTAL GROUP
+3103 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: WEI JUNG        Emp ID: 24221
-Position: Driver
-Pay Peri0d: 05/08/2026 - 05/21/2026     Pay Date: 05/26/2026
-    Pay Frequency: Bi-Weekly
+Emp1oyee: RICARDO FALEOLO        Emp ID: 31501
+P0sition: Dental assistant
+Pay Period: 11/15/2025 - 11/28/2025     Pay Date: 12/03/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.29     10.50         192.04      2,112.44
-GROSS PAY                                    192.04      2,112.44
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             16.62     23.50         390.57      9,764.25
+GROSS PAY                                    390.57      9,764.25
 DEDUCTIONS
-  Federal Income Tax                        21.12
-  Social Security                           11.90
-  Medicare                                   2.78
-   CA SDI                                     2.11
-    NET PAY                                    154.13
- --------------------------------------------------------------
+  Federal Income Tax                        39.05
+  Social Security                           24.21
+  Medicare                                   5.66
+      CA SDI                                     4.29
+NET PAY                                    317.36
+--------------------------------------------------------------
 
-RECEIVED JUN 03 2026  - mailroom
+FAX RECEIVED 12/23/2025 10:45   P.01

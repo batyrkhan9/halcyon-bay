@@ -1,0 +1,20 @@
+   SEASIDE DENTAL GROUP
+299 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA COSTA        Emp ID: 95309
+Position: Dental assistant
+Pay Period: 05/05/2026 - 06/03/2026     Pay Date: 06/08/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             70.78    173.33      12,268.30     73,609.80
+GROSS PAY                                 12,268.30     73,609.80
+DEDUCTIONS
+    Federal Income Tax                       981.46
+  Social Security                          760.63
+     Medicare                                 177.89
+   CA SDI                                   134.95
+   NET PAY                                 10,213.37
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/11/2026]

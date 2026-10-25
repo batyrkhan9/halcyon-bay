@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+9545 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: GARY PHAM        Emp ID: 37302
+  Position: Library assistant
+Pay Period: 08/05/2026 - 09/03/2026     Pay Date: 09/08/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.66     51.25         853.82      7,684.38
+GROSS PAY                                    853.82      7,684.38
+DEDUCTIONS
+  Federal Income Tax                        34.15
+  Social Security                           52.93
+   Medicare                                  12.38
+  CA SDI                                     9.39
+NET PAY                                    744.97
+--------------------------------------------------------------
+
+RECEIVED SEP 19 2026  - mailroom

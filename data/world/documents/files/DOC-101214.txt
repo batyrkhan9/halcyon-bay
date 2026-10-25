@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+    4945 HARBOR WAY   CA
+~ ~ .  ,
+                           EARNINGS STATEMENT
+Employee: JUAN SANCHEZ        Emp ID: 54367
+Position: Guest services
+Pay Period: 10/11/2025 - 11/09/2025     Pay Date: 11/14/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             27.23    173.33       4,719.78     51,917.58
+GROSS PAY                                  4,719.78     51,917.58
+DEDUCTIONS
+  Federal Income Tax                       235.98
+  Social Security                          292.62
+  Medicare                                  68.43
+  CA SDI                                    51.91
+NET PAY                                  4,070.84
+--------------------------------------------------------------
+
+RECEIVED DEC 20 2025  - mailroom

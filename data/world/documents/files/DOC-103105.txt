@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+732 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SARAH PEREZ        Emp ID: 32502
+Position: Warehouse associate
+Pay Period: 08/03/2026 - 08/17/2026     Pay Date: 08/22/2026
+Pay Frequency: Semi-Monthly
+_ _ _ _
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             37.25     86.67       3,228.46     51,655.36
+GROSS PAY                                  3,228.46     51,655.36
+DEDUCT1ONS
+  Federal Income Tax                       193.70
+  Social Security                          200.16
+  Medicare                                  46.81
+  CA SDI                                    35.51
+NET PAY                                  2,752.28
+--------------------------------------------------------------
+
+RECEIVED SEP 22 2026  - mailroom

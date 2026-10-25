@@ -1,0 +1,21 @@
+HARBOR PO1NT HOTEL
+9077 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Employee: DONALD FALEOLO        Emp ID: 63014
+Position: Housekeeper
+   Pay Period: 04/06/2025 - 04/19/2025     Pay Date: 04/24/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             34.77     80.00       2,781.60     25,034.40
+GROSS PAY                                  2,781.60     25,034.40
+DEDUCTIONS
+   Federal Income Tax                       305.97
+  5ocial Security                          172.45
+_ _ _ _
+   Medicare                                  40.33
+   CA SDI                                    30.59
+NET PAY                                  2,232.26
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/20/2025]

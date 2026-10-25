@@ -1,0 +1,20 @@
+SUNSET COAST HOME CARE
+8593 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Emp1oyee: MEI SOUZA        Emp ID: 55681
+Position: Home care aide
+Pay Period: 02/15/2026 - 02/21/2026     Pay Date: 02/26/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             16.81     11.75         197.52      1,777.68
+GROSS PAY                                    197.52      1,777.68
+DEDUCTIONS
+  Federal Income Tax                        13.82
+  Social Security                           12.24
+  Medicare                                   2.86
+  CA SDI                                     2.17
+NET PAY                                    166.43
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2026]

@@ -1,21 +1,19 @@
-OTTER BAY AQUARIUM
-  . : .
- 7920 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: MICHAEL ITO        Emp ID: 88231
-Position: Guest services
-Pay Period: 05/23/2026 - 06/05/2026     Pay Date: 06/10/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.05     35.75         609.54      7,314.48
-  GROSS PAY                                    609.54      7,314.48
- DEDUCTIONS
-  Federal Income Tax                        48.76
-  Social Security                           37.79
-  Medicare                                   8.83
-  CA SDI                                     6.70
-NET PAY                                    507.46
-  --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+  Filing Status: Head of household
+Your first name and middle initial / Last name:  YESENIA HUYNH
+Your social security number: XXX-XX-6856
+    Dependents: 1
+Income
+~ ~ .  ,
+   1a  Total amount from Form(s) W-2, box 1 ...........    38,672.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+  9   Total income ....................................    38,672.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    38,672.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 07/02/2026 10:44   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Yesenia Huynh        Date: 04/13/2025
+
+-- scanned 12/30/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+3913 HARBOR WAY   CA
+                         EARNING5 STATEMENT
+Employee: AHMED RAMOS        Emp ID: 66761
+Position: Mechanic
+Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Salary                                     2,859.54     42,893.10
+GROSS PAY                                  2,859.54     42,893.10
+DEDUCTIONS
+  Federal Income Tax                       228.76
+      Social Security                          177.29
+  Medicare                                  41.46
+  CA SDI                                    31.45
+NET PAY                                  2,380.58
+     --------------------------------------------------------------
+
+FAX RECEIVED 08/17/2026 10:50   P.01

@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+8322 COMMERCE WAY   CA
+                         EARNING5 STATEMENT
+Employee: OMAR AGUILAR        Emp ID: 21261
+Position: Nursery worker
+Pay Period: 11/18/2024 - 12/01/2024     Pay Date: 12/06/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.40     24.00         441.60     11,040.00
+GROSS PAY                                    441.60     11,040.00
+DEDUCTIONS
+      Federal Income Tax                        22.08
+  Social Security                           27.37
+      Medicare                                   6.40
+  CA SDI                                     4.85
+    NET PAY                                    380.90
+--------------------------------------------------------------
+
+FAX RECEIVED 12/16/2024 10:19   P.01

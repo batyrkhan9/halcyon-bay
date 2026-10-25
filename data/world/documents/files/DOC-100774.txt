@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+1917 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: NICOLE HAYES        Emp ID: 50152
+Position: Dental assistant
+Pay Period: 07/02/2025 - 07/16/2025     Pay Date: 07/21/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,546.08     21,645.12
+GROSS PAY                                  1,546.08     21,645.12
+    DEDUCTIONS
+  Federal Income Tax                        77.30
+  Social Security                           95.85
+  Medicare                                  22.41
+  CA SDI                                    17.00
+NET PAY                                  1,333.52
+--------------------------------------------------------------
+      includes overtime 1.50 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2025]

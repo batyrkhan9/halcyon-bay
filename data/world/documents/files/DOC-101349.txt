@@ -1,20 +1,10 @@
-HARBOR POINT HOTEL
-3249 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: CHLOE LE        Emp ID: 40101
-Position: Housekeeper
-Pay Period: 06/11/2026 - 06/24/2026     Pay Date: 06/29/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             25.27     80.00       2,021.60     26,280.80
-GROSS PAY                                  2,021.60     26,280.80
-DEDUCTIONS
-  Federal Income Tax                       181.94
-  Social Security                          125.33
-  Medicare                                  29.31
-      CA SDI                                    22.23
-NET PAY                                  1,662.79
- --------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT 0F SOCIAL SERVICES
+NOTICE OF ACTION
+Medi-Cal Approval
+Date: 11/10/2025
+Beneficiary: BEATRIZ GUPTA
 
-RECEIVED JUL 16 2026  - mailroom
+You are approved for full scope Medi-Cal with no share of cost beginning 11/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+FAX RECEIVED 01/28/2026 10:23   P.01

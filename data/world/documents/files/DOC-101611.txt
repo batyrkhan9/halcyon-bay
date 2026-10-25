@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+    2119 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERRELL RAMIREZ        Emp ID: 79532
+    Position: Warehouse associate
+Pay Period: 02/06/2026 - 03/07/2026     Pay Date: 03/12/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            104.67    173.33      18,142.45     54,427.35
+   GROSS PAY                                 18,142.45     54,427.35
+DEDUCTIONS
+  Federal Income Tax                     1,088.54
+  Social 5ecurity                        1,124.83
+  Medicare                                 263.06
+  CA SDI                                   199.56
+NET PAY                                 15,466.46
+--------------------------------------------------------------
+
+-- scanned 04/14/2026 HBCH mailroom  pg 1/1 --

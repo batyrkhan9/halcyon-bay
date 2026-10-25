@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+  7829 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DAVID ABDULLAH        Emp ID: 99675
+Position: Guest services
+Pay Period: 08/04/2026 - 08/17/2026     Pay Date: 08/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.32     80.00       1,465.60     24,915.20
+GROSS PAY                                  1,465.60     24,915.20
+DEDUCTIONS
+   Federal Income Tax                       117.24
+  Social Security                           90.86
+  Medicare                                  21.25
+  CA SDI                                    16.12
+_ _ _ _
+NET PAY                                  1,220.13
+--------------------------------------------------------------
+
+-- scanned 09/11/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,21 @@
+  BLUE KELP SOFTWARE LLC
+5228 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MINH FLORES        Emp ID: 25368
+Position: Software engineer
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.43     22.00         405.46      7,298.28
+GROSS PAY                                    405.46      7,298.28
+DEDUCTIONS
+  Federal Income Tax                        36.49
+  Social Security                           25.13
+     Medicare                                   5.87
+  CA SDI                                     4.46
+NET PAY                                    333.51
+--------------------------------------------------------------
+  inc1udes overtime 1.50 hrs
+
+RECEIVED SEP 18 2026  - mailroom

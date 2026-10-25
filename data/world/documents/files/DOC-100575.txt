@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-2443 COMMERCE WAY   CA
+LAS BRISAS RESTAURANT GROUP
+4353 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: AALIYAH WALKER        Emp ID: 78314
-Position: Custodian
-Pay Period: 07/07/2025 - 07/20/2025     Pay Date: 07/25/2025
+Employee: HECTOR ROBINSON        Emp ID: 59547
+Position: Line cook
+Pay Period: 05/06/2025 - 05/19/2025     Pay Date: 05/24/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.82     80.00       1,905.60     28,584.00
-GROSS PAY                                  1,905.60     28,584.00
+Regular             64.69     80.00       5,175.20     56,927.20
+GROSS PAY                                  5,175.20     56,927.20
 DEDUCTIONS
-  Federal Income Tax                       171.50
-  Social Security                          118.14
-  Medicare                                  27.63
-  CA SDI                                    20.96
-    NET PAY                                  1,567.37
+  Federal Income Tax                       258.76
+  Social Security                          320.86
+  Medicare                                  75.04
+  CA SDI                                    56.92
+NET PAY                                  4,463.62
 --------------------------------------------------------------
 
-FAX RECEIVED 08/19/2025 10:12   P.01
+RECEIVED JUN 11 2025  - mailroom

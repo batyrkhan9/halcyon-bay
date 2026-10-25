@@ -1,21 +1,21 @@
-   PORT ELLERY CANNERY CO
-9255 INDUSTRIAL WAY   CA
+MIRADOR GROCERY CO-OP
+3713 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-    Employee: JOSE WALKER        Emp ID: 73091
-Position: Line worker
-Pay Period: 03/19/2026 - 03/25/2026     Pay Date: 03/30/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
-  . : .
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,348.82     43,534.66
-GROSS PAY                                  3,348.82     43,534.66
+Employee: AMANDA ESPINOZA        Emp 1D: 77388
+   Position: Cashier
+Pay Period: 09/22/2025 - 10/05/2025     Pay Date: 10/10/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular              48.01     80.00       3,840.80     80,656.80
+GROSS PAY                                  3,840.80     80,656.80
+_ _ _ _
 DEDUCTIONS
-  Federal Income Tax                       301.39
-  Social Security                          207.62
-  Medicare                                  48.55
-  CA SDI                                    36.83
-NET PAY                                  2,754.43
+  Federal Income Tax                       307.26
+  Social Security                          238.13
+   Medicare                                  55.69
+  CA SDI                                    42.24
+NET PAY                                  3,197.48
 --------------------------------------------------------------
 
-RECEIVED APR 15 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/05/2025]

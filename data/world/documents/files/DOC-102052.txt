@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+6023 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: MIGUEL JUNG        Emp ID: 22447
+Position: Mechanic
+Pay Period: 06/12/2026 - 06/26/2026     Pay Date: 07/01/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                       402.24      5,229.12
+GROSS PAY                                    402.24      5,229.12
+DEDUCTIONS
+  Federal Income Tax                        40.22
+   Social Security                           24.93
+  Medicare                                   5.83
+  CA SDI                                     4.42
+NET PAY                                     326.84
+--------------------------------------------------------------
+
+RECEIVED JUL 15 2026  - mailroom

@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-  2501 HARBOR WAY   CA
+COASTAL VALLEY ENERGY
+399 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: GRACE JACKSON        Emp ID: 11733
- Position: Laborer
-| |   .
-   Pay Period: 07/30/2026 - 08/05/2026     Pay Date: 08/10/2026
-   Pay Frequency: Weekly
+Employee: DAVID RAMOS        Emp ID: 76879
+  Position: Field technician
+Pay Period: 04/26/2026 - 05/02/2026     Pay Date: 05/07/2026
+  Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regular             18.42     40.00         736.80     23,577.60
-GROSS PAY                                    736.80     23,577.60
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.65     22.25         414.96      7,884.24
+GROSS PAY                                    414.96      7,884.24
 DEDUCTIONS
-  Federal Income Tax                        58.94
-  Social Security                           45.68
-  Medicare                                  10.68
-  CA SDI                                     8.10
-NET PAY                                    613.40
+  Federal 1ncome Tax                        33.19
+  Social Security                           25.72
+  Medicare                                   6.01
+  CA SDI                                     4.56
+NET PAY                                    345.48
 --------------------------------------------------------------
 
--- scanned 08/24/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/12/2026 10:43   P.01

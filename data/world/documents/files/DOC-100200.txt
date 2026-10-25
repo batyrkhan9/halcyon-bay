@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-3242 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANJALI GOMEZ        Emp ID: 83923
-Position: Caregiver
-Pay Period: 02/14/2025 - 02/27/2025     Pay Date: 03/04/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+PACIFIC RIM JANITORIAL
+9749 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: AMINA JUNG        Emp ID: 48265
+Position: Custodian
+Pay Period: 01/17/2025 - 01/23/2025     Pay Date: 01/28/2025
+Pay Frequency: Weekly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.99     27.50         522.22      2,611.10
-GRO5S PAY                                    522.22      2,611.10
-DEDUCTIONS
-  Federal Income Tax                        41.77
-     Social Security                           32.37
-    Medicare                                   7.57
-   CA SDI                                     5.74
-NET PAY                                    434.77
+Regular             45.76     40.00       1,830.40      7,321.60
+GROSS PAY                                  1,830.40      7,321.60
+   DEDUCTIONS
+  Federal Income Tax                       128.12
+  Social Security                          113.48
+  Medicare                                  26.54
+  CA SDI                                    20.13
+NET PAY                                  1,542.13
 --------------------------------------------------------------
 
--- scanned 04/18/2025 HBCH mailroom  pg 1/1 --
+RECEIVED FEB 21 2025  - mailroom

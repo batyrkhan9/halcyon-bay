@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+1784 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI CHOI        Emp ID: 74983
+    Position: Line cook
+Pay Period: 04/18/2025 - 05/02/2025     Pay Date: 05/07/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.72     86.67       2,055.81     18,502.29
+GROSS PAY                                  2,055.81     18,502.29
+DEDUCTIONS
+  Federal Income Tax                       205.58
+  Social Security                          127.46
+  Medicare                                  29.80
+  CA SDI                                    22.61
+NET PAY                                  1,670.36
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/06/2025]

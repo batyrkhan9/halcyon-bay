@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GR0UP
-    6725 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: JESSICA GUPTA        Emp ID: 38367
-Position: Line cook
-Pay Period: 06/27/2026 - 07/10/2026     Pay Date: 07/15/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+  ARROYO VERDE NURSERY
+   4007 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA DAVIS        Emp ID: 41787
+Position: Nursery worker
+Pay Period: 01/05/2026 - 01/11/2026      Pay Date: 01/16/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,613.91     78,594.74
-GROSS PAY                                  5,613.91     78,594.74
-    DEDUCTIONS
-  Federal Income Tax                       561.39
-  Social Security                          348.06
-  Medicare                                  81.40
-  CA SDI                                    61.75
-   NET PAY                                  4,561.31
+Regular             61.48     40.00       2,459.20      7,377.60
+GROSS PAY                                  2,459.20      7,377.60
+DEDUCTIONS
+    Federal Income Tax                       270.51
+  Social Security                          152.47
+  Medicare                                  35.65
+  CA SDI                                    27.05
+NET PAY                                  1,973.52
 --------------------------------------------------------------
 
--- scanned 07/21/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/06/2026]

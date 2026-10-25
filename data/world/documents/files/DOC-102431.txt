@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+531 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS KIM        Emp ID: 74653
+Position: Driver
+Pay Period: 07/15/2026 - 07/28/2026     Pay Date: 08/02/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,027.89     32,446.24
+GROSS PAY                                  2,027.89     32,446.24
+DEDUCTIONS
+  Federal Income Tax                       101.39
+    Social Security                          125.72
+  Medicare                                  29.40
+  CA SDI                                    22.30
+NET PAY                                  1,749.08
+--------------------------------------------------------------
+
+FAX RECEIVED 08/05/2026 10:47   P.01

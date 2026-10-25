@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-7246 MARKET WAY   CA
-                         EARNINGS STATEMENT
-  Employee: SHARON IVANOVA-BAKER        Emp ID: 79739
-Position: Field supervisor
-Pay Period: 06/14/2026 - 06/27/2026     Pay Date: 07/02/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+BLUE KELP SOFTWARE LLC
+6852 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: DAVID COSTA        Emp ID: 12408
+Position: Software engineer
+Pay Period: 02/21/2026 - 03/07/2026     Pay Date: 03/12/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.42     45.25         788.26     11,035.64
-GROSS PAY                                    788.26     11,035.64
-DEDUCTIONS
-  Federal Income Tax                        47.29
-  Social Security                           48.87
-  Medicare                                  11.43
-  CA SDI                                     8.67
-NET PAY                                    672.00
-~ ~ .  ,
+Regular             47.48     86.67       4,115.09     20,575.45
+GROSS PAY                                  4,115.09     20,575.45
+   DEDUCTIONS
+  Federal Income Tax                       329.20
+     Social Security                          255.13
+       Medicare                                  59.66
+    CA SDI                                    45.26
+NET PAY                                  3,425.84
 --------------------------------------------------------------
 
--- scanned 07/30/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 19 2026  - mailroom

@@ -1,20 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-9428 HARBOR WAY    CA
+CYPRESS FLATS AUTO BODY
+9658 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: DARNELL KANG        Emp ID: 49131
-    Position: Line cook
-Pay Period: 12/28/2025 - 01/03/2026     Pay Date: 01/08/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
+Employee: ERNESTO SALAZAR        Emp ID: 77488
+Position: Technician
+~ ~ .  ,
+Pay Period: 08/12/2025 - 08/25/2025     Pay Date: 08/30/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.96     25.25         478.74        957.48
-GR0SS PAY                                    478.74        957.48
+Salary                                     1,053.26     18,958.68
+ GROSS PAY                                  1,053.26     18,958.68
 DEDUCTIONS
-  Federal Income Tax                        38.29
-   Social Security                           29.68
-  Medicare                                   6.94
-   CA SDI                                     5.26
-NET PAY                                    398.57
-     --------------------------------------------------------------
+  Federal Income Tax                        63.19
+  Social Security                           65.30
+  Medicare                                  15.27
+  CA SDI                                    11.58
+NET PAY                                    897.92
+--------------------------------------------------------------
 
-RECEIVED JAN 17 2026  - mailroom
+RECEIVED SEP 06 2025  - mailroom

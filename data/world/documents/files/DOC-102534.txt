@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+3850 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE VALENCIA        Emp ID: 43459
+Position: Teacher
+Pay Period: 07/05/2026 - 07/18/2026     Pay Date: 07/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,919.84     58,797.60
+GROSS PAY                                  3,919.84     58,797.60
+DEDUCTIONS
+  Federal Income Tax                       313.58
+  Social Security                          243.03
+  Medicare                                  56.83
+  CA SDI                                    43.11
+NET PAY                                  3,263.29
+--------------------------------------------------------------
+
+FAX RECEIVED 08/10/2026 10:39   P.01

@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-    9089 COMMERCE WAY   CA
+GOLDEN HOUR SENIOR LIVING
+7395 C0MMERCE WAY    CA
                          EARNINGS STATEMENT
-   Employee: OMAR DAVIS        Emp ID: 78598
-Position: Cashier
-Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
-Pay Frequency: Weekly
-   --------------------------------------------------------------
+Employee: MINH CRUZ        Emp ID: 78376
+ Position: Caregiver
+Pay Period: 12/03/2025 - 01/01/2026     Pay Date: 01/06/2026
+    Pay Frequency: Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             18.54     16.75         310.54      8,384.58
-GROSS PAY                                    310.54      8,384.58
+Salary                                     5,378.73      5,378.73
+GROSS PAY                                  5,378.73      5,378.73
 DEDUCTIONS
-  Federal Income Tax                        18.63
-  Social Security                           19.25
-  Medicare                                   4.50
-  CA SDI                                     3.41
-    NET PAY                                    264.75
+  Federal Income Tax                       591.66
+   Social Security                          333.48
+   Medicare                                  77.99
+   CA SDI                                    59.16
+NET PAY                                  4,316.44
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/11/2026]
+-- scanned 01/23/2026 HBCH mailroom  pg 1/1 --

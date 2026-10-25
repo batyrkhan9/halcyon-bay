@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+9958 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+    Employee: BRANDON KOWALSKI        Emp ID: 80931
+Position: Caregiver
+Pay Period: 08/08/2025 - 08/21/2025     Pay Date: 08/26/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,225.70     37,836.90
+GROSS PAY                                  2,225.70     37,836.90
+DEDUCTIONS
+  Federal Income Tax                       111.28
+  Social Security                          137.99
+  Medicare                                  32.27
+  CA SDI                                    24.48
+NET PAY                                  1,919.68
+--------------------------------------------------------------
+
+-- scanned 09/13/2025 HBCH mailroom  pg 1/1 --

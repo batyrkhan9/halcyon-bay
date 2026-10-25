@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-4266 HARBOR WAY    CA
+BLUE KELP SOFTWARE LLC
+    9123 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
- Employee: CAROL SHAH        Emp ID: 10712
-Position: Driver
-Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
-Pay Frequency: Bi-Weekly
+Employee: TERESA SUZUKI-HUANG        Emp ID: 88555
+Position: Software engineer
+Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              37.34     80.00       2,987.20     56,756.80
-GROSS PAY                                  2,987.20     56,756.80
- DEDUCTIONS
-  Federal Income Tax                       149.36
-  Social Security                          185.20
-   Medicare                                  43.31
-  CA SDI                                    32.85
-NET PAY                                  2,576.48
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             40.13     80.00       3,210.40     41,735.20
+GRO5S PAY                                  3,210.40     41,735.20
+   DEDUCTIONS
+  Federa1 Income Tax                       353.14
+  Social Security                          199.04
+  Medicare                                  46.55
+  CA SDI                                    35.31
+NET PAY                                  2,576.36
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2026]
+-- scanned 07/18/2026 HBCH mailroom  pg 1/1 --

@@ -1,18 +1,19 @@
-PACIFIC TIDE BANK
-Statement Period 11/01/2025 - 11/05/2025
-Member: ALEJANDRO FONOTI       Account ending 7259
-
-CHECKING SUMMARY
-  Beginning balance            2,706.67
+Form 1040   U.S. Individual Income Tax Return   2024
 | |   .
-  Deposits                     6,121.20
-  Withdrawals                 -5,876.35
-  Ending balance               2,951.52
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  NICOLE CHEN
+Your social security number: XXX-XX-7186
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    31,226.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    31,226.00
+ 10  Adjustments to income ...........................         0.00
+  11  Adjusted gross income ...........................    31,226.00
+ 12  Standard deduction ..............................    21,900.00
 
-DEPOSITS AND CREDITS
-  11/05  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,060.60
-  10/22  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,060.60
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Nicole Chen        Date: 04/05/2025
 
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/16/2025]
+FAX RECEIVED 08/04/2025 10:40   P.01

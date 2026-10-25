@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-3019 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-   Employee: VALERIA WASHINGTON        Emp ID: 27353
-Position: Technician
-Pay Period: 09/07/2025 - 09/13/2025     Pay Date: 09/18/2025
+ BAYLINE LOGISTICS INC
+2767 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: OLIVIA KANG        Emp ID: 89081
+Position: Warehouse associate
+Pay Peri0d: 06/25/2025 - 07/01/2025     Pay Date: 07/06/2025
 Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             58.71     40.00       2,348.40     89,239.20
-GROSS PAY                                  2,348.40     89,239.20
+    --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                     2,247.04     60,670.08
+GROSS PAY                                  2,247.04     60,670.08
 DEDUCTIONS
-  Federal Income Tax                        93.93
-  Social Security                          145.60
-  Medicare                                  34.05
-     CA SDI                                    25.83
-NET PAY                                  2,048.99
+  Federal Income Tax                       179.76
+  Social Security                          139.31
+  Medicare                                  32.58
+  CA SDI                                    24.71
+NET PAY                                  1,870.68
 --------------------------------------------------------------
 
--- scanned 09/29/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/11/2025 10:13   P.01

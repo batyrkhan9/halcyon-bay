@@ -1,0 +1,20 @@
+ELLERY HARDWARE 5UPPLY
+3345 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DONNA FUENTES        Emp ID: 38498
+Position: Sales associate
+    Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,794.69     25,125.66
+GROSS PAY                                  1,794.69     25,125.66
+DEDUCTIONS
+  Federal Income Tax                       179.46
+  Social Security                          111.27
+  Medicare                                  26.02
+  CA SDI                                    19.74
+NET PAY                                  1,458.20
+--------------------------------------------------------------
+
+FAX RECEIVED 08/06/2026 10:37   P.01

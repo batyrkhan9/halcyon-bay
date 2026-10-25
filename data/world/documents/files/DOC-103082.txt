@@ -1,0 +1,21 @@
+BAYLINE LOG1STICS INC
+2076 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN LI        Emp ID: 36427
+P0sition: Warehouse associate
+Pay Period: 08/06/2026 - 08/19/2026     Pay Date: 08/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+   Regular            123.09     80.00       9,847.20    167,402.40
+GROSS PAY                                  9,847.20    167,402.40
+DEDUCTIONS
+| |   .
+    Federal Income Tax                       886.24
+  Social Security                          610.52
+  Medicare                                 142.78
+     CA SDI                                   108.31
+ NET PAY                                   8,099.35
+--------------------------------------------------------------
+
+RECEIVED SEP 20 2026  - mailroom

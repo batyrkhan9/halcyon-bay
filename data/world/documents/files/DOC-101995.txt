@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+1315 COMMERCE WAY   CA
+                         EARN1NGS STATEMENT
+  Employee: PATRICIA NGUYEN        Emp ID: 14555
+Position: Driver
+Pay Period: 05/11/2026 - 05/24/2026     Pay Date: 05/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             17.26     80.00       1,380.80     15,188.80
+GROSS PAY                                  1,380.80     15,188.80
+   DEDUCT1ONS
+  Federal Income Tax                       110.46
+  Social Security                           85.61
+  Medicare                                  20.02
+  CA SDI                                    15.18
+NET PAY                                  1,149.53
+--------------------------------------------------------------
+
+-- scanned 07/10/2026 HBCH mailroom  pg 1/1 --

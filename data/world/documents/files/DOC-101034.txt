@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-    4817 MARKET WAY   CA
+  SANTA LUCITA FARMS
+1472 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: HOA PETROV        Emp ID: 30910
-Position: Line cook
-    Pay Period: 02/24/2026 - 03/10/2026     Pay Date: 03/15/2026
-Pay Frequency: Semi-Monthly
+Employee: NOAH GALLAGHER        Emp ID: 81632
+   Position: Field supervisor
+Pay Period: 09/20/2025 - 09/26/2025     Pay Date: 10/01/2025
+Pay Frequency: Weekly
     --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             72.56     86.67       6,288.78     31,443.90
-GROSS PAY                                  6,288.78     31,443.90
-DEDUCTIONS
-   Federal Income Tax                       377.32
-  Social Security                          389.90
-  Medicare                                  91.18
-      CA SDI                                    69.17
-NET PAY                                  5,361.21
-  --------------------------------------------------------------
+Salary                                     1,145.35     45,814.00
+  GROSS PAY                                  1,145.35     45,814.00
+ DEDUCTIONS
+  Federal Income Tax                       125.98
+  Social Security                           71.01
+  Medicare                                  16.60
+   CA SDI                                    12.59
+  NET PAY                                    919.17
+--------------------------------------------------------------
 
-RECEIVED MAR 31 2026  - mailroom
+FAX RECEIVED 10/22/2025 10:18   P.01

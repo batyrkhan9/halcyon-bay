@@ -1,20 +1,18 @@
-VISTA SERENA MEDICAL OFFICES
-6863 MARKET WAY    CA
-                         EARNINGS STATEMENT
-Employee: NOOR XU-HARRIS        Emp ID: 54128
- P0sition: Medical receptionist
-Pay Period: 07/19/2026 - 08/01/2026     Pay Date: 08/06/2026
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,843.91     29,502.56
-GROSS PAY                                  1,843.91     29,502.56
-DEDUCTION5
-  Federa1 Income Tax                       165.95
-  Social Security                          114.32
-  Medicare                                  26.73
-  CA SDI                                    20.28
-   NET PAY                                  1,516.63
-   --------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+   Statement Period 04/01/2026 - 04/30/2026
+ Member: PRISCILLA SMITH        Account ending 7462
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/04/2026]
+CHECKING SUMMARY
+   Beginning balance            1,531.39
+   Deposits                     4,228.34
+  Withdrawals                 -3,805.50
+     Ending balance               1,954.23
+
+   DEPOSITS AND CREDITS
+  04/09  PAYROLL DIR DEP POINT CORRIN BOATW       2,114.17
+    04/23  PAYROLL DIR DEP POINT CORRIN BOATW       2,114.17
+
+_ _ _ _
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 05/15/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-    ARROYO VERDE NURSERY
- 2694 MARKET WAY   CA
+    SEASIDE DENTAL GROUP
+194 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE QUINN        Emp ID: 94209
-Position: Nursery worker
-Pay Period: 06/16/2026 - 06/30/2026     Pay Date: 07/05/2026
- Pay Frequency: Semi-Monthly
+Employee: LINDA SUZUKI        Emp ID: 57970
+Position: Dental assistant
+Pay Period: 03/04/2026 - 03/17/2026     Pay Date: 03/22/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar             28.93     86.67       2,507.36     32,595.68
-GROSS PAY                                   2,507.36     32,595.68
+Regular             46.52     80.00       3,721.60     22,329.60
+GROSS PAY                                  3,721.60     22,329.60
 DEDUCTIONS
-  Federal Income Tax                       200.58
-  Social Security                          155.45
-  Medicare                                  36.35
-  CA SDI                                    27.58
-  NET PAY                                  2,087.40
+  Federal Income Tax                       186.08
+   Social Security                          230.73
+    Medicare                                  53.96
+  CA SDI                                    40.93
+NET PAY                                  3,209.90
 --------------------------------------------------------------
 
-FAX RECEIVED 08/01/2026 10:58   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2026]

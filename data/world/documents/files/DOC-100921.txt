@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+6733 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: MARIA VALENCIA        Emp ID: 75298
+Position: Cleaner
+    Pay Period: 09/06/2025 - 09/12/2025     Pay Date: 09/17/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             17.95      8.00         143.60      5,456.80
+GROSS PAY                                    143.60      5,456.80
+DEDUCTIONS
+  Federal Income Tax                        11.48
+  Social Security                            8.90
+  Medicare                                   2.08
+      CA SDI                                     1.58
+NET PAY                                    119.56
+--------------------------------------------------------------
+
+-- scanned 09/22/2025 HBCH mailroom  pg 1/1 --

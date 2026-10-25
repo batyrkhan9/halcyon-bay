@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+1002 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RONALD ROBINSON        Emp ID: 19106
+Position: Teacher
+Pay Period: 06/16/2025 - 07/15/2025     Pay Date: 07/20/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.23    173.33       4,373.12     30,611.84
+GROSS PAY                                  4,373.12     30,611.84
+DEDUCTIONS
+  Federal Income Tax                       218.65
+  Social Security                          271.13
+  Medicare                                  63.41
+  CA SDI                                    48.10
+NET PAY                                  3,771.83
+--------------------------------------------------------------
+  includes overtime 3.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2025]

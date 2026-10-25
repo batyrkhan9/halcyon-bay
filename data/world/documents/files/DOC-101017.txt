@@ -1,21 +1,20 @@
-  SUNSET COAST HOME CARE
-    503 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: MADISON JEFFERSON         Emp ID: 98954
-Position: Home care aide
-Pay Period: 02/08/2026 - 02/21/2026     Pay Date: 02/26/2026
-  Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular            102.81     80.00       8,224.80     41,124.00
-GROSS PAY                                  8,224.80     41,124.00
-| |   .
-DEDUCTIONS
-     Federal Income Tax                       822.48
-  Social Security                          509.93
-   Medicare                                 119.26
-  CA 5DI                                    90.47
-   NET PAY                                  6,682.66
-   --------------------------------------------------------------
+   VISTA SERENA MEDICAL OFFICES
+5236 HARBOR WAY   CA
+                              EARNINGS STATEMENT
+Employee: ASHLEY FONOTI        Emp ID: 31483
+Position: Medical receptionist
+Pay Period: 08/19/2025 - 09/01/2025     Pay Date: 09/06/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.94     80.00       2,315.20     41,673.60
+GROSS PAY                                  2,315.20     41,673.60
+   DEDUCTIONS
+  Federal Income Tax                       208.36
+  Social Security                          143.54
+  Medicare                                  33.57
+  CA SDI                                    25.46
+NET PAY                                  1,904.27
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/18/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/19/2025]

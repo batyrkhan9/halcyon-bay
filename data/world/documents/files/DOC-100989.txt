@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+   7891 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE NGUYEN         Emp ID: 26115
+  Position: Laborer
+Pay Period: 09/21/2025 - 10/04/2025     Pay Date: 10/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             33.04     80.00       2,643.20     55,507.20
+GROSS PAY                                  2,643.20     55,507.20
+DEDUCTIONS
+  Federal Income Tax                       185.02
+  Social Security                          163.87
+    Medicare                                  38.32
+  CA SDI                                    29.07
+NET PAY                                  2,226.92
+--------------------------------------------------------------
+
+RECEIVED OCT 14 2025  - mailroom

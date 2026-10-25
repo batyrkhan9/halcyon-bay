@@ -1,0 +1,21 @@
+  CYPRESS FLATS AUTO BODY
+5253 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AHMED ROBINSON        Emp ID: 83754
+Position: Technician
+Pay Period: 07/07/2026 - 07/20/2026     Pay Date: 07/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,294.03     34,410.45
+GROSS PAY                                  2,294.03     34,410.45
+ DEDUCT1ONS
+  Federal Income Tax                       114.70
+  Social Security                          142.23
+   Medicare                                  33.26
+  CA SDI                                    25.23
+_ _ _ _
+NET PAY                                  1,978.61
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/05/2026]

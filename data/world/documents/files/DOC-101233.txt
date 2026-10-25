@@ -1,20 +1,20 @@
-ARROYO VERDE NUR5ERY
-1257 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: MATTHEW KELLY        Emp ID: 66208
-Position: Nursery worker
-Pay Period: 05/13/2026 - 05/26/2026     Pay Date: 05/31/2026
+SUNSET COAST HOME CARE
+5639 HARBOR WAY   CA
+                         EARN1NGS STATEMENT
+Employee: LEILANI THOMAS        Emp ID: 82509
+Position: Home care aide
+Pay Period: 11/18/2025 - 12/01/2025     Pay Date: 12/06/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.01     80.00       1,920.80     21,128.80
-GROSS PAY                                  1,920.80     21,128.80
+Regular             89.49     80.00       7,159.20    178,980.00
+GROSS PAY                                  7,159.20    178,980.00
 DEDUCTIONS
-  Federal Income Tax                       115.24
-  Social Security                          119.09
-  Medicare                                  27.85
-  CA SDI                                    21.12
-NET PAY                                  1,637.50
+  Federal Income Tax                       286.36
+  Social Security                          443.87
+    Medicare                                 103.80
+  CA SDI                                    78.75
+NET PAY                                  6,246.42
 --------------------------------------------------------------
 
-RECEIVED JUN 06 2026  - mailroom
+-- scanned 12/26/2025 HBCH mailroom  pg 1/1 --

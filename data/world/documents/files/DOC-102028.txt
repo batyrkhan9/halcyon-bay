@@ -1,20 +1,20 @@
-M1RADOR PUBLIC LIBRARY
-7075 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+7272 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIO FREEMAN        Emp ID: 96024
-Position: Library assistant
-Pay Period: 08/24/2026 - 08/30/2026     Pay Date: 09/04/2026
-   Pay Frequency: Weekly
---------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.70     40.00       1,068.00     38,448.00
-GROSS PAY                                  1,068.00     38,448.00
+Employee: RONALD HADDAD        Emp ID: 27109
+Position: Custodian
+Pay Period: 05/24/2026 - 06/22/2026     Pay Date: 06/27/2026
+Pay Frequency: Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.06     59.00       1,065.54      6,393.24
+GROSS PAY                                  1,065.54      6,393.24
 DEDUCTIONS
-   Federal Income Tax                        74.76
-   Social Security                           66.21
-  Medicare                                  15.48
-     CA SDI                                    11.74
- NET PAY                                    899.81
- --------------------------------------------------------------
+  Federal Income Tax                        53.27
+  S0cial Security                           66.06
+  Medicare                                  15.45
+  CA SDI                                    11.72
+NET PAY                                    919.04
+--------------------------------------------------------------
 
--- scanned 09/20/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/14/2026]

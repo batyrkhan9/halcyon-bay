@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-5129 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: ALEJANDRO FONOTI        Emp ID: 63955
-Position: Dental assistant
-Pay Period: 10/04/2025 - 10/17/2025     Pay Date: 10/22/2025
+TIDEWATER CONSTRUCTION
+5759 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: CAROL PATEL        Emp ID: 91157
+Position: Laborer
+Pay Period: 06/30/2025 - 07/13/2025     Pay Date: 07/18/2025
 Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,923.85     86,324.70
-GROSS PAY                                  3,923.85     86,324.70
-DEDUCTIONS
-  Federal Income Tax                       431.62
-  Social Security                          243.27
-  Medicare                                  56.89
-  CA 5DI                                    43.16
-NET PAY                                  3,148.91
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             17.99     52.00         935.48     14,032.20
+GROSS PAY                                    935.48     14,032.20
+DEDUCTI0NS
+  Federal Income Tax                        84.19
+  Social Security                           58.00
+  Medicare                                  13.56
+  CA SDI                                    10.29
+NET PAY                                    769.44
 --------------------------------------------------------------
 
--- scanned 11/16/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/03/2025]

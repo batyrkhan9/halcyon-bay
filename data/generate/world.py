@@ -267,6 +267,8 @@ def _cell(v) -> str:
         return ""
     if isinstance(v, Rec):
         return v.id
+    if hasattr(v, "lazy_id"):
+        return v.lazy_id()
     if isinstance(v, date):
         return v.isoformat()
     if isinstance(v, (list, tuple)):

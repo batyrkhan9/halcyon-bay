@@ -1,16 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-620 MISSION ST
+GOLDEN HOUR SENIOR LIVING
+    343 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: MANUEL GOMEZ        Emp ID: 71465
+Position: Caregiver
+ Pay Period: 11/02/2025 - 11/15/2025     Pay Date: 11/20/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,765.77     90,378.48
+GROSS PAY                                  3,765.77     90,378.48
+DEDUCTI0NS
+      Federal Income Tax                       263.60
+   Social Security                          233.47
+  Medicare                                  54.60
+  CA SDI                                    41.42
+NET PAY                                  3,172.68
+ --------------------------------------------------------------
 
-May 03, 2026
-
-  To Whom It May Concern:
-
-This letter confirms that Rachel Vasquez-Jones has been emp1oyed with Halcyon Bay Unified School Dist since
-  November 2019 in the position of Instructional aide. Their current annual salary is $119,246.00.
-Empl0yment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-   Sunita Khalil
-    Human Resources
-
-FAX RECEIVED 05/15/2026 10:55   P.01
+-- scanned 12/16/2025 HBCH mailroom  pg 1/1 --

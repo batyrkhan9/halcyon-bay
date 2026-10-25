@@ -1,0 +1,20 @@
+    POINT CORRIN BOATWORKS
+4986 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: AALIYAH SHAH        Emp ID: 33677
+Position: Mechanic
+    Pay Period: 06/28/2026 - 07/11/2026     Pay Date: 07/16/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             74.86     80.00       5,988.80     89,832.00
+GROSS PAY                                  5,988.80     89,832.00
+ DEDUCTIONS
+  Federal Income Tax                       658.76
+   Social Security                          371.30
+     Medicare                                  86.83
+  CA SDI                                    65.87
+NET PAY                                  4,806.04
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/02/2026]

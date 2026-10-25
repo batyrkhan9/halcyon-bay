@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-2651 INDUSTRIAL WAY   CA
-                            EARNINGS STATEMENT
-Employee: LUIS CHEN        Emp ID: 20658
-Position: Sales associate
-  Pay Period: 03/24/2026 - 04/07/2026     Pay Date: 04/12/2026
-Pay Frequency: Semi-Monthly
+HARBOR POINT HOTEL
+6599 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENNETH FUENTES        Emp ID: 21799
+Position: Housekeeper
+Pay Period: 10/29/2025 - 11/04/2025     Pay Date: 11/09/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              30.05     86.67       2,604.43     18,231.01
-GROSS PAY                                  2,604.43     18,231.01
-    DEDUCTIONS
-  Federal Income Tax                       182.31
-  Social Security                          161.47
-  Medicare                                  37.76
-      CA SDI                                    28.64
-NET PAY                                  2,194.25
+Regular             41.44     40.00       1,657.60     74,592.00
+     GROSS PAY                                  1,657.60     74,592.00
+DEDUCTIONS
+  Federal Income Tax                        82.88
+  Social Security                          102.77
+  Medicare                                  24.03
+  CA SDI                                    18.23
+NET PAY                                  1,429.69
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+RECEIVED NOV 27 2025  - mailroom

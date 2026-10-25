@@ -1,21 +1,21 @@
-    CYPRESS FLATS AUTO BODY
-2380 HARBOR WAY   CA
-                           EARNINGS STATEMENT
-Emp1oyee: SUNITA SILVA        Emp ID: 46229
-Position: Technician
-Pay Period: 10/22/2024 - 11/05/2024     Pay Date: 11/10/2024
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
+MARISOL CLEANING SERVICES
+ 8555 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN GALLAGHER        Emp ID: 84143
+    Position: Cleaner
+Pay Period: 10/23/2024 - 10/29/2024     Pay Date: 11/03/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,283.40     68,951.40
-GROSS PAY                                  3,283.40     68,951.40
+    Regular             90.18     40.00       3,607.20    158,716.80
+GROSS PAY                                  3,607.20    158,716.80
+~ ~ .  ,
 DEDUCTIONS
-    Federal Income Tax                       164.17
-_ _ _ _
-    Social Security                          203.57
-  Medicare                                  47.60
-     CA SDI                                    36.11
-NET PAY                                  2,831.95
- --------------------------------------------------------------
+  Federal Income Tax                       324.64
+  Social Security                          223.64
+   Medicare                                  52.30
+  CA SDI                                    39.67
+NET PAY                                  2,966.95
+    --------------------------------------------------------------
 
-FAX RECEIVED 11/30/2024 10:31   P.01
+FAX RECEIVED 11/17/2024 10:19   P.01

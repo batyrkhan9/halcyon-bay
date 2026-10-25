@@ -1,21 +1,21 @@
-T1DEWATER CONSTRUCTION
-9139 MARKET WAY   CA
+PORT ELLERY CANNERY CO
+728 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ETHAN FONOTI        Emp ID: 26822
-Position: Laborer
-Pay Period: 09/12/2025 - 09/26/2025     Pay Date: 10/01/2025
-Pay Frequency: Semi-Monthly
-~ ~ .  ,
+Employee: NICOLE DAVIS        Emp ID: 59446
+    Position: Line worker
+  Pay Period: 06/03/2025 - 06/09/2025     Pay Date: 06/14/2025
+ Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.31     45.25         828.53     15,742.07
-GROSS PAY                                    828.53     15,742.07
-DEDUCTIONS
-   Federal Income Tax                        57.99
-  5ocial Security                           51.36
-  Medicare                                  12.01
-  CA SDI                                     9.11
-NET PAY                                    698.06
+ Regu1ar             23.65     40.00         946.00     22,704.00
+GROSS PAY                                    946.00     22,704.00
+  DEDUCTIONS
+  Federal Income Tax                        37.84
+  Social Security                           58.65
+  Medicare                                  13.71
+  CA SDI                                    10.40
+NET PAY                                    825.40
 --------------------------------------------------------------
+   includes overtime 3.00 hrs
 
-RECEIVED OCT 13 2025  - mailroom
+FAX RECEIVED 07/15/2025 10:31   P.01

@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+8106 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA PEREZ        Emp ID: 92132
+Position: Software engineer
+Pay Period: 08/18/2026 - 08/31/2026     Pay Date: 09/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     5,095.04     90,625.95
+GROSS PAY                                  5,095.04     90,625.95
+DEDUCTIONS
+  Federal Income Tax                       254.75
+  Social Security                          315.89
+  Medicare                                  73.87
+  CA SDI                                    56.04
+NET PAY                                  4,394.49
+--------------------------------------------------------------
+  includes overtime 0.75 hrs
+
+RECEIVED SEP 09 2026  - mailroom

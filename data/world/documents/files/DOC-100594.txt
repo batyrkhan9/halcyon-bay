@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-2273 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-Employee: PATRICIA O'BRIEN        Emp ID: 39871
-Position: Software engineer
-Pay Period: 07/30/2025 - 08/05/2025     Pay Date: 08/10/2025
- Pay Frequency: Weekly
+   SUNSET COAST HOME CARE
+5559 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHRISTOPHER VO         Emp ID: 56854
+Position: Home care aide
+Pay Period: 05/02/2025 - 05/15/2025      Pay Date: 05/20/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       855.24     27,367.68
-GROSS PAY                                    855.24     27,367.68
-    DEDUCTIONS
-     Federal Income Tax                        68.41
-  Social Security                           53.02
-     Medicare                                  12.40
-  CA SDI                                     9.40
-   NET PAY                                    712.01
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Salary                                     1,601.08     16,010.80
+GROSS PAY                                  1,601.08     16,010.80
+ DEDUCTIONS
+  Federal Income Tax                       128.08
+     Social Security                           99.26
+  Medicare                                  23.21
+  CA SDI                                    17.61
+NET PAY                                  1,332.92
+--------------------------------------------------------------
 
-FAX RECEIVED 08/31/2025 10:25   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/15/2025]

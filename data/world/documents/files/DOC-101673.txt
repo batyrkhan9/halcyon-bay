@@ -1,0 +1,20 @@
+ OTTER BAY AQUARIUM
+    9191 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: CHLOE HO        Emp ID: 72030
+Position: Guest services
+Pay Period: 03/01/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.62     80.00       2,129.60     12,777.60
+    GROSS PAY                                  2,129.60     12,777.60
+DEDUCTIONS
+  Federal Income Tax                       127.77
+   Social Security                          132.03
+  Medicare                                  30.87
+  CA SDI                                    23.42
+   NET PAY                                  1,815.51
+   --------------------------------------------------------------
+
+FAX RECEIVED 04/27/2026 10:58   P.01

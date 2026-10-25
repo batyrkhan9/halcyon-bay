@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+9741 COMMERCE WAY   CA
+                         EARN1NGS STATEMENT
+~ ~ .  ,
+   Employee: DAVID PETROV        Emp ID: 91814
+Position: Driver
+Pay Period: 08/22/2026 - 09/05/2026     Pay Date: 09/10/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             41.45     86.67       3,592.47     61,071.99
+GROSS PAY                                  3,592.47     61,071.99
+  DEDUCTIONS
+    Federal Income Tax                       215.54
+     Social Security                          222.73
+  Medicare                                  52.09
+  CA SDI                                    39.51
+NET PAY                                  3,062.60
+--------------------------------------------------------------
+
+-- scanned 09/18/2026 HBCH mailroom  pg 1/1 --

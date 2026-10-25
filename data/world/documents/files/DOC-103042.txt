@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1550 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMANDA WASHINGTON        Emp ID: 32871
+Position: Technician
+Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.02     80.00       1,921.60     36,510.40
+GROSS PAY                                  1,921.60     36,510.40
+DEDUCTIONS
+   Federal Income Tax                       115.29
+  Social Security                          119.13
+  Medicare                                  27.86
+  CA SDI                                    21.13
+NET PAY                                  1,638.19
+--------------------------------------------------------------
+
+FAX RECEIVED 09/19/2026 10:16   P.01

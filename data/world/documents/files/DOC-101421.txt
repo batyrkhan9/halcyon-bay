@@ -1,21 +1,21 @@
-SUNSET COAST HOME CARE
- 2873 MARKET WAY   CA
+PEACHTREE FREIGHT SYSTEMS
+1437 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: YUSUF KANG        Emp ID: 95368
-Position: Home care aide
-Pay Period: 06/18/2026 - 07/02/2026     Pay Date: 07/07/2026
-    Pay Frequency: Semi-Monthly
+ Employee: MARCUS BELLAMY        Emp ID: 39813
+Position: Regional sales manager
+Pay Period: 01/25/2026 - 01/31/2026     Pay Date: 02/05/2026
+_ _ _ _
+Pay Frequency: Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,202.11     15,627.43
-GROSS PAY                                   1,202.11     15,627.43
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             49.81     40.00       1,992.40     11,954.40
+GR0SS PAY                                   1,992.40     11,954.40
 DEDUCTIONS
-  Federal Income Tax                        60.10
-  Social Security                           74.53
-  Medicare                                  17.43
-  CA SDI                                    13.22
- NET PAY                                   1,036.83
-~ ~ .  ,
+  Federal Income Tax                       119.54
+  Social Security                          123.52
+   Medicare                                  28.89
+   CA SDI                                    21.91
+NET PAY                                  1,698.54
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/22/2026]
+FAX RECEIVED 02/09/2026 10:44   P.01

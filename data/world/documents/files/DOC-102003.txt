@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+5477 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: KIM RAHMAN        Emp ID: 36588
+Position: Cashier
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     9,791.23    127,285.99
+GROSS PAY                                  9,791.23    127,285.99
+DEDUCTIONS
+  Federal Income Tax                     1,077.03
+  Social Security                          607.05
+  Medicare                                 141.97
+  CA SDI                                   107.70
+NET PAY                                  7,857.48
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]

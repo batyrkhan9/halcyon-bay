@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+2276 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: DONNA RODRIGUEZ        Emp ID: 22421
+Position: Caregiver
+Pay Period: 08/24/2026 - 09/06/2026     Pay Date: 09/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             29.29     80.00       2,343.20     44,520.80
+  GROSS PAY                                  2,343.20     44,520.80
+ DEDUCTIONS
+  Federal Income Tax                       117.16
+  Social Security                          145.27
+  Medicare                                  33.97
+  CA SDI                                    25.77
+NET PAY                                   2,021.03
+--------------------------------------------------------------
+
+-- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Single
-   Your first name and middle initial / Last name:  TANISHA MOORE
- Your social security number: XXX-XX-8346
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    16,826.00
-     8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    16,826.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    16,826.00
- 12   Standard deduction ..............................    14,600.00
+MIRADOR PUBLIC LIBRARY
+399 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: WILLIAM HERNANDEZ        Emp ID: 60330
+Position: Library assistant
+Pay Period: 05/19/2025 - 06/02/2025     Pay Date: 06/07/2025
+~ ~ .  ,
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,122.46     56,347.06
+GROSS PAY                                  5,122.46     56,347.06
+DEDUCTIONS
+  Federal Income Tax                       461.02
+  Social Security                          317.59
+  Medicare                                  74.27
+  CA SDI                                    56.34
+NET PAY                                  4,213.24
+--------------------------------------------------------------
 
-| |   .
-   Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Tanisha Moore        Date: 04/13/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2025]
+RECEIVED JUN 15 2025  - mailroom

@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+    1076 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ASHLEY GARCIA        Emp ID: 50800
+Position: Driver
+Pay Period: 11/08/2024 - 12/07/2024     Pay Date: 12/12/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.53    173.33       4,771.77     57,261.24
+GROSS PAY                                  4,771.77     57,261.24
+DEDUCTIONS
+  Federal Income Tax                       429.45
+  Social Security                          295.85
+  Medicare                                  69.19
+   CA SDI                                    52.48
+NET PAY                                  3,924.80
+--------------------------------------------------------------
+
+-- scanned 01/21/2025 HBCH mailroom  pg 1/1 --

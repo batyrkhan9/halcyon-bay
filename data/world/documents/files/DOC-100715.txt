@@ -1,21 +1,20 @@
-5ANTA LUCITA FARMS
-1101 HARBOR WAY   CA
-                             EARNINGS STATEMENT
-  Employee: TOMASZ PEREZ        Emp ID: 74839
-   Position: Field supervisor
- Pay Period: 09/16/2025 - 09/29/2025     Pay Date: 10/04/2025
-Pay Frequency: Bi-Weekly
+TIDEWATER CONSTRUCTION
+4462 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ETHAN ZHANG-DAVIS        Emp ID: 35609
+Position: Laborer
+Pay Period: 06/28/2025 - 07/12/2025     Pay Date: 07/17/2025
+ Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.04     80.00       1,443.20     28,864.00
-GROSS PAY                                  1,443.20     28,864.00
+Regular             33.72     86.67       2,922.51     40,915.14
+GROSS PAY                                  2,922.51     40,915.14
 DEDUCTIONS
-     Federal Income Tax                       129.88
-  Social Security                           89.47
-  . : .
-  Medicare                                  20.92
-  CA SDI                                    15.87
-NET PAY                                  1,187.06
+      Federal Income Tax                       146.12
+  Social Security                          181.19
+  Medicare                                  42.37
+  CA SDI                                    32.14
+NET PAY                                  2,520.69
 --------------------------------------------------------------
 
-FAX RECEIVED 10/31/2025 10:20   P.01
+RECEIVED JUL 23 2025  - mailroom

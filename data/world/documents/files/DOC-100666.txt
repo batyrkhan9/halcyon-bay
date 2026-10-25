@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+8688 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: OLIVIA KANG        Emp ID: 89081
+    Position: Warehouse associate
+    Pay Period: 06/11/2025 - 06/17/2025     Pay Date: 06/22/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,247.04     56,176.00
+GROSS PAY                                  2,247.04     56,176.00
+DEDUCTIONS
+  Federal Income Tax                       179.76
+  Social Security                          139.31
+  Medicare                                  32.58
+      CA SDI                                    24.71
+NET PAY                                  1,870.68
+--------------------------------------------------------------
+
+-- scanned 07/11/2025 HBCH mailroom  pg 1/1 --

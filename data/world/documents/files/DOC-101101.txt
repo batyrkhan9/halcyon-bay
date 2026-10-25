@@ -1,21 +1,20 @@
-  MARISOL CLEANING SERVICES
-2847 MARKET WAY   CA
+HARBOR POINT HOTEL
+6384 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: RONALD WRIGHT        Emp ID: 64762
-Position: Cleaner
- Pay Period: 03/15/2026 - 03/28/2026     Pay Date: 04/02/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
+Employee: LINH ZHOU        Emp ID: 60919
+Position: Housekeeper
+Pay Period: 10/11/2025 - 10/24/2025     Pay Date: 10/29/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  . : .
-Salary                                     9,283.38     64,983.66
-GROSS PAY                                  9,283.38     64,983.66
+Regular             29.67     80.00       2,373.60     52,219.20
+GR0SS PAY                                  2,373.60     52,219.20
 DEDUCTIONS
-  Federal Income Tax                       464.16
-  Social Security                          575.57
-  Medicare                                 134.60
-   CA SDI                                   102.11
-NET PAY                                  8,006.94
+  Federal Income Tax                       261.09
+  Social Security                          147.16
+  Medicare                                  34.41
+  CA SDI                                    26.11
+NET PAY                                  1,904.83
 --------------------------------------------------------------
 
--- scanned 04/16/2026 HBCH mailroom  pg 1/1 --
+-- scanned 11/09/2025 HBCH mailroom  pg 1/1 --

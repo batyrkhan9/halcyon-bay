@@ -1,0 +1,20 @@
+PACIFIC RIM JANITORIAL
+7614 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: TYLER KING        Emp ID: 44025
+Position: Custodian
+Pay Period: 05/02/2025 - 05/15/2025     Pay Date: 05/20/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.38     38.25         703.04      7,030.40
+GROSS PAY                                    703.04      7,030.40
+DEDUCTIONS
+  Federal Income Tax                        63.27
+  Social Security                           43.58
+  Medicare                                  10.19
+  CA SDI                                     7.73
+NET PAY                                    578.27
+--------------------------------------------------------------
+
+RECEIVED MAY 27 2025  - mailroom

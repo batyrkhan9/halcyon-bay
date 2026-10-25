@@ -1,20 +1,18 @@
-COASTAL VALLEY ENERGY
-570 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAE JEFFERSON        Emp ID: 97177
-Position: Field technician
-Pay Period: 07/05/2026 - 07/19/2026     Pay Date: 07/24/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Salary                                       895.66     12,539.24
-GROSS PAY                                    895.66     12,539.24
-DEDUCTIONS
-  Federal Income Tax                        71.65
-  Social Security                           55.53
-  Medicare                                  12.98
-  CA SDI                                     9.85
-NET PAY                                    745.65
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  MANUEL AGUILAR
+Your social security number: XXX-XX-1804
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    51,968.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    51,968.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gr0ss income ...........................    51,968.00
+ 12  Standard deducti0n ..............................    14,600.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2026]
+Sign Here    Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Manuel Aguilar        Date: 04/15/2026
+
+FAX RECEIVED 05/12/2026 10:32   P.01

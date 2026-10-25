@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+    7375 MARKET WAY   CA
+~ ~ .  ,
+                         EARNINGS STATEMENT
+Employee: JENNIFER PETROV        Emp ID: 53204
+Position: Mechanic
+Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             45.79     80.00       3,663.20     62,274.40
+GROSS PAY                                  3,663.20     62,274.40
+DEDUCTIONS
+  Federal Income Tax                       183.16
+  Social Security                          227.11
+  Medicare                                  53.11
+      CA SDI                                    40.29
+NET PAY                                  3,159.53
+--------------------------------------------------------------
+
+-- scanned 08/22/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+7369 MARKET WAY   CA
+                         EARNINGS STATEMENT
+     Employee: MARQUIS NGUYEN        Emp ID: 40383
+Position: Nursery worker
+    Pay Period: 05/22/2026 - 06/20/2026     Pay Date: 06/25/2026
+   Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             41.00    173.33       7,106.53     42,639.18
+  GROSS PAY                                  7,106.53     42,639.18
+DEDUCTI0NS
+  Federal Inc0me Tax                       497.45
+  Social Security                          440.60
+  Medicare                                 103.04
+  CA SDI                                    78.17
+NET PAY                                  5,987.27
+--------------------------------------------------------------
+
+RECEIVED AUG 05 2026  - mailroom

@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+2368 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: AHMED MITCHELL        Emp ID: 38945
+Position: Guest services
+Pay Period: 03/08/2026 - 03/21/2026     Pay Date: 03/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,018.73     14,131.11
+GROSS PAY                                  2,018.73     14,131.11
+DEDUCTIONS
+  Federal Income Tax                       100.93
+  Social Security                          125.16
+| |   .
+  Medicare                                  29.27
+   CA SDI                                    22.20
+NET PAY                                  1,741.17
+--------------------------------------------------------------
+
+FAX RECEIVED 04/09/2026 10:33   P.01

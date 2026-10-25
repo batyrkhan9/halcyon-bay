@@ -1,21 +1,20 @@
-MIRADOR GROCERY CO-OP
-  5719 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+    1884 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: KIM RUIZ        Emp 1D: 10019
-Position: Cashier
-  Pay Period: 03/05/2026 - 04/03/2026     Pay Date: 04/08/2026
-Pay Frequency: Monthly
+Employee: ERNESTO LEWIS        Emp ID: 33606
+Position: Warehouse associate
+ Pay Period: 10/06/2025 - 10/19/2025     Pay Date: 10/24/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-~ ~ .  ,
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.14     46.75         848.04      3,392.16
-GROSS PAY                                    848.04      3,392.16
+ Salary                                       961.28     21,148.16
+GROSS PAY                                    961.28     21,148.16
 DEDUCTIONS
-  Federal Income Tax                        84.80
-   Social Security                           52.57
-  Medicare                                  12.29
-      CA SDI                                     9.32
-NET PAY                                    689.06
-   --------------------------------------------------------------
+  Federal Income Tax                        38.45
+  Social Security                           59.59
+  Medicare                                  13.93
+  CA SDI                                    10.57
+NET PAY                                    838.74
+--------------------------------------------------------------
 
-FAX RECEIVED 04/13/2026 10:38   P.01
+-- scanned 11/01/2025 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-6113 INDUSTRIAL WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: CHRISTOPHER SCOTT        Emp ID: 46773
-Position: Caregiver
-Pay Period: 03/09/2026 - 03/23/2026     Pay Date: 03/28/2026
-Pay Frequency: Semi-Monthly
+SEASIDE DENTAL GROUP
+6740 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA DO-IYER        Emp ID: 68010
+   Position: Dental assistant
+Pay Period: 08/17/2025 - 09/15/2025     Pay Date: 09/20/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             49.30     86.67       4,272.83     25,636.98
-GROSS PAY                                  4,272.83     25,636.98
-DEDUCTIONS
-  Federal Income Tax                       213.64
-  Social Security                          264.91
-      Medicare                                  61.95
-  CA SDI                                    47.00
-NET PAY                                  3,685.33
+Salary                                     3,905.92     35,153.28
+    GROSS PAY                                  3,905.92     35,153.28
+ DEDUCTIONS
+  Federal Income Tax                       156.23
+  S0cial Security                          242.16
+  Medicare                                  56.63
+  CA SDI                                    42.96
+NET PAY                                  3,407.94
 --------------------------------------------------------------
 
--- scanned 04/10/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/01/2025]

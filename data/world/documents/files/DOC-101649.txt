@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+1943 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROGELIO NASSER        Emp ID: 63938
+Position: Library assistant
+Pay Period: 03/21/2026 - 04/03/2026     Pay Date: 04/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            116.77     80.00       9,341.60     65,391.20
+GROSS PAY                                  9,341.60     65,391.20
+DEDUCTIONS
+  Federal Income Tax                       467.08
+   Social Security                          579.17
+  Medicare                                 135.45
+     CA SDI                                   102.75
+NET PAY                                  8,057.15
+--------------------------------------------------------------
+
+RECEIVED APR 23 2026  - mailroom

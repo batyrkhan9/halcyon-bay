@@ -1,21 +1,21 @@
-MARISOL CLEANING SERVICES
-4107 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: MARIO LEWIS        Emp ID: 21179
-Position: Cleaner
-Pay Period: 09/15/2025 - 09/28/2025     Pay Date: 10/03/2025
-Pay Frequency: Bi-Weekly
+LAS BRISAS RESTAURANT GROUP
+1770 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+    Employee: JUAN IYER        Emp ID: 89391
+Position: Line cook
+Pay Period: 07/02/2025 - 07/08/2025     Pay Date: 07/13/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
+  . : .
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             80.05     80.00       6,404.00    128,080.00
-GROSS PAY                                  6,404.00    128,080.00
-DEDUCTIONS
-  Federal Income Tax                       640.40
-  Social Security                          397.04
-  Medicare                                  92.85
-  CA SDI                                    70.44
-NET PAY                                  5,203.27
-~ ~ .  ,
+Regular             17.52     19.25         337.26      9,443.28
+GROSS PAY                                    337.26      9,443.28
+DEDUCTI0NS
+  Federal Income Tax                        37.09
+  Social Security                           20.91
+  Medicare                                   4.89
+  CA SDI                                     3.71
+  NET PAY                                    270.66
 --------------------------------------------------------------
 
-FAX RECEIVED 11/01/2025 10:39   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2025]

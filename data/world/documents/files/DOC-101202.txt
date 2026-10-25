@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-3947 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: CALEB CHEN        Emp ID: 78368
-Position: Housekeeper
-Pay Period: 04/17/2026 - 04/23/2026      Pay Date: 04/28/2026
-Pay Frequency: Weekly
+TIDEWATER CONSTRUCTION
+2121 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDRE COSTA        Emp ID: 90260
+Position: Laborer
+Pay Period: 11/02/2025 - 11/15/2025     Pay Date: 11/20/2025
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Salary                                     1,085.87     18,459.79
-GROSS PAY                                  1,085.87     18,459.79
+Regular            117.91     80.00       9,432.80    226,387.20
+GROSS PAY                                  9,432.80    226,387.20
 DEDUCTIONS
-  Federal Income Tax                        43.43
-  Social Security                           67.32
-  Medicare                                  15.74
-  CA SDI                                    11.94
-NET PAY                                    947.44
+  Federal Income Tax                       848.95
+    Social Security                          584.83
+  Medicare                                 136.77
+  CA SDI                                   103.76
+ NET PAY                                  7,758.49
 --------------------------------------------------------------
 
-FAX RECEIVED 05/14/2026 10:16   P.01
+-- scanned 12/13/2025 HBCH mailroom  pg 1/1 --

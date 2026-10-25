@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+    5812 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA HERRERA        Emp ID: 13168
+Position: Driver
+Pay Period: 07/04/2026 - 07/10/2026     Pay Date: 07/15/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     1,614.28     45,199.84
+GROSS PAY                                  1,614.28     45,199.84
+   DEDUCTIONS
+     Federal Income Tax                        80.71
+  Social Security                          100.08
+  Medicare                                  23.40
+      CA SDI                                    17.75
+NET PAY                                  1,392.34
+--------------------------------------------------------------
+
+RECEIVED JUL 28 2026  - mailroom

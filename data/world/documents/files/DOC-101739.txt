@@ -1,19 +1,21 @@
-  Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Head of household
-  Your first name and middle initial / Last name:  ANJALI WATANABE
-Your social security number: XXX-XX-9961
-Dependents: 1
-Income
-_ _ _ _
- 1a  Total amount from Form(s) W-2, box 1 ...........    98,759.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    98,759.00
- 10  Adjustments to income ...........................         0.00
- 11   Adjusted gross income ...........................    98,759.00
- 12  Standard deduction ..............................    21,900.00
+LAS BRISAS RESTAURANT GROUP
+8069 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAJNI MOORE        Emp ID: 57329
+Position: Line cook
+Pay Period: 04/16/2026 - 04/29/2026     Pay Date: 05/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.55     80.00       2,044.00     18,396.00
+GROSS PAY                                  2,044.00     18,396.00
+DEDUCTIONS
+  Federal Income Tax                       163.52
+  Social Security                          126.72
+     Medicare                                  29.63
+   CA SDI                                    22.48
+NET PAY                                   1,701.65
+ --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Anjali Watanabe        Date: 04/05/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/21/2026]
+FAX RECEIVED 05/12/2026 10:22   P.01

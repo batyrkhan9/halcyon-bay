@@ -1,0 +1,21 @@
+ BAYLINE LOGISTICS INC
+    1357 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO WALSH        Emp ID: 54162
+Position: Warehouse associate
+Pay Period: 07/18/2026 - 07/31/2026     Pay Date: 08/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             68.19     80.00       5,455.20     87,283.20
+GROSS PAY                                  5,455.20     87,283.20
+  DEDUCTION5
+  Federal Income Tax                       218.20
+  Social Security                          338.22
+  Medicare                                  79.10
+  CA SDI                                    60.00
+NET PAY                                  4,759.68
+--------------------------------------------------------------
+
+RECEIVED SEP 05 2026  - mailroom

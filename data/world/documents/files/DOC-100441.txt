@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL 0FFICES
-1612 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: BARBARA BAKER        Emp ID: 32994
+VISTA SERENA MEDICAL OFFICES
+3371 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAJNI NAVARRO        Emp ID: 54456
 Position: Medical receptionist
-Pay Period: 06/01/2025 - 06/14/2025     Pay Date: 06/19/2025
-~ ~ .  ,
-Pay Frequency: Bi-Weekly
+Pay Period: 03/21/2025 - 03/27/2025     Pay Date: 04/01/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,180.79     41,350.27
-GROSS PAY                                  3,180.79     41,350.27
+Regular            107.31     40.00       4,292.40     55,801.20
+GROSS PAY                                  4,292.40     55,801.20
 DEDUCTIONS
-   Federal Income Tax                       349.88
-  Social Security                          197.20
-  Medicare                                  46.12
-  CA SDI                                    34.98
-NET PAY                                  2,552.61
+  Federal Income Tax                       300.46
+   Social Security                          266.12
+  Medicare                                  62.24
+      CA SDI                                    47.21
+NET PAY                                  3,616.37
 --------------------------------------------------------------
 
-FAX RECEIVED 07/02/2025 10:47   P.01
+FAX RECEIVED 04/23/2025 10:44   P.01

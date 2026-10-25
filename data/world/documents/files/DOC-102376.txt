@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+4789 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: CHLOE QUINN        Emp ID: 94209
+    Position: Nursery worker
+Pay Period: 06/16/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.09     86.67       5,034.66     65,450.58
+GROSS PAY                                  5,034.66     65,450.58
+   DEDUCTIONS
+  Federal Income Tax                       352.42
+  Social Security                          312.14
+  Medicare                                  73.00
+  CA SDI                                    55.38
+  NET PAY                                  4,241.72
+--------------------------------------------------------------
+
+FAX RECEIVED 08/01/2026 10:58   P.01

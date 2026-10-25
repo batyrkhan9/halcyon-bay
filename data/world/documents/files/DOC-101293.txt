@@ -1,20 +1,20 @@
-  PORT ELLERY CANNERY CO
-4280 COMMERCE WAY   CA
+SUNSET COAST HOME CARE
+ 6267 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA TUIAS0SOPO        Emp ID: 37361
-Position: Line worker
-Pay Period: 05/19/2026 - 06/01/2026     Pay Date: 06/06/2026
-Pay Frequency: Bi-Weekly
+Employee: MIGUEL HUANG        Emp ID: 21968
+Position: Home care aide
+    Pay Period: 12/01/2025 - 12/15/2025     Pay Date: 12/20/2025
+ Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             58.18     80.00       4,654.40     55,852.80
-GROSS PAY                                  4,654.40     55,852.80
+Salary                                     4,517.42    108,418.08
+GROSS PAY                                  4,517.42    108,418.08
 DEDUCTIONS
-  Federal Income Tax                       186.17
-  Social Security                          288.57
-  Medicare                                  67.48
-  CA SDI                                    51.19
-NET PAY                                  4,060.99
+  Federal Income Tax                       316.21
+  Social Security                          280.08
+  Medicare                                  65.50
+  CA SDI                                    49.69
+NET PAY                                  3,805.94
 --------------------------------------------------------------
 
-RECEIVED JUL 08 2026  - mailroom
+FAX RECEIVED 01/06/2026 10:51   P.01

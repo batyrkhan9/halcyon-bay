@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-156 HARBOR WAY   CA
+TIDEWATER CONSTRUCTION
+8359 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: MICHAEL DIAZ        Emp ID: 67347
-Position: Sales associate
-Pay Period: 02/07/2026 - 02/13/2026     Pay Date: 02/18/2026
-   Pay Frequency: Weekly
+Employee: JORGE NGUYEN        Emp ID: 26115
+Position: Laborer
+  Pay Period: 09/07/2025 - 09/20/2025     Pay Date: 09/25/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.65     40.00       1,146.00      8,022.00
-GROSS PAY                                  1,146.00      8,022.00
+Regular             33.04     80.00       2,643.20     52,864.00
+GROSS PAY                                  2,643.20     52,864.00
 DEDUCTIONS
-  Federal Income Tax                        91.68
-  Social Security                           71.05
-  Medicare                                  16.61
-    CA SDI                                    12.60
-NET PAY                                    954.06
+  Federal Income Tax                       185.02
+    Social Security                          163.87
+      Medicare                                  38.32
+      CA SD1                                    29.07
+NET PAY                                  2,226.92
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/14/2025]

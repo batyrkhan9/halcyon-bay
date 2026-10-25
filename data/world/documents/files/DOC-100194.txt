@@ -1,20 +1,22 @@
-    GOLDEN HOUR SENIOR LIVING
-3058 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: DENNIS LE        Emp ID: 49656
-Position: Caregiver
-Pay Period: 03/14/2025 - 03/27/2025     Pay Date: 04/01/2025
-Pay Frequency: Bi-Weekly
+PORT ELLERY CANNERY CO
+586 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: HIROSHI MURPHY        Emp ID: 58461
+Position: Line worker
+Pay Period: 01/15/2025 - 01/29/2025     Pay Date: 02/03/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       190.46      1,333.22
-GROSS PAY                                    190.46      1,333.22
- DEDUCTIONS
-  Federal Income Tax                        11.42
-  Social Security                           11.80
-  Medicare                                   2.76
-  CA SDI                                     2.09
-NET PAY                                    162.39
-   --------------------------------------------------------------
+Salary                                       969.32      2,907.96
+GROSS PAY                                    969.32      2,907.96
+DEDUCTIONS
+  Federal Income Tax                       106.62
+   5ocial Security                           60.09
+  Medicare                                  14.05
+  CA SDI                                    10.66
+NET PAY                                    777.90
+--------------------------------------------------------------
+_ _ _ _
+  includes overtime 1.50 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/18/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/18/2025]

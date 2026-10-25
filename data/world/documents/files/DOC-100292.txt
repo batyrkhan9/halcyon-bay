@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-    790 COMMERCE WAY   CA
+ELLERY HARDWARE SUPPLY
+4287 COMMERCE WAY   CA
+  . : .
                          EARNINGS STATEMENT
- Employee: GREGORY WALKER        Emp ID: 48847
-Position: Cashier
-    Pay Period: 04/19/2025 - 05/02/2025     Pay Date: 05/07/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.76     37.00         694.12      6,941.20
-GROSS PAY                                    694.12      6,941.20
+Employee: PEDRO CHAVEZ        Emp ID: 42136
+Position: Sales associate
+Pay Period: 02/14/2025 - 02/20/2025     Pay Date: 02/25/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.26     40.00       3,010.40     24,083.20
+GROSS PAY                                  3,010.40     24,083.20
 DEDUCTIONS
-  Federal Income Tax                        55.52
-  Social Security                           43.03
-  Medicare                                  10.06
-  CA SDI                                     7.63
-NET PAY                                    577.88
+  Federal Income Tax                       120.41
+   Social Security                          186.64
+  Medicare                                  43.65
+    CA SDI                                    33.11
+NET PAY                                  2,626.59
 --------------------------------------------------------------
 
-RECEIVED MAY 24 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/21/2025]

@@ -1,20 +1,21 @@
-VISTA SERENA MED1CAL OFFICES
-6259 INDUSTRIAL WAY    CA
+LAS BRISAS RESTAURANT GROUP
+5427 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: NOOR RAMOS        Emp ID: 26975
-Position: Medical receptionist
-Pay Period: 07/09/2025 - 08/07/2025     Pay Date: 08/12/2025
-Pay Frequency: Monthly
- --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.47    173.33       3,201.41     25,611.28
-GROSS PAY                                  3,201.41     25,611.28
-DEDUCTIONS
-  Federal 1ncome Tax                       256.11
-    5ocial Security                          198.48
-  Medicare                                  46.42
-   CA SDI                                    35.21
-NET PAY                                  2,665.19
+Employee: TUAN SOUZA        Emp ID: 99207
+Position: Line cook
+Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+_ _ _ _
+Regular             53.11     80.00       4,248.80     42,488.00
+GROSS PAY                                  4,248.80     42,488.00
+DEDUCTIONS
+    Federal Income Tax                       382.39
+  Social Security                          263.42
+  Medicare                                  61.60
+  CA SDI                                    46.73
+NET PAY                                  3,494.66
+  --------------------------------------------------------------
 
-FAX RECEIVED 08/16/2025 10:58   P.01
+FAX RECEIVED 06/09/2025 10:24   P.01

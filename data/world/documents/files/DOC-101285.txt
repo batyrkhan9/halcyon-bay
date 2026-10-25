@@ -1,20 +1,20 @@
-   PORT ELLERY CANNERY CO
-2204 INDUSTRIAL WAY   CA
-                            EARNINGS STATEMENT
-Empl0yee: VERONICA JACKSON        Emp ID: 58857
-Position: Line worker
-Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.69     49.00         915.81     11,905.53
- GROSS PAY                                    915.81     11,905.53
-DEDUCTIONS
-  Federal Income Tax                        82.42
-  Social Security                           56.78
-    Medicare                                  13.27
-  CA SDI                                    10.07
-NET PAY                                    753.27
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 12/01/2025 - 12/31/2025
+Member: RACHEL KELLY       Account ending 9550
 
-FAX RECEIVED 07/06/2026 10:56   P.01
+CHECKING SUMMARY
+  Beginning balance            1,666.18
+  Deposits                       547.51
+  Withdrawals                   -558.46
+  Ending balance               1,655.23
+
+DEPOSITS AND CREDITS
+      12/22  PAYROLL DIR DEP BAYLINE LOGISTICS          547.51
+
+SAVINGS SUMMARY  (Share Savings ending 1330)
+  Ending balance              38,902.16
+  Dividends paid                  15.56
+
+Thank you for banking with us.   Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/04/2026]

@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-5618 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: YESENIA O'BRIEN        Emp ID: 15280
- Position: Software engineer
-Pay Period: 08/19/2026 - 09/02/2026     Pay Date: 09/07/2026
-Pay Frequency: Semi-Monthly
+MIRADOR PUBLIC LIBRARY
+2624 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TANISHA DELGADO        Emp ID: 39310
+Position: Library assistant
+Pay Period: 07/02/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             25.17     86.67       2,181.48     37,085.16
-GR0SS PAY                                  2,181.48     37,085.16
+Regular              36.45     40.00       1,458.00     40,824.00
+GROSS PAY                                  1,458.00     40,824.00
 DEDUCTIONS
-  Federal Income Tax                       152.70
-  Social Security                          135.25
-     Medicare                                  31.63
-  CA SDI                                    23.99
- NET PAY                                  1,837.91
---------------------------------------------------------------
+  Federal Income Tax                       102.06
+  Social Security                           90.39
+  Medicare                                  21.14
+  CA SDI                                    16.03
+NET PAY                                  1,228.38
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/25/2026]
+-- scanned 07/17/2026 HBCH mailroom  pg 1/1 --

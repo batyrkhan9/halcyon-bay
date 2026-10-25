@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-5799 HARBOR WAY   CA
+CALDER FREIGHT LINES
+8708 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: JUSTIN VALENCIA        Emp ID: 24610
-Position: Field supervisor
-Pay Period: 05/17/2026 - 05/30/2026      Pay Date: 06/04/2026
+ Employee: TOMASZ LIN        Emp ID: 28363
+Position: Driver
+    Pay Period: 11/15/2025 - 11/28/2025     Pay Date: 12/03/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             32.02     80.00       2,561.60     30,739.20
-GROSS PAY                                  2,561.60     30,739.20
+   --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.03     80.00       4,642.40    116,060.00
+GROSS PAY                                  4,642.40    116,060.00
 DEDUCTIONS
-  Federal Income Tax                       230.54
-  Social Security                          158.81
-  Medicare                                  37.14
-  CA SDI                                    28.17
-NET PAY                                  2,106.94
+     Federal Income Tax                       278.54
+  Social Security                          287.82
+  Medicare                                  67.31
+  CA SDI                                    51.06
+    NET PAY                                  3,957.67
 --------------------------------------------------------------
 
-FAX RECEIVED 07/03/2026 10:33   P.01
+RECEIVED DEC 31 2025  - mailroom

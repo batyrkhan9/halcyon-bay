@@ -1,20 +1,17 @@
-SEASIDE DENTAL GROUP
-8976 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: DESTINY WATANABE        Emp ID: 69569
-Position: Dental assistant
-Pay Period: 07/10/2026 - 07/24/2026     Pay Date: 07/29/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Regular             18.89     21.50         406.14      5,685.96
-GROSS PAY                                    406.14      5,685.96
-DEDUCTIONS
-  Federal Income Tax                        28.42
-  Social Security                           25.18
-  Medicare                                   5.88
-  CA SDI                                     4.46
-    NET PAY                                    342.20
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Peri0d 03/01/2026 - 03/31/2026
+Member: MADISON TANAKA       Account ending 1174
 
-FAX RECEIVED 08/14/2026 10:17   P.01
+CHECKING SUMMARY
+  Beginning balance              936.43
+  Deposits                     2,635.14
+  Withdrawals                 -2,450.68
+  Ending balance               1,120.89
+
+DEPOSITS AND CREDITS
+   03/08  PAYROLL DIR DEP ARROYO VERDE NURSE       1,317.57
+   03/22  PAYROLL DIR DEP ARROYO VERDE NURSE       1,317.57
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 04/23/2026 10:45   P.01

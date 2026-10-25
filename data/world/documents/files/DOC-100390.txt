@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+9828 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH WATANABE        Emp ID: 32822
+Position: Dental assistant
+Pay Period: 02/23/2025 - 03/09/2025     Pay Date: 03/14/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.82     36.25         645.98      3,229.90
+GROSS PAY                                     645.98      3,229.90
+DEDUCTIONS
+  Federal Income Tax                        71.05
+  Social Security                           40.05
+  Medicare                                   9.36
+     CA SD1                                     7.10
+NET PAY                                    518.42
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/16/2025]

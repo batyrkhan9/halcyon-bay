@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-3493 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-    Employee: MIN-JI KEALOHA        Emp ID: 60139
-Position: Driver
-Pay Period: 08/05/2026 - 08/19/2026     Pay Date: 08/24/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                     6,991.14    111,858.24
-GROSS PAY                                  6,991.14    111,858.24
+LAS BRISAS RESTAURANT GROUP
+1623 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+   Employee: OL1VIA PATEL        Emp ID: 67192
+  Position: Line cook
+Pay Period: 04/19/2026 - 05/02/2026     Pay Date: 05/07/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             44.70     80.00       3,576.00     35,760.00
+ GROSS PAY                                  3,576.00     35,760.00
 DEDUCTIONS
-   Federal Income Tax                       349.55
-  Social Security                          433.45
-  Medicare                                 101.37
-   CA SDI                                    76.90
-NET PAY                                  6,029.87
-    --------------------------------------------------------------
+  Federal Income Tax                       357.60
+  Social Security                          221.71
+  Medicare                                  51.85
+   CA SDI                                    39.33
+NET PAY                                   2,905.51
+--------------------------------------------------------------
 
-RECEIVED SEP 02 2026  - mailroom
+FAX RECEIVED 05/15/2026 10:38   P.01

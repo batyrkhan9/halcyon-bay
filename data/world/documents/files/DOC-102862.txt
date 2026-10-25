@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+   4978 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUSUF WALSH        Emp ID: 91406
+Position: Line worker
+Pay Period: 08/07/2026 - 08/13/2026     Pay Date: 08/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     2,194.13     72,406.29
+    GROSS PAY                                  2,194.13     72,406.29
+DEDUCTIONS
+  Federal Income Tax                       131.64
+  Social Security                          136.03
+  Medicare                                  31.81
+  CA SDI                                    24.13
+NET PAY                                  1,870.52
+--------------------------------------------------------------
+
+RECEIVED SEP 07 2026  - mailroom

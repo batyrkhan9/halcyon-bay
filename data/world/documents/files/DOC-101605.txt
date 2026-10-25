@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-2689 HARBOR WAY   CA
-                           EARNINGS STATEMENT
-Employee: BRENDA RIVERA        Emp ID: 74713
-Position: Line cook
-Pay Period: 06/28/2026 - 07/11/2026      Pay Date: 07/16/2026
+   CALDER FREIGHT LINES
+1254 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOOR SOUZA        Emp ID: 32566
+Position: Driver
+Pay Period: 03/23/2026 - 04/05/2026     Pay Date: 04/10/2026
 Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regular             42.80     80.00       3,424.00     51,360.00
-GROSS PAY                                  3,424.00     51,360.00
-    DEDUCTIONS
-   Federal Income Tax                       239.68
-  Social Security                          212.28
-  Medicare                                  49.64
-  CA SDI                                    37.66
-NET PAY                                  2,884.74
---------------------------------------------------------------
+  --------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+     Regular             29.61     80.00       2,368.80     18,950.40
+GROSS PAY                                  2,368.80     18,950.40
+ DEDUCTIONS
+    Federal Income Tax                       236.88
+   Social Security                          146.86
+      Medicare                                  34.34
+  CA SDI                                    26.05
+NET PAY                                  1,924.67
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/09/2026]
+RECEIVED APR 14 2026  - mailroom

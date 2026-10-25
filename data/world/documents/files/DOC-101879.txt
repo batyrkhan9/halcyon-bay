@@ -1,18 +1,10 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  JOSEFINA ZHANG
-Your social security number: XXX-XX-6112
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    35,216.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    35,216.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    35,216.00
- 12  Standard deduction ..............................    21,900.00
+SOCIAL SECURITY ADMINISTRATION
+Retirement, Survivors and Disability Insurance
+Date: 03/20/2026
+KAREN KING
 
- Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Josefina Zhang        Date: 04/09/2026
+This letter is proof of the benefits you receive.
+Beginning December 2025, the full monthly Social Security benefit is $1,545.92.
+We deduct $0.00 for medical insurance premiums each month.
 
-FAX RECEIVED 09/09/2026 10:24   P.01
+FAX RECEIVED 06/07/2026 10:59   P.01

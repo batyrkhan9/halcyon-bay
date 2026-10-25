@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+8768 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDRE MEDINA        Emp ID: 63347
+Position: Mechanic
+Pay Period: 11/08/2025 - 12/07/2025     Pay Date: 12/12/2025
+Pay Frequency: Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    15,909.78    190,917.36
+GROSS PAY                                 15,909.78    190,917.36
+DEDUCTIONS
+  Federal Income Tax                     1,113.68
+  Social Security                          986.40
+  Medicare                                 230.69
+  CA SDI                                   175.00
+NET PAY                                 13,404.01
+--------------------------------------------------------------
+
+FAX RECEIVED 01/25/2026 10:45   P.01

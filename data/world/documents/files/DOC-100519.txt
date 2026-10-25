@@ -1,21 +1,20 @@
-  TIDEWATER CONSTRUCTION
-1068 MARKET WAY   CA
+    HARBOR PO1NT HOTEL
+1007 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE ESPINOZA        Emp ID: 27386
-_ _ _ _
- Position: Laborer
-Pay Period: 06/22/2025 - 07/05/2025     Pay Date: 07/10/2025
-  Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+Employee: YESENIA ESPINOZA        Emp ID: 18643
+Position: Housekeeper
+Pay Period: 04/10/2025 - 04/23/2025     Pay Date: 04/28/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,519.80     77,277.20
-GROSS PAY                                  5,519.80     77,277.20
+Salary                                     1,742.52     15,682.68
+GROSS PAY                                  1,742.52     15,682.68
 DEDUCTIONS
-  Federal Income Tax                       275.99
-  5ocial Security                          342.22
-   Medicare                                  80.03
-      CA SDI                                    60.71
-NET PAY                                  4,760.85
- --------------------------------------------------------------
+  Federal Income Tax                        87.12
+  Social Security                          108.03
+  Medicare                                  25.26
+  CA SDI                                    19.16
+NET PAY                                  1,502.95
+    --------------------------------------------------------------
 
--- scanned 07/28/2025 HBCH mailroom  pg 1/1 --
+-- scanned 05/29/2025 HBCH mailroom  pg 1/1 --

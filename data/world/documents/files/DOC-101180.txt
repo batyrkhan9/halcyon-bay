@@ -1,16 +1,20 @@
-ARROYO VERDE NURSERY
-7175 MA1N ST
+BLUE KELP SOFTWARE LLC
+  1156 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROBERT DELGADO        Emp ID: 28345
+  Position: Software engineer
+  Pay Period: 11/07/2025 - 11/20/2025     Pay Date: 11/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              28.54     80.00       2,283.20     54,796.80
+GROSS PAY                                  2,283.20     54,796.80
+DEDUCTIONS
+  Federal Inc0me Tax                       251.15
+  Social Security                          141.55
+  Medicare                                  33.10
+  CA SD1                                    25.11
+NET PAY                                  1,832.29
+--------------------------------------------------------------
 
-May 03, 2026
-
-To Whom It May Concern:
-
-    This letter confirms that Juan Ito has been employed with Arroyo Verde Nursery since
-July 2020 in the position of Nursery worker. Their current annual salary is $50,034.00.
-Employment is ongoing. Please contact our office with any questions.
-
-  Sincerely,
-Rajni Williams
-Human Resources
-
-FAX RECEIVED 05/13/2026 10:49   P.01
+RECEIVED DEC 05 2025  - mailroom

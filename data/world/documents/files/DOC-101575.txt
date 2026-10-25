@@ -1,20 +1,11 @@
-ELLERY HARDWARE SUPPLY
-7993 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-   Employee: ROBERT IVANOVA        Emp ID: 21169
-Position: Sales associate
-Pay Period: 06/20/2026 - 07/04/2026     Pay Date: 07/09/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                     8,016.97    104,220.61
-GROSS PAY                                  8,016.97    104,220.61
-DEDUCTIONS
-  Federal Income Tax                       881.86
-  Social Security                          497.05
-  Medicare                                 116.24
-  CA SDI                                    88.18
-NET PAY                                  6,433.64
---------------------------------------------------------------
+HALCYON BAY COMMUNITY HOSPITAL
+Financial Assistance Program - Self-Attestation of Income
 
-RECEIVED AUG 03 2026  - mailroom
+   I, Kenneth Kowalski, live in a household of 4 people.
+My household's total income is about $4,750.00 per month from day labor.
+I do n0t have pay stubs or other income documents to send.
+I declare under penalty of perjury that the inf0rmation above is true.
+
+Signature: Kenneth Kowalski            Date: 03/31/2026
+
+-- scanned 04/02/2026 HBCH mailroom  pg 1/1 --

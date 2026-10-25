@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-1755 INDUSTRIAL WAY   CA
+ARROYO VERDE NURSERY
+9902 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TERRELL CORTEZ        Emp ID: 59739
-    Position: Instructional aide
-Pay Period: 08/07/2026 - 09/05/2026     Pay Date: 09/10/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
+Employee: RONALD FLORES        Emp ID: 97214
+ Position: Nursery worker
+Pay Period: 06/02/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.14    173.33       4,010.86     36,097.74
-GROSS PAY                                   4,010.86     36,097.74
-DEDUCTIONS
-  Federal Income Tax                       360.97
-  Social Security                          248.67
-  Medicare                                  58.15
-  CA SDI                                    44.11
-NET PAY                                  3,298.96
-   --------------------------------------------------------------
+Regular             26.45     80.00       2,116.00     27,508.00
+GROSS PAY                                  2,116.00     27,508.00
+  DEDUCTIONS
+  Federal Income Tax                       211.60
+  Social Security                          131.19
+  Medicare                                  30.68
+  CA SDI                                    23.27
+NET PAY                                  1,719.26
+--------------------------------------------------------------
 
--- scanned 09/24/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 15 2026  - mailroom

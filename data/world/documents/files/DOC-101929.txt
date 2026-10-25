@@ -1,21 +1,18 @@
-SANTA LUCITA FARMS
-5332 INDUSTRIAL WAY   CA
-_ _ _ _
-                           EARNINGS STATEMENT
-Employee: JORGE WRIGHT        Emp ID: 34192
-   Position: Field supervisor
-Pay Period: 07/29/2026 - 08/11/2026     Pay Date: 08/16/2026
-Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             97.08     80.00       7,766.40    132,028.80
-GROSS PAY                                  7,766.40    132,028.80
-DEDUCTIONS
-  Federal Income Tax                       854.30
-  Social Security                          481.51
-  Medicare                                 112.61
-  CA SDI                                    85.43
-NET PAY                                  6,232.55
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 06/01/2026 - 06/30/2026
+Member: LOGAN DAVIS       Account ending 6750
 
--- scanned 09/12/2026 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+   Beginning balance            2,688.80
+  Deposits                     9,177.20
+  Withdrawals                 -7,984.16
+  Ending balance               3,881.84
+| |   .
+
+DEPOSITS AND CREDITS
+  06/03  PAYROLL DIR DEP SANTA LUCITA FARMS       4,588.60
+   06/17  PAYROLL DIR DEP SANTA LUCITA FARMS       4,588.60
+
+Thank you for banking with us.  Page 1 0f 2
+
+FAX RECEIVED 07/05/2026 10:52   P.01

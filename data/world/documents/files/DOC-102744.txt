@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+4103 MARKET WAY    CA
+                         EARNING5 STATEMENT
+   Employee: FRANK SHAH        Emp ID: 67872
+Position: Line worker
+Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,462.69     87,403.04
+GROSS PAY                                  5,462.69     87,403.04
+DEDUCTIONS
+  Federal Income Tax                       327.76
+  Social Security                          338.68
+  Medicare                                  79.20
+  CA SDI                                    60.09
+NET PAY                                  4,656.96
+| |   .
+--------------------------------------------------------------
+
+RECEIVED AUG 31 2026  - mailroom

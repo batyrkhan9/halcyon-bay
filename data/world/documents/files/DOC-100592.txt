@@ -1,20 +1,17 @@
-BLUE KELP SOFTWARE LLC
-1065 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: PATRICIA O'BRIEN        Emp ID: 39871
-Position: Software engineer
-Pay Period: 08/06/2025 - 08/12/2025     Pay Date: 08/17/2025
-Pay Frequency: Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       855.24     28,222.92
- GROSS PAY                                    855.24     28,222.92
-DEDUCTIONS
-  Federal Income Tax                        76.97
-  Social Security                           53.02
-  Medicare                                  12.40
-  CA SDI                                     9.40
-  NET PAY                                    703.45
---------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 05/01/2025 - 05/31/2025
+Member: WILLIAM HERNANDEZ       Account ending 8033
 
-RECEIVED AUG 31 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance              449.14
+  Deposits                     8,426.48
+  Withdrawals                 -7,246.77
+  Ending balance               1,628.85
+
+  DEPOSITS AND CREDITS
+    05/08  PAYROLL DIR DEP MIRADOR PUBLIC LIB       4,213.24
+  05/23  PAYROLL DIR DEP MIRADOR PUBLIC LIB       4,213.24
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/15/2025]

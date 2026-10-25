@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-    4097 COMMERCE WAY   CA
+    BLUE KELP SOFTWARE LLC
+2326 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MICHAEL QUINN        Emp ID: 57682
-Position: Medical receptionist
-Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Employee: TERESA SUZUKI-HUANG         Emp ID: 88555
+Position: Software engineer
+Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Regular             33.17     80.00       2,653.60     47,764.80
-GROSS PAY                                  2,653.60     47,764.80
-   DEDUCTIONS
-  Federa1 Income Tax                       185.75
-  Social Security                          164.52
-    Medicare                                  38.47
-  CA SDI                                    29.19
-NET PAY                                  2,235.67
+Regular             40.13     80.00       3,210.40     44,945.60
+GROSS PAY                                  3,210.40     44,945.60
+DEDUCTIONS
+  Federal Income Tax                       353.14
+      Social Security                          199.04
+  Medicare                                  46.55
+  CA SDI                                    35.31
+ NET PAY                                  2,576.36
 --------------------------------------------------------------
 
--- scanned 09/26/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/18/2026 10:14   P.01

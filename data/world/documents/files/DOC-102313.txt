@@ -1,0 +1,21 @@
+MARISOL CLEANING SERVICES
+5364 MARKET WAY   CA
+                         EARNINGS STATEMENT
+| |   .
+ Employee: TYLER LEE        Emp ID: 50716
+Position: Cleaner
+Pay Period: 07/03/2026 - 07/16/2026      Pay Date: 07/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     9,615.89    144,238.35
+    GROSS PAY                                  9,615.89    144,238.35
+  DEDUCTIONS
+  Federal Income Tax                       769.27
+  Social Security                          596.18
+  Medicare                                 139.43
+  CA SDI                                   105.77
+NET PAY                                  8,005.24
+--------------------------------------------------------------
+
+-- scanned 07/29/2026 HBCH mailroom  pg 1/1 --

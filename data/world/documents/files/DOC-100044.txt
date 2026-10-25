@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-7743 INDUSTRIAL WAY   CA
+M1RADOR GROCERY CO-OP
+2801 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM WANG        Emp ID: 91805
-Position: Home care aide
-    Pay Period: 12/11/2024 - 12/17/2024     Pay Date: 12/22/2024
-Pay Frequency: Weekly
+Employee: RAVI ALMEIDA         Emp ID: 97204
+Position: Cashier
+Pay Period: 10/27/2024 - 11/09/2024     Pay Date: 11/14/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,000.33     51,016.83
-GROSS PAY                                  1,000.33     51,016.83
+Salary                                       874.01     20,102.23
+GRO5S PAY                                    874.01     20,102.23
 DEDUCTIONS
-   Federal Income Tax                       110.03
-    5ocial Security                           62.02
-  Medicare                                  14.50
-  CA SDI                                    11.00
-NET PAY                                    802.78
- --------------------------------------------------------------
+  Federal Income Tax                        69.92
+  Social Security                           54.18
+      Medicare                                  12.67
+  CA SDI                                     9.61
+NET PAY                                    727.63
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/12/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/23/2024]

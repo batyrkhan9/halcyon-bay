@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+    1696 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 02/05/2025 - 02/18/2025     Pay Date: 02/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     2,516.82     10,067.28
+ GROSS PAY                                  2,516.82     10,067.28
+DEDUCTIONS
+  Federal Income Tax                       201.34
+   Social Security                          156.04
+  Medicare                                  36.49
+  CA SDI                                    27.68
+NET PAY                                  2,095.27
+  --------------------------------------------------------------
+
+FAX RECEIVED 03/13/2025 10:59   P.01

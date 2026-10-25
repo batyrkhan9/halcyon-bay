@@ -1,20 +1,20 @@
- GOLDEN HOUR SENIOR LIVING
-    5438 MARKET WAY   CA
-                            EARNINGS STATEMENT
-Employee: TYLER MITCHELL         Emp ID: 82871
-Position: Caregiver
-Pay Period: 05/25/2026 - 06/08/2026     Pay Date: 06/13/2026
-   Pay Frequency: 5emi-Monthly
+PACIFIC RIM JANITORIAL
+6452 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MAI DOYLE        Emp 1D: 49135
+Position: Custodian
+Pay Period: 12/27/2025 - 01/02/2026     Pay Date: 01/07/2026
+  Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNING5            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       680.18      7,481.98
-GROSS PAY                                    680.18      7,481.98
-     DEDUCTIONS
-  Federal Income Tax                        47.61
-      Social Security                           42.17
-   Medicare                                   9.86
-  CA SDI                                     7.48
-NET PAY                                    573.06
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,012.40      4,012.40
+GROSS PAY                                  4,012.40      4,012.40
+DEDUCTIONS
+  Federal Income Tax                       160.49
+  Social Security                          248.76
+  Medicare                                  58.18
+  CA SDI                                    44.13
+NET PAY                                  3,500.84
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]
+FAX RECEIVED 01/22/2026 10:59   P.01

@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY C0
-8040 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: KENNETH ABDULLAH        Emp ID: 82925
-Position: Line worker
-Pay Period: 10/11/2025 - 10/24/2025     Pay Date: 10/29/2025
-Pay Frequency: Bi-Weekly
+OTTER BAY AQUARIUM
+_ _ _ _
+8949 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Employee: FRANCISCO GREEN        Emp ID: 94916
+Position: Guest services
+Pay Period: 07/05/2025 - 07/18/2025     Pay Date: 07/23/2025
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             20.89     80.00       1,671.20     36,766.40
-GROSS PAY                                  1,671.20     36,766.40
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             33.17     80.00       2,653.60     39,804.00
+GROSS PAY                                  2,653.60     39,804.00
 DEDUCTIONS
-  Federal Income Tax                       100.27
-  Social Security                          103.61
-  Medicare                                  24.23
-   CA SDI                                    18.38
-NET PAY                                  1,424.71
+  Federal Income Tax                       238.82
+   Social Security                          164.52
+  Medicare                                  38.47
+  CA SDI                                    29.19
+NET PAY                                  2,182.60
 --------------------------------------------------------------
 
-RECEIVED NOV 20 2025  - mailroom
+-- scanned 08/04/2025 HBCH mailroom  pg 1/1 --

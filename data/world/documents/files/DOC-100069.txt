@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-3693 MARKET WAY   CA
+MIRADOR PUBLIC LIBRARY
+9607 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JESSICA CHEN        Emp ID: 18130
-Position: Software engineer
-   Pay Period: 01/07/2025 - 01/20/2025     Pay Date: 01/25/2025
+Employee: JOSE HAYES        Emp ID: 58171
+Position: Library assistant
+Pay Period: 11/13/2024 - 11/26/2024     Pay Date: 12/01/2024
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     5,551.02     11,102.04
-GROSS PAY                                  5,551.02     11,102.04
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             69.88     80.00       5,590.40    134,169.60
+GROSS PAY                                  5,590.40    134,169.60
 DEDUCTIONS
-  Federal Income Tax                       444.08
-  Social Security                          344.16
-  Medicare                                  80.49
-     CA SDI                                    61.06
-NET PAY                                  4,621.23
+    Federal Income Tax                       447.23
+  Social Security                          346.60
+  Medicare                                  81.06
+  CA SDI                                    61.49
+NET PAY                                  4,654.02
 --------------------------------------------------------------
 
--- scanned 02/17/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/31/2024]

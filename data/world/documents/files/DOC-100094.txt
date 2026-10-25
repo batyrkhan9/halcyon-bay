@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-4322 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+3591 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TARIQ RIVERA        Emp ID: 34939
-Position: Field technician
-Pay Period: 01/17/2025 - 01/31/2025     Pay Date: 02/05/2025
+Employee: JOSE KEALOHA        Emp ID: 84898
+  Position: Warehouse associate
+Pay Period: 12/10/2024 - 12/24/2024     Pay Date: 12/29/2024
 Pay Frequency: Semi-Monthly
-   --------------------------------------------------------------
-EARNING5            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.03     76.25       1,298.54      3,895.62
-GROSS PAY                                  1,298.54      3,895.62
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              28.14     86.67       2,438.89     60,972.25
+GROSS PAY                                  2,438.89     60,972.25
 DEDUCTIONS
-  Federal Income Tax                       103.88
-  Social Security                           80.50
-  Medicare                                  18.82
-  CA SDI                                    14.28
-  NET PAY                                  1,081.06
-   --------------------------------------------------------------
+  Federal Income Tax                       219.50
+  Social Security                          151.21
+  Medicare                                  35.36
+  CA 5DI                                    26.82
+NET PAY                                  2,006.00
+--------------------------------------------------------------
 
-RECEIVED MAR 03 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/03/2025]

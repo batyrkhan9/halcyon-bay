@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+1802 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARACEL1 PATEL        Emp ID: 29680
+Position: Software engineer
+Pay Period: 08/11/2026 - 08/24/2026     Pay Date: 08/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              44.10     80.00       3,528.00     63,504.00
+GROSS PAY                                  3,528.00     63,504.00
+DEDUCTIONS
+  Federal Income Tax                       211.68
+  Social Security                          218.73
+  Medicare                                  51.15
+  CA SDI                                    38.80
+NET PAY                                  3,007.64
+  . : .
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/10/2026]

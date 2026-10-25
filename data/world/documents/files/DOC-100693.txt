@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-5687 COMMERCE WAY   CA
+GOLDEN HOUR SENIOR LIVING
+6498 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ETHAN FONOTI        Emp ID: 26822
-Position: Laborer
-Pay Period: 08/28/2025 - 09/11/2025     Pay Date: 09/16/2025
-  Pay Frequency: Semi-Monthly
+    Employee: NOOR BUI        Emp ID: 43681
+Position: Caregiver
+   Pay Period: 06/25/2025 - 07/08/2025     Pay Date: 07/13/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.31     45.25         828.53     14,913.54
- GROSS PAY                                    828.53     14,913.54
+Salary                                      1,659.15     23,228.10
+GROSS PAY                                  1,659.15     23,228.10
 DEDUCTIONS
-  Federal Income Tax                        82.85
-  Social Security                           51.36
-  Medicare                                  12.01
-  CA SDI                                     9.11
- NET PAY                                    673.20
+   Federal Income Tax                       132.73
+  Social Security                          102.86
+     Medicare                                  24.05
+  CA SDI                                    18.25
+NET PAY                                  1,381.26
 --------------------------------------------------------------
 
-RECEIVED OCT 13 2025  - mailroom
+-- scanned 07/18/2025 HBCH mailroom  pg 1/1 --

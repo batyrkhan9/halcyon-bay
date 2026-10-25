@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Head of household
- Your first name and middle initial / Last name:   GUADALUPE VALENCIA
-Your social security number: XXX-XX-5133
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    23,077.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    23,077.00
- 10  Adjustments to income ...........................         0.00
-  11  Adjusted gross income ...........................    23,077.00
- 12  Standard deduction ..............................    21,900.00
+HARBOR POINT HOTEL
+1260 INDUSTRIAL WAY   CA
+                         EARNING5 STATEMENT
+Employee: DONALD WANG        Emp ID: 59888
+Position: Housekeeper
+Pay Period: 09/29/2025 - 10/12/2025     Pay Date: 10/17/2025
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,966.27     83,291.67
+GR0SS PAY                                  3,966.27     83,291.67
+DEDUCTIONS
+    Federal Income Tax                       436.28
+  Social Security                          245.90
+  Medicare                                  57.51
+      CA SDI                                    43.62
+NET PAY                                  3,182.96
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-  . : .
-Your signature: /s/ Guadalupe Valencia        Date: 04/01/2026
-
--- scanned 05/12/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/19/2025]

@@ -1,21 +1,20 @@
-   CALDER FREIGHT LINES
-  6177 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: YESENIA PATEL        Emp ID: 24461
-Position: Driver
-Pay Period: 05/10/2025 - 05/23/2025     Pay Date: 05/28/2025
+  SANTA LUCITA FARMS
+ 3886 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: SHARON GARCIA        Emp ID: 82682
+Position: Field supervisor
+Pay Period: 03/17/2025 - 03/30/2025     Pay Date: 04/04/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     4,438.78     48,826.58
-GROSS PAY                                  4,438.78     48,826.58
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.85     80.00       3,748.00     26,236.00
+GROSS PAY                                  3,748.00     26,236.00
 DEDUCTIONS
-  Federal Income Tax                       266.32
-  Social Security                          275.20
-  Medicare                                  64.36
-~ ~ .  ,
-   CA SDI                                    48.82
-NET PAY                                  3,784.08
+  Federal Income Tax                       374.80
+  Social Security                          232.37
+  Medicare                                  54.34
+  CA SDI                                    41.22
+NET PAY                                  3,045.27
 --------------------------------------------------------------
 
-FAX RECEIVED 06/17/2025 10:53   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/16/2025]

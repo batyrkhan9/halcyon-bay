@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+ 8318 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: JOSHUA COSTA        Emp ID: 95309
+    Position: Dental assistant
+Pay Period: 07/04/2026 - 08/02/2026     Pay Date: 08/07/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             70.78    173.33      12,268.30     98,146.40
+GROSS PAY                                 12,268.30     98,146.40
+DEDUCTIONS
+  Federal Income Tax                       981.46
+  Social Security                          760.63
+  Medicare                                 177.89
+  CA SD1                                   134.95
+NET PAY                                 10,213.37
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/11/2026]

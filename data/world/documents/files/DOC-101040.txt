@@ -1,18 +1,17 @@
-    PACIFIC TIDE BANK
-Statement Period 03/01/2026 - 03/23/2026
-Member: SUSAN RAMIREZ       Account ending 4836
+PACIFIC TIDE BANK
+Statement Period 09/01/2025 - 09/30/2025
+Member: SERGIO SINGH       Account ending 4392
 
 CHECKING SUMMARY
-  Beginning balance            2,177.69
-  Deposits                       330.10
-  Withdrawals                   -280.58
-  Ending balance               2,227.21
+  Beginning balance            1,888.29
+  Deposits                     4,271.64
+   Withdrawals                 -3,972.62
+  Ending balance               2,187.31
 
 DEPOSITS AND CREDITS
-~ ~ .  ,
-     03/23  PAYROLL DIR DEP PACIFIC RIM JANITO         165.05
-  03/16  PAYROLL DIR DEP PACIFIC RIM JANITO         165.05
+  09/07  PAYROLL DIR DEP LAS BRISAS RESTAUR       2,135.82
+  09/21  PAYROLL DIR DEP LAS BRISAS RESTAUR       2,135.82
 
 Thank you for banking with us.  Page 1 of 2
 
--- scanned 03/31/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/23/2025]

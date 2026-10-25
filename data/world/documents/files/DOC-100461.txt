@@ -1,20 +1,21 @@
-   ARROYO VERDE NURSERY
-6299 HARBOR WAY   CA
+SEASIDE DENTAL GROUP
+3363 INDUSTRIAL WAY    CA
                          EARNINGS STATEMENT
-  Employee: DUC CHOI        Emp ID: 56667
-Position: Nursery worker
-  Pay Period: 05/27/2025 - 06/10/2025     Pay Date: 06/15/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+Employee: BRANDON DOYLE        Emp ID: 60778
+Position: Dental assistant
+Pay Period: 03/22/2025 - 04/04/2025     Pay Date: 04/09/2025
+   Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              25.42     86.67       2,203.15     26,437.80
-GROSS PAY                                  2,203.15     26,437.80
+Sa1ary                                     3,767.28     30,138.24
+GR0SS PAY                                  3,767.28     30,138.24
 DEDUCTIONS
-  Federal Income Tax                       132.18
-  Social Security                          136.59
-  Medicare                                  31.94
-    CA SDI                                    24.23
-NET PAY                                  1,878.21
---------------------------------------------------------------
+  Federal Income Tax                       263.70
+  Social Security                          233.57
+  . : .
+  Medicare                                  54.62
+   CA SDI                                    41.44
+NET PAY                                  3,173.95
+   --------------------------------------------------------------
 
--- scanned 07/06/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/08/2025 10:36   P.01

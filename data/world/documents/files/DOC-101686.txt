@@ -1,0 +1,21 @@
+   SANDPIPER CHILD CARE CENTER
+    1776 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: AMANDA LE        Emp ID: 75865
+Position: Teacher
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.84     32.00         602.88      5,425.92
+GROSS PAY                                    602.88      5,425.92
+| |   .
+DEDUCTIONS
+  Federal 1ncome Tax                        66.31
+  Social Security                           37.37
+  Medicare                                   8.74
+  CA SDI                                     6.63
+NET PAY                                    483.83
+--------------------------------------------------------------
+
+-- scanned 05/02/2026 HBCH mailroom  pg 1/1 --

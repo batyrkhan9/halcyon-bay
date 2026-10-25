@@ -1,0 +1,21 @@
+  VISTA SERENA MEDICAL OFFICES
+4245 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUKI GARCIA        Emp ID: 20994
+    Position: Medical receptionist
+Pay Period: 07/26/2026 - 08/08/2026     Pay Date: 08/13/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             49.90     80.00       3,992.00     67,864.00
+GROSS PAY                                  3,992.00     67,864.00
+DEDUCTIONS
+  Federal Income Tax                       319.36
+  Social Security                          247.50
+  Medicare                                  57.88
+  CA SDI                                    43.91
+NET PAY                                  3,323.35
+  --------------------------------------------------------------
+  includes overtime 1.50 hrs
+
+FAX RECEIVED 09/02/2026 10:17   P.01

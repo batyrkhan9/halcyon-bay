@@ -1,0 +1,21 @@
+ MIRADOR GROCERY CO-OP
+_ _ _ _
+8062 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: VIKRAM CHEN        Emp ID: 67649
+Position: Cashier
+Pay Period: 07/10/2025 - 07/24/2025     Pay Date: 07/29/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.77     54.00         905.58     12,678.12
+GROSS PAY                                    905.58     12,678.12
+ DEDUCTIONS
+  Federal Income Tax                        72.44
+  Social Security                           56.14
+    Medicare                                  13.13
+  CA SDI                                     9.96
+NET PAY                                    753.91
+--------------------------------------------------------------
+
+RECEIVED AUG 26 2025  - mailroom

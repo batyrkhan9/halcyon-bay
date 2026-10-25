@@ -1,0 +1,20 @@
+   CALDER FREIGHT LINES
+4215 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN HUANG        Emp ID: 47479
+Position: Driver
+   Pay Period: 08/15/2026 - 08/29/2026     Pay Date: 09/03/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     5,711.57     97,096.69
+    GROSS PAY                                  5,711.57     97,096.69
+DEDUCTIONS
+  Federal Income Tax                       456.92
+   Social Security                          354.11
+  Medicare                                  82.81
+  CA SDI                                    62.82
+NET PAY                                  4,754.91
+--------------------------------------------------------------
+
+FAX RECEIVED 09/10/2026 10:16   P.01

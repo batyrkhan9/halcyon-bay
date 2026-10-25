@@ -1,20 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-7622 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-  Employee: JOHN SMITH        Emp ID: 55778
-Position: Teacher
-Pay Period: 04/14/2026 - 04/20/2026     Pay Date: 04/25/2026
-  Pay Frequency: Weekly
+ARROYO VERDE NURSERY
+3890 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: PRISCILLA JUNG        Emp ID: 28147
+Position: Nursery worker
+Pay Period: 11/10/2025 - 11/16/2025     Pay Date: 11/21/2025
+_ _ _ _
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             17.14     24.50         419.93     19,736.71
+GROSS PAY                                    419.93     19,736.71
+   DEDUCTIONS
+     Federal Income Tax                        20.99
+      Social Security                           26.03
+  Medicare                                   6.08
+     CA SDI                                     4.61
+NET PAY                                    362.22
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             32.38     40.00       1,295.20     22,018.40
-GROSS PAY                                  1,295.20     22,018.40
-DEDUCTIONS
-   Federal Income Tax                       116.56
-  Socia1 Security                           80.30
-  Medicare                                  18.78
-  CA SDI                                    14.24
-NET PAY                                  1,065.32
-    --------------------------------------------------------------
 
--- scanned 05/13/2026 HBCH mailroom  pg 1/1 --
+RECEIVED DEC 02 2025  - mailroom

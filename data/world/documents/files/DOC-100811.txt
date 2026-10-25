@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+8284 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: JAE NOVAK-LEWIS        Emp ID: 28556
+    Position: Warehouse associate
+    Pay Period: 08/02/2025 - 08/08/2025     Pay Date: 08/13/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERI0D        YTD
+Regular             21.64     40.00         865.60     28,564.80
+GROSS PAY                                    865.60     28,564.80
+DEDUCTIONS
+  Federal Income Tax                        60.59
+     Social Security                           53.66
+  Medicare                                  12.55
+     CA SDI                                     9.52
+NET PAY                                    729.28
+     --------------------------------------------------------------
+
+FAX RECEIVED 08/24/2025 10:30   P.01

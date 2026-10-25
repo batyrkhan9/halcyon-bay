@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+3122 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI MEHTA        Emp ID: 72688
+Position: Cashier
+Pay Period: 06/21/2026 - 07/05/2026     Pay Date: 07/10/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.20     86.67       2,357.42     30,646.46
+GROSS PAY                                  2,357.42     30,646.46
+DEDUCTIONS
+  Federal Inc0me Tax                        94.29
+  Social Security                          146.16
+  Medicare                                  34.18
+   CA SDI                                    25.93
+NET PAY                                  2,056.86
+  . : .
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/28/2026]

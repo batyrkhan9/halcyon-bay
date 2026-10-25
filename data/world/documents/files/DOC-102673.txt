@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+6991 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SOFIA TAYLOR        Emp ID: 77757
+  Position: Software engineer
+   Pay Period: 07/16/2026 - 07/29/2026     Pay Date: 08/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     4,042.60     64,681.60
+ GROSS PAY                                  4,042.60     64,681.60
+DEDUCTIONS
+     Federal Income Tax                       363.83
+  Social Security                          250.64
+  Medicare                                  58.61
+     CA SDI                                    44.46
+NET PAY                                  3,325.06
+--------------------------------------------------------------
+
+FAX RECEIVED 08/25/2026 10:22   P.01

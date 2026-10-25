@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-   8823 INDUSTRIAL WAY   CA
+CALDER FREIGHT LINES
+419 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA RAO        Emp ID: 47517
-Position: Dental assistant
-Pay Period: 01/18/2026 - 01/31/2026     Pay Date: 02/05/2026
+Employee: HANNAH VALENCIA        Emp ID: 54819
+Position: Driver
+    Pay Period: 09/03/2025 - 09/16/2025     Pay Date: 09/21/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             64.07     80.00       5,125.60     15,376.80
-GROSS PAY                                  5,125.60     15,376.80
+Salary                                     8,429.35    160,157.65
+GROSS PAY                                  8,429.35    160,157.65
 DEDUCTIONS
-  Federal Income Tax                       563.81
-  Social Security                          317.78
-  Medicare                                  74.32
-   CA SDI                                    56.38
-NET PAY                                  4,113.31
+  Federal Income Tax                       421.46
+  Social Security                          522.62
+      Medicare                                 122.22
+  CA SDI                                    92.72
+NET PAY                                  7,270.33
 --------------------------------------------------------------
 
--- scanned 02/22/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 10/09/2025 10:13   P.01

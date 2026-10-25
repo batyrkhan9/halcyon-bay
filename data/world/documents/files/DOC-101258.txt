@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+ 3364 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS JEFFERSON        Emp ID: 25618
+Position: Library assistant
+_ _ _ _
+Pay Period: 11/16/2025 - 11/29/2025     Pay Date: 12/04/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       668.07     16,701.75
+GROSS PAY                                    668.07     16,701.75
+DEDUCTIONS
+  Federal Income Tax                        73.48
+   Social Security                           41.42
+      Medicare                                   9.68
+  CA SDI                                     7.34
+NET PAY                                    536.15
+--------------------------------------------------------------
+
+-- scanned 12/31/2025 HBCH mailroom  pg 1/1 --

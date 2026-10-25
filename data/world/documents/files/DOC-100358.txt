@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-4419 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KEISHA MENDOZA        Emp ID: 42057
-Position: Laborer
-Pay Period: 05/09/2025 - 05/22/2025     Pay Date: 05/27/2025
-Pay Frequency: Bi-Weekly
+VISTA SERENA MEDICAL OFFICES
+5661 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: DUC MOORE        Emp ID: 91503
+Position: Medical receptionist
+Pay Period: 02/19/2025 - 03/04/2025     Pay Date: 03/09/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.86     37.75         674.22      7,416.42
-GROSS PAY                                    674.22      7,416.42
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             98.19     80.00       7,855.20     39,276.00
+GROSS PAY                                  7,855.20     39,276.00
 DEDUCTIONS
-  Federal Inc0me Tax                        74.16
-  Social Security                           41.80
-   Medicare                                   9.77
-  CA SDI                                     7.41
-NET PAY                                    541.08
+  Federal Income Tax                       471.31
+    Social Security                          487.02
+  Medicare                                 113.90
+    CA SDI                                    86.40
+NET PAY                                  6,696.57
 --------------------------------------------------------------
 
-RECEIVED JUN 11 2025  - mailroom
+FAX RECEIVED 04/10/2025 10:30   P.01

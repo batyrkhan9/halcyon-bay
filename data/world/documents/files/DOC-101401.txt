@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-   8618 HARBOR WAY   CA
+BAYLINE LOGISTICS INC
+5462 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ALEJANDRO PETROV        Emp ID: 41534
-Position: Sales associate
-Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
-    Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
+Employee: BRANDON ROBINSON        Emp ID: 48166
+Position: Warehouse associate
+Pay Period: 01/12/2026 - 01/25/2026      Pay Date: 01/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,936.86     27,116.04
-GROSS PAY                                  1,936.86     27,116.04
+Regular             51.42     80.00       4,113.60     12,340.80
+GROSS PAY                                  4,113.60     12,340.80
 DEDUCTIONS
-  Federa1 Income Tax                       135.58
-  Social Security                          120.08
-   Medicare                                  28.08
-  CA SDI                                    21.30
-NET PAY                                  1,631.82
+  Federal Income Tax                       205.68
+  S0cial Security                          255.04
+  Medicare                                  59.64
+  CA SDI                                    45.25
+NET PAY                                  3,547.99
 --------------------------------------------------------------
 
-RECEIVED JUL 19 2026  - mailroom
+-- scanned 02/05/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-2247 HARB0R WAY   CA
-                         EARN1NGS STATEMENT
-Employee: SERGIO ROMERO        Emp ID: 17208
-Position: Caregiver
-Pay Period: 12/02/2024 - 12/08/2024     Pay Date: 12/13/2024
+CYPRESS FLATS AUTO BODY
+4998 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRANDON CRUZ        Emp ID: 89614
+Position: Technician
+Pay Period: 11/29/2024 - 12/05/2024     Pay Date: 12/10/2024
 Pay Frequency: Weekly
-    --------------------------------------------------------------
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             20.83     40.00         833.20     41,660.00
-GROSS PAY                                    833.20     41,660.00
-DEDUCTION5
-  Federal Income Tax                        49.99
-  Social Security                           51.65
-  Medicare                                  12.08
-  CA SDI                                     9.16
-NET PAY                                    710.32
+Sa1ary                                       248.98     12,449.00
+ GROSS PAY                                    248.98     12,449.00
+DEDUCTIONS
+  Federal Income Tax                        17.42
+  Social Security                           15.43
+   Medicare                                   3.61
+     CA SDI                                     2.73
+NET PAY                                    209.79
 --------------------------------------------------------------
 
-FAX RECEIVED 12/31/2024 10:52   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/15/2024]

@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+  . : .
+6683 MARKET WAY   CA
+                            EARNINGS STATEMENT
+    Employee: LINDA TAYLOR        Emp ID: 22447
+Position: Cashier
+Pay Period: 06/29/2026 - 07/28/2026     Pay Date: 08/02/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.97    100.50       1,906.48     15,251.84
+GROSS PAY                                  1,906.48     15,251.84
+DEDUCTIONS
+  Federal Income Tax                       209.71
+  Social Security                          118.20
+  Medicare                                  27.64
+  CA 5DI                                    20.97
+NET PAY                                  1,529.96
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

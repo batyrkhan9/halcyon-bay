@@ -1,0 +1,21 @@
+LAS BRISAS RESTAURANT GROUP
+4781 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: TUAN SOUZA        Emp ID: 99207
+  . : .
+Position: Line cook
+  Pay Period: 05/05/2025 - 05/18/2025     Pay Date: 05/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             53.11     80.00       4,248.80     46,736.80
+   GROSS PAY                                  4,248.80     46,736.80
+DEDUCTIONS
+  Federal Income Tax                       382.39
+  Social Security                          263.42
+  Medicare                                  61.60
+  CA SDI                                    46.73
+NET PAY                                  3,494.66
+--------------------------------------------------------------
+
+RECEIVED JUN 09 2025  - mailroom

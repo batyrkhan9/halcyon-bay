@@ -1,20 +1,21 @@
-  PORT ELLERY CANNERY CO
-8997 COMMERCE WAY   CA
+PACIFIC RIM JANITORIAL
+5550 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: THAO GARCIA        Emp ID: 83207
-Position: Line worker
-Pay Period: 08/15/2026 - 08/21/2026     Pay Date: 08/26/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
+Employee: LOGAN ZAMORA        Emp ID: 42973
+Position: Custodian
+Pay Period: 04/19/2026 - 05/02/2026     Pay Date: 05/07/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             44.84     40.00       1,793.60     60,982.40
-GROSS PAY                                  1,793.60     60,982.40
-DEDUCTIONS
-  Federal Income Tax                       125.55
-  Social Security                          111.20
-  Medicare                                  26.00
-  CA SDI                                    19.73
-NET PAY                                  1,511.12
-  --------------------------------------------------------------
+Salary                                     2,404.12     24,041.20
+GROSS PAY                                  2,404.12     24,041.20
+  DEDUCTIONS
+   Federal Income Tax                       168.28
+  Social Security                          149.05
+  Medicare                                  34.86
+  CA SDI                                    26.44
+NET PAY                                  2,025.49
+--------------------------------------------------------------
+  includes overtime 2.00 hrs
 
-RECEIVED SEP 09 2026  - mailroom
+-- scanned 06/01/2026 HBCH mailroom  pg 1/1 --

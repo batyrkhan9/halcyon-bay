@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-8171 COMMERCE WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+9697 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: XIMENA ALLEN        Emp ID: 10689
-Position: Cashier
-Pay Period: 05/05/2026 - 05/18/2026     Pay Date: 05/23/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,489.84     27,388.24
-GROSS PAY                                  2,489.84     27,388.24
-DEDUCTIONS
-  Federal Income Tax                       273.88
-  Social Security                          154.37
-  Medicare                                  36.10
-  CA SDI                                    27.38
-NET PAY                                  1,998.11
+Employee: BARBARA KUMAR        Emp ID: 41899
+Position: 1nstructional aide
+Pay Period: 11/19/2025 - 11/25/2025     Pay Date: 11/30/2025
+   Pay Frequency: Weekly
     --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.51     40.00       1,940.40     93,139.20
+GROSS PAY                                  1,940.40     93,139.20
+ DEDUCTIONS
+  Federal Income Tax                        97.02
+   Social Security                          120.30
+  Medicare                                  28.13
+  CA SD1                                    21.34
+NET PAY                                  1,673.61
+--------------------------------------------------------------
 
-RECEIVED JUL 04 2026  - mailroom
+FAX RECEIVED 01/01/2026 10:34   P.01

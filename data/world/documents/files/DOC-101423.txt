@@ -1,0 +1,20 @@
+PEACHTREE FREIGHT SYSTEMS
+3495 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARCUS BELLAMY        Emp ID: 39813
+Position: Regional sales manager
+Pay Period: 01/18/2026 - 01/24/2026      Pay Date: 01/29/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             49.81     40.00       1,992.40      9,962.00
+GROSS PAY                                  1,992.40      9,962.00
+DEDUCTIONS
+   Federal Income Tax                       119.54
+  Social Security                          123.52
+  Medicare                                  28.89
+  CA SDI                                    21.91
+NET PAY                                   1,698.54
+--------------------------------------------------------------
+
+RECEIVED FEB 09 2026  - mailroom

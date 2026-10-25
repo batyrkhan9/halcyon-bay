@@ -1,0 +1,20 @@
+GOLDEN HOUR SENI0R LIVING
+    5774 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MINH CRUZ        Emp ID: 78376
+Position: Caregiver
+Pay Period: 10/04/2025 - 11/02/2025     Pay Date: 11/07/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,378.73     59,166.03
+GROSS PAY                                  5,378.73     59,166.03
+ DEDUCTIONS
+  Federal Income Tax                       591.66
+  Social Security                          333.48
+  Medicare                                  77.99
+  CA SDI                                    59.16
+NET PAY                                  4,316.44
+--------------------------------------------------------------
+
+-- scanned 01/23/2026 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-ARROYO VERDE NURSERY
- 1544 MARKET WAY   CA
+V1STA SERENA MEDICAL OFFICES
+1191 HARB0R WAY    CA
                          EARNINGS STATEMENT
-Employee: MICHAEL JEFFERSON        Emp 1D: 61800
-Position: Nursery worker
-Pay Period: 08/15/2025 - 08/28/2025     Pay Date: 09/02/2025
-Pay Frequency: Bi-Weekly
+Employee: RAJNI ZHOU        Emp ID: 40209
+Position: Medical receptionist
+Pay Period: 06/12/2025 - 06/26/2025     Pay Date: 07/01/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.34     80.00       1,387.20     24,969.60
-GROSS PAY                                  1,387.20     24,969.60
-  DEDUCTI0NS
-  Federal Income Tax                       124.84
-  Social Security                           86.00
-   Medicare                                  20.11
-  CA SDI                                    15.25
-NET PAY                                  1,141.00
+    Regular             17.71     25.75         456.03      5,928.39
+GROSS PAY                                    456.03      5,928.39
+DEDUCTIONS
+  Federal Income Tax                        36.48
+  Social Security                           28.27
+  Medicare                                   6.61
+  CA SDI                                     5.01
+NET PAY                                    379.66
 --------------------------------------------------------------
 
--- scanned 09/29/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/12/2025 10:44   P.01

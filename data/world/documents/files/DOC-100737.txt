@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+    1958 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: SANJAY CHAVEZ        Emp ID: 99328
+Position: Field supervisor
+Pay Period: 06/29/2025 - 07/12/2025     Pay Date: 07/17/2025
+    Pay Frequency: Bi-Week1y
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.37     34.00         590.58      8,858.70
+GROSS PAY                                    590.58      8,858.70
+DEDUCTIONS
+  Federal Income Tax                        29.52
+  Social Security                           36.61
+  Medicare                                   8.56
+   CA SDI                                     6.49
+NET PAY                                    509.40
+    --------------------------------------------------------------
+
+-- scanned 08/01/2025 HBCH mailroom  pg 1/1 --

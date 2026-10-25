@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-2870 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: GRACE JACKSON        Emp ID: 11733
-Position: Laborer
-Pay Period: 07/23/2026 - 07/29/2026     Pay Date: 08/03/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.42     40.00         736.80     22,840.80
-GROSS PAY                                    736.80     22,840.80
-DEDUCTIONS
-  Federal Income Tax                        29.47
-  Social Security                           45.68
-   Medicare                                  10.68
-      CA SDI                                     8.10
-NET PAY                                    642.87
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+   Statement Peri0d 04/01/2026 - 04/30/2026
+Member: DAVID RAMOS       Account ending 4941
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2026]
+ CHECKING SUMMARY
+  Beginning balance            2,087.92
+  Deposits                     1,727.40
+    Withdrawals                 -1,606.48
+  Ending balance               2,208.84
+
+DEPOSITS AND CREDITS
+      04/02  PAYROLL DIR DEP COASTAL VALLEY ENE         345.48
+  04/09  PAYROLL DIR DEP COASTAL VALLEY ENE         345.48
+  04/16  PAYROLL DIR DEP COASTAL VALLEY ENE         345.48
+  04/23  PAYROLL DIR DEP COASTAL VALLEY ENE         345.48
+  04/30  PAYROLL D1R DEP COASTAL VALLEY ENE         345.48
+
+ Thank you for banking with us.  Page 1 of 2
+
+-- scanned 05/12/2026 HBCH mailroom  pg 1/1 --

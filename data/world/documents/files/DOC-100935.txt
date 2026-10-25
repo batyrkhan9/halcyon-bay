@@ -1,17 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2026 - 02/05/2026
-Member: TUAN LE-LIU       Account ending 4853
+MARISOL CLEANING SERVICES
+3575 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARISOL MITCHELL        Emp ID: 63422
+Position: Cleaner
+Pay Period: 08/09/2025 - 08/22/2025     Pay Date: 08/27/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             32.17     80.00       2,573.60     46,324.80
+GROSS PAY                                  2,573.60     46,324.80
+DEDUCTIONS
+  Federal 1ncome Tax                       231.62
+    Social Security                          159.56
+     Medicare                                  37.31
+  CA SDI                                    28.31
+NET PAY                                  2,116.80
+--------------------------------------------------------------
 
-CHECKING 5UMMARY
-  Beginning balance            2,152.04
-      Deposits                     7,526.68
-  Withdrawals                 -7,601.94
-  Ending balance               2,076.78
-
-DEPOSITS AND CREDITS
-  02/05  PAYROLL DIR DEP HARBOR POINT HOTEL       3,763.34
-  01/22  PAYROLL DIR DEP HARBOR POINT HOTEL       3,763.34
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 02/08/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 09/28/2025 10:51   P.01

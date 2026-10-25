@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-6759 HARBOR WAY   CA
+CYPRESS FLATS AUTO BODY
+7762 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: LUCIA HADDAD        Emp ID: 18719
- Position: Line worker
-Pay Period: 04/13/2025 - 04/27/2025     Pay Date: 05/02/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     7,723.97     69,515.73
-GROSS PAY                                  7,723.97     69,515.73
+Employee: SUSAN RIVERA        Emp ID: 53197
+Position: Technician
+Pay Period: 01/23/2025 - 02/05/2025     Pay Date: 02/10/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                       715.52      2,146.56
+GROSS PAY                                    715.52      2,146.56
 DEDUCTIONS
-  Federal Income Tax                       386.19
-   Social Security                          478.88
-  Medicare                                 111.99
-  CA SDI                                    84.96
-NET PAY                                  6,661.95
+  Federal Income Tax                        28.62
+  Social Security                           44.36
+  Medicare                                  10.37
+  CA SDI                                     7.87
+NET PAY                                    624.30
 --------------------------------------------------------------
 
--- scanned 05/06/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 03/08/2025 10:14   P.01

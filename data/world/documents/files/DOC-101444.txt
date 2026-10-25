@@ -1,21 +1,11 @@
-SANDPIPER CHILD CARE CENTER
-    4047 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: MANUEL PEREIRA        Emp ID: 23397
-Position: Teacher
-  Pay Period: 07/09/2026 - 07/15/2026     Pay Date: 07/20/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.26     40.00         770.40     22,341.60
-    GR0SS PAY                                    770.40     22,341.60
-DEDUCTIONS
-  Federal Income Tax                        84.74
-  Social Security                           47.76
-    Medicare                                  11.17
-| |   .
-  CA SDI                                     8.47
-NET PAY                                    618.26
---------------------------------------------------------------
+  HALCYON BAY COMMUNITY HOSPITAL
+  Financial Assistance Program - Self-Attestation of Income
 
-RECEIVED JUL 23 2026  - mailroom
+I, Lauren Wang, live in a household of 2 people.
+My household's total income is about $900.00 per month from selling at the flea market.
+I do not have pay stubs or other income documents to send.
+I declare under penalty of perjury that the information above is true.
+
+Signature: Lauren Wang            Date: 02/12/2026
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

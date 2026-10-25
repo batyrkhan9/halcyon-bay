@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+5625 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE WANG        Emp ID: 24353
+Position: Line worker
+Pay Period: 06/22/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.20     86.67       1,664.06     21,632.78
+GROSS PAY                                  1,664.06     21,632.78
+DEDUCTIONS
+  Federal Income Tax                       166.40
+     Social Security                          103.17
+  Medicare                                  24.12
+  CA SDI                                    18.30
+NET PAY                                  1,352.07
+--------------------------------------------------------------
+
+-- scanned 08/07/2026 HBCH mailroom  pg 1/1 --

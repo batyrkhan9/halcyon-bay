@@ -1,20 +1,17 @@
-GOLDEN HOUR SENIOR LIVING
-6030 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: JAMAL JONES        Emp ID: 45930
-Position: Caregiver
-    Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
-  Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.32     80.00       2,825.60     39,558.40
-GROSS PAY                                  2,825.60     39,558.40
-DEDUCTIONS
-  Federal Income Tax                       169.53
-   Social Security                          175.18
-    Medicare                                  40.97
-  CA SDI                                    31.08
-NET PAY                                   2,408.84
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 02/01/2026 - 02/28/2026
+Member: DAVID COSTA       Account ending 6733
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/30/2026]
+    CHECKING SUMMARY
+  Beginning balance            2,489.59
+  Deposits                     6,851.68
+  Withdrawals                 -6,440.57
+  Ending balance               2,900.70
+
+DEPOSITS AND CREDITS
+      02/10  PAYROLL DIR DEP BLUE KELP SOFTWARE       3,425.84
+  02/25  PAYROLL DIR DEP BLUE KELP SOFTWARE       3,425.84
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED MAR 19 2026  - mailroom

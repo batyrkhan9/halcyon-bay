@@ -1,17 +1,20 @@
-  SEASIDE COMMUNITY CREDIT UNION
-Statement Period 04/01/2026 - 04/26/2026
-Member: ANA WU       Account ending 3132
+   TIDEWATER CONSTRUCTION
+4137 MARKET WAY   CA
+                          EARNINGS STATEMENT
+ Employee: ANDRE COSTA        Emp ID: 90260
+Position: Laborer
+Pay Period: 11/16/2025 - 11/29/2025     Pay Date: 12/04/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            117.91     80.00       9,432.80    235,820.00
+GROSS PAY                                  9,432.80    235,820.00
+DEDUCTIONS
+  Federa1 Income Tax                       848.95
+  Social Security                          584.83
+  Medicare                                 136.77
+  CA SDI                                   103.76
+  NET PAY                                  7,758.49
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,013.95
-  Deposits                     3,716.22
-  Withdrawals                 -3,530.40
-  Ending balance               2,199.77
-
-DEPOSITS AND CREDITS
-  04/26  PAYROLL DIR DEP OTTER BAY AQUARIUM       1,858.11
-  04/19  PAYROLL DIR DEP OTTER BAY AQUARIUM       1,858.11
-
-    Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 05/14/2026 10:30   P.01
+-- scanned 12/13/2025 HBCH mailroom  pg 1/1 --

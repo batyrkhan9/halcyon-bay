@@ -1,20 +1,20 @@
-   GOLDEN HOUR SENIOR LIVING
-5440 COMMERCE WAY   CA
+HARBOR POINT HOTEL
+7942 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM JOSHI        Emp ID: 49723
-Position: Caregiver
-Pay Period: 01/29/2026 - 02/11/2026     Pay Date: 02/16/2026
- Pay Frequency: Bi-Weekly
+Employee: ARJUN NOVAK        Emp ID: 16049
+    Position: Housekeeper
+Pay Period: 09/21/2025 - 09/27/2025     Pay Date: 10/02/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       519.12      2,076.48
- GROSS PAY                                    519.12      2,076.48
+Regular             18.23     20.75         378.27     15,130.80
+GROSS PAY                                    378.27     15,130.80
 DEDUCTIONS
-  Federal Income Tax                        46.72
-  Social Security                           32.18
-  Medicare                                   7.52
-  CA SDI                                     5.71
-NET PAY                                    426.99
+  Federal Income Tax                        30.26
+  Social Security                           23.45
+  Medicare                                   5.48
+  CA SDI                                     4.16
+NET PAY                                    314.92
 --------------------------------------------------------------
 
--- scanned 04/01/2026 HBCH mailroom  pg 1/1 --
+-- scanned 10/23/2025 HBCH mailroom  pg 1/1 --

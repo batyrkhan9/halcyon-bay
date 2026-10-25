@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+1416 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: TANISHA RUIZ        Emp ID: 28226
+Position: Software engineer
+  . : .
+Pay Period: 06/29/2026 - 07/12/2026     Pay Date: 07/17/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              22.51     80.00       1,800.80     27,012.00
+    GROSS PAY                                  1,800.80     27,012.00
+DEDUCTIONS
+  Federal Income Tax                       198.08
+  Social Security                          111.65
+  Medicare                                  26.11
+  CA SDI                                    19.80
+NET PAY                                   1,445.16
+  --------------------------------------------------------------
+
+-- scanned 08/06/2026 HBCH mailroom  pg 1/1 --

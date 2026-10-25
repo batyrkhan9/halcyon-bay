@@ -1,20 +1,17 @@
- VISTA SERENA MEDICAL OFFICES
-4329 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-    Employee: IMANI CLARK        Emp ID: 51087
-Position: Medical receptionist
-Pay Period: 05/19/2025 - 06/02/2025     Pay Date: 06/07/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.71     86.67       2,488.30     27,371.30
-GROSS PAY                                  2,488.30     27,371.30
-DEDUCTIONS
-  Federal Income Tax                        99.53
-  Social Security                          154.27
-  Medicare                                  36.08
-    CA SDI                                    27.37
-  NET PAY                                  2,171.05
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+    Statement Period 04/01/2025 - 04/30/2025
+Member: JOHN WILSON       Account ending 8198
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2025]
+CHECKING SUMMARY
+  Beginning balance            1,095.56
+  Deposits                     2,315.68
+  Withdrawals                 -2,014.64
+  Ending balance               1,396.60
+
+DEPOSITS AND CREDITS
+  04/11  PAYROLL DIR DEP COASTAL VALLEY ENE       1,157.84
+  04/25  PAYROLL DIR DEP COASTAL VALLEY ENE       1,157.84
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 05/23/2025 10:18   P.01

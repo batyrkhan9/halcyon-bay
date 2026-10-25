@@ -1,21 +1,21 @@
-ARROYO VERDE NURSERY
-8825 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-   Employee: SHARON FITZGERALD        Emp ID: 35177
-Position: Nursery worker
-Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
-Pay Frequency: Bi-Weekly
+   SANDPIPER CHILD CARE CENTER
+8411 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Emp1oyee: ANTONIO GOMEZ        Emp ID: 13751
+Position: Teacher
+Pay Period: 01/17/2026 - 01/23/2026     Pay Date: 01/28/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Salary                                     2,303.62     32,250.68
-   GROSS PAY                                  2,303.62     32,250.68
-     DEDUCTIONS
-  Federal Income Tax                       207.32
-  Social Security                          142.82
-  . : .
-  Medicare                                  33.40
-   CA SDI                                    25.34
-NET PAY                                   1,894.74
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       549.72      2,198.88
+  GROSS PAY                                    549.72      2,198.88
+DEDUCTIONS
+  Federal Income Tax                        43.97
+  Social Security                           34.08
+  Medicare                                   7.97
+      CA SDI                                     6.04
+    NET PAY                                    457.66
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
 
--- scanned 07/21/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 02/08/2026 10:32   P.01

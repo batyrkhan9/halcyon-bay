@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+    2241 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO KIM        Emp ID: 54706
+Position: Library assistant
+Pay Period: 02/06/2026 - 02/19/2026     Pay Date: 02/24/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             72.38     80.00       5,790.40     23,161.60
+GROSS PAY                                  5,790.40     23,161.60
+DEDUCTIONS
+  Federal Income Tax                       347.42
+  Social Security                          359.00
+      Medicare                                  83.96
+  CA SDI                                    63.69
+NET PAY                                  4,936.33
+--------------------------------------------------------------
+
+FAX RECEIVED 03/25/2026 10:27   P.01

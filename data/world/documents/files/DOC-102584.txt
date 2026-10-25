@@ -1,0 +1,20 @@
+ BAYLINE LOGISTICS INC
+1935 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: VICTOR ANAND        Emp ID: 48834
+Position: Warehouse associate
+Pay Period: 07/10/2026 - 07/23/2026      Pay Date: 07/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.07     51.00         921.57     13,823.55
+GROSS PAY                                    921.57     13,823.55
+DEDUCTIONS
+  Federal Income Tax                        82.94
+  Social Security                           57.13
+  Medicare                                  13.36
+  CA SDI                                    10.13
+NET PAY                                    758.01
+--------------------------------------------------------------
+
+-- scanned 08/16/2026 HBCH mailroom  pg 1/1 --

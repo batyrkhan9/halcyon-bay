@@ -1,11 +1,21 @@
- COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-NOTICE OF ACTION
-Medi-Cal Approval
-    Date: 10/31/2025
-  . : .
-Beneficiary: DYLAN RAMIREZ
+BLUE KELP SOFTWARE LLC
+2441 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: STEVEN CHOI        Emp ID: 68573
+| |   .
+Position: Software engineer
+Pay Period: 06/26/2025 - 07/10/2025     Pay Date: 07/15/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.50     53.25         985.12     13,791.68
+   GROSS PAY                                    985.12     13,791.68
+DEDUCTIONS
+  Federal Income Tax                        49.25
+   Social Security                           61.07
+  Medicare                                  14.28
+  CA SDI                                    10.83
+NET PAY                                    849.69
+    --------------------------------------------------------------
 
-You are approved for full scope Medi-Cal with no share of cost beginning 10/01/2025.
-Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/14/2025]
+FAX RECEIVED 08/03/2025 10:32   P.01

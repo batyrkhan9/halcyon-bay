@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+3666 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOHN WILSON        Emp ID: 72561
+Position: Field technician
+Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.78     80.00       1,342.40     13,424.00
+GROSS PAY                                  1,342.40     13,424.00
+DEDUCTIONS
+  Federal 1ncome Tax                        67.12
+  Social Security                           83.22
+  Medicare                                  19.46
+      CA SDI                                    14.76
+NET PAY                                  1,157.84
+--------------------------------------------------------------
+
+FAX RECEIVED 05/23/2025 10:35   P.01

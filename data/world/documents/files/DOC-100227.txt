@@ -1,21 +1,18 @@
-PORT ELLERY CANNERY CO
-8716 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAJN1 ZHANG         Emp ID: 22462
-Position: Line worker
-Pay Period: 03/15/2025 - 03/29/2025     Pay Date: 04/03/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             67.16     86.67       5,820.76     40,745.32
-GROSS PAY                                  5,820.76     40,745.32
-  . : .
-   DEDUCTIONS
-  Federal Income Tax                       523.86
-  Social Security                          360.88
-  Medicare                                  84.40
-  CA SDI                                    64.02
-NET PAY                                  4,787.60
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 02/01/2025 - 02/28/2025
+Member: JESSICA KUMAR       Account ending 2885
 
-RECEIVED MAY 01 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,976.97
+  Deposits                     1,635.54
+  Withdrawals                 -1,700.96
+  Ending balance               2,911.55
+_ _ _ _
+
+ DEPOSITS AND CREDITS
+   02/13  PAYROLL DIR DEP BAYLINE LOGISTICS          817.77
+  02/27  PAYROLL DIR DEP BAYLINE LOG1STICS          817.77
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 03/08/2025 HBCH mailroom  pg 1/1 --

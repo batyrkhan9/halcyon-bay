@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3678 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: VIKRAM COLEMAN        Emp ID: 41154
+Position: Medical receptionist
+Pay Period: 08/25/2026 - 09/07/2026      Pay Date: 09/12/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             74.52     80.00       5,961.60    113,270.40
+GROSS PAY                                  5,961.60    113,270.40
+DEDUCTIONS
+     Federal Income Tax                       655.77
+  Social Security                          369.61
+  Medicare                                  86.44
+  CA SDI                                    65.57
+NET PAY                                  4,784.21
+--------------------------------------------------------------
+
+FAX RECEIVED 09/16/2026 10:37   P.01

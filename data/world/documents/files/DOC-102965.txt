@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+9669 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE WRIGHT        Emp ID: 34192
+Position: Field supervisor
+Pay Period: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             97.08     80.00       7,766.40    139,795.20
+GROSS PAY                                  7,766.40    139,795.20
+DEDUCTIONS
+  Federal Income Tax                       310.65
+  Social Security                          481.51
+   Medicare                                 112.61
+  CA SDI                                    85.43
+NET PAY                                  6,776.20
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]

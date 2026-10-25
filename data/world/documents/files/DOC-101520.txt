@@ -1,17 +1,21 @@
-PACIFIC TIDE BANK
-Statement Period 07/01/2026 - 07/15/2026
-Member: LOGAN GUPTA       Account ending 8518
+ELLERY HARDWARE SUPPLY
+5048 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: JESSICA BROWN-PHAM        Emp ID: 99821
+_ _ _ _
+Position: Sales associate
+Pay Period: 02/20/2026 - 03/05/2026     Pay Date: 03/10/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             57.00     80.00       4,560.00     22,800.00
+GROSS PAY                                  4,560.00     22,800.00
+DEDUCTIONS
+  Federal Income Tax                       501.60
+  Social Security                          282.72
+  Medicare                                  66.12
+  CA SDI                                    50.16
+    NET PAY                                  3,659.40
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-    Beginning balance            1,004.02
-      Deposits                     3,068.62
-  Withdrawals                 -2,731.07
-  Ending balance               1,341.57
-
-    DEPOSITS AND CREDITS
-  07/15  PAYROLL DIR DEP SANDPIPER CHILD CA       1,534.31
-  07/01  PAYROLL DIR DEP SANDPIPER CHILD CA       1,534.31
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED JUL 30 2026  - mailroom
+FAX RECEIVED 03/18/2026 10:53   P.01

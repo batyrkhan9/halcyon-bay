@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+   3426 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUCIA DO        Emp ID: 76409
+Position: Instructional aide
+Pay Period: 03/08/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             17.14     25.50         437.07      5,244.84
+  GROSS PAY                                    437.07      5,244.84
+DEDUCTIONS
+  Federal Income Tax                        34.96
+  Social Security                           27.09
+      Medicare                                   6.33
+  CA SDI                                     4.80
+NET PAY                                    363.89
+--------------------------------------------------------------
+
+-- scanned 03/28/2026 HBCH mailroom  pg 1/1 --

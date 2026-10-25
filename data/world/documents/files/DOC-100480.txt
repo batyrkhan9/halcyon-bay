@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+1772 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+    Employee: TYLER FITZGERALD        Emp ID: 93076
+Position: Cashier
+Pay Period: 04/11/2025 - 04/24/2025     Pay Date: 04/29/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              16.74     25.50         426.87      3,841.83
+GROSS PAY                                    426.87      3,841.83
+DEDUCTIONS
+  Federal Income Tax                        29.88
+     Social Security                           26.46
+  Medicare                                   6.19
+    CA SDI                                     4.69
+NET PAY                                    359.65
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2025]

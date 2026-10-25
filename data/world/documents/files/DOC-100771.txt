@@ -1,20 +1,21 @@
 COASTAL VALLEY ENERGY
-1294 INDUSTRIAL WAY   CA
+1165 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA DAVIS        Emp ID: 92624
-Position: Field technician
-Pay Period: 10/09/2025 - 10/22/2025     Pay Date: 10/27/2025
-Pay Frequency: Bi-Weekly
+Employee: KAI TUIASOSOPO        Emp ID: 53465
+    Position: Field technician
+Pay Period: 06/27/2025 - 07/03/2025     Pay Date: 07/08/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.66     35.75         631.34     13,889.48
-GROSS PAY                                    631.34     13,889.48
+Regular              18.56      8.00         148.48      4,008.96
+GROSS PAY                                    148.48      4,008.96
 DEDUCTIONS
-     Federal Income Tax                        56.82
-   Social Security                           39.14
-  Medicare                                   9.15
-  CA SDI                                     6.94
-NET PAY                                    519.29
+  Federal Income Tax                         8.90
+  Social Security                            9.20
+      Medicare                                   2.15
+  CA SDI                                     1.63
+_ _ _ _
+NET PAY                                    126.60
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/23/2025]
+-- scanned 08/07/2025 HBCH mailroom  pg 1/1 --

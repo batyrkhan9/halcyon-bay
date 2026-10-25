@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+1750 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI CORTEZ        Emp ID: 56766
+Position: Teacher
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,042.53     34,723.01
+   GROSS PAY                                  2,042.53     34,723.01
+    DEDUCTIONS
+  Federal Income Tax                       102.12
+    Social Security                          126.63
+  Medicare                                  29.61
+  . : .
+  CA SDI                                    22.46
+NET PAY                                  1,761.71
+--------------------------------------------------------------
+
+RECEIVED SEP 11 2026  - mailroom

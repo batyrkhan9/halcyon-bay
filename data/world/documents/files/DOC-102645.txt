@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+4298 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ALYSSA NASSER        Emp ID: 83860
+   Position: Nursery worker
+Pay Period: 07/12/2026 - 07/26/2026     Pay Date: 07/31/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+   Regular             18.47     86.67       1,600.79     24,011.85
+GROSS PAY                                   1,600.79     24,011.85
+DEDUCTIONS
+  Federal Income Tax                       112.05
+  Social Security                           99.24
+  Medicare                                  23.21
+  CA SDI                                    17.60
+NET PAY                                  1,348.69
+--------------------------------------------------------------
+
+FAX RECEIVED 08/23/2026 10:18   P.01

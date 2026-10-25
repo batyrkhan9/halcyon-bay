@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Single
-Your first name and middle initial / Last name:  LARRY COSTA
-Your social security number: XXX-XX-4105
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    60,944.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9    Total income ....................................    60,944.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    60,944.00
- 12  Standard deduction ..............................    14,600.00
+SANTA LUCITA FARMS
+8511 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER ITO        Emp ID: 96634
+Position: Field supervisor
+Pay Period: 05/29/2026 - 06/12/2026     Pay Date: 06/17/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,045.46     12,545.52
+GROSS PAY                                  1,045.46     12,545.52
+DEDUCTIONS
+  Federal Income Tax                        62.72
+  Social Security                           64.81
+  Medicare                                  15.15
+     CA SDI                                    11.50
+NET PAY                                    891.28
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Larry Costa        Date: 04/04/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/22/2026]
+-- scanned 07/14/2026 HBCH mailroom  pg 1/1 --

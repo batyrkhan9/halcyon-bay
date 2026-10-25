@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-357 COMMERCE WAY   CA
+LAS BRISAS RESTAURANT GROUP
+6263 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
- Employee: RAYMOND ALLEN        Emp ID: 52830
-Position: Field supervisor
-Pay Period: 07/12/2025 - 08/10/2025     Pay Date: 08/15/2025
-Pay Frequency: Monthly
+Employee: KAREN COLEMAN        Emp ID: 25041
+Position: Line cook
+   Pay Period: 05/01/2025 - 05/15/2025     Pay Date: 05/20/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             23.45    173.33       4,064.59     32,516.72
-GROSS PAY                                  4,064.59     32,516.72
+Salary                                     4,354.36     43,543.60
+GROSS PAY                                  4,354.36     43,543.60
 DEDUCTIONS
-  Federal Income Tax                       284.52
-  Social Security                          252.00
-   Medicare                                  58.93
-  CA SDI                                    44.71
-    NET PAY                                  3,424.43
+  Federal Income Tax                       348.34
+  Social Security                          269.97
+  Medicare                                  63.13
+  CA SDI                                    47.89
+NET PAY                                  3,625.03
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/26/2025]
+-- scanned 06/13/2025 HBCH mailroom  pg 1/1 --

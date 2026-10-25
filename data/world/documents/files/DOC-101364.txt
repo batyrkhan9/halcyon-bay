@@ -1,20 +1,18 @@
-BLUE KELP SOFTWARE LLC
-     1058 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: LINDA PARK-PEREIRA        Emp ID: 98876
-Position: Software engineer
-Pay Period: 06/20/2026 - 07/04/2026     Pay Date: 07/09/2026
-Pay Frequency: 5emi-Monthly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             48.20     86.67       4,177.49     54,307.37
-  GROSS PAY                                  4,177.49     54,307.37
-DEDUCTIONS
-  Federal Income Tax                       459.52
-  Social Security                          259.00
-  Medicare                                  60.57
-  CA SDI                                    45.95
-NET PAY                                  3,352.45
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  BRANDON GARCIA
+Your social security number: XXX-XX-4900
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    44,601.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    44,601.00
+ 10  Adjustments to income ...........................         0.00
+ 11   Adjusted gross income ...........................    44,601.00
+ 12   Standard deduction ..............................    14,600.00
 
-FAX RECEIVED 07/17/2026 10:48   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Brandon Garcia        Date: 04/14/2025
+
+-- scanned 01/29/2026 HBCH mailroom  pg 1/1 --

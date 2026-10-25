@@ -1,18 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 07/01/2026 - 07/05/2026
-Member: WEI SILVA       Account ending 8703
+ARROYO VERDE NURSERY
+4123 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA DAVIS        Emp ID: 41787
+  Position: Nursery worker
+Pay Period: 01/12/2026 - 01/18/2026     Pay Date: 01/23/2026
+    Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             61.48     40.00       2,459.20      9,836.80
+  GROSS PAY                                  2,459.20      9,836.80
+DEDUCTIONS
+      Federal Income Tax                       270.51
+  S0cial Security                          152.47
+     Medicare                                  35.65
+  CA SDI                                    27.05
+NET PAY                                  1,973.52
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,666.69
-  Deposits                       479.38
-  Withdrawals                   -474.58
-  Ending balance               1,671.49
-
-DEPOSITS AND CREDITS
-| |   .
-  07/05  PAYROLL DIR DEP SANDPIPER CHILD CA         239.69
-  06/20  PAYROLL DIR DEP SANDPIPER CHILD CA         239.69
-
-  Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 07/20/2026 10:24   P.01
+FAX RECEIVED 02/06/2026 10:13   P.01

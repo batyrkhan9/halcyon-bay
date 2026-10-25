@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+1408 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOAH JOHNSON        Emp ID: 72990
+Position: Software engineer
+    Pay Period: 05/18/2025 - 05/24/2025     Pay Date: 05/29/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,813.33     61,893.26
+GROSS PAY                                  2,813.33     61,893.26
+DEDUCTIONS
+  Federal Income Tax                       112.53
+      Social Security                          174.42
+  Medicare                                  40.79
+  CA SDI                                    30.94
+NET PAY                                  2,454.65
+--------------------------------------------------------------
+
+FAX RECEIVED 06/22/2025 10:18   P.01

@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL D1ST
+1392 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO KUMAR        Emp ID: 18002
+Position: Instructional aide
+Pay Peri0d: 07/14/2026 - 07/28/2026     Pay Date: 08/02/2026
+   Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,072.23     76,083.45
+GROSS PAY                                  5,072.23     76,083.45
+DEDUCTIONS
+   Federal Income Tax                       507.22
+  Social Security                          314.47
+   Medicare                                  73.54
+  CA SDI                                    55.79
+NET PAY                                  4,121.21
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/20/2026]

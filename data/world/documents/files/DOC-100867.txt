@@ -1,18 +1,21 @@
-Form 1040   U.S. 1ndividual Income Tax Return   2024
-    (copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  TARIQ KOWALSKI
-Your social security number: XXX-XX-4685
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   127,646.00
-    8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   127,646.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................   127,646.00
- 12  Standard deduction ..............................    21,900.00
+MIRADOR PUBLIC LIBRARY
+8280 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DYLAN JACKSON        Emp ID: 50303
+_ _ _ _
+Position: Library assistant
+    Pay Period: 08/07/2025 - 08/20/2025     Pay Date: 08/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            124.62     80.00       9,969.60    169,483.20
+GROSS PAY                                  9,969.60    169,483.20
+DEDUCTION5
+  Federal Income Tax                       398.78
+  Social Security                          618.11
+      Medicare                                 144.55
+  CA SDI                                   109.66
+NET PAY                                  8,698.50
+  --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Tariq Kowalski        Date: 04/05/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/16/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/06/2025]

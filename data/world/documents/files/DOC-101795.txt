@@ -1,0 +1,21 @@
+VISTA 5ERENA MEDICAL OFFICES
+  4931 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: IMANI ROBINSON        Emp ID: 35455
+Position: Medical receptionist
+Pay Period: 04/15/2026 - 04/28/2026     Pay Date: 05/03/2026
+| |   .
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             22.13     80.00       1,770.40     15,933.60
+GROSS PAY                                  1,770.40     15,933.60
+DEDUCTIONS
+  Federal Income Tax                       123.92
+  Social Security                          109.76
+  Medicare                                  25.67
+  CA SDI                                    19.47
+    NET PAY                                  1,491.58
+--------------------------------------------------------------
+
+FAX RECEIVED 05/14/2026 10:39   P.01

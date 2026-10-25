@@ -1,20 +1,19 @@
-LAS BRISAS RESTAURANT GROUP
-240 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ESPERANZA THOMAS        Emp ID: 59370
-Position: Line cook
-Pay Period: 12/22/2025 - 01/05/2026      Pay Date: 01/10/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       530.49        530.49
-GROSS PAY                                    530.49        530.49
-DEDUCTIONS
-  Federal Income Tax                        26.52
-  Social Security                           32.89
-  Medicare                                   7.69
-  CA SDI                                     5.83
-NET PAY                                    457.56
-    --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of househo1d
+Your first name and middle initial / Last name:  KAI PATEL
+Your social security number: XXX-XX-9391
+  . : .
+Dependents: 5
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    39,981.00
+ 8   Additi0nal income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    39,981.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    39,981.00
+ 12  Standard deduction ..............................    21,900.00
 
-RECEIVED FEB 11 2026  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Kai Patel        Date: 04/07/2025
+
+FAX RECEIVED 10/04/2025 10:30   P.01

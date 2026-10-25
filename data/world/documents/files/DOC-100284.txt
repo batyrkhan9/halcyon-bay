@@ -1,0 +1,21 @@
+SANTA LUCITA FARM5
+2984 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ASHLEY MITCHELL        Emp ID: 48571
+_ _ _ _
+  Position: Field supervisor
+ Pay Period: 02/19/2025 - 02/25/2025     Pay Date: 03/02/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,249.25     11,243.25
+GROSS PAY                                  1,249.25     11,243.25
+DEDUCTIONS
+  Federal Income Tax                        87.44
+    Social Security                           77.45
+    Medicare                                  18.11
+  CA SDI                                    13.74
+NET PAY                                  1,052.51
+    --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/18/2025]

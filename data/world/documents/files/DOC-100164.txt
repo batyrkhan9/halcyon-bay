@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-1732 MARKET WAY   CA
+CALDER FREIGHT LINES
+3177 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: KENNETH TAYLOR        Emp ID: 23521
-   P0sition: Caregiver
-Pay Period: 03/24/2025 - 04/06/2025     Pay Date: 04/11/2025
+   Employee: SUSAN WANG        Emp ID: 43871
+Position: Driver
+Pay Period: 12/27/2024 - 01/09/2025     Pay Date: 01/14/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             42.20     80.00       3,376.00     27,008.00
-GROSS PAY                                  3,376.00     27,008.00
-DEDUCTIONS
-     Federal Income Tax                       371.36
-  Social Security                          209.31
-  Medicare                                  48.95
-  CA SDI                                    37.13
-NET PAY                                  2,709.25
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.40     80.00       2,192.00      2,192.00
+GROSS PAY                                  2,192.00      2,192.00
+  DEDUCTIONS
+| |   .
+  Federal Income Tax                       109.60
+  Social Security                          135.90
+  Medicare                                  31.78
+  CA SDI                                    24.11
+NET PAY                                  1,890.61
 --------------------------------------------------------------
 
-RECEIVED APR 14 2025  - mailroom
+FAX RECEIVED 02/06/2025 10:52   P.01

@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-    Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  AUSTIN QUINN
-Your social security number: XXX-XX-2096
-Dependents: 2
- Income
-_ _ _ _
- 1a  Total amount from Form(s) W-2, box 1 ...........   183,144.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   183,144.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................   183,144.00
- 12  Standard deduction ..............................    21,900.00
+SANTA LUCITA FARMS
+4992 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE GOMEZ        Emp ID: 85509
+Position: Field supervisor
+Pay Period: 03/25/2026 - 04/08/2026     Pay Date: 04/13/2026
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,750.32     33,252.24
+GROSS PAY                                  4,750.32     33,252.24
+DEDUCTIONS
+  Federal Income Tax                       380.02
+  Social Security                          294.52
+  Medicare                                  68.88
+  CA SDI                                    52.25
+NET PAY                                  3,954.65
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Austin Quinn        Date: 04/09/2026
-
--- scanned 08/10/2026 HBCH mailroom  pg 1/1 --
+-- scanned 04/18/2026 HBCH mailroom  pg 1/1 --

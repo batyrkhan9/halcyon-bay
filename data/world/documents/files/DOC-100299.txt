@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+1146 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: JUSTIN CHOI        Emp ID: 42988
+Position: Mechanic
+   Pay Period: 02/10/2025 - 02/24/2025     Pay Date: 03/01/2025
+    Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                       742.99      2,971.96
+GROSS PAY                                    742.99      2,971.96
+DEDUCTIONS
+  Federal Income Tax                        44.57
+    Social Security                           46.06
+  Medicare                                  10.77
+  CA SDI                                     8.17
+NET PAY                                    633.42
+  --------------------------------------------------------------
+
+-- scanned 03/21/2025 HBCH mailroom  pg 1/1 --

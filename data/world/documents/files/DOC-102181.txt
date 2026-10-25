@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+5795 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEGAN WU        Emp ID: 27631
+Position: Line worker
+Pay Period: 06/23/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                       208.85      5,638.95
+GROSS PAY                                    208.85      5,638.95
+DEDUCTIONS
+     Federal Income Tax                        14.61
+  Social Security                           12.94
+  Medicare                                   3.02
+  CA SD1                                     2.29
+NET PAY                                    175.99
+--------------------------------------------------------------
+
+FAX RECEIVED 07/22/2026 10:39   P.01

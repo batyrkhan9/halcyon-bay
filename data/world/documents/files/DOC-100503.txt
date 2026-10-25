@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+  7107 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+ Emp1oyee: ELENA VALENCIA         Emp ID: 61089
+Position: Mechanic
+Pay Period: 04/16/2025 - 04/30/2025     Pay Date: 05/05/2025
+~ ~ .  ,
+    Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             41.87     86.67       3,628.87     32,659.83
+GROSS PAY                                  3,628.87     32,659.83
+DEDUCTIONS
+  Federal Income Tax                       254.02
+  Social Security                          224.99
+     Medicare                                  52.61
+  CA SDI                                    39.91
+NET PAY                                  3,057.34
+--------------------------------------------------------------
+
+FAX RECEIVED 05/23/2025 10:20   P.01

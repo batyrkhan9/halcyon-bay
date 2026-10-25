@@ -1,20 +1,20 @@
-BLUE KELP S0FTWARE LLC
-8020 MARKET WAY   CA
+SUNSET COAST HOME CARE
+3818 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: LINDA PARK-PEREIRA        Emp ID: 98876
-Position: Software engineer
-    Pay Period: 06/05/2026 - 06/19/2026     Pay Date: 06/24/2026
-    Pay Frequency: Semi-Monthly
-    --------------------------------------------------------------
+Employee: BRANDON GOMEZ        Emp ID: 26961
+   Position: Home care aide
+Pay Period: 12/17/2025 - 12/31/2025     Pay Date: 01/05/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             48.20     86.67       4,177.49     50,129.88
-GROSS PAY                                  4,177.49     50,129.88
-DEDUCTIONS
-  Federal Income Tax                       375.97
-  Social Security                          259.00
-  Medicare                                  60.57
-  CA SDI                                    45.95
-    NET PAY                                  3,436.00
+Salary                                     4,520.04      4,520.04
+GROSS PAY                                  4,520.04      4,520.04
+DEDUCT1ONS
+  Federal Income Tax                       452.00
+  Social Security                          280.24
+  Medicare                                  65.54
+  CA SDI                                    49.72
+NET PAY                                  3,672.54
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/17/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/29/2026]

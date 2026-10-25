@@ -1,16 +1,20 @@
-CYPRESS FLATS AUTO BODY
-2696 MISSION ST
+BLUE KELP SOFTWARE LLC
+6036 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: NOAH JOHNSON        Emp ID: 72990
+Position: Software engineer
+ Pay Period: 05/25/2025 - 05/31/2025     Pay Date: 06/05/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Salary                                     2,813.33     64,706.59
+GROSS PAY                                  2,813.33     64,706.59
+DEDUCTIONS
+   Federal Income Tax                       112.53
+  Social Security                          174.42
+  Medicare                                  40.79
+  CA SDI                                    30.94
+NET PAY                                  2,454.65
+--------------------------------------------------------------
 
-September 10, 2025
-
-To Whom It May Concern:
-
-This letter confirms that Hung Rivera has been employed with Cypress Flats Aut0 Body since
-February 2023 in the position 0f Technician. Their rate of pay is $35.88 per hour, for a regular schedule of 32 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Larry Zamora
-Human Resources
-
-RECEIVED SEP 18 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/22/2025]

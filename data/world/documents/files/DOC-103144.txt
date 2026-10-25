@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+7142 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUSTIN KOWALSKI        Emp ID: 35026
+Position: Mechanic
+Pay Period: 09/03/2026 - 09/17/2026     Pay Date: 09/22/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.22     43.00         783.46     14,102.28
+GROSS PAY                                    783.46     14,102.28
+DEDUCTIONS
+  Federal Income Tax                        70.51
+  Social Security                           48.57
+  Medicare                                  11.36
+      CA SDI                                     8.61
+NET PAY                                    644.41
+--------------------------------------------------------------
+
+-- scanned 09/26/2026 HBCH mailroom  pg 1/1 --

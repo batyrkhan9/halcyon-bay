@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+6832 COMMERCE WAY    CA
+                            EARNINGS STATEMENT
+Employee: LEILANI SILVA        Emp ID: 72889
+Position: Nursery worker
+Pay Period: 01/04/2026 - 02/02/2026     Pay Date: 02/07/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            110.49    173.33      19,151.23     38,302.46
+GROSS PAY                                 19,151.23     38,302.46
+DEDUCTIONS
+  Federal Income Tax                     2,106.63
+_ _ _ _
+  Social Security                        1,187.37
+  Medicare                                 277.69
+  CA SDI                                   210.66
+NET PAY                                 15,368.88
+--------------------------------------------------------------
+
+-- scanned 02/20/2026 HBCH mailroom  pg 1/1 --

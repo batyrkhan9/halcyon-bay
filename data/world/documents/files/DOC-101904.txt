@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+5671 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROHAN IYER        Emp ID: 93840
+Position: Instructional aide
+Pay Period: 05/18/2026 - 05/31/2026     Pay Date: 06/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       913.37     10,960.44
+ GROSS PAY                                     913.37     10,960.44
+DEDUCTIONS
+  Federal Income Tax                       100.47
+  Social Security                           56.62
+  Medicare                                  13.24
+  CA SDI                                    10.04
+NET PAY                                    733.00
+--------------------------------------------------------------
+
+FAX RECEIVED 07/03/2026 10:48   P.01

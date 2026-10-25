@@ -1,20 +1,20 @@
-   SANDPIPER CHILD CARE CENTER
- 554 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: JOHN SMITH        Emp ID: 55778
-Position: Teacher
-Pay Period: 04/07/2026 - 04/13/2026     Pay Date: 04/18/2026
-   Pay Frequency: Weekly
+MIRADOR PUBLIC LIBRARY
+7793 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: AUSTIN TAYLOR         Emp ID: 37606
+Position: Library assistant
+Pay Period: 10/25/2025 - 11/23/2025      Pay Date: 11/28/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             32.38     40.00       1,295.20     20,723.20
-GROSS PAY                                  1,295.20     20,723.20
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,836.19     82,034.28
+GROSS PAY                                  6,836.19     82,034.28
 DEDUCTIONS
-  Federal Income Tax                        77.71
-  Social Security                           80.30
-   Medicare                                  18.78
-  CA SDI                                    14.24
-NET PAY                                  1,104.17
+  Federal Income Tax                       410.17
+  Social Security                          423.84
+  Medicare                                  99.12
+  CA SDI                                    75.19
+NET PAY                                  5,827.87
 --------------------------------------------------------------
 
-FAX RECEIVED 05/13/2026 10:56   P.01
+-- scanned 12/03/2025 HBCH mailroom  pg 1/1 --

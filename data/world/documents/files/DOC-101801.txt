@@ -1,21 +1,21 @@
-MARISOL CLEANING 5ERVICES
-8850 COMMERCE WAY   CA
+VISTA SERENA MEDICAL OFFICES
+2306 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: PEDRO IBARRA        Emp ID: 76072
-Position: Cleaner
-Pay Period: 08/01/2026 - 08/15/2026     Pay Date: 08/20/2026
-Pay Frequency: Semi-Monthly
+_ _ _ _
+Employee: IMANI ROBINSON        Emp ID: 35455
+Position: Medical receptionist
+Pay Period: 03/18/2026 - 03/31/2026     Pay Date: 04/05/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             18.38     44.75         822.50     13,160.00
-GROSS PAY                                    822.50     13,160.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             22.13     80.00       1,770.40     12,392.80
+   GROSS PAY                                  1,770.40     12,392.80
 DEDUCTIONS
-   Federal Income Tax                        74.02
-  Social Security                           50.99
-   Medicare                                  11.92
-~ ~ .  ,
-  CA SDI                                     9.04
-NET PAY                                    676.53
+  Federal Income Tax                       123.92
+  Social Security                          109.76
+   Medicare                                  25.67
+  CA SDI                                    19.47
+NET PAY                                   1,491.58
 --------------------------------------------------------------
 
-RECEIVED SEP 02 2026  - mailroom
+RECEIVED MAY 14 2026  - mailroom

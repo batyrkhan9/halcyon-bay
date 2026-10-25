@@ -1,16 +1,20 @@
 VISTA SERENA MEDICAL OFFICES
-2599 MISSION ST
+9782 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAJNI ZHOU         Emp ID: 40209
+   Position: Medical receptionist
+Pay Period: 05/28/2025 - 06/11/2025     Pay Date: 06/16/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.71     25.75         456.03      5,472.36
+GROSS PAY                                    456.03      5,472.36
+  DEDUCTIONS
+  Federal Income Tax                        36.48
+  Social Security                           28.27
+  Medicare                                   6.61
+  CA SDI                                     5.01
+NET PAY                                    379.66
+--------------------------------------------------------------
 
-September 16, 2025
-
- To Whom It May Concern:
-
-This letter confirms that Austin Clark has been employed with Vista Serena Medical Offices since
-November 2023 in the position of Medical receptionist. Their current annual salary is $182,165.00.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Nicole Walsh
-Human Resources
-
--- scanned 09/29/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/12/2025]

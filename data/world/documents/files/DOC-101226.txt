@@ -1,20 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-1921 COMMERCE WAY   CA
+SEASIDE DENTAL GROUP
+   4157 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-    Employee: MATTHEW CASTILLO        Emp ID: 73969
-Position: Teacher
-Pay Period: 04/24/2026 - 05/23/2026     Pay Date: 05/28/2026
-Pay Frequency: Monthly
+Employee: RICARDO FALEOLO        Emp ID: 31501
+Position: Dental assistant
+Pay Period: 11/29/2025 - 12/12/2025     Pay Date: 12/17/2025
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.73    173.33       4,633.11     23,165.55
-GROSS PAY                                  4,633.11     23,165.55
-     DEDUCTIONS
-  Federal Income Tax                       370.64
-  Social Security                          287.25
-  Medicare                                  67.18
-  CA SDI                                    50.96
-NET PAY                                  3,857.08
-  --------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+| |   .
+Regular             16.62     23.50         390.57     10,154.82
+GROSS PAY                                    390.57     10,154.82
+DEDUCTIONS
+  Federal Income Tax                        39.05
+  Social Security                           24.21
+  Medicare                                   5.66
+  CA SDI                                     4.29
+NET PAY                                     317.36
+--------------------------------------------------------------
 
-RECEIVED JUN 01 2026  - mailroom
+FAX RECEIVED 12/23/2025 10:26   P.01

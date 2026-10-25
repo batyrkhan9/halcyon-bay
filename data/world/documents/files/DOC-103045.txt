@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+7699 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER IYER        Emp ID: 13100
+Position: Medical receptionist
+Pay Period: 08/17/2026 - 08/30/2026     Pay Date: 09/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             21.42     80.00       1,713.60     30,844.80
+GROSS PAY                                  1,713.60     30,844.80
+DEDUCTIONS
+  . : .
+   Federal Income Tax                       137.08
+  Social Security                          106.24
+  Medicare                                  24.84
+  CA SDI                                    18.85
+NET PAY                                  1,426.59
+--------------------------------------------------------------
+
+-- scanned 09/19/2026 HBCH mailroom  pg 1/1 --

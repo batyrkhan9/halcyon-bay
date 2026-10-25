@@ -1,0 +1,20 @@
+ MIRADOR GROCERY CO-OP
+    6246 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO ADAMS         Emp ID: 73491
+Position: Cashier
+Pay Period: 02/23/2025 - 03/08/2025     Pay Date: 03/13/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.82     42.00         706.44      4,238.64
+GROSS PAY                                    706.44      4,238.64
+DEDUCTIONS
+  Federal Income Tax                        63.57
+  Social 5ecurity                           43.79
+  Medicare                                  10.24
+  CA SDI                                     7.77
+NET PAY                                    581.07
+--------------------------------------------------------------
+
+FAX RECEIVED 04/08/2025 10:28   P.01

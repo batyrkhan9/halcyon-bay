@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+5712 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: DYLAN SULLIVAN        Emp ID: 76335
+Position: Driver
+Pay Period: 08/08/2025 - 08/21/2025     Pay Date: 08/26/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.99     52.25         992.23     16,867.91
+GROSS PAY                                    992.23     16,867.91
+DEDUCTIONS
+_ _ _ _
+  Federal Income Tax                        49.61
+  Social Security                           61.51
+      Medicare                                  14.38
+  CA SDI                                    10.91
+NET PAY                                    855.82
+--------------------------------------------------------------
+
+FAX RECEIVED 09/30/2025 10:42   P.01

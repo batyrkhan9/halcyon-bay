@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+ 3415 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA IVANOVA        Emp ID: 98923
+Position: Dental assistant
+Pay Period: 12/29/2025 - 01/27/2026     Pay Date: 02/01/2026
+~ ~ .  ,
+    Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             16.50    173.33       2,859.94      5,719.88
+GROSS PAY                                  2,859.94      5,719.88
+DEDUCTIONS
+  Federal Income Tax                       228.79
+  Social 5ecurity                          177.31
+   Medicare                                  41.46
+  CA SDI                                    31.45
+NET PAY                                  2,380.93
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/15/2026]

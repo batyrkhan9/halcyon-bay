@@ -1,1 +1,14 @@
 application_id,person,accounts,original_status,original_decision,with_rule,changes,dollars,reason
+FA-25-00104,PER-01686,HB24314009,APPROVED,FREE,FREE,N,0.00,"Already approved free on CalFresh, without a rule."
+FA-25-00507,PER-01687,HB25109510,APPROVED,FREE,FREE,N,0.00,"Already approved free on CalFresh, without a rule."
+FA-25-00608,PER-01697,HB25112075,CLOSED,,FREE,Y,11787.74,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-25-00615,PER-01698,HB25112718,CLOSED,,FREE,Y,4384.00,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-25-00764,PER-01696,HB25114403,CLOSED,,FREE,Y,3811.45,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-25-00839,PER-01694,HB25115375,CLOSED,,FREE,Y,4711.22,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-25-00885,PER-01688,HB25117036,APPROVED,FREE,FREE,N,0.00,"Already approved free on CalFresh, without a rule."
+FA-26-00030,PER-01695,HB25119795,CLOSED,,FREE,Y,7437.52,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-26-00246,PER-01693,HB26100236,NEEDS_INFO,,FREE,Y,4041.23,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-26-00265,PER-01689,HB26103369,NEEDS_INFO,,FREE,Y,1758.21,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-26-00299,PER-01691,HB26103734,NEEDS_INFO,,FREE,Y,4658.03,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-26-00317,PER-01690,HB26103073,NEEDS_INFO,,FREE,Y,11569.17,Only document is a CalFresh notice; the rule gives free care without income documents.
+FA-26-00503,PER-01692,HB26107509,NEEDS_INFO,,FREE,Y,5076.73,Only document is a CalFresh notice; the rule gives free care without income documents.

@@ -1,21 +1,10 @@
-POINT CORRIN BOATWORKS
-9710 HARB0R WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN SHAH        Emp ID: 19528
-Position: Mechanic
- Pay Period: 04/27/2026 - 05/26/2026     Pay Date: 05/31/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                     4,275.82     25,654.92
-GROSS PAY                                  4,275.82     25,654.92
-DEDUCTIONS
-  Federal Income Tax                       342.06
-  Social Security                          265.10
-  Medicare                                  61.99
-  CA SDI                                    47.03
-NET PAY                                  3,559.64
-~ ~ .  ,
---------------------------------------------------------------
+    COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+NOTICE OF ACTION
+Medi-Cal Approval
+  Date: 12/13/2025
+Beneficiary: STEVEN SHAH
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]
+    You are approved for full scope Medi-Cal with no share of cost beginning 12/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+RECEIVED JAN 04 2026  - mailroom

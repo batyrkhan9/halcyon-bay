@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-2319 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-Employee: JAMAL THOMPSON        Emp ID: 82684
-Position: Custodian
-_ _ _ _
-Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
-Pay Frequency: Weekly
+ARROYO VERDE NURSERY
+7441 COMMERCE WAY   CA
+                              EARNINGS STATEMENT
+Emp1oyee: MADISON TANAKA        Emp ID: 99220
+Position: Nursery worker
+Pay Period: 03/04/2026 - 03/17/2026     Pay Date: 03/22/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             47.98     40.00       1,919.20     57,576.00
-GROSS PAY                                   1,919.20     57,576.00
-    DEDUCTIONS
-  Federal Income Tax                       211.11
-   Social Security                          118.99
-      Medicare                                  27.82
-    CA SDI                                    21.11
-NET PAY                                  1,540.17
+    EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             20.27     80.00       1,621.60      9,729.60
+GROSS PAY                                  1,621.60      9,729.60
+DEDUCTIONS
+   Federal Income Tax                       162.16
+  Social Security                          100.53
+  Medicare                                  23.51
+  CA SDI                                    17.83
+NET PAY                                  1,317.57
 --------------------------------------------------------------
 
-RECEIVED AUG 13 2026  - mailroom
+FAX RECEIVED 04/23/2026 10:45   P.01

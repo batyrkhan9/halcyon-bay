@@ -1,20 +1,21 @@
-    OTTER BAY AQUARIUM
-4555 HARBOR WAY   CA
+ELLERY HARDWARE SUPPLY
+7394 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: TERESA HADDAD        Emp ID: 28356
-    Position: Guest services
-Pay Period: 07/06/2026 - 08/04/2026     Pay Date: 08/09/2026
- Pay Frequency: M0nthly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Salary                                     3,649.95     29,199.60
-GROSS PAY                                  3,649.95     29,199.60
-DEDUCTIONS
-  Federal Income Tax                       291.99
-  Social Security                          226.29
-  Medicare                                  52.92
-  CA SDI                                    40.14
-NET PAY                                  3,038.61
+Employee: MADISON RA0        Emp ID: 10162
+Position: Sales associate
+Pay Period: 03/28/2026 - 04/03/2026     Pay Date: 04/08/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,903.56     82,649.84
+GROSS PAY                                  5,903.56     82,649.84
+| |   .
+ DEDUCTIONS
+  Federal Income Tax                       649.39
+  Social Security                          366.02
+  Medicare                                  85.60
+  CA SDI                                    64.93
+NET PAY                                  4,737.62
 --------------------------------------------------------------
 
-FAX RECEIVED 08/13/2026 10:52   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/19/2026]

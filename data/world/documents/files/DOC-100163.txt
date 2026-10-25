@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-686 HARBOR WAY   CA
+ CALDER FREIGHT LINES
+9786 INDUSTRIAL WAY   CA
+~ ~ .  ,
                          EARNINGS STATEMENT
-Employee: RICARDO MENDOZA-BROWN        Emp ID: 50245
-Position: Laborer
-Pay Period: 03/15/2025 - 03/28/2025     Pay Date: 04/02/2025
+Employee: SUSAN WANG        Emp ID: 43871
+Position: Driver
+Pay Period: 01/10/2025 - 01/23/2025     Pay Date: 01/28/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.77     34.00         570.18      3,991.26
-   GROSS PAY                                    570.18      3,991.26
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             27.40     80.00       2,192.00      4,384.00
+GROSS PAY                                  2,192.00      4,384.00
 DEDUCTIONS
-  Federal Income Tax                        34.21
-  Socia1 Security                           35.35
-   Medicare                                   8.26
-    CA SDI                                     6.27
-  NET PAY                                    486.09
+  Federal Income Tax                       109.60
+    Social Security                          135.90
+  Medicare                                  31.78
+  CA SDI                                    24.11
+NET PAY                                   1,890.61
 --------------------------------------------------------------
 
-FAX RECEIVED 04/12/2025 10:43   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/06/2025]

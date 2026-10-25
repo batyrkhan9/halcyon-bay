@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+7223 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+   Employee: OLIVIA BROWN        Emp ID: 20913
+Position: Library assistant
+Pay Period: 02/26/2026 - 03/11/2026     Pay Date: 03/16/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.00     68.00       1,224.00      7,344.00
+  GROSS PAY                                  1,224.00      7,344.00
+DEDUCTIONS
+  Federal Income Tax                        97.92
+  Social Security                           75.88
+  Medicare                                  17.74
+  CA SDI                                    13.46
+NET PAY                                  1,019.00
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/15/2026]

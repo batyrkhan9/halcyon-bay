@@ -1,21 +1,20 @@
-BAYLINE LOGISTICS INC
-8069 INDUSTRIAL WAY   CA
+MARISOL CLEANING SERVICES
+9690 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: DAVID MARTIN        Emp ID: 14374
-Position: Warehouse associate
-Pay Period: 11/15/2025 - 12/14/2025     Pay Date: 12/19/2025
-Pay Frequency: Monthly
+Empl0yee: MARIA VALENCIA        Emp ID: 75298
+Position: Cleaner
+Pay Period: 08/30/2025 - 09/05/2025     Pay Date: 09/10/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.94    168.25       2,850.16     34,201.92
-GROSS PAY                                   2,850.16     34,201.92
-_ _ _ _
-DEDUCTIONS
-  Federal Income Tax                       142.50
-  Social Security                          176.71
-  Medicare                                  41.32
-   CA SDI                                    31.35
-     NET PAY                                  2,458.28
+Regular             17.95      8.00         143.60      5,313.20
+GROSS PAY                                    143.60      5,313.20
+   DEDUCTIONS
+  Federal Income Tax                        11.48
+      Social 5ecurity                            8.90
+  Medicare                                   2.08
+  CA SDI                                     1.58
+NET PAY                                    119.56
 --------------------------------------------------------------
 
-FAX RECEIVED 02/05/2026 10:16   P.01
+RECEIVED SEP 22 2025  - mailroom

@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+3072 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+    Employee: CHLOE ESPINOZA        Emp ID: 13311
+Position: Warehouse associate
+Pay Period: 12/08/2024 - 12/21/2024     Pay Date: 12/26/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                       452.81     11,773.06
+GROSS PAY                                    452.81     11,773.06
+DEDUCTIONS
+  Federal Income Tax                        27.16
+    Social Security                           28.07
+  Medicare                                   6.56
+  CA SDI                                     4.98
+NET PAY                                    386.04
+--------------------------------------------------------------
+
+-- scanned 01/05/2025 HBCH mailroom  pg 1/1 --

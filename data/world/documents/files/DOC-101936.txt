@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
- Filing Status: Head of household
-Your first name and middle initial / Last name:  GRACE SULLIVAN-MEHTA
-  . : .
-Your social security number: XXX-XX-2783
-Dependents: 1
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    48,989.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    48,989.00
- 10  Adjustments to income ...........................         0.00
-    11  Adjusted gross income ...........................    48,989.00
- 12  Standard deduction ..............................    21,900.00
+PORT ELLERY CANNERY CO
+7101 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN JUNG        Emp ID: 90608
+Position: Line worker
+Pay Period: 05/26/2026 - 06/08/2026     Pay Date: 06/13/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,206.82     14,481.84
+GROSS PAY                                  1,206.82     14,481.84
+DEDUCTIONS
+     Federal Income Tax                        84.47
+  Social Security                           74.82
+  Medicare                                  17.49
+    CA 5DI                                    13.27
+| |   .
+NET PAY                                  1,016.77
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Grace Sullivan-Mehta        Date: 04/15/2026
-
--- scanned 09/12/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 05 2026  - mailroom

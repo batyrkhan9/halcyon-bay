@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+   9515 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: MICHAEL JACKSON        Emp ID: 93322
+Position: Guest services
+Pay Period: 07/23/2025 - 08/06/2025     Pay Date: 08/11/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,245.44     18,681.60
+GR0SS PAY                                  1,245.44     18,681.60
+ DEDUCTIONS
+  Federal Income Tax                       136.99
+  Social Security                           77.21
+  Medicare                                  18.05
+  CA SDI                                    13.70
+NET PAY                                    999.49
+--------------------------------------------------------------
+
+FAX RECEIVED 09/06/2025 10:23   P.01

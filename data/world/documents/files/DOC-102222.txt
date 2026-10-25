@@ -1,0 +1,20 @@
+    SEASIDE DENTAL GROUP
+2306 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BARBARA CORTEZ        Emp ID: 77184
+Position: Dental assistant
+    Pay Period: 07/07/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             32.47     40.00       1,298.80     37,665.20
+GROSS PAY                                   1,298.80     37,665.20
+DEDUCTIONS
+  Federal Income Tax                       129.88
+  Social Security                           80.52
+  Medicare                                  18.83
+  CA SDI                                    14.28
+NET PAY                                  1,055.29
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/25/2026]

@@ -1,11 +1,21 @@
-SOCIAL SECURITY ADMINISTRATION
-Retirement, Survivors and Disability Insurance
+  BAYLINE LOGISTICS INC
+   5934 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI CHEN        Emp ID: 88954
+Position: Warehouse associate
+Pay Period: 07/30/2025 - 08/28/2025     Pay Date: 09/02/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,603.65     14,432.85
+GROSS PAY                                  1,603.65     14,432.85
+DEDUCTIONS
+  Federal Income Tax                       144.32
+  Social Security                           99.42
+  Medicare                                  23.25
   . : .
-Date: 12/26/2025
-ISABEL DIAZ
+  CA SDI                                    17.64
+NET PAY                                  1,319.02
+--------------------------------------------------------------
 
-This letter is proof of the benefits you receive.
- Beginning December 2024, the full monthly Social Security benefit is $4,073.49.
-We deduct $0.00 for medical insurance premiums each month.
-
-RECEIVED MAR 26 2026  - mailroom
+-- scanned 10/19/2025 HBCH mailroom  pg 1/1 --

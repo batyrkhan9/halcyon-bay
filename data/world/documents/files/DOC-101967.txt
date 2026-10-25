@@ -1,21 +1,20 @@
-  ELLERY HARDWARE SUPPLY
-3136 HARBOR WAY   CA
-_ _ _ _
-                            EARNINGS STATEMENT
-Employee: TARIQ JOSHI        Emp ID: 90104
-Position: Sales associate
-  Pay Period: 08/24/2026 - 09/06/2026     Pay Date: 09/11/2026
-Pay Frequency: Bi-Weekly
+COASTAL VALLEY ENERGY
+8840 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: XIMENA SCOTT        Emp ID: 95163
+Position: Field technician
+  Pay Period: 04/30/2026 - 05/29/2026     Pay Date: 06/03/2026
+  Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            100.66     80.00       8,052.80    153,003.20
-GROSS PAY                                  8,052.80    153,003.20
-   DEDUCTIONS
-      Federal Income Tax                       322.11
-  Social Security                          499.27
-     Medicare                                 116.76
-  CA SDI                                    88.58
-NET PAY                                  7,026.08
---------------------------------------------------------------
+Regular             19.41    173.33       3,364.34     20,186.04
+GROSS PAY                                  3,364.34     20,186.04
+DEDUCTIONS
+  Federal Income Tax                       370.07
+  Social Security                          208.58
+  Medicare                                  48.78
+  CA SDI                                    37.00
+NET PAY                                  2,699.91
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]
+RECEIVED JUL 09 2026  - mailroom

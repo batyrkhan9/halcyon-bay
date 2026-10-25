@@ -1,0 +1,20 @@
+  VISTA SERENA MEDICAL OFFICES
+678 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: AUSTIN CASTILLO        Emp ID: 88404
+Position: Medical receptionist
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,379.49     17,933.37
+GROSS PAY                                  1,379.49     17,933.37
+DEDUCTIONS
+  Federal Income Tax                       151.74
+  Social Security                           85.52
+  Medicare                                  20.00
+    CA SDI                                    15.17
+NET PAY                                  1,107.06
+--------------------------------------------------------------
+
+RECEIVED JUL 22 2026  - mailroom

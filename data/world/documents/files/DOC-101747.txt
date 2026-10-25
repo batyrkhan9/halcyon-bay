@@ -1,0 +1,21 @@
+  COASTAL VALLEY ENERGY
+8437 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: DAVID RAMOS        Emp ID: 76879
+Position: Field technician
+Pay Period: 04/19/2026 - 04/25/2026     Pay Date: 04/30/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+~ ~ .  ,
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.65     22.25         414.96      7,469.28
+GROSS PAY                                    414.96      7,469.28
+DEDUCTIONS
+  Federal Income Tax                        33.19
+      Social Security                           25.72
+  Medicare                                   6.01
+  CA SDI                                     4.56
+NET PAY                                    345.48
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

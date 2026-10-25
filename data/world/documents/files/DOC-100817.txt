@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+2038 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BEATRIZ IVANOVA        Emp ID: 34909
+Position: Warehouse associate
+Pay Period: 08/02/2025 - 08/15/2025     Pay Date: 08/20/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             42.15     80.00       3,372.00     57,324.00
+GROSS PAY                                  3,372.00     57,324.00
+DEDUCTIONS
+  Federal Income Tax                       202.32
+   Social Security                          209.06
+  Medicare                                  48.89
+  CA SDI                                    37.09
+NET PAY                                  2,874.64
+--------------------------------------------------------------
+
+RECEIVED AUG 25 2025  - mailroom

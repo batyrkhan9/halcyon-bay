@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+9689 MARKET WAY   CA
+                         EARNING5 STATEMENT
+Employee: TERESA PETROV        Emp ID: 80133
+Position: Guest services
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             66.30     86.67       5,746.22     74,700.86
+GROSS PAY                                  5,746.22     74,700.86
+DEDUCTIONS
+  Federal Income Tax                       229.84
+  Social Security                          356.26
+  Medicare                                  83.32
+  CA SDI                                    63.20
+NET PAY                                  5,013.60
+--------------------------------------------------------------
+
+-- scanned 08/10/2026 HBCH mailroom  pg 1/1 --

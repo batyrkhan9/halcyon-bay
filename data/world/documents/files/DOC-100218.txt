@@ -1,17 +1,20 @@
-   HALCYON BAY FEDERAL CREDIT UNION
-  Statement Period 04/01/2025 - 04/20/2025
-Member: JOSHUA VALENCIA       Account ending 8777
+ARROYO VERDE NURSERY
+4739 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUST1N JACKSON        Emp ID: 39796
+Position: Nursery worker
+Pay Period: 02/03/2025 - 02/16/2025     Pay Date: 02/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.33     80.00       2,026.40      8,105.60
+ GROSS PAY                                  2,026.40      8,105.60
+  DEDUCTIONS
+  Federal Income Tax                       101.32
+      Social Security                          125.63
+      Medicare                                  29.38
+      CA SDI                                    22.29
+NET PAY                                  1,747.78
+ --------------------------------------------------------------
 
- CHECKING SUMMARY
-  Beginning balance            2,324.47
-  Deposits                     3,030.14
-  Withdrawals                 -3,090.74
-  Ending balance               2,263.87
-
-DEPOSITS AND CREDITS
-    04/20  PAYROLL DIR DEP HALCYON BAY UNIFIE       1,515.07
-  04/06  PAYROLL DIR DEP HALCYON BAY UNIFIE       1,515.07
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2025]
+RECEIVED MAR 07 2025  - mailroom

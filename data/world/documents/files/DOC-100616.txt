@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Married filing j0intly
-Your first name and middle initial / Last name:  ZAINAB KING
- Your social security number: XXX-XX-6552
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    19,723.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
-     9   Total income ....................................    19,723.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    19,723.00
-    12  Standard deduction ..............................    21,900.00
+MARISOL CLEANING SERVICES
+ 1586 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LARRY GUPTA         Emp ID: 22271
+    Position: Cleaner
+Pay Period: 04/29/2025 - 05/28/2025     Pay Date: 06/02/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       781.88      4,691.28
+GROSS PAY                                    781.88      4,691.28
+DEDUCTIONS
+  Federal Income Tax                        86.00
+  Social Security                           48.47
+   Medicare                                  11.33
+  CA SDI                                     8.60
+    NET PAY                                    627.48
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that 1 have examined this return...
-Your signature: /s/ Zainab King        Date: 04/08/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2025]
+FAX RECEIVED 06/19/2025 10:31   P.01
