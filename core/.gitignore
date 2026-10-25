@@ -1,0 +1,2 @@
+# Local database files. The core rebuilds them from data/.
+state/

@@ -1,0 +1,52 @@
+"""Shared names: roles, work item states and proposal kinds."""
+
+# Roles. sync, agent and gateway are system actors; the other three are people.
+SYNC = "sync"
+AGENT = "agent"
+GATEWAY = "gateway"
+COUNSELOR = "counselor"
+DIRECTOR = "director"
+COMPLIANCE = "compliance"
+STAFF_ROLES = (COUNSELOR, DIRECTOR, COMPLIANCE)
+
+# Work item states. Only the gateway moves an item to POSTED.
+NEW = "NEW"
+SCREENING = "SCREENING"
+NEEDS_INFO = "NEEDS_INFO"
+PROPOSED = "PROPOSED"
+APPROVED = "APPROVED"
+REJECTED = "REJECTED"
+POSTED = "POSTED"
+WORK_ITEM_STATES = (NEW, SCREENING, NEEDS_INFO, PROPOSED, APPROVED, REJECTED, POSTED)
+
+NEXT_STATES = {
+    NEW: {SCREENING},
+    SCREENING: {NEEDS_INFO, PROPOSED},
+    NEEDS_INFO: {SCREENING},
+    PROPOSED: {APPROVED, REJECTED},
+    APPROVED: {POSTED},
+    REJECTED: {SCREENING},
+    POSTED: set(),
+}
+
+# Proposal kinds.
+FREE_CARE = "FREE_CARE"
+DISCOUNT = "DISCOUNT"
+PAYMENT_PLAN = "PAYMENT_PLAN"
+COLLECTIONS_REFERRAL = "COLLECTIONS_REFERRAL"
+PAUSE_COLLECTIONS = "PAUSE_COLLECTIONS"
+BLOCK_AGENCY_ACTION = "BLOCK_AGENCY_ACTION"
+MERGE_ACCOUNTS = "MERGE_ACCOUNTS"
+REVERSAL = "REVERSAL"
+NEW_RULE = "NEW_RULE"
+
+PROPOSAL_KINDS = (
+    FREE_CARE, DISCOUNT, PAYMENT_PLAN, COLLECTIONS_REFERRAL, PAUSE_COLLECTIONS,
+    BLOCK_AGENCY_ACTION, MERGE_ACCOUNTS, REVERSAL, NEW_RULE,
+)
+
+# Stopping a collection is always safe, so the agent may do these alone.
+SAFE_KINDS = frozenset({PAUSE_COLLECTIONS, BLOCK_AGENCY_ACTION})
+
+# Proposals go PROPOSED -> APPROVED or REJECTED, and APPROVED -> POSTED.
+# Safe actions are approved and posted in one step.
