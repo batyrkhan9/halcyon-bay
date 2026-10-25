@@ -281,10 +281,14 @@ class Store:
 
     # Source records, exactly as each system exported them. Latest wins per (kind, id).
 
-    def put_record(self, kind: str, id: str, recorded_on: str, data: dict) -> None:
+    def put_record(self, kind: str, id: str, recorded_on: str, data: dict) -> bool:
+        """Store a row unless an equal or newer version is already here. True when something changed."""
+        if self.record(kind, id) == data:
+            return False
         self.run("INSERT INTO records (kind, id, recorded_on, data) VALUES (?, ?, ?, ?) "
                  "ON CONFLICT(kind, id) DO UPDATE SET recorded_on = excluded.recorded_on, data = excluded.data "
                  "WHERE excluded.recorded_on >= records.recorded_on", kind, id, recorded_on, json.dumps(data))
+        return True
 
     def record(self, kind: str, id: str) -> dict | None:
         row = self.one("SELECT data FROM records WHERE kind = ? AND id = ?", kind, id)

@@ -27,6 +27,7 @@ CUTOFF_MARGIN_PCT = 5
 # rules add more (CalFresh is learned from a counselor's correction).
 MEDI_CAL = "MEDI_CAL"
 BUILT_IN_PROGRAMS = frozenset({MEDI_CAL})
+PROGRAM_NAMES = {MEDI_CAL: "Medi-Cal", "CALFRESH": "CalFresh"}
 
 PAY_STUBS = "PAY_STUBS"
 OTHER_PROOF = "OTHER"
@@ -96,7 +97,7 @@ def screen(
 ) -> Screening:
     programs = applicant.programs & (BUILT_IN_PROGRAMS | learned_programs)
     if applicant.homeless or programs:
-        why = "homeless" if applicant.homeless else f"on {', '.join(sorted(programs))}"
+        why = "homeless" if applicant.homeless else f"enrolled in {', '.join(PROGRAM_NAMES.get(p, p) for p in sorted(programs))}"
         return Screening(FREE_CARE, billed_cents, 0, None, f"Patient is {why}: free care without income documents.")
 
     if applicant.household is None or applicant.annual_income is None:

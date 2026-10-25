@@ -324,3 +324,14 @@ def test_an_open_bankruptcy_stops_a_lawful_request_and_goes_to_the_director(tmp_
     assert store.one("SELECT * FROM proposals WHERE kind = 'COLLECTIONS_REFERRAL'") is None
     assert asked == ["666701007"]                                  # checked once, then from the saved record
     assert store.one("SELECT reason FROM audit_log WHERE action = 'crs_check'")["reason"].startswith("CRS (recorded)")
+
+
+def test_reloading_today_only_brings_in_what_is_new(synced):
+    store, sync = synced
+    sync.day(date(2026, 7, 1))
+    item = store.one("SELECT id FROM work_items ORDER BY id")["id"]
+    sync.gateway.move(store.actor("agent"), item, "SCREENING", "Checking")
+    sync.gateway.move(store.actor("agent"), item, "NEEDS_INFO", "Waiting for documents")
+    again = sync.reload_today()
+    assert again["rows"] == {} and again["reopened"] == []          # nothing new, nothing disturbed
+    assert store.work_item(item)["state"] == "NEEDS_INFO"

@@ -112,7 +112,7 @@ def can(actor: Actor, action: str, resource: Resource = Resource()) -> Decision:
 def _can_decide(actor: Actor, action: str, resource: Resource) -> Decision:
     role = actor.role
     if role not in STAFF_ROLES:
-        return deny(f"The AI proposes and never approves. A {role} can't {action}.")
+        return deny(f"The AI proposes and never approves: the {role} can't {action}.")
     if resource.proposed_by == actor.id:
         return deny(f"Whoever proposes something can never {action} it.")
     if resource.patient_id and resource.patient_id in actor.patient_ids:

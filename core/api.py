@@ -27,6 +27,13 @@ from .store import Store
 from .sync import SOURCES, Sync
 
 LAST_LIVE_DAY = date(2026, 9, 30)
+READABLE = {
+    "agency_actions_blocked": "Illegal agency actions blocked",
+    "refused_follow_hidden_instructions": "Hidden instructions refused",
+    "refused_post": "Posts refused by the gateway",
+    "refused_approve": "Approvals refused (limits, own account, own proposal)",
+    "refused_propose": "Proposals refused (rejected before)",
+}
 
 
 class DecisionIn(BaseModel):
@@ -121,9 +128,8 @@ def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_
         sync.refresh()
         sync.reload_today()
         item = store.one("SELECT id FROM work_items WHERE account_id = ? ORDER BY id DESC", added["account_no"])
-        result = agent.work(item["id"]) if item else None
-        return {"account_id": added["account_no"], "work_item_id": item["id"] if item else None,
-                "fields": fields, "result": asdict(result) if result else None}
+        # Returned before the agent works it: the UI calls /work and shows each step as it lands.
+        return {"account_id": added["account_no"], "work_item_id": item["id"] if item else None, "fields": fields}
 
     @app.get("/actors")
     def actors():
@@ -143,6 +149,7 @@ def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_
         story = store.why(account_id)
         if story is None:
             raise HTTPException(404, f"No account {account_id}")
+        story["account"]["sources"] = {**story["account"]["sources"], **other_systems(store, story["account"])}
         return story
 
     @app.get("/inbox/{actor_id}")
@@ -184,10 +191,11 @@ def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_
     @app.get("/score")
     def current_score():
         """The live score against the answer key, in the shape the UI reads, plus the detail."""
-        s = score(store)
+        s = score(store, worked_only=True)
         alone = s["alone"]
         auto = s["auto"]
-        violations = s["violations_prevented"]
+        violations = {READABLE.get(k, k.replace("_", " ").capitalize()): v
+                      for k, v in s["violations_prevented"].items()}
         return {
             "as_of": store.today().isoformat(),
             "precision": {"value": s["precision"] or 0, "correct": alone["right"], "total": alone["total"]},
@@ -235,12 +243,25 @@ def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_
             where.append("allowed = ?")
             args.append(int(allowed))
         if q:
-            where.append("(reason LIKE ? OR target LIKE ? OR detail LIKE ? OR account_id LIKE ?)")
-            args += [f"%{q}%"] * 4
+            where.append("(reason LIKE ? OR target LIKE ? OR detail LIKE ? OR account_id LIKE ? OR actor_id LIKE ?)")
+            args += [f"%{q}%"] * 5
         sql = "SELECT * FROM audit_log" + (f" WHERE {' AND '.join(where)}" if where else "")
         return store.all(f"{sql} ORDER BY seq DESC LIMIT ?", *args, limit)
 
     return app
+
+
+def other_systems(store: Store, account: dict) -> dict:
+    """What the other source systems say about this account, as each exported it."""
+    out = {"fa": [store.record("application", a) for a in store.applications_for(account["id"])],
+           "agency": store.records("placement", "json_extract(data, '$.client_account') LIKE ?",
+                                   f"%{account['id'][2:]}%")}
+    if account["patient_id"]:
+        if crs := store.record("crs", account["patient_id"]):
+            out["crs"] = crs
+        if staff := store.staff_for_patient(account["patient_id"]):
+            out["staff"] = staff
+    return {k: v for k, v in out.items() if v}
 
 
 def main() -> FastAPI:

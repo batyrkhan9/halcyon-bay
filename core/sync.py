@@ -121,13 +121,12 @@ class Sync:
         with self.store.tx():
             for file, (kind, key) in FILES.items():
                 for source, row in self.rows(file):
-                    if wanted(row["recorded_on"]):
-                        self.store.put_record(kind, row[key], row["recorded_on"], row)
+                    if wanted(row["recorded_on"]) and self.store.put_record(kind, row[key], row["recorded_on"], row):
                         changed[kind].add(row[key])
                         sources[(kind, row[key])] = source
             self._derive(changed, sources)
         opened, reopened = self._open_work(changed)
-        return {"day": today.isoformat(), "rows": {k: len(v) for k, v in sorted(changed.items())},
+        return {"day": today.isoformat(), "rows": {k: len(v) for k, v in sorted(changed.items()) if v},
                 "opened": opened, "reopened": reopened}
 
     # Records into the shapes the core works with.

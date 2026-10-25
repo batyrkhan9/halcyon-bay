@@ -57,6 +57,12 @@ FLAGGED_TEXT = {
     law.DENIED_NO_PAY_STUBS: "Denies applicants without pay stubs even when they sent other proof",
     law.DENIED_INCOME: "Denies as over income patients at or under 400% of the poverty level",
 }
+LAW_TEXT = {
+    law.DENIED_SAVINGS: "Savings and other monetary assets can't be counted.",
+    law.DENIED_LATE: "There can be no application deadline.",
+    law.DENIED_NO_PAY_STUBS: "Other proof of income must be accepted.",
+    law.DENIED_INCOME: "Patients up to 400% of the poverty level qualify for free or discounted care.",
+}
 
 
 def classify_reasons(reasons: list[str], call=call_claude, cache=None) -> dict[str, str]:
@@ -199,7 +205,7 @@ def learned_patterns(apps: list[dict], flagged: dict[str, list[str]]) -> list[di
         patterns.append({"id": f"flagged-{code.lower()}", "text": FLAGGED_TEXT.get(code, f"Denies for {code.lower()}"),
                          "evidence_count": len(ids), "legal": False, "status": "FLAGGED",
                          "law": "AB 1020" if code == law.DENIED_INCOME else "AB 2297",
-                         "law_text": "Flagged, not learned: the office did this, but the law forbids it.",
+                         "law_text": LAW_TEXT.get(code, ""),
                          "note": f"Seen in {len(ids)} decisions, for example {', '.join(ids[:3])}."})
     return patterns
 

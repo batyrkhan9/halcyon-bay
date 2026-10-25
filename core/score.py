@@ -57,7 +57,7 @@ def cents(dollars: str) -> int:
     return round(float(dollars or 0) * 100)
 
 
-def check_account(store: Store, gateway: Gateway, right: dict) -> dict:
+def check_account(store: Store, gateway: Gateway, right: dict, arrived_only: bool = False) -> dict:
     account_no = right["account_no"]
     proposals = store.all("SELECT * FROM proposals WHERE account_id = ? ORDER BY id", account_no)
     assistance = [p for p in proposals if p["kind"] in OUTCOMES]
@@ -77,9 +77,17 @@ def check_account(store: Store, gateway: Gateway, right: dict) -> dict:
     expected = right["outcome"]
     if expected in ("FREE", "DISCOUNT", "PAYMENT_PLAN"):
         if right["handling"] == "ASK":
-            # Nobody answers during a replay, so asking and proposing nothing is the whole right answer.
-            if not asked or proposal is not None:
+            # Right when a person was asked before anything was proposed: nothing proposed yet, or the
+            # proposal came after the question (a person answered, or an approved rule settled it).
+            asked_at = store.one("SELECT MIN(seq) AS seq FROM audit_log WHERE account_id = ? AND action = 'ask' "
+                                 "AND allowed = 1", account_no)["seq"]
+            proposed_at = proposal and store.one(
+                "SELECT MIN(seq) AS seq FROM audit_log WHERE target = ? AND action = 'propose' AND allowed = 1",
+                proposal["id"])["seq"]
+            if not asked or (proposed_at and asked_at and proposed_at < asked_at):
                 failures.append(f"should ask the {right['ask_role'].lower()} before proposing")
+            elif proposal and (got != expected or proposal["amount_cents"] != cents(right["adjustment"])):
+                failures.append(f"expected {expected}, got {got}")
         elif proposal is None or got != expected:
             failures.append(f"expected {expected}, got {got}")
         elif proposal["amount_cents"] != cents(right["adjustment"]):
@@ -98,6 +106,8 @@ def check_account(store: Store, gateway: Gateway, right: dict) -> dict:
             failures.append("collections not paused")
         elif name == "BLOCK_AGENCY_ACTION":
             request = store.one("SELECT status FROM agency_requests WHERE id = ?", target)
+            if request is None and store.record("request", target) is None and arrived_only:
+                continue  # hasn't arrived yet
             if not request or request["status"] != "BLOCKED":
                 failures.append(f"agency request {target} not blocked")
         elif name in ("COLLECTIONS_REFERRAL", "MERGE", "REVERSAL") and not any(
@@ -121,10 +131,14 @@ def check_account(store: Store, gateway: Gateway, right: dict) -> dict:
     }
 
 
-def score(store: Store, key: dict[str, dict] | None = None) -> dict:
+def score(store: Store, key: dict[str, dict] | None = None, worked_only: bool = False) -> dict:
+    """worked_only scores just the accounts worked so far: the fair score in the middle of the simulation."""
     key = answer_key() if key is None else key
+    if worked_only:
+        worked = {r["account_id"] for r in store.all("SELECT DISTINCT account_id FROM work_items")}
+        key = {account: row for account, row in key.items() if account in worked}
     gateway = Gateway(store)
-    rows = [check_account(store, gateway, right) for _, right in sorted(key.items())]
+    rows = [check_account(store, gateway, right, arrived_only=worked_only) for _, right in sorted(key.items())]
     categories = planted_categories()
     by_category: dict[str, list[bool]] = defaultdict(list)
     for row in rows:
