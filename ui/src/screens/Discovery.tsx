@@ -33,6 +33,10 @@ export default function Discovery() {
   }
   const d = r.data;
   const denials = d.findings.filter((f) => f.kind === 'ILLEGAL_DENIAL');
+  const headline = denials.filter((f) => f.law === d.law.id);
+  const otherLaw = denials.filter((f) => f.law !== d.law.id);
+  const headlineCents = headline.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0);
+  const otherCents = otherLaw.reduce((s, f) => s + f.adjustment_cents + f.refund_cents, 0);
   const same = d.findings.filter((f) => f.kind === 'ILLEGAL_REASON_SAME_OUTCOME');
   const open = denials.filter((f) => f.proposal?.status === 'PROPOSED');
   const approved = denials.filter((f) => f.proposal && (f.proposal.status === 'POSTED' || f.proposal.status === 'APPROVED'));
@@ -63,15 +67,21 @@ export default function Discovery() {
   return (
     <Page eyebrow={`Day one · learned from ${count(d.history.applications)} applications, ${day(d.history.from)} to ${day(d.history.to)}`} right={<SampleTag source={r.source} endpoint="/discovery" />}>
       <h1 className="max-w-5xl text-hero font-semibold text-ink">
-        Found <span className="text-accent">{denials.length} patients</span> denied under rules that changed in January 2025.
+        Found <span className="text-accent">{headline.length} patients</span> denied under rules that changed in January 2025.
       </h1>
       <p className="mt-6 max-w-3xl text-[1.25rem] leading-relaxed text-ink2">
         <b className="font-semibold text-ink">{d.law.name}</b>, in effect since {day(d.law.effective)}: {d.law.text.replace(/^From [A-Za-z]+ \d{1,2}, \d{4}, /, '')} Their income qualifies them. The office's habits didn't change in time.
+        {otherLaw.length > 0 && (
+          <>
+            {' '}
+            It also found <b className="font-semibold text-ink">{otherLaw.length} more</b> denied as over income although they were at or under 400% of the poverty level ({[...new Set(otherLaw.map((f) => f.law))].join(', ')}, {money(otherCents, { whole: true })}).
+          </>
+        )}
       </p>
 
       <div className="mt-14 grid grid-cols-2 gap-x-10 gap-y-10 xl:grid-cols-[0.8fr_1.35fr_1fr_1fr]">
-        <Stat value={denials.length} label="patients to make whole" format={(v) => count(Math.round(v))} />
-        <Stat value={d.total_cents} label="back to charity care" format={(v) => money(Math.round(v), { whole: true })} accent />
+        <Stat value={headline.length} label="patients to make whole" format={(v) => count(Math.round(v))} />
+        <Stat value={headlineCents} label="back to patients, as charity care and refunds" format={(v) => money(Math.round(v), { whole: true })} accent />
         <Stat value={approved.length} label={`reversed so far (${money(movedCents, { whole: true })})`} format={(v) => count(Math.round(v))} />
         <Stat value={d.patterns_flagged} label={`patterns flagged, not learned (${d.patterns_learned} learned)`} format={(v) => count(Math.round(v))} link="/learned" />
       </div>

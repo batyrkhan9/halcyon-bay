@@ -23,3 +23,11 @@ export class Unreachable extends Error {
     this.name = 'Unreachable';
   }
 }
+
+/** The agent can't work right now: Claude is unreachable or the spending cap is hit (503). Nothing changed. */
+export class AgentUnavailable extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = 'AgentUnavailable';
+  }
+}

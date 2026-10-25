@@ -1,5 +1,5 @@
 import { useState, type ReactNode } from 'react';
-import type { Evidence } from '../api/types';
+import { isFact, type Evidence } from '../api/types';
 import { day, dollars, DOLLAR_KEYS, humanize, isIsoDay, isIsoTs, maskSsn, money } from '../lib/format';
 import { usePeople } from '../lib/people';
 import { IconAlert, IconDoc } from './icons';
@@ -313,21 +313,28 @@ function CrsCard({ data }: { data: Obj }) {
   const bankruptcy = isObj(data.bankruptcy) ? data.bankruptcy : null;
   const contact = isObj(data.contact) ? data.contact : null;
   const liens = Array.isArray(data.liens_judgments) ? data.liens_judgments : [];
+  const live = data.source === 'live';
   const badge = !sent ? (
     <Badge>Not sent</Badge>
-  ) : recorded ? (
-    <Badge tone="warn">Recorded answer · sandbox unreachable</Badge>
-  ) : (
+  ) : live ? (
     <span className="inline-flex items-center gap-2 rounded-full bg-accent px-3 py-1 text-[0.8125rem] font-semibold text-white">
       <span className="h-1.5 w-1.5 animate-pulse-dot rounded-full bg-white" />
       Live from the CRS sandbox
     </span>
+  ) : recorded ? (
+    <Badge tone="warn">Recorded CRS sandbox answer</Badge>
+  ) : (
+    <Badge>CRS sandbox</Badge>
   );
   const idResult = String(identity.result ?? 'NOT_CHECKED');
   return (
     <Card
       title="CRS sandbox"
-      sub={sent ? `Checked ${data.checked_at ? new Date(String(data.checked_at)).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) : ''}${data.persona ? ` · persona ${String(data.persona)}` : ''}` : 'Identity, deceased, bankruptcy and contact checks'}
+      sub={
+        sent
+          ? `${recorded ? 'Recorded' : 'Checked'} ${data.recorded_at || data.checked_at ? new Date(String(data.recorded_at || data.checked_at)).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) : ''}${data.persona ? ` · sandbox persona ${String(data.persona)}` : ''}`
+          : 'Identity, deceased, bankruptcy and contact checks'
+      }
       badge={badge}
     >
       {!sent ? (
@@ -391,7 +398,7 @@ export function Sources({ sources }: { sources: Record<string, unknown> }) {
   });
   if (!keys.length) return <p className="text-ink3">No source data yet. Sync fills this in.</p>;
   const crs = isObj(sources.crs) ? sources.crs : null;
-  const crsLive = crs && crs.sent !== false;
+  const crsLive = crs && crs.sent !== false; // a sent check (live or recorded) gets the full-width card
   return (
     <div className="space-y-5">
       {crsLive && <CrsCard data={crs} />}
@@ -428,9 +435,10 @@ export function Sources({ sources }: { sources: Record<string, unknown> }) {
   );
 }
 
-/** A proposal's evidence, folded by default. */
+/** A proposal's evidence. Reader facts show their exact quote and link to the document they came from. */
 export function EvidenceList({ evidence }: { evidence: Evidence[] }) {
-  const [open, setOpen] = useState(false);
+  const facts = evidence.filter(isFact);
+  const [open, setOpen] = useState(facts.length > 0);
   return (
     <div className="mt-4">
       <button type="button" onClick={() => setOpen((o) => !o)} className="text-[0.9375rem] font-medium text-accent hover:underline" aria-expanded={open}>
@@ -438,15 +446,30 @@ export function EvidenceList({ evidence }: { evidence: Evidence[] }) {
       </button>
       {open && (
         <ul className="mt-3 space-y-2">
-          {evidence.map((e, i) => (
-            <li key={i} className="rounded-xl bg-bg px-4 py-3">
-              {e.source != null && <div className="mb-1.5 text-[0.75rem] font-semibold uppercase tracking-wider text-ink3">{humanize(String(e.source))}</div>}
-              <Fields data={REST(e, ['source'])} cols={3} />
-            </li>
-          ))}
+          {evidence.map((e, i) =>
+            isFact(e) ? (
+              <li key={i} className="rounded-xl bg-bg px-4 py-3">
+                <div className="text-[0.9875rem] font-medium text-ink">{e.fact}</div>
+                <div className="mt-1 flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                  <q className="font-mono text-[0.8125rem] text-ink2 [quotes:none]">“{e.quote}”</q>
+                  {e.document_id ? (
+                    <a href={`#doc-${e.document_id}`} className="font-mono text-[0.78rem] text-accent hover:underline">
+                      {e.document_id} ↓
+                    </a>
+                  ) : (
+                    <span className="text-[0.78rem] text-ink3">staff answer</span>
+                  )}
+                </div>
+              </li>
+            ) : (
+              <li key={i} className="rounded-xl bg-bg px-4 py-3">
+                {e.source != null && <div className="mb-1.5 text-[0.75rem] font-semibold uppercase tracking-wider text-ink3">{humanize(String(e.source))}</div>}
+                <Fields data={REST(e, ['source'])} cols={3} />
+              </li>
+            ),
+          )}
         </ul>
       )}
     </div>
   );
 }
-
