@@ -36,6 +36,7 @@ from .store import Store
 KEY_DIRS = (ROOT / "data" / "answer_key", ROOT / "data" / "judge" / "answer_key")
 OUTCOMES = {FREE_CARE: "FREE", DISCOUNT: "DISCOUNT", PAYMENT_PLAN: "PAYMENT_PLAN"}
 KINDS = {"FREE_CARE": FREE_CARE, "DISCOUNT": DISCOUNT, "PAYMENT_PLAN": PAYMENT_PLAN}
+LAST_LIVE_DAY = "2026-09-30"
 
 
 def answer_key() -> dict[str, dict]:
@@ -131,14 +132,15 @@ def check_account(store: Store, gateway: Gateway, right: dict, arrived_only: boo
     }
 
 
-def score(store: Store, key: dict[str, dict] | None = None, worked_only: bool = False) -> dict:
-    """worked_only scores just the accounts worked so far: the fair score in the middle of the simulation."""
+def score(store: Store, key: dict[str, dict] | None = None, arrived_only: bool = False) -> dict:
+    """arrived_only, before the last live day, scores just the accounts worked so far: the fair score in the
+    middle of the simulation. On the last live day it scores every account, the same as the full score."""
     key = answer_key() if key is None else key
-    if worked_only:
+    if arrived_only and store.today().isoformat() < LAST_LIVE_DAY:
         worked = {r["account_id"] for r in store.all("SELECT DISTINCT account_id FROM work_items")}
         key = {account: row for account, row in key.items() if account in worked}
     gateway = Gateway(store)
-    rows = [check_account(store, gateway, right, arrived_only=worked_only) for _, right in sorted(key.items())]
+    rows = [check_account(store, gateway, right, arrived_only=arrived_only) for _, right in sorted(key.items())]
     categories = planted_categories()
     by_category: dict[str, list[bool]] = defaultdict(list)
     for row in rows:

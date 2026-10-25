@@ -17,7 +17,7 @@ core/.venv/bin/uvicorn core.api:main --factory --port 8000
 
 The API is at http://localhost:8000, and every endpoint is listed at http://localhost:8000/docs. `core.dev_seed` fills `core/state/halcyon.db` with a few made-up accounts and has the agent work them, so you can build screens before the real data lands. Set `HALCYON_DB` to use another file.
 
-For the demo, one command does everything with no API key: it loads Claude's saved replies from `core/fixtures/`, onboards the history with the day-one discovery, replays the live days to the day you pick and starts the API on port 8000. Only the judge box and new corrections need a key.
+For the demo, one command does everything with no API key: it loads Claude's saved replies from `core/fixtures/`, onboards the history with the day-one discovery, replays the live days to the day you pick, builds the screens the first time (Node.js needed) and serves the screens at http://localhost:8000 with this API under `/api`. Only the judge box and new corrections need a key. Add `--api-only` to serve just the API on port 8000 while developing the UI with `npm --prefix ui run dev`.
 
 ```bash
 core/.venv/bin/python -m core.demo --day 2026-07-14

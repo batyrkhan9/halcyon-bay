@@ -191,7 +191,7 @@ def create_app(store: Store, reader: Reader | None = None, sources=SOURCES, crs_
     @app.get("/score")
     def current_score():
         """The live score against the answer key, in the shape the UI reads, plus the detail."""
-        s = score(store, worked_only=True)
+        s = score(store, arrived_only=True)
         alone = s["alone"]
         auto = s["auto"]
         violations = {READABLE.get(k, k.replace("_", " ").capitalize()): v
@@ -262,6 +262,27 @@ def other_systems(store: Store, account: dict) -> dict:
         if staff := store.staff_for_patient(account["patient_id"]):
             out["staff"] = staff
     return {k: v for k, v in out.items() if v}
+
+
+def with_ui(api: FastAPI, dist) -> FastAPI:
+    """One address for the demo: the built screens at /, this API at /api. A screen's own address
+    (/discovery, /accounts/HB...) serves the page, which then routes itself."""
+    from fastapi.staticfiles import StaticFiles
+    from starlette.exceptions import HTTPException as StarletteHTTPException
+
+    class SinglePageApp(StaticFiles):
+        async def get_response(self, path, scope):
+            try:
+                return await super().get_response(path, scope)
+            except StarletteHTTPException as e:
+                if e.status_code != 404:
+                    raise
+                return await super().get_response("index.html", scope)
+
+    root = FastAPI(title="Halcyon Bay demo")
+    root.mount("/api", api)
+    root.mount("/", SinglePageApp(directory=dist, html=True), name="ui")
+    return root
 
 
 def main() -> FastAPI:
