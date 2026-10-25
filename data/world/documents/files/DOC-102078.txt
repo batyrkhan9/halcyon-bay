@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+  5504 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA O'BRIEN        Emp ID: 15280
+    Position: Software engineer
+Pay Period: 08/04/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             25.17     86.67       2,181.48     34,903.68
+GROSS PAY                                   2,181.48     34,903.68
+DEDUCTIONS
+   Federal Income Tax                       152.70
+  . : .
+  Social Security                          135.25
+  Medicare                                  31.63
+  CA SDI                                    23.99
+NET PAY                                  1,837.91
+--------------------------------------------------------------
+
+-- scanned 09/25/2026 HBCH mailroom  pg 1/1 --

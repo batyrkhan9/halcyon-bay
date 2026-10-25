@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+1536 MARKET WAY   CA
+| |   .
+                         EARNINGS STATEMENT
+Employee: W1LLIAM JUNG        Emp ID: 15077
+  Position: Mechanic
+Pay Period: 06/17/2025 - 06/23/2025     Pay Date: 06/28/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.60     40.00         864.00     22,464.00
+GROSS PAY                                    864.00     22,464.00
+  DEDUCTIONS
+  Federal Income Tax                        95.04
+  Social Security                           53.56
+  Medicare                                  12.52
+  CA SDI                                     9.50
+NET PAY                                    693.38
+--------------------------------------------------------------
+
+RECEIVED JUL 19 2025  - mailroom

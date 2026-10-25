@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+  . : .
+2401 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSHUA DESAI        Emp ID: 77234
+ Position: Teacher
+Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             87.01     80.00       6,960.80     90,490.40
+GROSS PAY                                  6,960.80     90,490.40
+DEDUCTIONS
+   Federal Income Tax                       765.68
+  Social Security                          431.57
+  Medicare                                 100.93
+  CA SDI                                    76.56
+NET PAY                                  5,586.06
+--------------------------------------------------------------
+
+RECEIVED JUL 10 2026  - mailroom

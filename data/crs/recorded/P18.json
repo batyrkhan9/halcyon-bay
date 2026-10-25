@@ -1,0 +1,242 @@
+{
+  "persona": "P18",
+  "recorded_at": "2026-10-25T09:43:42Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P18",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:42Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "TERRENCE ABERNATHY",
+      "address_on_file": "2102 S HALSTED ST, CHICAGO, IL 60608",
+      "request_id": "526b3262-3280-44e0-89ad-9719091150f4"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "5ee1963f-f4aa-41ef-a1d8-c3d1d738d5f1"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "TERRENCE ABERNATHY",
+      "address": "2102 S HALSTED ST, CHICAGO, IL 60608",
+      "phone": "5550101018",
+      "request_id": "151c799d-c35b-4140-8392-7330b1dcb324"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "312871c5-e230-4c56-8015-f62f26f38b2b"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "526b3262-3280-44e0-89ad-9719091150f4",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "TERRENCE",
+                "middle": "J",
+                "last": "ABERNATHY"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "2102",
+                "name": "S HALSTED ST"
+              },
+              "location": {
+                "city": "CHICAGO",
+                "state": "IL",
+                "zipCode": "60608"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701018",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701018",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1980-02-29T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "5ee1963f-f4aa-41ef-a1d8-c3d1d738d5f1",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "151c799d-c35b-4140-8392-7330b1dcb324",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "TERRENCE",
+              "lastName": "ABERNATHY",
+              "houseNo": "2102",
+              "streetName": "S HALSTED ST",
+              "address": "2102 S HALSTED ST",
+              "city": "CHICAGO",
+              "state": "IL",
+              "postalCode": "60608"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "312871c5-e230-4c56-8015-f62f26f38b2b",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:43.168677Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2016-04-07",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "TERRENCE",
+                "lastName": "ABERNATHY",
+                "middleName": "J"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

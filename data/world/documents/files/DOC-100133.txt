@@ -1,0 +1,20 @@
+    ELLERY HARDWARE SUPPLY
+5038 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: LEILA ADAMS-JOSHI        Emp ID: 42385
+Position: Sales associate
+Pay Period: 02/22/2025 - 03/08/2025     Pay Date: 03/13/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,126.49      5,632.45
+GROSS PAY                                  1,126.49      5,632.45
+  DEDUCTIONS
+  Federal Income Tax                        67.58
+  Social Security                           69.84
+  Medicare                                  16.33
+  CA SDI                                    12.39
+NET PAY                                    960.35
+--------------------------------------------------------------
+
+FAX RECEIVED 03/26/2025 10:56   P.01

@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+9107 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: FATIMA MOORE        Emp ID: 72627
+Position: Line cook
+Pay Period: 06/28/2026 - 07/12/2026     Pay Date: 07/17/2026
+    Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             16.94     77.50       1,312.85     18,379.90
+GROSS PAY                                  1,312.85     18,379.90
+   DEDUCTIONS
+  Federal Income Tax                        65.64
+  Social Security                           81.39
+  Medicare                                  19.03
+  CA SD1                                    14.44
+NET PAY                                  1,132.35
+--------------------------------------------------------------
+
+-- scanned 08/15/2026 HBCH mailroom  pg 1/1 --

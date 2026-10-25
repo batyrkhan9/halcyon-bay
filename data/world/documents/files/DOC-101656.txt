@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+8599 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA DAVIS        Emp ID: 37867
+Position: Software engineer
+Pay Period: 07/16/2026 - 07/22/2026     Pay Date: 07/27/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             19.50     40.00         780.00     23,400.00
+GROSS PAY                                    780.00     23,400.00
+  DEDUCT1ONS
+   Federal Income Tax                        78.00
+  Social Security                           48.36
+  Medicare                                  11.31
+  CA SDI                                     8.58
+NET PAY                                    633.75
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/14/2026]

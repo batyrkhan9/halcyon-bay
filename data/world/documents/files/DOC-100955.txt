@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+ 2353 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA ANDERSON        Emp ID: 99414
+Position: Mechanic
+Pay Period: 01/19/2026 - 02/02/2026     Pay Date: 02/07/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.85     39.00         735.15      2,205.45
+GROSS PAY                                    735.15      2,205.45
+DEDUCTIONS
+  Federal Income Tax                        29.40
+  Social Security                           45.57
+  Medicare                                  10.66
+  CA SDI                                     8.08
+_ _ _ _
+NET PAY                                    641.44
+--------------------------------------------------------------
+
+FAX RECEIVED 02/20/2026 10:10   P.01

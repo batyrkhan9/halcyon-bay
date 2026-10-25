@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+4534 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROSA RAHMAN         Emp ID: 80200
+Position: Warehouse associate
+Pay Period: 09/05/2025 - 09/18/2025     Pay Date: 09/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                    10,094.32    191,792.08
+   GROSS PAY                                 10,094.32    191,792.08
+  DEDUCT1ONS
+  Federal Income Tax                     1,110.37
+    Social Security                          625.84
+  Medicare                                 146.36
+  CA SDI                                   111.03
+NET PAY                                  8,100.72
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/20/2025]

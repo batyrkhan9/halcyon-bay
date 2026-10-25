@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+  1289 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: PAOLA SILVA        Emp ID: 24366
+Position: Line worker
+Pay Period: 06/11/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.35     12.25         224.79      5,619.75
+GROSS PAY                                    224.79      5,619.75
+DEDUCTIONS
+  Federal Income Tax                        11.23
+  Social Security                           13.93
+   Medicare                                   3.25
+  CA SDI                                     2.47
+NET PAY                                    193.91
+--------------------------------------------------------------
+
+FAX RECEIVED 07/02/2026 10:41   P.01

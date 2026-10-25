@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+4419 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA MENDOZA        Emp ID: 42057
+Position: Laborer
+Pay Period: 05/09/2025 - 05/22/2025     Pay Date: 05/27/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.86     37.75         674.22      7,416.42
+GROSS PAY                                    674.22      7,416.42
+DEDUCTIONS
+  Federal Inc0me Tax                        74.16
+  Social Security                           41.80
+   Medicare                                   9.77
+  CA SDI                                     7.41
+NET PAY                                    541.08
+--------------------------------------------------------------
+
+RECEIVED JUN 11 2025  - mailroom

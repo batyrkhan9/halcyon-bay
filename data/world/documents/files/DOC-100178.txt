@@ -1,0 +1,21 @@
+GOLDEN HOUR 5ENIOR LIVING
+  5295 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ELENA WILSON        Emp ID: 21734
+| |   .
+Position: Caregiver
+   Pay Period: 03/25/2025 - 04/07/2025     Pay Date: 04/12/2025
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.68     61.25       1,144.15      9,153.20
+GROSS PAY                                  1,144.15      9,153.20
+DEDUCTIONS
+  Federal Income Tax                        57.20
+   Social Security                           70.93
+    Medicare                                  16.59
+  CA SDI                                    12.58
+NET PAY                                    986.85
+--------------------------------------------------------------
+
+RECEIVED APR 16 2025  - mailroom

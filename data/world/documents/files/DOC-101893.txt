@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+6034 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: LUIS DAVIS        Emp ID: 72405
+Position: Lab0rer
+   Pay Period: 08/02/2026 - 08/15/2026     Pay Date: 08/20/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.23     29.75         542.34      9,219.78
+GROSS PAY                                     542.34      9,219.78
+DEDUCTIONS
+  Federal Income Tax                        21.69
+  Social Security                           33.62
+  Medicare                                   7.86
+  CA SDI                                     5.96
+NET PAY                                    473.21
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/10/2026]

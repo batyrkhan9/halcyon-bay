@@ -1,0 +1,21 @@
+SANTA LUCITA FARMS
+6612 COMMERCE WAY   CA
+                              EARNINGS STATEMENT
+Employee: AMANDA SULLIVAN        Emp ID: 34111
+Position: Field supervisor
+Pay Period: 06/02/2025 - 06/08/2025     Pay Date: 06/13/2025
+Pay Frequency: Weekly
+  . : .
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.90     16.75         283.08      6,793.92
+GROSS PAY                                    283.08      6,793.92
+DEDUCTIONS
+  Federal Income Tax                        28.30
+     Social Security                           17.55
+  Medicare                                   4.10
+  CA SDI                                     3.11
+NET PAY                                    230.02
+  --------------------------------------------------------------
+
+-- scanned 07/04/2025 HBCH mailroom  pg 1/1 --

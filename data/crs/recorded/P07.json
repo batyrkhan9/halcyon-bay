@@ -1,0 +1,303 @@
+{
+  "persona": "P07",
+  "recorded_at": "2026-10-25T09:43:40Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P07",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:40Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "MARCUS BELLAMY",
+      "address_on_file": "1507 PEACHTREE INDUSTRIAL BLVD, ATLANTA, GA 30341",
+      "request_id": "00c11202-4340-4935-adef-860d333df8ee"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": true,
+      "records": [
+        {
+          "chapter": "13",
+          "status": "OPEN",
+          "status_text": "Open - Plan Confirmed",
+          "filed_on": "2025-02-14",
+          "closed_on": null,
+          "court": "US BANKRUPTCY COURT N.D. GEORGIA",
+          "case_number": "25-50877"
+        }
+      ],
+      "credit_report_records": [
+        {
+          "chapter": "13",
+          "status": "OPEN",
+          "status_text": "Filed",
+          "filed_on": "2025-02-14",
+          "reported_on": "2025-04-02"
+        }
+      ],
+      "sources_agree": true,
+      "request_id": "9e4db9e4-679e-4ee4-b54f-84d52f5f141a"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "MARCUS BELLAMY",
+      "address": "1507 PEACHTREE INDUSTRIAL BLVD, ATLANTA, GA 30341",
+      "phone": "5550101007",
+      "request_id": "369f79f8-aabe-413b-bb97-a682da8ef1a5"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "e743b93c-6ba5-4558-8c97-79b1d75ea6f7"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "00c11202-4340-4935-adef-860d333df8ee",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "MARCUS",
+                "middle": "J",
+                "last": "BELLAMY"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "1507",
+                "name": "PEACHTREE INDUSTRIAL BLVD"
+              },
+              "location": {
+                "city": "ATLANTA",
+                "state": "GA",
+                "zipCode": "30341"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701007",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701007",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1975-12-05T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "9e4db9e4-679e-4ee4-b54f-84d52f5f141a",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": {
+            "Bankruptcies": {
+              "BankruptcyRecord": {
+                "Status": "Open - Plan Confirmed",
+                "Debtor": {
+                  "Name": {
+                    "FirstName": "MARCUS",
+                    "UnparsedName": "MARCUS BELLAMY",
+                    "LastName": "BELLAMY"
+                  }
+                },
+                "CourtCaseNumber": "25-50877",
+                "FilingDate": {
+                  "month": "02",
+                  "year": 2025,
+                  "day": 14
+                },
+                "Chapter": 13,
+                "DamarDocumentType": "Bankruptcy",
+                "FilingLocation": "Atlanta, GA",
+                "FilingType": "Bankruptcy",
+                "Court": {
+                  "Address": {
+                    "State": "GA",
+                    "City": "ATLANTA"
+                  },
+                  "Id": "GANB",
+                  "Name": "US BANKRUPTCY COURT N.D. GEORGIA"
+                }
+              }
+            }
+          },
+          "BankruptciesFound": 1,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "369f79f8-aabe-413b-bb97-a682da8ef1a5",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "MARCUS",
+              "lastName": "BELLAMY",
+              "houseNo": "1507",
+              "streetName": "PEACHTREE INDUSTRIAL BLVD",
+              "address": "1507 PEACHTREE INDUSTRIAL BLVD",
+              "city": "ATLANTA",
+              "state": "GA",
+              "postalCode": "30341"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "e743b93c-6ba5-4558-8c97-79b1d75ea6f7",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:40.271204Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2016-04-07",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "MARCUS",
+                "lastName": "BELLAMY",
+                "middleName": "J"
+              }
+            ]
+          }
+        ],
+        "publicRecords": [
+          {
+            "accountOwnershipType": "Individual",
+            "borrowerSourceType": "Borrower",
+            "subscriberCode": "",
+            "bankruptcyType": "Personal",
+            "dispositionType": "Filed",
+            "filedDate": "2025-02-14",
+            "reportedDate": "2025-04-02",
+            "sourceType": "TransUnion",
+            "publicRecordType": "BankruptcyChapter13"
+          }
+        ]
+      }
+    }
+  }
+}

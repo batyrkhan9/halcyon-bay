@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+9684 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAVYA LIU        Emp ID: 46056
+Position: Software engineer
+Pay Period: 07/31/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     2,256.97     36,111.52
+GROSS PAY                                  2,256.97     36,111.52
+DEDUCTIONS
+  Federal Income Tax                       203.12
+  Social Security                          139.93
+   Medicare                                  32.72
+  CA SDI                                    24.82
+NET PAY                                  1,856.38
+--------------------------------------------------------------
+
+RECEIVED AUG 30 2026  - mailroom

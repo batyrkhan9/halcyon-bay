@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+7842 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MIN-JI KEALOHA        Emp ID: 60139
+~ ~ .  ,
+Position: Driver
+Pay Period: 07/21/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      6,991.14    104,867.10
+GROSS PAY                                  6,991.14    104,867.10
+DEDUCTIONS
+  Federal Income Tax                       349.55
+  Social Security                          433.45
+      Medicare                                 101.37
+    CA SDI                                    76.90
+NET PAY                                  6,029.87
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]

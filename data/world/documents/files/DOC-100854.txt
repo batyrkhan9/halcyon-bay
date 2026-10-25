@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+2345 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: LINH SINGH        Emp ID: 19715
+Position: Cleaner
+Pay Period: 12/06/2025 - 12/19/2025     Pay Date: 12/24/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.43     54.50         949.94     24,698.44
+GROSS PAY                                    949.94     24,698.44
+DEDUCTIONS
+  Federal Income Tax                        75.99
+  Social Security                           58.89
+  Medicare                                  13.77
+  CA SDI                                    10.44
+NET PAY                                    790.85
+--------------------------------------------------------------
+
+FAX RECEIVED 01/06/2026 10:27   P.01

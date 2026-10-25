@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+ 617 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: KAYLA ZAMORA        Emp ID: 66305
+Position: Line worker
+Pay Period: 04/19/2026 - 05/03/2026     Pay Date: 05/08/2026
+Pay Frequency: 5emi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular            118.47     86.67      10,267.79     92,410.11
+GROSS PAY                                 10,267.79     92,410.11
+DEDUCTIONS
+  Federal Income Tax                     1,026.77
+  Social 5ecurity                          636.60
+  Medicare                                 148.88
+    CA SDI                                   112.94
+    NET PAY                                  8,342.60
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/19/2026]

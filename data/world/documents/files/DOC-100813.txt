@@ -1,0 +1,21 @@
+M1RADOR PUBLIC LIBRARY
+8620 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KYLE LEE        Emp ID: 59094
+Position: Library assistant
+Pay Period: 10/27/2025 - 11/09/2025     Pay Date: 11/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,771.88     40,753.24
+GROSS PAY                                  1,771.88     40,753.24
+  . : .
+DEDUCTIONS
+   Federal Income Tax                       159.46
+  Social Security                          109.85
+  Medicare                                  25.69
+   CA SDI                                    19.49
+NET PAY                                  1,457.39
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/04/2025]

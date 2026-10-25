@@ -1,0 +1,21 @@
+  CYPRESS FLATS AUTO BODY
+2844 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ALEJANDRO ALVAREZ        Emp ID: 43542
+Position: Technician
+Pay Period: 03/12/2026 - 04/10/2026     Pay Date: 04/15/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+Salary                                     1,505.03      6,020.12
+GROSS PAY                                   1,505.03      6,020.12
+DEDUCTIONS
+  Federal Income Tax                       165.55
+  Social Security                           93.31
+  Medicare                                  21.82
+  CA SDI                                    16.55
+NET PAY                                  1,207.80
+--------------------------------------------------------------
+
+RECEIVED MAY 23 2026  - mailroom

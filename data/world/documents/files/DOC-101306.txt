@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+877 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAFAEL WILLIAMS        Emp ID: 46321
+Position: Line worker
+Pay Period: 06/11/2026 - 06/24/2026     Pay Date: 06/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,259.15     42,368.95
+ GROSS PAY                                  3,259.15     42,368.95
+DEDUCTIONS
+     Federal Income Tax                       228.14
+  Social Security                          202.06
+  Medicare                                  47.25
+   CA SDI                                    35.85
+NET PAY                                  2,745.85
+--------------------------------------------------------------
+
+-- scanned 07/09/2026 HBCH mailroom  pg 1/1 --

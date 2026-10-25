@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+   7871 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI SALAZAR        Emp ID: 89574
+Position: Medical receptionist
+Pay Period: 11/24/2024 - 11/30/2024     Pay Date: 12/05/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     1,171.26     57,391.74
+GROSS PAY                                  1,171.26     57,391.74
+DEDUCTIONS
+  Federal Income Tax                        58.56
+  Social Security                           72.61
+  Medicare                                  16.98
+  CA SDI                                    12.88
+NET PAY                                  1,010.23
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/24/2024]

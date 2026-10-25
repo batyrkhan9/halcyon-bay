@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+368 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAMON PATEL-DANG        Emp ID: 52552
+   Position: Driver
+Pay Period: 11/09/2024 - 11/22/2024     Pay Date: 11/27/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.93     36.00         681.48     16,355.52
+GROSS PAY                                    681.48     16,355.52
+DEDUCTIONS
+  Federal Income Tax                        61.33
+  Social Security                           42.25
+  Medicare                                   9.88
+| |   .
+  CA SDI                                     7.49
+NET PAY                                    560.53
+--------------------------------------------------------------
+
+-- scanned 12/07/2024 HBCH mailroom  pg 1/1 --

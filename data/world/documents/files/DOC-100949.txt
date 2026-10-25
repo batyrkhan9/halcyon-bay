@@ -1,0 +1,21 @@
+    VISTA SERENA MEDICAL OFFICES
+5523 HARBOR WAY   CA
+  . : .
+                          EARNINGS STATEMENT
+Employee: NICOLE CHOI        Emp ID: 64809
+Position: Medical receptionist
+   Pay Period: 01/29/2026 - 02/04/2026     Pay Date: 02/09/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       926.47      5,558.82
+GROSS PAY                                    926.47      5,558.82
+DEDUCTIONS
+  Federal Income Tax                       101.91
+  Social Security                           57.44
+  Medicare                                  13.43
+  CA SDI                                    10.19
+NET PAY                                    743.50
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/13/2026]

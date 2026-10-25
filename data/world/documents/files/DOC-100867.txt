@@ -1,0 +1,18 @@
+Form 1040   U.S. 1ndividual Income Tax Return   2024
+    (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  TARIQ KOWALSKI
+Your social security number: XXX-XX-4685
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   127,646.00
+    8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   127,646.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   127,646.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Tariq Kowalski        Date: 04/05/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/16/2026]

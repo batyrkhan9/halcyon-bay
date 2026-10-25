@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+8021 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUIS DAVIS        Emp 1D: 72405
+Position: Laborer
+Pay Period: 07/19/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.23     29.75         542.34      8,677.44
+GROSS PAY                                    542.34      8,677.44
+DEDUCTI0NS
+    Federal Income Tax                        32.54
+  Social Security                           33.62
+  Medicare                                   7.86
+  CA SD1                                     5.96
+NET PAY                                    462.36
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

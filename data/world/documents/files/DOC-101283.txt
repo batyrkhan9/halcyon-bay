@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+4228 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA WRIGHT-KOWALSKI        Emp ID: 16639
+Position: Dental assistant
+Pay Period: 06/07/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,899.66     63,695.58
+GROSS PAY                                  4,899.66     63,695.58
+  DEDUCTIONS
+  Federal Income Tax                       342.97
+  Social Security                          303.77
+  Medicare                                  71.04
+     CA SDI                                    53.89
+NET PAY                                  4,127.99
+ --------------------------------------------------------------
+
+-- scanned 07/06/2026 HBCH mailroom  pg 1/1 --

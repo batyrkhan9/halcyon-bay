@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+4130 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RODRIGO ZHOU        Emp ID: 94114
+Position: Line w0rker
+  Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+_ _ _ _
+Salary                                       864.06      8,640.60
+GROSS PAY                                    864.06      8,640.60
+DEDUCTIONS
+   Federal Income Tax                        60.48
+  Social Security                           53.57
+  Medicare                                  12.52
+  CA SDI                                     9.50
+  NET PAY                                    727.99
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2025]

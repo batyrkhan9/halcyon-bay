@@ -1,0 +1,242 @@
+{
+  "persona": "P19",
+  "recorded_at": "2026-10-25T09:43:43Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P19",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:43Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "GRACE NAKAMURA",
+      "address_on_file": "1850 SOLANO AVE, BERKELEY, CA 94707",
+      "request_id": "f1c470cc-f2e2-4882-a273-aab17f3aafa0"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "2e9895bd-194a-4731-997c-6af6ab673a4c"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "GRACE NAKAMURA",
+      "address": "1850 SOLANO AVE, BERKELEY, CA 94707",
+      "phone": "5550101019",
+      "request_id": "11896a74-71ea-44d0-8f20-3ee1c1072f94"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "e4109c6f-59e8-45f1-9625-0d90c60fc63a"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "f1c470cc-f2e2-4882-a273-aab17f3aafa0",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "GRACE",
+                "middle": "H",
+                "last": "NAKAMURA"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "1850",
+                "name": "SOLANO AVE"
+              },
+              "location": {
+                "city": "BERKELEY",
+                "state": "CA",
+                "zipCode": "94707"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701019",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701019",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1976-09-16T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "2e9895bd-194a-4731-997c-6af6ab673a4c",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "11896a74-71ea-44d0-8f20-3ee1c1072f94",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "GRACE",
+              "lastName": "NAKAMURA",
+              "houseNo": "1850",
+              "streetName": "SOLANO AVE",
+              "address": "1850 SOLANO AVE",
+              "city": "BERKELEY",
+              "state": "CA",
+              "postalCode": "94707"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "e4109c6f-59e8-45f1-9625-0d90c60fc63a",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:43.420372Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2019-09-10",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "GRACE",
+                "lastName": "NAKAMURA",
+                "middleName": "H"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

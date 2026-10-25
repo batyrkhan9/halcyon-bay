@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+2110 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: TOMASZ MENDOZA        Emp ID: 27640
+Position: Line cook
+Pay Period: 04/19/2026 - 05/03/2026      Pay Date: 05/08/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.27     63.75       1,164.71     10,482.39
+GROSS PAY                                  1,164.71     10,482.39
+DEDUCTIONS
+    Federal Income Tax                        93.17
+  5ocial Security                           72.21
+  Medicare                                  16.88
+  CA SDI                                    12.81
+NET PAY                                    969.64
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]

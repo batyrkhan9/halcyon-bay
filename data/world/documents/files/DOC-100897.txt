@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+3278 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDRE SMITH        Emp ID: 70188
+Position: Cashier
+ Pay Period: 12/24/2025 - 01/06/2026     Pay Date: 01/11/2026
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             80.98     80.00       6,478.40      6,478.40
+GROSS PAY                                  6,478.40      6,478.40
+DEDUCTIONS
+  Federal Income Tax                       388.70
+   Social Security                          401.66
+  Medicare                                  93.93
+  CA SDI                                    71.26
+NET PAY                                  5,522.85
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/25/2026]

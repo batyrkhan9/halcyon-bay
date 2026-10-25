@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+1965 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE SMITH        Emp ID: 26361
+Position: Housekeeper
+Pay Period: 06/20/2026 - 06/26/2026     Pay Date: 07/01/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       688.81     17,909.06
+GROSS PAY                                    688.81     17,909.06
+DEDUCTIONS
+      Federal Income Tax                        61.99
+  Social Security                           42.70
+      Medicare                                   9.98
+  CA SDI                                     7.57
+NET PAY                                    566.57
+--------------------------------------------------------------
+
+FAX RECEIVED 07/17/2026 10:30   P.01

@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+5038 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND VO        Emp ID: 21783
+Position: Line worker
+Pay Peri0d: 05/24/2025 - 06/06/2025     Pay Date: 06/11/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.83     29.75         500.69      6,008.28
+   GROSS PAY                                    500.69      6,008.28
+DEDUCTIONS
+  Federal Income Tax                        55.07
+~ ~ .  ,
+   Social Security                           31.04
+  Medicare                                   7.26
+  CA SDI                                     5.50
+NET PAY                                    401.82
+  --------------------------------------------------------------
+
+FAX RECEIVED 07/02/2025 10:42   P.01

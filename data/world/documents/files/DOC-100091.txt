@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+5036 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: TARIQ RIVERA        Emp ID: 34939
+Position: Field technician
+Pay Period: 02/01/2025 - 02/15/2025      Pay Date: 02/20/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.03     76.25       1,298.54      5,194.16
+GROSS PAY                                  1,298.54      5,194.16
+DEDUCTIONS
+  Federal Income Tax                       103.88
+  Social Security                           80.50
+  Medicare                                  18.82
+  CA SDI                                    14.28
+    NET PAY                                  1,081.06
+  --------------------------------------------------------------
+
+-- scanned 03/03/2025 HBCH mailroom  pg 1/1 --

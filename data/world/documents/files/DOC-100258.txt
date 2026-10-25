@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+6422 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROSA RAHMAN        Emp ID: 52648
+Position: Software engineer
+Pay Period: 04/19/2025 - 05/03/2025     Pay Date: 05/08/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             30.52     86.67       2,645.17     23,806.53
+GROSS PAY                                  2,645.17     23,806.53
+  DEDUCTIONS
+  Federal Income Tax                       132.25
+  Social Security                          164.00
+  Medicare                                  38.35
+    CA SDI                                    29.09
+    NET PAY                                  2,281.48
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/16/2025]

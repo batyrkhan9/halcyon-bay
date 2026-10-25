@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+1283 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANA GREEN        Emp ID: 85131
+Position: Medical receptionist
+Pay Period: 02/25/2026 - 03/10/2026     Pay Date: 03/15/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             18.97     59.25       1,123.97      6,743.82
+GROSS PAY                                  1,123.97      6,743.82
+DEDUCTIONS
+  Federal Income Tax                        89.91
+  Social Security                           69.68
+  . : .
+      Medicare                                  16.29
+  CA SDI                                    12.36
+NET PAY                                    935.73
+--------------------------------------------------------------
+
+FAX RECEIVED 03/30/2026 10:58   P.01

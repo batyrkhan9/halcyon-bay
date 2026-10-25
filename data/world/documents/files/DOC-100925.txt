@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+3512 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: ALEJANDRO JOHNSON        Emp ID: 81471
+Position: Guest services
+Pay Period: 01/11/2026 - 01/24/2026     Pay Date: 01/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.76     25.50         452.88      1,358.64
+GROSS PAY                                    452.88      1,358.64
+  . : .
+DEDUCTIONS
+  Federal Inc0me Tax                        31.70
+  Social Security                           28.07
+  Medicare                                   6.56
+  CA SDI                                     4.98
+NET PAY                                    381.57
+--------------------------------------------------------------
+
+RECEIVED FEB 05 2026  - mailroom

@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+ 8281 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA SILVA        Emp 1D: 46229
+Position: Technician
+Pay Period: 11/06/2024 - 11/20/2024     Pay Date: 11/25/2024
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,283.40     72,234.80
+GROSS PAY                                  3,283.40     72,234.80
+ DEDUCTIONS
+  Federal Income Tax                       229.83
+  . : .
+  Social Security                          203.57
+  Medicare                                  47.60
+  CA SDI                                    36.11
+NET PAY                                  2,766.29
+--------------------------------------------------------------
+
+-- scanned 11/30/2024 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+5976 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: GREGORY JONES        Emp ID: 59572
+Position: Line w0rker
+Pay Period: 04/26/2025 - 05/09/2025     Pay Date: 05/14/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             67.96     80.00       5,436.80     54,368.00
+GROSS PAY                                  5,436.80     54,368.00
+DEDUCTIONS
+  Federal Income Tax                       380.57
+  Social Security                          337.08
+  Medicare                                  78.83
+| |   .
+  CA SDI                                    59.80
+NET PAY                                  4,580.52
+--------------------------------------------------------------
+
+-- scanned 05/21/2025 HBCH mailroom  pg 1/1 --

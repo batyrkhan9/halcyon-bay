@@ -1,0 +1,20 @@
+PACIFIC RIM JANITORIAL
+4054 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMAL THOMPSON        Emp ID: 82684
+Position: Custodian
+Pay Period: 07/21/2026 - 07/27/2026     Pay Date: 08/01/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             47.98     40.00       1,919.20     59,495.20
+GROSS PAY                                  1,919.20     59,495.20
+DEDUCTIONS
+    Federal Income Tax                        95.96
+  Social Security                          118.99
+  Medicare                                  27.82
+  CA SDI                                    21.11
+ NET PAY                                  1,655.32
+--------------------------------------------------------------
+
+FAX RECEIVED 08/13/2026 10:15   P.01

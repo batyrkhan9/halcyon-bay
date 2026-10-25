@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+1072 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN KANG        Emp ID: 91454
+Position: Mechanic
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             85.57     80.00       6,845.60     88,992.80
+GRO5S PAY                                  6,845.60     88,992.80
+DEDUCTIONS
+  Federal Income Tax                       684.56
+     Social Security                          424.42
+  Medicare                                  99.26
+  CA SD1                                    75.30
+NET PAY                                  5,562.06
+--------------------------------------------------------------
+
+-- scanned 07/02/2026 HBCH mailroom  pg 1/1 --

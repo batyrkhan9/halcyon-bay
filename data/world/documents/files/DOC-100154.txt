@@ -1,0 +1,20 @@
+    SEASIDE DENTAL GROUP
+6089 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: ANDRE FITZGERALD-ESPINOZA        Emp ID: 28700
+Position: Dental assistant
+Pay Period: 03/14/2025 - 03/27/2025     Pay Date: 04/01/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             21.33     80.00       1,706.40     11,944.80
+GROSS PAY                                  1,706.40     11,944.80
+DEDUCTIONS
+  Federal Income Tax                       119.44
+  Social Security                          105.79
+  Medicare                                  24.74
+  CA SDI                                    18.77
+NET PAY                                  1,437.66
+--------------------------------------------------------------
+
+FAX RECEIVED 04/06/2025 10:26   P.01

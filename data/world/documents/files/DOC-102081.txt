@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+    4097 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MICHAEL QUINN        Emp ID: 57682
+Position: Medical receptionist
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+_ _ _ _
+Regular             33.17     80.00       2,653.60     47,764.80
+GROSS PAY                                  2,653.60     47,764.80
+   DEDUCTIONS
+  Federa1 Income Tax                       185.75
+  Social Security                          164.52
+    Medicare                                  38.47
+  CA SDI                                    29.19
+NET PAY                                  2,235.67
+--------------------------------------------------------------
+
+-- scanned 09/26/2026 HBCH mailroom  pg 1/1 --

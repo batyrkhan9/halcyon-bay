@@ -1,0 +1,20 @@
+    PORT ELLERY CANNERY CO
+ 5364 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENNETH ABDULLAH        Emp ID: 82925
+  Position: Line worker
+Pay Period: 10/25/2025 - 11/07/2025     Pay Date: 11/12/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.89     80.00       1,671.20     38,437.60
+GROSS PAY                                  1,671.20     38,437.60
+DEDUCTIONS
+  Federal Income Tax                        83.56
+  Social Security                          103.61
+      Medicare                                  24.23
+  CA SDI                                    18.38
+NET PAY                                  1,441.42
+--------------------------------------------------------------
+
+RECEIVED NOV 20 2025  - mailroom

@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+369 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: YESENIA DAVIS        Emp ID: 10858
+Position: Housekeeper
+Pay Period: 06/12/2026 - 07/11/2026     Pay Date: 07/16/2026
+ Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.44     99.50       1,735.28     12,146.96
+GROSS PAY                                  1,735.28     12,146.96
+ DEDUCTIONS
+  Federal Income Tax                       190.88
+  Social Security                          107.58
+      Medicare                                  25.16
+  CA SDI                                    19.08
+  NET PAY                                  1,392.58
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/27/2026]

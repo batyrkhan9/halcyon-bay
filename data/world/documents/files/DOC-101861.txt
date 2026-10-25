@@ -1,0 +1,21 @@
+PACIFIC RIM JANITORIAL
+6698 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN RAMIREZ        Emp ID: 28641
+Position: Custodian
+Pay Period: 08/07/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+| |   .
+Regular            128.11     86.67      11,103.29    177,652.64
+ GROSS PAY                                 11,103.29    177,652.64
+DEDUCTIONS
+  Federal Income Tax                       666.19
+   Social Security                          688.40
+  Medicare                                 160.99
+   CA SDI                                   122.13
+NET PAY                                  9,465.58
+--------------------------------------------------------------
+
+RECEIVED SEP 08 2026  - mailroom

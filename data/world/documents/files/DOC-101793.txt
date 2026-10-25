@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+4148 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: KAVYA LIU        Emp ID: 46056
+Position: Software engineer
+Pay Period: 07/16/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+  Salary                                     2,256.97     33,854.55
+    GROSS PAY                                  2,256.97     33,854.55
+DEDUCTIONS
+  Federal Income Tax                       135.41
+  Social Security                          139.93
+  Medicare                                  32.72
+      CA SDI                                    24.82
+NET PAY                                  1,924.09
+--------------------------------------------------------------
+
+FAX RECEIVED 08/30/2026 10:54   P.01

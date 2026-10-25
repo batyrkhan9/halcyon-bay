@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+4211 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  Employee: SHARON LIU-NAVARRO        Emp ID: 58464
+    Position: Software engineer
+Pay Period: 07/06/2026 - 07/19/2026     Pay Date: 07/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+    Regular             50.43     80.00       4,034.40     60,516.00
+GROSS PAY                                  4,034.40     60,516.00
+DEDUCTIONS
+  Federal Income Tax                       322.75
+  Social Security                          250.13
+  Medicare                                  58.49
+  CA SDI                                    44.37
+NET PAY                                  3,358.66
+--------------------------------------------------------------
+
+RECEIVED AUG 14 2026  - mailroom

@@ -1,0 +1,20 @@
+ POINT CORRIN BOATWORKS
+6826 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA GALLAGHER        Emp ID: 26472
+ Position: Mechanic
+Pay Period: 10/30/2025 - 11/13/2025     Pay Date: 11/18/2025
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,441.93     31,722.46
+GROSS PAY                                  1,441.93     31,722.46
+DEDUCTIONS
+  Federal Inc0me Tax                       100.93
+  Social Security                           89.40
+  Medicare                                  20.90
+  CA SDI                                    15.86
+NET PAY                                  1,214.84
+--------------------------------------------------------------
+
+FAX RECEIVED 12/01/2025 10:51   P.01

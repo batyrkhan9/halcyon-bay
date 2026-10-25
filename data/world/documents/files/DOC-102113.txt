@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+923 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: KIM LIN        Emp ID: 78557
+ Position: Software engineer
+Pay Period: 08/07/2026 - 08/20/2026     Pay Date: 08/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             38.18     80.00       3,054.40     51,924.80
+GROSS PAY                                  3,054.40     51,924.80
+DEDUCTIONS
+  Federal Income Tax                       213.80
+  Social Security                          189.37
+  Medicare                                  44.28
+  CA SDI                                    33.59
+    NET PAY                                  2,573.36
+--------------------------------------------------------------
+
+RECEIVED SEP 27 2026  - mailroom

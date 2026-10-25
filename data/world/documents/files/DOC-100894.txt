@@ -1,0 +1,20 @@
+BAYL1NE LOGISTICS INC
+5413 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO HARRIS        Emp ID: 94006
+Position: Warehouse associate
+    Pay Period: 11/03/2025 - 12/02/2025     Pay Date: 12/07/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.69    173.33       3,759.53     45,114.36
+GROSS PAY                                  3,759.53     45,114.36
+DEDUCTIONS
+  Federal Income Tax                       375.95
+  Social Security                          233.09
+  Medicare                                  54.51
+  CA SDI                                    41.35
+NET PAY                                  3,054.63
+--------------------------------------------------------------
+
+-- scanned 01/21/2026 HBCH mailroom  pg 1/1 --

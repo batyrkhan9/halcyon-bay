@@ -1,0 +1,21 @@
+  CYPRESS FLATS AUTO BODY
+~ ~ .  ,
+798 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: VALERIA WASHINGTON        Emp ID: 27353
+Position: Technician
+Pay Period: 08/31/2025 - 09/06/2025     Pay Date: 09/11/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.71     40.00       2,348.40     86,890.80
+GRO5S PAY                                  2,348.40     86,890.80
+DEDUCTIONS
+   Federal Income Tax                       164.38
+  Social Security                          145.60
+  Medicare                                  34.05
+  CA SDI                                    25.83
+NET PAY                                  1,978.54
+--------------------------------------------------------------
+
+FAX RECEIVED 09/29/2025 10:21   P.01

@@ -1,0 +1,20 @@
+ ARR0YO VERDE NURSERY
+6587 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: JAMAL QUINN        Emp ID: 61821
+Position: Nursery worker
+Pay Period: 01/20/2026 - 02/18/2026     Pay Date: 02/23/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             18.24     82.75       1,509.36      3,018.72
+GROSS PAY                                  1,509.36      3,018.72
+   DEDUCTIONS
+  Federal Income Tax                       120.74
+  Social Security                           93.58
+  Medicare                                  21.88
+  CA SDI                                    16.60
+NET PAY                                  1,256.56
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/09/2026]

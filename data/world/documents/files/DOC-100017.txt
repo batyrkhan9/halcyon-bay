@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+2299 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRENDA SATO        Emp ID: 43886
+Position: Sales associate
+Pay Period: 10/27/2024 - 11/09/2024     Pay Date: 11/14/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+    Regular             18.57     54.00       1,002.78     23,063.94
+GROSS PAY                                  1,002.78     23,063.94
+DEDUCTIONS
+  Federal Inc0me Tax                        40.11
+  Social Security                           62.17
+    Medicare                                  14.54
+  CA SDI                                    11.03
+  NET PAY                                    874.93
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/13/2024]

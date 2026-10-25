@@ -1,0 +1,307 @@
+{
+  "persona": "P06",
+  "recorded_at": "2026-10-25T09:43:39Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P06",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:39Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "ANGELA MORRISSEY",
+      "address_on_file": "960 MAPLEWOOD AVE, COLUMBUS, OH 43209",
+      "request_id": "fd4217d5-67f5-464b-b7d8-1660029f1a3a"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [
+        {
+          "chapter": "7",
+          "status": "DISCHARGED",
+          "status_text": "Discharged",
+          "filed_on": "2023-05-09",
+          "closed_on": "2024-01-18",
+          "court": "US BANKRUPTCY COURT S.D. OHIO",
+          "case_number": "23-51234"
+        }
+      ],
+      "credit_report_records": [
+        {
+          "chapter": "7",
+          "status": "DISCHARGED",
+          "status_text": "Discharged",
+          "filed_on": "2023-05-09",
+          "reported_on": "2024-01-18"
+        }
+      ],
+      "sources_agree": true,
+      "request_id": "a4d80cfd-0938-45e2-81a2-36f3262ac552"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "ANGELA MORRISSEY",
+      "address": "960 MAPLEWOOD AVE, COLUMBUS, OH 43209",
+      "phone": "5550101006",
+      "request_id": "2c067240-c314-4a76-83da-97be66c2ea7a"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "656eaee4-b06b-4d20-9e2c-4e920ead29d8"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "fd4217d5-67f5-464b-b7d8-1660029f1a3a",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "ANGELA",
+                "middle": "M",
+                "last": "MORRISSEY"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "960",
+                "name": "MAPLEWOOD AVE"
+              },
+              "location": {
+                "city": "COLUMBUS",
+                "state": "OH",
+                "zipCode": "43209"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701006",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701006",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1979-04-18T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "a4d80cfd-0938-45e2-81a2-36f3262ac552",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": {
+            "Bankruptcies": {
+              "BankruptcyRecord": {
+                "Status": "Discharged",
+                "Debtor": {
+                  "Name": {
+                    "FirstName": "ANGELA",
+                    "UnparsedName": "ANGELA MORRISSEY",
+                    "LastName": "MORRISSEY"
+                  }
+                },
+                "CourtCaseNumber": "23-51234",
+                "FilingDate": {
+                  "month": "05",
+                  "year": 2023,
+                  "day": "09"
+                },
+                "DischargeDate": {
+                  "month": "01",
+                  "year": 2024,
+                  "day": 18
+                },
+                "Chapter": 7,
+                "DamarDocumentType": "Bankruptcy",
+                "FilingLocation": "Columbus, OH",
+                "FilingType": "Bankruptcy",
+                "Court": {
+                  "Address": {
+                    "State": "OH",
+                    "City": "COLUMBUS"
+                  },
+                  "Id": "OHSB",
+                  "Name": "US BANKRUPTCY COURT S.D. OHIO"
+                }
+              }
+            }
+          },
+          "BankruptciesFound": 1,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "2c067240-c314-4a76-83da-97be66c2ea7a",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "ANGELA",
+              "lastName": "MORRISSEY",
+              "houseNo": "960",
+              "streetName": "MAPLEWOOD AVE",
+              "address": "960 MAPLEWOOD AVE",
+              "city": "COLUMBUS",
+              "state": "OH",
+              "postalCode": "43209"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "656eaee4-b06b-4d20-9e2c-4e920ead29d8",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:40.038394Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2015-11-08",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "ANGELA",
+                "lastName": "MORRISSEY",
+                "middleName": "M"
+              }
+            ]
+          }
+        ],
+        "publicRecords": [
+          {
+            "accountOwnershipType": "Individual",
+            "borrowerSourceType": "Borrower",
+            "subscriberCode": "",
+            "dispositionType": "Discharged",
+            "filedDate": "2023-05-09",
+            "reportedDate": "2024-01-18",
+            "sourceType": "TransUnion",
+            "publicRecordType": "BankruptcyChapter7"
+          }
+        ]
+      }
+    }
+  }
+}

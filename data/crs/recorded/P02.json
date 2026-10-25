@@ -1,0 +1,242 @@
+{
+  "persona": "P02",
+  "recorded_at": "2026-10-25T09:43:38Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P02",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:38Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "DANIEL WHITFIELD",
+      "address_on_file": "88 LAKESHORE BLVD, AUSTIN, TX 78746",
+      "request_id": "fe96ce2f-523b-4195-8759-cb707a4f375b"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "bffff677-8cfc-4bfe-9f23-ff9d541401c7"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "DANIEL WHITFIELD",
+      "address": "88 LAKESHORE BLVD, AUSTIN, TX 78746",
+      "phone": "5550101002",
+      "request_id": "82a4b18a-b1a4-4c8d-afb8-68aded291a88"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "785466bc-df17-48c3-b878-e6e4add7455b"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "fe96ce2f-523b-4195-8759-cb707a4f375b",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "DANIEL",
+                "middle": "R",
+                "last": "WHITFIELD"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "88",
+                "name": "LAKESHORE BLVD"
+              },
+              "location": {
+                "city": "AUSTIN",
+                "state": "TX",
+                "zipCode": "78746"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701002",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701002",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1972-11-02T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "bffff677-8cfc-4bfe-9f23-ff9d541401c7",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "82a4b18a-b1a4-4c8d-afb8-68aded291a88",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "DANIEL",
+              "lastName": "WHITFIELD",
+              "houseNo": "88",
+              "streetName": "LAKESHORE BLVD",
+              "address": "88 LAKESHORE BLVD",
+              "city": "AUSTIN",
+              "state": "TX",
+              "postalCode": "78746"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "785466bc-df17-48c3-b878-e6e4add7455b",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:39.100963Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2019-09-10",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "DANIEL",
+                "lastName": "WHITFIELD",
+                "middleName": "R"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

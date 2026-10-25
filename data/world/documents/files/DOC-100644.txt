@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+6441 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOAH MITCHELL        Emp ID: 97577
+Position: Technician
+Pay Period: 06/07/2025 - 07/06/2025     Pay Date: 07/11/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             27.93    173.33       4,841.11     33,887.77
+GROSS PAY                                  4,841.11     33,887.77
+DEDUCTIONS
+  Federal Income Tax                       290.46
+      Social Security                          300.14
+  Medicare                                  70.19
+  CA SD1                                    53.25
+NET PAY                                  4,127.07
+--------------------------------------------------------------
+
+-- scanned 09/24/2025 HBCH mailroom  pg 1/1 --

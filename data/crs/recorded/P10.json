@@ -1,0 +1,242 @@
+{
+  "persona": "P10",
+  "recorded_at": "2026-10-25T09:43:40Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P10",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:40Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "PASS",
+      "problems": [],
+      "name_on_file": "LAUREN KOWALCZYK",
+      "address_on_file": "1181 WOODWARD AVE, DETROIT, MI 48226",
+      "request_id": "53b3215e-cb3a-45f3-98f7-8ca0b0d9cf16"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": [],
+      "sources_agree": true,
+      "request_id": "4d817429-c833-44dc-b92d-69a65a8bc71d"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "LAUREN KOWALCZYK",
+      "address": "1181 WOODWARD AVE, DETROIT, MI 48226",
+      "phone": "5550101010",
+      "request_id": "0a2d015a-9305-435b-aa41-947261dcc8a5"
+    },
+    "credit_report": {
+      "file_status": "FileReturned",
+      "deceased": false,
+      "request_id": "87139eb7-3740-46a9-be97-73a9a1a1418e"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "53b3215e-cb3a-45f3-98f7-8ca0b0d9cf16",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "LAUREN",
+                "middle": "B",
+                "last": "KOWALCZYK"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "1181",
+                "name": "WOODWARD AVE"
+              },
+              "location": {
+                "city": "DETROIT",
+                "state": "MI",
+                "zipCode": "48226"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701010",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701010",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1992-10-03T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "4d817429-c833-44dc-b92d-69a65a8bc71d",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "0a2d015a-9305-435b-aa41-947261dcc8a5",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-0001",
+          "records": [
+            {
+              "firstName": "LAUREN",
+              "lastName": "KOWALCZYK",
+              "houseNo": "1181",
+              "streetName": "WOODWARD AVE",
+              "address": "1181 WOODWARD AVE",
+              "city": "DETROIT",
+              "state": "MI",
+              "postalCode": "48226"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "87139eb7-3740-46a9-be97-73a9a1a1418e",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:41.045082Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2009-05-11",
+              "creditFileResultStatusType": "FileReturned",
+              "sourceType": "TransUnion"
+            },
+            "aliases": [
+              {
+                "firstName": "LAUREN",
+                "lastName": "KOWALCZYK",
+                "middleName": "B"
+              }
+            ]
+          }
+        ],
+        "publicRecords": []
+      }
+    }
+  }
+}

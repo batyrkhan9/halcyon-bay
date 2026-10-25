@@ -1,0 +1,21 @@
+     POINT CORRIN BOATWORKS
+   5130 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN ADAMS        Emp ID: 97038
+Position: Mechanic
+Pay Period: 01/13/2025 - 01/26/2025      Pay Date: 01/31/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             37.98     80.00       3,038.40      9,115.20
+GROSS PAY                                  3,038.40      9,115.20
+    DEDUCTIONS
+  Federal Income Tax                       303.84
+  Social Security                          188.38
+  Medicare                                  44.05
+  CA SDI                                    33.42
+~ ~ .  ,
+NET PAY                                  2,468.71
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/04/2025]

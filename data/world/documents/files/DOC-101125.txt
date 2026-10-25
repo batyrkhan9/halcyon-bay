@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3326 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: RACHEL SUZUKI        Emp ID: 79555
+Position: Medical receptionist
+Pay Period: 04/15/2026 - 04/28/2026     Pay Date: 05/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       831.93      7,487.37
+GROSS PAY                                    831.93      7,487.37
+    DEDUCTIONS
+  Federal Income Tax                        74.87
+  Social Security                           51.58
+  Medicare                                  12.06
+  CA SDI                                     9.15
+NET PAY                                    684.27
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/06/2026]

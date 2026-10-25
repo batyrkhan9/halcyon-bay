@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+5280 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+ Employee: ARJUN BUI        Emp ID: 61996
+Position: Caregiver
+Pay Period: 05/11/2025 - 05/24/2025     Pay Date: 05/29/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             65.35     80.00       5,228.00     57,508.00
+GROSS PAY                                  5,228.00     57,508.00
+DEDUCTIONS
+  Federal Income Tax                       470.52
+  Social Security                          324.13
+  Medicare                                  75.80
+  CA 5DI                                    57.50
+NET PAY                                  4,300.05
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/02/2025]

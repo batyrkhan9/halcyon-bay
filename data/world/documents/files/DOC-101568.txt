@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+8266 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ABIGAIL LEE-CORTEZ        Emp ID: 16836
+Position: Warehouse associate
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              24.44     80.00       1,955.20     27,372.80
+GROSS PAY                                  1,955.20     27,372.80
+DEDUCTIONS
+  Federal Income Tax                       136.86
+  Socia1 Security                          121.22
+  Medicare                                  28.35
+  CA SDI                                    21.50
+NET PAY                                  1,647.27
+--------------------------------------------------------------
+
+-- scanned 08/02/2026 HBCH mailroom  pg 1/1 --

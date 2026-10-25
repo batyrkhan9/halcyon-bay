@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+2192 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SERGIO KANG        Emp 1D: 67940
+Position: Software engineer
+  Pay Period: 06/14/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Month1y
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             45.24    173.33       7,841.45     54,890.15
+GROSS PAY                                  7,841.45     54,890.15
+DEDUCTIONS
+  Federal Income Tax                       392.07
+  Social Security                          486.17
+  Medicare                                 113.70
+  CA SDI                                    86.25
+NET PAY                                  6,763.26
+--------------------------------------------------------------
+
+-- scanned 08/02/2026 HBCH mailroom  pg 1/1 --

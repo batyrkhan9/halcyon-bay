@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+  1060 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: TERESA KELLY-ADAMS        Emp ID: 65863
+Position: Technician
+Pay Period: 07/11/2026 - 07/24/2026     Pay Date: 07/29/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             88.62     80.00       7,089.60    106,344.00
+GROSS PAY                                  7,089.60    106,344.00
+DEDUCTIONS
+  Federal Income Tax                       638.06
+    Social Security                          439.55
+  Medicare                                 102.79
+   CA SDI                                    77.98
+NET PAY                                  5,831.22
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/16/2026]

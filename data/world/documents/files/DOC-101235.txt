@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+    239 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM SMITH        Emp ID: 67275
+Position: Field supervisor
+Pay Period: 04/27/2026 - 05/26/2026     Pay Date: 05/31/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.64    173.33       3,230.87     19,385.22
+    GROSS PAY                                  3,230.87     19,385.22
+DEDUCTIONS
+  Federal Income Tax                       129.23
+  Social Security                          200.31
+  Medicare                                  46.84
+  CA SDI                                    35.54
+NET PAY                                  2,818.95
+  --------------------------------------------------------------
+
+-- scanned 06/08/2026 HBCH mailroom  pg 1/1 --

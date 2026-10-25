@@ -1,0 +1,20 @@
+   ARROYO VERDE NURSERY
+4038 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE TRAN        Emp ID: 86555
+Position: Nursery w0rker
+Pay Period: 08/13/2026 - 08/27/2026     Pay Date: 09/01/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,275.54     89,684.18
+  GROSS PAY                                  5,275.54     89,684.18
+    DEDUCTIONS
+  Federal Income Tax                       474.79
+  Social Security                          327.08
+  Medicare                                  76.49
+   CA SDI                                    58.03
+NET PAY                                  4,339.15
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/17/2026]

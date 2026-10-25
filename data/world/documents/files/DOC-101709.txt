@@ -1,0 +1,21 @@
+SEASIDE DENTAL GROUP
+   5664 MARKET WAY   CA
+| |   .
+                         EARNINGS STATEMENT
+Employee: ROSA FREEMAN        Emp ID: 74043
+Position: Dental assistant
+Pay Period: 07/17/2026 - 07/31/2026     Pay Date: 08/05/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             19.49     86.67       1,689.20     25,338.00
+GROSS PAY                                  1,689.20     25,338.00
+DEDUCTIONS
+   Federal 1ncome Tax                       152.02
+  Social Security                          104.73
+  Medicare                                  24.49
+      CA SDI                                    18.58
+NET PAY                                  1,389.38
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2026]

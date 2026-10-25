@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+7635 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRANDON FITZGERALD        Emp ID: 45183
+Position: Warehouse associate
+Pay Period: 11/16/2025 - 11/22/2025     Pay Date: 11/27/2025
+Pay Frequency: Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.60     23.25         385.95     18,525.60
+GROSS PAY                                    385.95     18,525.60
+DEDUCTIONS
+  Federal Income Tax                        19.29
+  Social Security                           23.92
+    Medicare                                   5.59
+  CA SDI                                     4.24
+NET PAY                                    332.91
+--------------------------------------------------------------
+
+FAX RECEIVED 12/10/2025 10:38   P.01

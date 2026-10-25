@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+1625 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA BROWN        Emp ID: 32378
+ P0sition: Medical receptionist
+Pay Period: 06/16/2025 - 06/22/2025     Pay Date: 06/27/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,105.83     54,751.58
+    GROSS PAY                                  2,105.83     54,751.58
+DEDUCTIONS
+  Federal Income Tax                       231.64
+  Social Security                          130.56
+   Medicare                                  30.53
+  CA SDI                                    23.16
+NET PAY                                  1,689.94
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/02/2025]

@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+  6272 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL PEREIRA        Emp ID: 23397
+Position: Teacher
+Pay Period: 07/02/2026 - 07/08/2026      Pay Date: 07/13/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.26     40.00         770.40     21,571.20
+GROSS PAY                                    770.40     21,571.20
+DEDUCTIONS
+   Federal Income Tax                        84.74
+  . : .
+  Social Security                           47.76
+  Medicare                                  11.17
+  CA SDI                                     8.47
+NET PAY                                    618.26
+--------------------------------------------------------------
+
+RECEIVED JUL 23 2026  - mailroom

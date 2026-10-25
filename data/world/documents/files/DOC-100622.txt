@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+8391 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAYLA ORTIZ        Emp ID: 52050
+Position: Software engineer
+Pay Period: 07/20/2025 - 08/02/2025     Pay Date: 08/07/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+  . : .
+Salary                                     2,296.14     36,738.24
+GROSS PAY                                  2,296.14     36,738.24
+DEDUCTIONS
+  Federal Income Tax                       229.61
+  Social Security                          142.36
+  Medicare                                  33.29
+  CA SDI                                    25.25
+NET PAY                                  1,865.63
+--------------------------------------------------------------
+
+RECEIVED SEP 18 2025  - mailroom

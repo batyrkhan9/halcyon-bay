@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+5687 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN FONOTI        Emp ID: 26822
+Position: Laborer
+Pay Period: 08/28/2025 - 09/11/2025     Pay Date: 09/16/2025
+  Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.31     45.25         828.53     14,913.54
+ GROSS PAY                                    828.53     14,913.54
+DEDUCTIONS
+  Federal Income Tax                        82.85
+  Social Security                           51.36
+  Medicare                                  12.01
+  CA SDI                                     9.11
+ NET PAY                                    673.20
+--------------------------------------------------------------
+
+RECEIVED OCT 13 2025  - mailroom

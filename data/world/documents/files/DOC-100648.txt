@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+5505 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO CASTILLO         Emp ID: 97699
+  Position: Driver
+Pay Period: 09/02/2025 - 09/15/2025     Pay Date: 09/20/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             31.85     80.00       2,548.00     48,412.00
+GROSS PAY                                  2,548.00     48,412.00
+    DEDUCTIONS
+  Federal Income Tax                       101.92
+  Social Security                          157.97
+  Medicare                                  36.94
+  CA SDI                                    28.02
+   NET PAY                                  2,223.15
+--------------------------------------------------------------
+
+FAX RECEIVED 09/26/2025 10:50   P.01

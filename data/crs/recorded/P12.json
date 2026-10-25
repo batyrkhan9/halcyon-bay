@@ -1,0 +1,262 @@
+{
+  "persona": "P12",
+  "recorded_at": "2026-10-25T09:43:41Z",
+  "note": "Synthetic CRS sandbox persona. Raw answers trimmed to the fields the checks read; no credit rating data, no token.",
+  "result": {
+    "sent": true,
+    "persona": "P12",
+    "source": "live",
+    "checked_at": "2026-10-25T09:43:41Z",
+    "input_matches": {
+      "name": true,
+      "dob": true,
+      "address": true,
+      "phone": true
+    },
+    "identity": {
+      "result": "FAIL",
+      "problems": [
+        {
+          "code": "2201",
+          "text": "INPUT SSN NOT ASSOCIATED WITH INPUT NAME"
+        },
+        {
+          "code": "2202",
+          "text": "INPUT DATE OF BIRTH DOES NOT MATCH FILE"
+        },
+        {
+          "code": "2101",
+          "text": "INPUT CURRENT ADDRESS DOES NOT MATCH FILE CURRENT ADDRESS"
+        }
+      ],
+      "name_on_file": null,
+      "address_on_file": null,
+      "request_id": "b43f2c81-8378-4178-b0f7-029a7b48d6a3"
+    },
+    "deceased": false,
+    "bankruptcy": {
+      "open": false,
+      "records": [],
+      "credit_report_records": null,
+      "sources_agree": null,
+      "request_id": "4c76fb08-0568-482b-a13e-8592e75c5a99"
+    },
+    "liens_judgments": [],
+    "contact": {
+      "found": true,
+      "name": "RAJESH MENON",
+      "address": "55 WATER ST FL 20, NEW YORK, NY 10041",
+      "phone": "5550101012",
+      "request_id": "4299376d-f7e0-4c5a-b07e-d7b202dc8e24"
+    },
+    "credit_report": {
+      "file_status": "NoFileReturnedNoHit",
+      "deceased": false,
+      "request_id": "83acf801-f5a7-438d-84fb-4886f634bb7f"
+    },
+    "errors": {}
+  },
+  "raw": {
+    "tu_identity_verification": {
+      "status": 200,
+      "request_id": "b43f2c81-8378-4178-b0f7-029a7b48d6a3",
+      "body": {
+        "fileNumber": "01",
+        "fileSummary": {
+          "fileHitIndicator": "SUBJECT_HIT",
+          "creditDataStatus": {
+            "suppressed": false,
+            "doNotPromote": {
+              "indicator": false
+            },
+            "freeze": {
+              "indicator": false
+            },
+            "minor": false,
+            "disputed": false
+          }
+        },
+        "indicative": {
+          "names": [
+            {
+              "person": {
+                "first": "VICTOR",
+                "last": "ANAND"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "addresses": [
+            {
+              "status": "CURRENT",
+              "street": {
+                "unparseds": [],
+                "number": "55",
+                "name": "WATER ST FL 20"
+              },
+              "location": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "zipCode": "10041"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "socialSecurities": [
+            {
+              "number": "666701012",
+              "identificationIssuance": {
+                "type": "SSN",
+                "status": "ISSUED_AFTER_21",
+                "yearRange": {
+                  "startYear": "2001",
+                  "endYear": "2001"
+                },
+                "state": "KY",
+                "ageObtained": {
+                  "rangeStart": "+35",
+                  "rangeEnd": "+36"
+                }
+              },
+              "source": "INPUT",
+              "masked": false
+            },
+            {
+              "number": "666701012",
+              "source": "FILE",
+              "masked": false
+            }
+          ],
+          "dateOfBirths": [
+            {
+              "value": "1968-08-08T00:00:00.000+00:00",
+              "source": "INPUT"
+            }
+          ],
+          "ages": [],
+          "phones": [
+            {
+              "number": {
+                "qualifier": "PERSONAL"
+              },
+              "source": "INPUT"
+            }
+          ],
+          "employments": [],
+          "creditCards": [],
+          "genders": [],
+          "vehicles": []
+        },
+        "addOnProducts": [
+          {
+            "code": "FRDMS",
+            "status": "DELIVERED",
+            "idMismatchAlerts": [],
+            "addressAnalysises": [],
+            "idManagerVerification": {
+              "messages": [
+                {
+                  "code": "2201",
+                  "text": "INPUT SSN NOT ASSOCIATED WITH INPUT NAME",
+                  "source": "INPUT"
+                },
+                {
+                  "code": "2202",
+                  "text": "INPUT DATE OF BIRTH DOES NOT MATCH FILE",
+                  "source": "INPUT"
+                },
+                {
+                  "code": "2101",
+                  "text": "INPUT CURRENT ADDRESS DOES NOT MATCH FILE CURRENT ADDRESS",
+                  "source": "INPUT"
+                }
+              ],
+              "deceases": [],
+              "identificationIssuances": [],
+              "returnMessage": "CODES_AND_TEXT",
+              "searchStatus": "HIT"
+            },
+            "creditorContacts": []
+          }
+        ]
+      }
+    },
+    "pitchpoint_blj": {
+      "status": 200,
+      "request_id": "4c76fb08-0568-482b-a13e-8592e75c5a99",
+      "body": {
+        "DetailedBLJReport": {
+          "JudgmentsFound": 0,
+          "Filters": {
+            "ExcludeBankruptcies": false,
+            "FilterVerbiage": "Judgment satisfied = 7 years; Judgment unsatisfied = 7 years; Lien released = 7 years; Lien unreleased = 10 years; Bankruptcy chapter 7 or 11 dismissed or discharged = 10 years; Bankruptcy chapter 7 or 11 not dismissed or discharged = 10 years; Bankruptcy chapter 13 dismissed or discharged = 7 years; Bankruptcy chapter 13 not dismissed or discharged = 10 years",
+            "SkipNameValidation": false
+          },
+          "Messages": {
+            "Message": {
+              "Text": "No Errors",
+              "Code": 0
+            }
+          },
+          "Results": "",
+          "BankruptciesFound": 0,
+          "LiensFound": 0
+        }
+      }
+    },
+    "accurate_append": {
+      "status": 200,
+      "request_id": "4299376d-f7e0-4c5a-b07e-d7b202dc8e24",
+      "body": {
+        "success": true,
+        "message": "Unified reverse completed successfully",
+        "data": {
+          "transactionId": "TC-REVERSE-P12",
+          "records": [
+            {
+              "firstName": "RAJESH",
+              "lastName": "MENON",
+              "houseNo": "55",
+              "streetName": "WATER ST FL 20",
+              "address": "55 WATER ST FL 20",
+              "city": "NEW YORK",
+              "state": "NY",
+              "postalCode": "10041"
+            }
+          ]
+        }
+      }
+    },
+    "credit_report_tu": {
+      "status": 200,
+      "request_id": "83acf801-f5a7-438d-84fb-4886f634bb7f",
+      "body": {
+        "responseDetail": {
+          "dateRequested": "2026-10-25T09:43:41.586947Z",
+          "requestingParty": {
+            "name": "CALHACKS13"
+          },
+          "creditBureauContact": {
+            "name": "CREDIT REPORTING SERVICES, INC",
+            "address": {
+              "addressLine1": "1024 IRON POINT ROAD",
+              "city": "FOLSOM",
+              "state": "CA",
+              "postalCode": "95630"
+            }
+          }
+        },
+        "creditFiles": [
+          {
+            "creditFileDetail": {
+              "borrowerSourceType": "Borrower",
+              "creditFileInfileDate": "2024-11-19",
+              "creditFileResultStatusType": "NoFileReturnedNoHit",
+              "sourceType": "TransUnion"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

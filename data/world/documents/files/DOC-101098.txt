@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+9655 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+   Employee: JOSE WALKER        Emp ID: 73091
+    Position: Line worker
+Pay Period: 03/12/2026 - 03/18/2026     Pay Date: 03/23/2026
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,348.82     40,185.84
+GROSS PAY                                  3,348.82     40,185.84
+DEDUCTIONS
+    Federal Income Tax                       167.44
+  Social Security                          207.62
+  Medicare                                  48.55
+  CA SDI                                    36.83
+ NET PAY                                   2,888.38
+  --------------------------------------------------------------
+
+FAX RECEIVED 04/15/2026 10:25   P.01

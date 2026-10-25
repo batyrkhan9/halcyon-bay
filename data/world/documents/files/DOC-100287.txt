@@ -1,0 +1,20 @@
+  SANDPIPER CHILD CARE CENTER
+  4709 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SERGIO IBARRA        Emp ID: 22108
+Position: Teacher
+Pay Period: 04/05/2025 - 04/18/2025     Pay Date: 04/23/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       918.57      8,267.13
+GROSS PAY                                    918.57      8,267.13
+DEDUCTIONS
+  Federal Income Tax                       101.04
+   Social Security                           56.95
+  Medicare                                  13.31
+  CA SDI                                    10.10
+NET PAY                                    737.17
+--------------------------------------------------------------
+
+RECEIVED MAY 23 2025  - mailroom

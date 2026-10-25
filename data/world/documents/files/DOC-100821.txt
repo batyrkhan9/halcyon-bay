@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+6261 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Empl0yee: DARNELL CONTRERAS         Emp ID: 32112
+Position: Medical receptionist
+    Pay Period: 11/13/2025 - 11/27/2025     Pay Date: 12/02/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                       764.12     17,574.76
+GROSS PAY                                    764.12     17,574.76
+DEDUCTIONS
+  Federal Income Tax                        68.77
+  Social Security                           47.37
+  Medicare                                  11.08
+  CA SDI                                     8.40
+NET PAY                                    628.50
+--------------------------------------------------------------
+
+-- scanned 12/07/2025 HBCH mailroom  pg 1/1 --

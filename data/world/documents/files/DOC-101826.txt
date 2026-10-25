@@ -1,0 +1,20 @@
+   TIDEWATER CONSTRUCTION
+3834 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: SANJAY JIMENEZ        Emp ID: 58891
+Position: Laborer
+Pay Period: 07/18/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,418.70     51,349.60
+GROSS PAY                                  6,418.70     51,349.60
+DEDUCTIONS
+     Federal Income Tax                       385.12
+      Social Security                          397.95
+   Medicare                                  93.07
+  CA SDI                                    70.60
+NET PAY                                  5,471.96
+--------------------------------------------------------------
+
+-- scanned 09/05/2026 HBCH mailroom  pg 1/1 --

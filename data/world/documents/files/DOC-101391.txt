@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+4848 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: ROBERT LIU        Emp ID: 17921
+Position: Warehouse associate
+Pay Period: 06/28/2026 - 07/04/2026     Pay Date: 07/09/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       311.45      8,720.60
+| |   .
+  GROSS PAY                                    311.45      8,720.60
+     DEDUCTIONS
+   Federal Income Tax                        15.57
+  Social Security                           19.31
+   Medicare                                   4.51
+  CA SDI                                     3.42
+NET PAY                                    268.64
+--------------------------------------------------------------
+
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

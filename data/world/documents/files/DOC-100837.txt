@@ -1,0 +1,21 @@
+    MIRADOR PUBLIC LIBRARY
+1572 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA SOUZA        Emp ID: 30396
+~ ~ .  ,
+Position: Library assistant
+Pay Period: 11/29/2025 - 12/13/2025     Pay Date: 12/18/2025
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
+     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       959.30     23,023.20
+GROSS PAY                                    959.30     23,023.20
+ DEDUCTIONS
+  Federal Income Tax                        95.93
+  Social Security                           59.47
+  Medicare                                  13.91
+  CA SDI                                    10.55
+ NET PAY                                    779.44
+--------------------------------------------------------------
+
+FAX RECEIVED 12/27/2025 10:19   P.01

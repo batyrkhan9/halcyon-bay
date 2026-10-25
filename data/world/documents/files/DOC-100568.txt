@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+8771 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA PARK        Emp ID: 42555
+Position: Software engineer
+Pay Period: 07/01/2025 - 07/15/2025     Pay Date: 07/20/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.07     28.50         515.00      7,210.00
+GROSS PAY                                    515.00      7,210.00
+DEDUCTIONS
+  Federal Income Tax                        51.50
+  Social Security                           31.93
+  Medicare                                   7.46
+   CA SDI                                     5.66
+NET PAY                                    418.45
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2025]

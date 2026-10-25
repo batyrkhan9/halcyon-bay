@@ -1,0 +1,21 @@
+  MIRADOR PUBLIC LIBRARY
+7417 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LAUREN KHALIL        Emp ID: 45563
+Position: Library assistant
+Pay Period: 11/27/2025 - 12/10/2025     Pay Date: 12/15/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.47     23.25         429.43     10,735.75
+   GROSS PAY                                    429.43     10,735.75
+DEDUCTIONS
+  Federal Income Tax                        34.35
+  . : .
+  Social Security                           26.62
+  Medicare                                   6.22
+    CA SDI                                     4.72
+NET PAY                                    357.52
+--------------------------------------------------------------
+
+FAX RECEIVED 01/17/2026 10:28   P.01

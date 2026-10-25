@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+9451 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE ROBINSON        Emp ID: 38873
+Position: Laborer
+Pay Period: 08/15/2025 - 08/28/2025     Pay Date: 09/02/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.65     14.00         233.10      4,195.80
+   GROSS PAY                                    233.10      4,195.80
+DEDUCTIONS
+  Federal Income Tax                        18.64
+  Social Security                           14.45
+  Medicare                                   3.38
+    CA SDI                                     2.56
+NET PAY                                    194.07
+--------------------------------------------------------------
+
+-- scanned 09/08/2025 HBCH mailroom  pg 1/1 --

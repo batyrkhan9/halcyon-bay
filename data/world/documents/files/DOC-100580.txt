@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+5707 MARKET WAY   CA
+  . : .
+                         EARNINGS STATEMENT
+Employee: YESENIA ROBINSON-KOWALSKI        Emp ID: 10225
+Position: Nursery worker
+Pay Period: 07/26/2025 - 08/01/2025     Pay Date: 08/06/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             29.14     40.00       1,165.60     37,299.20
+GROSS PAY                                  1,165.60     37,299.20
+DEDUCTIONS
+  Federal Income Tax                       116.56
+  Social Security                           72.26
+  Medicare                                  16.90
+  CA SDI                                    12.82
+NET PAY                                    947.06
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2025]

@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+8374 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIO FREEMAN        Emp ID: 96024
+Position: Library assistant
+Pay Period: 08/17/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.70     40.00       1,068.00     37,380.00
+GROSS PAY                                  1,068.00     37,380.00
+DEDUCTIONS
+  Federal Income Tax                       117.48
+  Social Security                           66.21
+  Medicare                                  15.48
+  CA SDI                                    11.74
+ NET PAY                                    857.09
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/20/2026]

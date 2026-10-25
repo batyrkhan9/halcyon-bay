@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+9255 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: PEDRO IBARRA        Emp ID: 76072
+Position: Cleaner
+Pay Period: 07/17/2026 - 07/31/2026     Pay Date: 08/05/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             18.38     44.75         822.50     12,337.50
+GROSS PAY                                    822.50     12,337.50
+DEDUCTIONS
+  Federal Income Tax                        82.25
+   Social Security                           50.99
+  Medicare                                  11.92
+   CA SDI                                     9.04
+NET PAY                                    668.30
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]

@@ -1,0 +1,21 @@
+  OTTER BAY AQUARIUM
+8796 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+~ ~ .  ,
+Employee: ABIGAIL WRIGHT        Emp ID: 85420
+Position: Guest services
+Pay Period: 08/11/2026 - 08/24/2026     Pay Date: 08/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.59     36.25         637.64     11,477.52
+GROSS PAY                                    637.64     11,477.52
+DEDUCTI0NS
+  Federal Income Tax                        70.14
+  S0cial Security                           39.53
+  Medicare                                   9.24
+  CA SDI                                     7.01
+NET PAY                                    511.72
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]

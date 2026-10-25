@@ -1,0 +1,18 @@
+ Form 1040   U.S. Individual Income Tax Return   2024
+    (copy - summary page)
+Filing Status: Married filing jointly
+ Your first name and middle initial / Last name:  OMAR MILLER
+Your social security number: XXX-XX-2306
+Dependents: 3
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    58,154.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    58,154.00
+ 10   Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    58,154.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+    Your signature: /s/ Omar Miller        Date: 04/09/2025
+
+FAX RECEIVED 03/26/2026 10:15   P.01

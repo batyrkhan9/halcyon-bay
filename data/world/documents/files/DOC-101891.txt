@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+2510 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ISABEL FALEOLO        Emp ID: 74900
+Position: Mechanic
+    Pay Period: 08/06/2026 - 08/19/2026     Pay Date: 08/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     2,518.66     42,817.22
+| |   .
+ GROSS PAY                                  2,518.66     42,817.22
+DEDUCTIONS
+     Federal Income Tax                       176.30
+  Social Security                          156.15
+  Medicare                                  36.52
+  CA SD1                                    27.70
+NET PAY                                   2,121.99
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

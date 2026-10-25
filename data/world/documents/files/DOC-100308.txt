@@ -1,0 +1,21 @@
+   POINT CORRIN BOATWORKS
+3984 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ZAINAB JUNG        Emp ID: 65223
+Position: Mechanic
+Pay Period: 04/23/2025 - 05/07/2025     Pay Date: 05/12/2025
+   Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,387.79     21,490.11
+GROSS PAY                                  2,387.79     21,490.11
+| |   .
+DEDUCTIONS
+   Federal Income Tax                       262.65
+  Social Security                          148.04
+  Medicare                                  34.62
+  CA SDI                                    26.26
+NET PAY                                  1,916.22
+--------------------------------------------------------------
+
+-- scanned 05/27/2025 HBCH mailroom  pg 1/1 --

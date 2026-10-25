@@ -1,0 +1,21 @@
+TIDEWATER CONSTRUCTION
+  7089 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA ITO        Emp ID: 33026
+Position: Laborer
+Pay Period: 12/19/2025 - 01/17/2026     Pay Date: 01/22/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     7,159.93      7,159.93
+GROSS PAY                                  7,159.93      7,159.93
+DEDUCTIONS
+  Federal Income Tax                       429.59
+  Social Security                          443.91
+  Medicare                                 103.81
+  CA SDI                                    78.75
+| |   .
+ NET PAY                                  6,103.87
+--------------------------------------------------------------
+
+FAX RECEIVED 03/11/2026 10:59   P.01

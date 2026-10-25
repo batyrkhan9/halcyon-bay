@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+428 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: MATTHEW CASTILLO        Emp ID: 73969
+| |   .
+Position: Teacher
+Pay Period: 03/25/2026 - 04/23/2026     Pay Date: 04/28/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.73    173.33       4,633.11     18,532.44
+GROSS PAY                                  4,633.11     18,532.44
+DEDUCTIONS
+  Federal Income Tax                       277.98
+  Social Security                          287.25
+      Medicare                                  67.18
+  CA SDI                                    50.96
+NET PAY                                  3,949.74
+--------------------------------------------------------------
+
+RECEIVED JUN 01 2026  - mailroom

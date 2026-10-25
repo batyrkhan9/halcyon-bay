@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+8568 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENNETH MITCHELL        Emp ID: 27230
+Position: Line worker
+Pay Period: 06/11/2026 - 06/24/2026     Pay Date: 06/29/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.09     53.25         963.29     12,522.77
+  GROSS PAY                                    963.29     12,522.77
+ DEDUCTIONS
+  Federal Income Tax                        48.16
+  Social Security                           59.72
+     Medicare                                  13.96
+  CA SDI                                    10.59
+NET PAY                                    830.86
+  --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]

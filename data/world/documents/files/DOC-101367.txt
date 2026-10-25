@@ -1,0 +1,20 @@
+BLUE KELP S0FTWARE LLC
+8020 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINDA PARK-PEREIRA        Emp ID: 98876
+Position: Software engineer
+    Pay Period: 06/05/2026 - 06/19/2026     Pay Date: 06/24/2026
+    Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.20     86.67       4,177.49     50,129.88
+GROSS PAY                                  4,177.49     50,129.88
+DEDUCTIONS
+  Federal Income Tax                       375.97
+  Social Security                          259.00
+  Medicare                                  60.57
+  CA SDI                                    45.95
+    NET PAY                                  3,436.00
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/17/2026]

@@ -1,0 +1,18 @@
+  Form 1040   U.S. Individua1 Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  JENNIFER JIMENEZ
+Your social security number: XXX-XX-8792
+Dependents: 0
+Income
+ 1a  Total am0unt from Form(s) W-2, b0x 1 ...........     7,697.00
+ 8    Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................     7,697.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................     7,697.00
+     12  Standard deduction ..............................    14,600.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Jennifer Jimenez        Date: 04/05/2025
+
+FAX RECEIVED 12/02/2025 10:59   P.01

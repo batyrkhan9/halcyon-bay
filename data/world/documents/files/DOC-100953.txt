@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+6380 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: ABIGAIL CORTEZ        Emp ID: 97148
+Position: Software engineer
+Pay Period: 12/31/2025 - 01/13/2026     Pay Date: 01/18/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.02     80.00       1,921.60      3,843.20
+GROSS PAY                                  1,921.60      3,843.20
+DEDUCTIONS
+     Federal 1ncome Tax                       153.72
+  5ocial Security                          119.13
+     Medicare                                  27.86
+  CA SDI                                    21.13
+NET PAY                                  1,599.76
+--------------------------------------------------------------
+
+RECEIVED FEB 13 2026  - mailroom

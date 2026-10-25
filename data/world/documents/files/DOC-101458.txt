@@ -1,0 +1,21 @@
+PORT ELLERY CANNERY CO
+4576 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: SERG1O RIVERA        Emp ID: 34173
+Position: Line worker
+  Pay Period: 06/04/2026 - 06/18/2026     Pay Date: 06/23/2026
+Pay Frequency: Semi-Monthly
+_ _ _ _
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                       494.76      5,937.12
+GROSS PAY                                    494.76      5,937.12
+DEDUCTI0NS
+   Federal Income Tax                        24.73
+    Social Security                           30.67
+  Medicare                                   7.17
+  CA SDI                                     5.44
+NET PAY                                    426.75
+    --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/24/2026]

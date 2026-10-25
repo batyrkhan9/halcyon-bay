@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1515 MARKET WAY   CA
+                            EARNINGS STATEMENT
+Emp1oyee: HOA LIU        Emp ID: 91538
+Position: Technician
+Pay Period: 07/23/2026 - 08/05/2026     Pay Date: 08/10/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             70.36     80.00       5,628.80     90,060.80
+GROSS PAY                                  5,628.80     90,060.80
+DEDUCTIONS
+  Federal Income Tax                       394.01
+  Social Security                          348.98
+  Medicare                                  81.61
+  CA SDI                                    61.91
+   NET PAY                                  4,742.29
+--------------------------------------------------------------
+
+-- scanned 09/22/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+2505 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA O'BRIEN         Emp ID: 39871
+Position: Software engineer
+Pay Period: 07/23/2025 - 07/29/2025     Pay Date: 08/03/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       855.24     26,512.44
+GROSS PAY                                    855.24     26,512.44
+ DEDUCTIONS
+  Federal Income Tax                        42.76
+  Social Security                           53.02
+  Medicare                                  12.40
+  CA SDI                                     9.40
+NET PAY                                    737.66
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/31/2025]

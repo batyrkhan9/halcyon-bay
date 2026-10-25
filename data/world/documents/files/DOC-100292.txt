@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+    790 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: GREGORY WALKER        Emp ID: 48847
+Position: Cashier
+    Pay Period: 04/19/2025 - 05/02/2025     Pay Date: 05/07/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.76     37.00         694.12      6,941.20
+GROSS PAY                                    694.12      6,941.20
+DEDUCTIONS
+  Federal Income Tax                        55.52
+  Social Security                           43.03
+  Medicare                                  10.06
+  CA SDI                                     7.63
+NET PAY                                    577.88
+--------------------------------------------------------------
+
+RECEIVED MAY 24 2025  - mailroom

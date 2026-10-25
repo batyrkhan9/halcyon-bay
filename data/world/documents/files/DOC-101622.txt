@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+7447 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AUSTIN QUINN        Emp ID: 68950
+Position: Cashier
+   Pay Period: 07/25/2026 - 07/31/2026     Pay Date: 08/05/2026
+ Pay Frequency: Weekly
+--------------------------------------------------------------
+  . : .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             88.05     40.00       3,522.00    109,182.00
+GROSS PAY                                   3,522.00    109,182.00
+DEDUCTIONS
+  Federal Income Tax                       316.98
+  Social Security                          218.36
+  Medicare                                  51.06
+   CA SDI                                    38.74
+NET PAY                                  2,896.86
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/10/2026]

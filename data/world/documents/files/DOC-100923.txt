@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+5766 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: DAVID MARTIN        Emp ID: 14374
+Position: Warehouse associate
+~ ~ .  ,
+Pay Period: 12/15/2025 - 01/13/2026     Pay Date: 01/18/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.94    168.25       2,850.16      2,850.16
+GROSS PAY                                  2,850.16      2,850.16
+DEDUCTIONS
+  Federal Income Tax                       171.00
+  Social Security                          176.71
+  Medicare                                  41.32
+  CA SDI                                    31.35
+NET PAY                                  2,429.78
+--------------------------------------------------------------
+
+FAX RECEIVED 02/05/2026 10:59   P.01

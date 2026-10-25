@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+8344 MARKET WAY    CA
+                           EARNING5 STATEMENT
+Employee: ROHAN MARTIN        Emp ID: 11212
+Position: Field supervisor
+ Pay Period: 12/09/2025 - 12/15/2025     Pay Date: 12/20/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.05     40.00       1,402.00     71,502.00
+GROSS PAY                                  1,402.00     71,502.00
+DEDUCTIONS
+  Federal Income Tax                        70.10
+  Social Security                           86.92
+   Medicare                                  20.32
+  CA SDI                                    15.42
+   NET PAY                                  1,209.24
+--------------------------------------------------------------
+
+-- scanned 01/14/2026 HBCH mailroom  pg 1/1 --

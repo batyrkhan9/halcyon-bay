@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+8884 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI SILVA        Emp ID: 29313
+Position: Teacher
+Pay Period: 06/01/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.56     17.50         307.30      3,687.60
+GROSS PAY                                    307.30      3,687.60
+DEDUCTIONS
+      Federal Income Tax                        30.73
+      Social Security                           19.05
+  Medicare                                   4.45
+   CA SDI                                     3.38
+NET PAY                                    249.69
+--------------------------------------------------------------
+
+-- scanned 07/20/2026 HBCH mailroom  pg 1/1 --

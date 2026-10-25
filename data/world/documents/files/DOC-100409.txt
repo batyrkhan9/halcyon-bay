@@ -1,0 +1,21 @@
+ TIDEWATER CONSTRUCTION
+1345 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE RAMOS        Emp ID: 81789
+Position: Laborer
+Pay Period: 06/02/2025 - 06/08/2025     Pay Date: 06/13/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.40      9.50         174.80      4,195.20
+GROSS PAY                                    174.80      4,195.20
+DEDUCTIONS
+  Federal Income Tax                        17.48
+  Social Security                           10.83
+  Medicare                                   2.53
+  CA SDI                                     1.92
+NET PAY                                    142.04
+_ _ _ _
+--------------------------------------------------------------
+
+FAX RECEIVED 06/28/2025 10:23   P.01

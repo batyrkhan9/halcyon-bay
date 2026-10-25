@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+941 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS CARTER        Emp ID: 90703
+Position: Line worker
+Pay Period: 06/23/2025 - 07/07/2025     Pay Date: 07/12/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             54.91     86.67       4,759.05     61,867.65
+GROSS PAY                                  4,759.05     61,867.65
+  DEDUCTIONS
+   Federal Income Tax                       428.31
+  Social Security                          295.06
+  Medicare                                  69.00
+  CA SDI                                    52.35
+NET PAY                                  3,914.33
+    --------------------------------------------------------------
+
+FAX RECEIVED 07/22/2025 10:17   P.01
