@@ -55,8 +55,28 @@ export function normalizeDiscovery(raw: unknown): Discovery {
 export function normalizeLearned(raw: unknown): Learned {
   const r = obj(raw);
   return {
-    patterns: arr(r.patterns) as Learned['patterns'],
-    precedents: arr(r.precedents) as Learned['precedents'],
+    patterns: arr<Obj>(r.patterns).map((p, i) => {
+      const legal = p.legal !== false && p.status !== 'FLAGGED';
+      return {
+        id: str(p.id, `LP-${i + 1}`),
+        text: str(p.text ?? p.pattern, 'Pattern'),
+        evidence_count: num(p.evidence_count),
+        legal,
+        status: legal ? ('LEARNED' as const) : ('FLAGGED' as const),
+        law: p.law == null ? null : str(p.law),
+        law_text: p.law_text == null ? null : str(p.law_text),
+        note: p.note == null ? null : str(p.note),
+      };
+    }),
+    precedents: arr<Obj>(r.precedents).map((p, i) => ({
+      ...(p as unknown as Learned['precedents'][number]),
+      id: str(p.id, `PR-${i + 1}`),
+      account_id: str(p.account_id),
+      by: str(p.by),
+      on: str(p.on),
+      correction: str(p.correction),
+      similar_cases: num(p.similar_cases),
+    })),
     rules: arr<Obj>(r.rules).map((x) => ({
       ...(x as unknown as Learned['rules'][number]),
       backtest: {
@@ -66,7 +86,14 @@ export function normalizeLearned(raw: unknown): Learned {
         examples: arr(obj(x.backtest).examples) as Learned['rules'][number]['backtest']['examples'],
       },
     })),
-    rejected: arr(r.rejected) as Learned['rejected'],
+    rejected: arr<Obj>(r.rejected).map((x) => ({
+      ...(x as unknown as Learned['rejected'][number]),
+      pattern: str(x.pattern),
+      rejected_by: str(x.rejected_by),
+      rejected_on: str(x.rejected_on),
+      note: x.note == null ? null : str(x.note),
+      blocked_since: num(x.blocked_since),
+    })),
   };
 }
 
@@ -87,6 +114,9 @@ export function normalizeScore(raw: unknown): Score {
       count: num(v.count, typeof r.violations_prevented === 'number' ? r.violations_prevented : 0),
       by_law: (v.by_law as Record<string, number>) ?? undefined,
     },
-    answer_key: (r.answer_key as Score['answer_key']) ?? null,
+    answer_key:
+      typeof obj(r.answer_key).matched === 'number' && typeof obj(r.answer_key).accounts_scored === 'number'
+        ? { matched: num(obj(r.answer_key).matched), accounts_scored: num(obj(r.answer_key).accounts_scored) }
+        : null,
   };
 }

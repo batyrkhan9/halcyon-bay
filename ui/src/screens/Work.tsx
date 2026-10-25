@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { api } from '../api/client';
+import { api, isPinned } from '../api/client';
 import type { WorkState } from '../api/types';
 import { WORK_STATES } from '../api/types';
 import { Empty, ErrorNote, Loading, Page, SampleTag, StatePill, cx } from '../components/ui';
@@ -10,9 +10,10 @@ import { useResource } from '../lib/useResource';
 export default function Work() {
   const [params, setParams] = useSearchParams();
   const navigate = useNavigate();
-  const filter = (params.get('state') as WorkState | null) ?? null;
+  const raw = params.get('state');
+  const filter = raw && (WORK_STATES as readonly string[]).includes(raw) ? (raw as WorkState) : null;
   const [q, setQ] = useState('');
-  const r = useResource(() => api.workItems(undefined, 500), [], { intervalMs: 5000 });
+  const r = useResource(() => api.workItems(undefined, 500, isPinned('today') ? 'sample' : 'core'), [], { intervalMs: 5000 });
 
   const counts = useMemo(() => {
     const c = Object.fromEntries(WORK_STATES.map((s) => [s, 0])) as Record<WorkState, number>;

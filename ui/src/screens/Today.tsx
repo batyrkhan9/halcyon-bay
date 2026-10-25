@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { api, errorText, isPinned, pinSample, type Source } from '../api/client';
+import { api, coreReach, errorText, FORCE_MOCK, isPinned, pinSample, unpinSample, type Source } from '../api/client';
 import type { CoreState, Inbox, WorkState } from '../api/types';
 import { WORK_STATES } from '../api/types';
 import { ProposalCard, QuestionCard } from '../components/decisions';
@@ -58,13 +58,13 @@ function diffLine(from: CoreState, to: CoreState): string {
 }
 
 export default function Today() {
-  const { current, source: peopleSource } = usePeople();
+  const { current } = usePeople();
   const [sample, setSample] = useState(isPinned('today'));
   const src: Source = sample ? 'sample' : 'core';
   const st = useResource(() => api.state(src), [src], { intervalMs: 4000 });
   const inbox = useResource<Inbox | null>(
-    () => (current ? api.inbox(current.id, sample ? 'sample' : (peopleSource ?? 'core')) : Promise.resolve({ data: null, source: src })),
-    [current?.id, sample, peopleSource],
+    () => (current ? api.inbox(current.id, src) : Promise.resolve({ data: null, source: src })),
+    [current?.id, src],
     { intervalMs: 4000 },
   );
   const [running, setRunning] = useState(false);
@@ -77,16 +77,22 @@ export default function Today() {
     setRunError(null);
     const before = st.data;
     const sampleBefore = (await api.state('sample')).data;
+    const coreBefore = sample && !FORCE_MOCK ? (await api.state('core')).data : before;
     try {
       const r = await api.advance(1);
       if (r.source === 'sample') {
-        if (!sample) {
+        // The core answered but has no /sim/advance yet: keep showing the sample world it advanced.
+        if (!sample && coreReach() === 'up') {
           pinSample('today');
           setSample(true);
         }
         setLastRun({ day: r.data.today, line: diffLine(sampleBefore, r.data), source: r.source });
       } else {
-        setLastRun({ day: r.data.today, line: diffLine(before, r.data), source: r.source });
+        if (sample && !FORCE_MOCK) {
+          unpinSample('today');
+          setSample(false);
+        }
+        setLastRun({ day: r.data.today, line: diffLine(coreBefore, r.data), source: r.source });
       }
     } catch (e) {
       setRunError(errorText(e));

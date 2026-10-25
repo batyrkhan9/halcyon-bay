@@ -71,6 +71,7 @@ async function call<T>(method: 'GET' | 'POST', path: string, body?: unknown): Pr
       method,
       headers: body === undefined ? undefined : { 'Content-Type': 'application/json' },
       body: body === undefined ? undefined : JSON.stringify(body),
+      signal: AbortSignal.timeout(method === 'GET' ? 8_000 : 180_000),
     });
   } catch (e) {
     setReach('down');
@@ -95,7 +96,8 @@ async function call<T>(method: 'GET' | 'POST', path: string, body?: unknown): Pr
 }
 
 const notShipped = (e: unknown) =>
-  e instanceof Unreachable || (e instanceof HttpError && [404, 405, 501].includes(e.status));
+  e instanceof Unreachable ||
+  (e instanceof HttpError && ((e.status === 404 && e.message === 'Not Found') || e.status === 405 || e.status === 501));
 
 async function live<T>(core: () => Promise<T>, sample: () => T | Promise<T>): Promise<Sourced<T>> {
   if (FORCE_MOCK) return { data: await sample(), source: 'sample' };
@@ -141,6 +143,9 @@ const pinned = new Set<string>();
 export function pinSample(screen: string) {
   pinned.add(screen);
 }
+export function unpinSample(screen: string) {
+  pinned.delete(screen);
+}
 export function isPinned(screen: string): boolean {
   return FORCE_MOCK || pinned.has(screen);
 }
@@ -152,7 +157,15 @@ export const api = {
       ? Promise.resolve<Sourced<CoreState>>({ data: mock.state(), source: 'sample' })
       : live(() => call<CoreState>('GET', '/state'), () => mock.state()),
 
-  actors: () => live(() => call<Actor[]>('GET', '/actors'), () => mock.actors()),
+  actors: () =>
+    live(
+      async () => {
+        const people = await call<Actor[]>('GET', '/actors');
+        mock.adoptStaff(people);
+        return people;
+      },
+      () => mock.actors(),
+    ),
 
   workItems: (state?: WorkState, limit = 500, source: Source = 'core') =>
     useSample(source)
@@ -194,23 +207,27 @@ export const api = {
 
   /** Approve or reject. Throws Denied with the gateway's reason on 403. */
   decide: async (proposalId: string, actorId: string, approve: boolean, note: string, source: Source): Promise<Proposal> => {
-    const out = useSample(source)
-      ? mock.decide(proposalId, actorId, approve, note)
-      : await call<Proposal>('POST', `/proposals/${encodeURIComponent(proposalId)}/decision`, {
-          actor_id: actorId,
-          approve,
-          note,
-        });
-    announceChange();
-    return out;
+    try {
+      return useSample(source)
+        ? mock.decide(proposalId, actorId, approve, note)
+        : await call<Proposal>('POST', `/proposals/${encodeURIComponent(proposalId)}/decision`, {
+            actor_id: actorId,
+            approve,
+            note,
+          });
+    } finally {
+      announceChange();
+    }
   },
 
   answer: async (questionId: string, actorId: string, answer: string, source: Source): Promise<Question> => {
-    const out = useSample(source)
-      ? mock.answer(questionId, actorId, answer)
-      : await call<Question>('POST', `/questions/${encodeURIComponent(questionId)}/answer`, { actor_id: actorId, answer });
-    announceChange();
-    return out;
+    try {
+      return useSample(source)
+        ? mock.answer(questionId, actorId, answer)
+        : await call<Question>('POST', `/questions/${encodeURIComponent(questionId)}/answer`, { actor_id: actorId, answer });
+    } finally {
+      announceChange();
+    }
   },
 
   // ---------- Coming ----------
@@ -235,11 +252,13 @@ export const api = {
     ),
 
   correction: async (body: CorrectionIn, source: Source): Promise<Sourced<CorrectionResult>> => {
-    const out = useSample(source)
-      ? { data: mock.correction(body), source: 'sample' as const }
-      : await coming(() => call<CorrectionResult>('POST', '/corrections', body), () => mock.correction(body));
-    announceChange();
-    return out;
+    try {
+      return useSample(source)
+        ? { data: mock.correction(body), source: 'sample' as const }
+        : await coming(() => call<CorrectionResult>('POST', '/corrections', body), () => mock.correction(body));
+    } finally {
+      announceChange();
+    }
   },
 
   score: () =>

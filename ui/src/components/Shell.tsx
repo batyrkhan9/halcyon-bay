@@ -68,14 +68,21 @@ function CoreStatus() {
   );
 }
 
+const SHOWN = 4;
+
 function RoleSwitcher() {
   const { people, current, setCurrent, inboxCounts } = usePeople();
   if (!people.length) return <div className="h-14" />;
+  // The first four are the demo cast; anyone else is one pick away.
+  const shown = people.slice(0, SHOWN);
+  const more = people.slice(SHOWN);
+  if (current && more.includes(current)) shown.push(current);
   return (
     <div className="flex min-w-0 max-w-full items-center gap-3">
       <span className="hidden text-[0.8125rem] font-medium uppercase tracking-[0.08em] text-ink3 xl:inline">Acting as</span>
       <div role="radiogroup" aria-label="Act as" className="flex max-w-full overflow-x-auto rounded-2xl bg-rail p-1 ring-1 ring-inset ring-line">
-        {people.map((p, i) => {
+        {shown.map((p) => {
+          const i = people.indexOf(p);
           const active = current?.id === p.id;
           const n = inboxCounts[p.id] ?? 0;
           return (
@@ -111,6 +118,21 @@ function RoleSwitcher() {
           );
         })}
       </div>
+      {more.length > 0 && (
+        <select
+          aria-label="More people"
+          value=""
+          onChange={(e) => e.target.value && setCurrent(e.target.value)}
+          className="h-10 rounded-xl border border-line bg-surface px-2 text-[0.875rem] font-medium text-ink2 outline-none hover:text-ink focus:border-accent"
+        >
+          <option value="">+{more.length} more</option>
+          {more.map((p) => (
+            <option key={p.id} value={p.id}>
+              {p.name} · {ROLE_SHORT[p.role] ?? p.role} ({people.indexOf(p) + 1})
+            </option>
+          ))}
+        </select>
+      )}
     </div>
   );
 }

@@ -5,14 +5,13 @@ import { AuditList } from '../components/audit';
 import { IconAudit } from '../components/icons';
 import { cx, Empty, ErrorNote, Loading, Page, SampleTag } from '../components/ui';
 import { count } from '../lib/format';
-import { usePeople } from '../lib/people';
 import { useResource } from '../lib/useResource';
 
 const TRY = ['HB70017007', 'SB 1061', 'CalFresh', 'own account', 'Only the gateway', 'hidden instructions', 'AB 2297', 'Not proposed again'];
 
 export default function Audit() {
   const [params, setParams] = useSearchParams();
-  const { source: peopleSource } = usePeople();
+  const sample = params.get('sample') === '1';
   const [q, setQ] = useState(params.get('q') ?? '');
   const [debounced, setDebounced] = useState(q);
   const [blockedOnly, setBlockedOnly] = useState(params.get('blocked') === '1');
@@ -26,12 +25,13 @@ export default function Audit() {
     const next = new URLSearchParams();
     if (debounced) next.set('q', debounced);
     if (blockedOnly) next.set('blocked', '1');
+    if (sample) next.set('sample', '1');
     setParams(next, { replace: true });
-  }, [debounced, blockedOnly, setParams]);
+  }, [debounced, blockedOnly, sample, setParams]);
 
   const r = useResource(
-    () => api.audit({ q: debounced || undefined, allowed: blockedOnly ? false : undefined, limit: 300 }, peopleSource ?? 'core'),
-    [debounced, blockedOnly, peopleSource],
+    () => api.audit({ q: debounced || undefined, allowed: blockedOnly ? false : undefined, limit: 300 }, sample ? 'sample' : 'core'),
+    [debounced, blockedOnly, sample],
     { intervalMs: 4000 },
   );
   const rows = r.data ?? [];

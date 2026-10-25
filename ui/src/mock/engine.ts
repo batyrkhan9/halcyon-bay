@@ -127,6 +127,7 @@ export class MockOffice {
   precedents: Precedent[] = [];
   rules: RuleRecord[] = [];
   waiting = new Set<string>();
+  pendingFollow = new Set<string>();
   history = { from: '2025-01-01', to: '2026-06-30', applications: 1412, accounts: 1906 };
   planCollectedCents = 18_340_00;
   rand: () => number = mulberry32(20261025);
@@ -443,6 +444,18 @@ export class MockOffice {
     return clone(this.staff);
   }
 
+  /** People from the core: the sample world accepts them too, so any of them can act on a sample screen. */
+  adoptStaff(people: Actor[]) {
+    for (const p of people) {
+      if (!STAFF_ROLES.includes(p.role)) continue;
+      const known = this.staff.find((s) => s.id === p.id);
+      if (known) {
+        known.name = p.name;
+        known.role = p.role;
+      } else this.staff.push({ id: p.id, name: p.name, role: p.role });
+    }
+  }
+
   private joined(i: WorkItem): WorkItem {
     const a = this.accounts.get(i.account_id);
     return { ...i, patient_name: a?.patient_name ?? null, billed_cents: a?.billed_cents ?? null };
@@ -526,7 +539,9 @@ export class MockOffice {
     this.log(actor.id, 'answer', { target: q.id, account_id: q.account_id, reason: text });
     const follow = q.follow;
     if (item && wasWaiting && follow) {
+      this.pendingFollow.add(item.id);
       setTimeout(() => {
+        this.pendingFollow.delete(item.id);
         if (item.state !== 'SCREENING') return;
         this.propose(item.id, follow.kind, follow.amount_cents, `${follow.rationale} ${actor.name} answered: “${text}”`, {
           evidence: [...(follow.evidence ?? []), { source: 'answer', question: q.id, answered_by: actor.id, answer: text }],
@@ -557,7 +572,7 @@ export class MockOffice {
       this.move(it.id, 'SCREENING', 'Checking for financial assistance');
       this.workClear(it);
     }
-    for (const it of this.items.filter((i) => i.state === 'SCREENING' && !this.waiting.has(i.id)).slice(0, 3)) this.workClear(it);
+    for (const it of this.items.filter((i) => i.state === 'SCREENING' && !this.waiting.has(i.id) && !this.pendingFollow.has(i.id)).slice(0, 3)) this.workClear(it);
 
     for (let k = 0; k < fresh; k++) {
       const g = generateAccount(this);

@@ -68,8 +68,8 @@ export function percent(v: number, digits = 1): string {
   return `${(v * 100).toFixed(digits).replace(/\.0+$/, '')}%`;
 }
 
-export function count(n: number): string {
-  return n.toLocaleString('en-US');
+export function count(n: number | null | undefined): string {
+  return typeof n === 'number' && Number.isFinite(n) ? n.toLocaleString('en-US') : '—';
 }
 
 export function titleCase(name: string | null | undefined): string {

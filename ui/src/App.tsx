@@ -1,4 +1,5 @@
-import { Link, Route, Routes } from 'react-router-dom';
+import { Link, Route, Routes, useLocation } from 'react-router-dom';
+import { ErrorBoundary } from './components/ErrorBoundary';
 import { Shell } from './components/Shell';
 import { Page } from './components/ui';
 import { PeopleProvider } from './lib/people';
@@ -12,9 +13,11 @@ import Today from './screens/Today';
 import Work from './screens/Work';
 
 export default function App() {
+  const location = useLocation();
   return (
     <PeopleProvider>
       <Shell>
+        <ErrorBoundary key={location.pathname}>
         <Routes>
           <Route path="/" element={<Today />} />
           <Route path="/discovery" element={<Discovery />} />
@@ -35,6 +38,7 @@ export default function App() {
             }
           />
         </Routes>
+        </ErrorBoundary>
       </Shell>
     </PeopleProvider>
   );

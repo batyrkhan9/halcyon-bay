@@ -19,12 +19,16 @@ export function useResource<T>(load: () => Promise<Sourced<T>>, deps: unknown[],
   loadRef.current = load;
   const gen = useRef(0);
   const last = useRef('');
+  const sent = useRef(0);
+  const applied = useRef(0);
 
   const run = useCallback(async () => {
     const mine = gen.current;
+    const id = ++sent.current;
     try {
       const r = await loadRef.current();
-      if (mine !== gen.current) return;
+      if (mine !== gen.current || id < applied.current) return;
+      applied.current = id;
       const json = JSON.stringify(r);
       if (json !== last.current) {
         last.current = json;
@@ -33,7 +37,7 @@ export function useResource<T>(load: () => Promise<Sourced<T>>, deps: unknown[],
         setState((s) => (s.loading || s.error ? { ...s, loading: false, error: null } : s));
       }
     } catch (e) {
-      if (mine !== gen.current) return;
+      if (mine !== gen.current || id < applied.current) return;
       setState((s) => ({ ...s, loading: false, error: errorText(e) }));
     }
   }, []);

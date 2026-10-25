@@ -177,7 +177,7 @@ function StoryView({ story, source, live }: { story: Story; source: Source; live
           className="mt-12"
           title="Audit trail"
           aside={
-            <Link to={`/audit?q=${encodeURIComponent(account.id)}`} className="inline-flex items-center gap-1.5 font-medium text-accent hover:underline">
+            <Link to={`/audit?q=${encodeURIComponent(account.id)}${source === 'sample' ? '&sample=1' : ''}`} className="inline-flex items-center gap-1.5 font-medium text-accent hover:underline">
               Ask why in the audit log <IconArrowRight size={16} />
             </Link>
           }

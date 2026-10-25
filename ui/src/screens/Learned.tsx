@@ -155,7 +155,7 @@ export default function Learned() {
                 <div className="text-right">
                   <div className="tnum text-[2.25rem] font-semibold leading-none tracking-[-0.03em] text-ink">{x.blocked_since ?? 0}</div>
                   <div className="mt-1 text-[0.875rem] text-ink3">times it was stopped since</div>
-                  <Link to={`/audit?q=${encodeURIComponent(x.pattern)}`} className="mt-2 inline-flex items-center gap-1 text-[0.9375rem] font-medium text-accent hover:underline">
+                  <Link to={`/audit?q=${encodeURIComponent(x.pattern)}${source === 'sample' ? '&sample=1' : ''}`} className="mt-2 inline-flex items-center gap-1 text-[0.9375rem] font-medium text-accent hover:underline">
                     See them <IconArrowRight size={14} />
                   </Link>
                 </div>

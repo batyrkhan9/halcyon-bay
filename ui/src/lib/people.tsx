@@ -1,5 +1,5 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
-import { api, onChanged, type Source } from '../api/client';
+import { api, FORCE_MOCK, onChanged, type Source } from '../api/client';
 import type { Actor, Role } from '../api/types';
 
 const SYSTEM_NAMES: Record<string, string> = { agent: 'AI agent', gateway: 'Gateway', sync: 'Sync job' };
@@ -59,8 +59,10 @@ export function PeopleProvider({ children }: { children: ReactNode }) {
       try {
         const r = await api.actors();
         if (!alive) return;
-        setActors(r.data);
+        setActors((prev) => (JSON.stringify(prev) === JSON.stringify(r.data) ? prev : r.data));
         setSource(r.source);
+        // On the sample world because the core was down: keep checking until it is back.
+        if (r.source === 'sample' && !FORCE_MOCK) timer = window.setTimeout(load, 5000);
       } catch {
         timer = window.setTimeout(load, 3000);
       }
@@ -84,18 +86,23 @@ export function PeopleProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     if (!people.length) return;
     let alive = true;
+    let sent = 0;
+    let applied = 0;
     const refresh = async () => {
+      const id = ++sent;
       const entries = await Promise.all(
         people.map(async (p) => {
           try {
-            const r = await api.inbox(p.id, source ?? 'core');
+            const r = await api.inbox(p.id);
             return [p.id, r.data.proposals.length + r.data.questions.length] as const;
           } catch {
             return [p.id, 0] as const;
           }
         }),
       );
-      if (alive) setInboxCounts(Object.fromEntries(entries));
+      if (!alive || id < applied) return;
+      applied = id;
+      setInboxCounts(Object.fromEntries(entries));
     };
     void refresh();
     const t = window.setInterval(refresh, 4000);
@@ -105,7 +112,7 @@ export function PeopleProvider({ children }: { children: ReactNode }) {
       window.clearInterval(t);
       off();
     };
-  }, [people, source]);
+  }, [people]);
 
   // Keyboard 1..9 switches person instantly (not while typing).
   useEffect(() => {
