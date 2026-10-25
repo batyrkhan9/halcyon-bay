@@ -28,8 +28,8 @@ export default function Score() {
         />
       </div>
       <div className="mt-16 grid grid-cols-1 gap-x-12 gap-y-14 border-t border-line pt-14 lg:grid-cols-[1.25fr_1fr_1fr]">
-        <Big value={s.charity_cents} format={(v) => money(Math.round(v), { whole: true })} label="Moved to charity care" sub="For patients who qualify under the law" small />
-        <Big value={s.payment_plan_collected_cents} format={(v) => money(Math.round(v), { whole: true })} label="Collected through payment plans" sub="Instead of written off" small />
+        <Big value={s.charity_cents} format={(v) => money(Math.round(v), { whole: true })} label="Charity care proposed" sub="For patients who qualify under the law, checked against the answer key" small />
+        <Big value={s.payment_plan_collected_cents} format={(v) => money(Math.round(v), { whole: true })} label="Payment plans proposed" sub="For patients who can pay, instead of written off" small />
         <Big value={s.violations_prevented.count} format={(v) => count(Math.round(v))} label="Violations prevented" small>
           {byLaw.length > 0 && (
             <ul className="mt-4 space-y-1.5 text-[1rem] text-ink2">

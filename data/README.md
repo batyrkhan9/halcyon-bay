@@ -27,7 +27,7 @@ Nothing in `world/` is labeled. The core has to find the problems on its own, in
 
 ## CRS
 
-Our sandbox has no income product, so we use CRS only to help a patient or stop a collection: identity before a merge, deceased and bankruptcy before any collection action, and a current address so the legal notice reaches the patient. Credit scores are dropped before anything sees them. Criminal and eviction data are never used. The client only ever sends a sandbox persona's own registered request, so nothing can reach a real bureau.
+Our sandbox has no income product, so we use CRS only to help a patient or stop a collection: identity before help is proposed (and before any merge, once the core matches duplicates), deceased and bankruptcy before any collection action, and a current address so the legal notice reaches the patient. Credit scores are dropped before anything sees them. Criminal and eviction data are never used. The client only ever sends a sandbox persona's own registered request, so nothing can reach a real bureau.
 
 ## Commands
 
