@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+6807 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE TRAN        Emp ID: 35060
+  Position: Instructional aide
+  Pay Period: 01/31/2026 - 02/13/2026     Pay Date: 02/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular            109.39     80.00       8,751.20     35,004.80
+GROSS PAY                                  8,751.20     35,004.80
+DEDUCTIONS
+      Federal Income Tax                       437.56
+  Social Security                          542.57
+      Medicare                                 126.89
+  CA SDI                                    96.26
+NET PAY                                  7,547.92
+--------------------------------------------------------------
+
+FAX RECEIVED 03/01/2026 10:42   P.01

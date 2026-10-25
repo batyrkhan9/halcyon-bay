@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+3799 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AALIYAH ALLEN        Emp ID: 42628
+Position: Library assistant
+  . : .
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       404.90      6,883.30
+GROSS PAY                                    404.90      6,883.30
+DEDUCTIONS
+   Federal Income Tax                        32.39
+    Social Security                           25.10
+  Medicare                                   5.87
+  CA SDI                                     4.45
+NET PAY                                    337.09
+--------------------------------------------------------------
+
+-- scanned 08/26/2026 HBCH mailroom  pg 1/1 --

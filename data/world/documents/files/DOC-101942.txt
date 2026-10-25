@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+9120 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA IYER-KAHANANUI        Emp ID: 53947
+Position: Software engineer
+Pay Period: 07/24/2026 - 08/06/2026     Pay Date: 08/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             53.11     80.00       4,248.80     67,980.80
+  . : .
+GROSS PAY                                  4,248.80     67,980.80
+DEDUCTIONS
+   Federal Income Tax                       339.90
+  Social Security                          263.42
+  Medicare                                  61.60
+     CA SDI                                    46.73
+NET PAY                                  3,537.15
+--------------------------------------------------------------
+
+FAX RECEIVED 09/12/2026 10:44   P.01

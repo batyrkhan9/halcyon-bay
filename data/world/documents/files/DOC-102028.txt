@@ -1,0 +1,20 @@
+M1RADOR PUBLIC LIBRARY
+7075 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIO FREEMAN        Emp ID: 96024
+Position: Library assistant
+Pay Period: 08/24/2026 - 08/30/2026     Pay Date: 09/04/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.70     40.00       1,068.00     38,448.00
+GROSS PAY                                  1,068.00     38,448.00
+DEDUCTIONS
+   Federal Income Tax                        74.76
+   Social Security                           66.21
+  Medicare                                  15.48
+     CA SDI                                    11.74
+ NET PAY                                    899.81
+ --------------------------------------------------------------
+
+-- scanned 09/20/2026 HBCH mailroom  pg 1/1 --

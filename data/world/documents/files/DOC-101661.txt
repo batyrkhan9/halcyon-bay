@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+ 4260 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE WALSH        Emp ID: 41072
+Position: Line w0rker
+Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             40.13     80.00       3,210.40     48,156.00
+GROSS PAY                                  3,210.40     48,156.00
+DEDUCTIONS
+    Federal Income Tax                       224.72
+  Social Security                          199.04
+  Medicare                                  46.55
+  CA SDI                                    35.31
+NET PAY                                   2,704.78
+--------------------------------------------------------------
+
+RECEIVED AUG 14 2026  - mailroom

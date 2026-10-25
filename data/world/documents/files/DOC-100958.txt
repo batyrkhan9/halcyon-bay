@@ -1,0 +1,20 @@
+SUNSET COAST HOME CARE
+    7940 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER LIU        Emp ID: 95162
+ Position: Home care aide
+Pay Period: 12/31/2025 - 01/29/2026     Pay Date: 02/03/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              16.71    173.33       2,896.34      5,792.68
+GROSS PAY                                  2,896.34      5,792.68
+DEDUCTIONS
+  Federal Income Tax                       231.70
+  Social Security                          179.57
+  Medicare                                  41.99
+  CA SDI                                    31.86
+NET PAY                                  2,411.22
+--------------------------------------------------------------
+
+-- scanned 02/20/2026 HBCH mailroom  pg 1/1 --

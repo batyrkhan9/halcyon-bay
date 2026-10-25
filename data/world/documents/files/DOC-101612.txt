@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+1240 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE MENDOZA        Emp ID: 29772
+Position: Driver
+Pay Period: 07/18/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             18.34     10.00         183.40      2,751.00
+GROSS PAY                                    183.40      2,751.00
+DEDUCTIONS
+  Federal Income Tax                        20.17
+   Social Security                           11.37
+  Medicare                                   2.65
+     CA SDI                                     2.01
+NET PAY                                     147.20
+--------------------------------------------------------------
+
+RECEIVED AUG 09 2026  - mailroom

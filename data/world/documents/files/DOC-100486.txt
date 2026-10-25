@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+6671 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM JUNG        Emp ID: 15077
+Position: Mechanic
+Pay Period: 06/24/2025 - 06/30/2025     Pay Date: 07/05/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.60     40.00         864.00     23,328.00
+GROSS PAY                                    864.00     23,328.00
+DEDUCTIONS
+  Federal Income Tax                        51.84
+  Social Security                           53.56
+  Medicare                                  12.52
+  CA SDI                                     9.50
+NET PAY                                    736.58
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2025]

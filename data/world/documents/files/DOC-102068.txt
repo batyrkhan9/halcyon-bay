@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3448 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: TOMASZ COLEMAN        Emp ID: 52136
+Position: Medical receptionist
+Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             72.50     80.00       5,800.00     98,600.00
+GRO5S PAY                                  5,800.00     98,600.00
+DEDUCTIONS
+  Federal Income Tax                       290.00
+    Social Security                          359.60
+  Medicare                                  84.10
+  CA SDI                                    63.80
+NET PAY                                  5,002.50
+--------------------------------------------------------------
+
+FAX RECEIVED 09/24/2026 10:32   P.01

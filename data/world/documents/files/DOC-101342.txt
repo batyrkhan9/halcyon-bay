@@ -1,0 +1,20 @@
+POINT CORR1N BOATWORKS
+8570 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI HO        Emp ID: 45677
+Position: Mechanic
+Pay Period: 06/10/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             22.97     80.00       1,837.60     23,888.80
+GROSS PAY                                  1,837.60     23,888.80
+DEDUCTIONS
+  Federal Income Tax                        91.88
+  Social Security                          113.93
+  Medicare                                  26.64
+   CA SDI                                    20.21
+NET PAY                                  1,584.94
+--------------------------------------------------------------
+
+FAX RECEIVED 07/15/2026 10:18   P.01

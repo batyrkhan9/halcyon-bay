@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+4435 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN GUPTA        Emp ID: 59983
+Position: Field technician
+    Pay Period: 08/22/2026 - 09/04/2026     Pay Date: 09/09/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             37.67     80.00       3,013.60     54,244.80
+ GROSS PAY                                  3,013.60     54,244.80
+DEDUCTIONS
+  Federal Income Tax                       150.68
+  Social Security                          186.84
+  Medicare                                  43.69
+    CA SDI                                    33.15
+NET PAY                                  2,599.24
+  --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2026]

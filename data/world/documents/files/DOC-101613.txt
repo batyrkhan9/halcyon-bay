@@ -1,0 +1,20 @@
+CALDER FREIGHT LINE5
+1428 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE MENDOZA        Emp ID: 29772
+Position: Driver
+Pay Period: 07/03/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.34     10.00         183.40      2,567.60
+GROSS PAY                                    183.40      2,567.60
+DEDUCTIONS
+  Federal Income Tax                        14.67
+  Social Security                           11.37
+  Medicare                                   2.65
+   CA SDI                                     2.01
+NET PAY                                    152.70
+--------------------------------------------------------------
+
+RECEIVED AUG 09 2026  - mailroom

@@ -1,0 +1,21 @@
+   ELLERY HARDWARE SUPPLY
+| |   .
+1093 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDREW HERNANDEZ        Emp ID: 60852
+Position: Sales associate
+Pay Period: 06/13/2026 - 07/12/2026     Pay Date: 07/17/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    17,982.36    125,876.52
+GROSS PAY                                 17,982.36    125,876.52
+DEDUCTIONS
+     Federal Income Tax                     1,978.05
+  Social Security                        1,114.90
+  Medicare                                 260.74
+    CA SDI                                   197.80
+NET PAY                                 14,430.87
+--------------------------------------------------------------
+
+-- scanned 07/23/2026 HBCH mailroom  pg 1/1 --

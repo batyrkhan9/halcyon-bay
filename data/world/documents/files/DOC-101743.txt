@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+570 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE JEFFERSON        Emp ID: 97177
+Position: Field technician
+Pay Period: 07/05/2026 - 07/19/2026     Pay Date: 07/24/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Salary                                       895.66     12,539.24
+GROSS PAY                                    895.66     12,539.24
+DEDUCTIONS
+  Federal Income Tax                        71.65
+  Social Security                           55.53
+  Medicare                                  12.98
+  CA SDI                                     9.85
+NET PAY                                    745.65
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2026]

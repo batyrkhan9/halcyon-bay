@@ -1,0 +1,21 @@
+HARBOR POINT HOTEL
+5997 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: CALEB CHEN        Emp ID: 78368
+Position: Housekeeper
+Pay Period: 04/10/2026 - 04/16/2026     Pay Date: 04/21/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,085.87     17,373.92
+   GROSS PAY                                  1,085.87     17,373.92
+DEDUCTIONS
+  Federal Income Tax                        54.29
+  Social Security                           67.32
+  Medicare                                  15.74
+  CA SDI                                    11.94
+_ _ _ _
+NET PAY                                    936.58
+--------------------------------------------------------------
+
+RECEIVED MAY 14 2026  - mailroom

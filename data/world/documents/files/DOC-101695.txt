@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+3020 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: KAVYA THOMA5        Emp ID: 46572
+  Position: Field technician
+Pay Period: 07/22/2026 - 07/28/2026     Pay Date: 08/02/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.35     23.00         399.05     12,370.55
+GROSS PAY                                    399.05     12,370.55
+DEDUCTION5
+  Federal Income Tax                        35.91
+  Social Security                           24.74
+    Medicare                                   5.78
+  CA SDI                                     4.39
+NET PAY                                     328.23
+--------------------------------------------------------------
+
+FAX RECEIVED 08/16/2026 10:40   P.01

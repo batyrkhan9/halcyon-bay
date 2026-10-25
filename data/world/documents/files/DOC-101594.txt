@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+  5619 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARQUIS DANG        Emp ID: 92023
+Position: Housekeeper
+Pay Period: 07/11/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.44     28.00         516.32     14,973.28
+GROSS PAY                                    516.32     14,973.28
+DEDUCTIONS
+  Federal Income Tax                        25.81
+  Social Security                           32.01
+   Medicare                                   7.48
+  CA SDI                                     5.68
+NET PAY                                    445.34
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2026]

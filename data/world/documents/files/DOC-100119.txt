@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+5232 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: BAO SUZUKI         Emp ID: 52125
+Position: Guest services
+Pay Period: 02/05/2025 - 02/18/2025     Pay Date: 02/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.84     51.50         970.26      3,881.04
+GROSS PAY                                    970.26      3,881.04
+DEDUCTIONS
+  Federal Income Tax                        77.62
+      Social Security                           60.15
+   Medicare                                  14.06
+   CA SDI                                    10.67
+NET PAY                                    807.76
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/19/2025]

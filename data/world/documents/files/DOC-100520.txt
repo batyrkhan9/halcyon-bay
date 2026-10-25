@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+3684 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: HASSAN MEHTA        Emp ID: 98207
+Position: Driver
+Pay Period: 07/05/2025 - 07/18/2025     Pay Date: 07/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       325.43      4,881.45
+GROSS PAY                                    325.43      4,881.45
+DEDUCTIONS
+  Federal Income Tax                        35.79
+  Social Security                           20.17
+  Medicare                                   4.71
+  CA SDI                                     3.58
+NET PAY                                    261.18
+--------------------------------------------------------------
+
+FAX RECEIVED 07/29/2025 10:52   P.01

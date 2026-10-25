@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+   5107 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DAVID DIAZ        Emp ID: 58530
+Position: Nursery worker
+Pay Period: 05/13/2025 - 05/26/2025     Pay Date: 05/31/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.58     53.50         994.03     10,934.33
+ GROSS PAY                                     994.03     10,934.33
+DEDUCTIONS
+  Federal Income Tax                        79.52
+  Social Security                           61.63
+  Medicare                                  14.41
+  CA SDI                                    10.93
+NET PAY                                    827.54
+--------------------------------------------------------------
+
+RECEIVED JUN 09 2025  - mailroom

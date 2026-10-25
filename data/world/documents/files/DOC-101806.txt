@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+5985 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: ANDREW KIM        Emp ID: 37025
+Position: Cleaner
+Pay Period: 07/16/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    23,042.00    184,336.00
+GROSS PAY                                 23,042.00    184,336.00
+DEDUCTIONS
+  Federal Inc0me Tax                     1,382.52
+  Social Security                        1,428.60
+     Medicare                                 334.10
+    CA SDI                                   253.46
+NET PAY                                 19,643.32
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/02/2026]

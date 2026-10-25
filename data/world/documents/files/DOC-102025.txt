@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+1961 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINDA LOPEZ        Emp ID: 48848
+Position: Field technician
+Pay Period: 09/06/2026 - 09/12/2026     Pay Date: 09/17/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,922.89    149,069.82
+GROSS PAY                                  3,922.89    149,069.82
+DEDUCTIONS
+  Federal Income Tax                       196.14
+  Social Security                          243.21
+  Medicare                                  56.88
+  CA SDI                                    43.15
+NET PAY                                  3,383.51
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/20/2026]

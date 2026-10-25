@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+  3460 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: ARJUN TRAN        Emp ID: 91387
+Position: Mechanic
+Pay Period: 04/17/2026 - 04/23/2026      Pay Date: 04/28/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.68     40.00         667.20     11,342.40
+GROSS PAY                                    667.20     11,342.40
+DEDUCTIONS
+  Federal Income Tax                        66.72
+  Social Security                           41.36
+  Medicare                                   9.67
+  CA SDI                                     7.33
+NET PAY                                    542.12
+_ _ _ _
+--------------------------------------------------------------
+
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

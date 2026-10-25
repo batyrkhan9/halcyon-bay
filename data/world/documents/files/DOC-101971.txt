@@ -1,0 +1,21 @@
+HARBOR POINT HOTEL
+    8656 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA PATEL        Emp ID: 86241
+Position: Housekeeper
+Pay Period: 07/25/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+~ ~ .  ,
+Regular             17.15     33.75         578.81      4,630.48
+GROSS PAY                                    578.81      4,630.48
+DEDUCTIONS
+      Federal Income Tax                        28.94
+  Social Security                           35.88
+  Medicare                                   8.39
+  CA SDI                                     6.36
+NET PAY                                    499.24
+--------------------------------------------------------------
+
+-- scanned 09/14/2026 HBCH mailroom  pg 1/1 --

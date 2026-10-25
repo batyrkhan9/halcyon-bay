@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+ 1764 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: MEGAN JOHNSON        Emp ID: 61705
+Position: Line cook
+Pay Period: 02/01/2025 - 02/14/2025     Pay Date: 02/19/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             38.02     80.00       3,041.60     12,166.40
+ GROSS PAY                                  3,041.60     12,166.40
+DEDUCTIONS
+  Federal Income Tax                       182.49
+  Social Security                          188.57
+  Medicare                                  44.10
+  CA SDI                                    33.45
+NET PAY                                  2,592.99
+--------------------------------------------------------------
+
+-- scanned 03/01/2025 HBCH mailroom  pg 1/1 --

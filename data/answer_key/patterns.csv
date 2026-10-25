@@ -1,0 +1,12 @@
+pattern,evidence_count,legal,note
+Free care when household income is at or under 200% of the poverty level,400,Y,"Matches both policy versions. Verified income, decision-year poverty table."
+Discount above 200% up to 400%: patient pays 30% of the patient balance,250,Y,"Adjustment is 70% of patient_responsibility, rounded to the cent."
+"Denied as over income above 400%, interest-free payment plan offered",100,Y,"Outcome is a payment plan, not a write-off."
+Medi-Cal enrollees get free care without income documents,40,Y,"income_proof NONE, medi_cal Y."
+Homeless patients get free care without income documents,25,Y,"income_proof NONE, homeless Y, HOMELESS or shelter address."
+Applications denied as late (over 240 days after the first bill),0,N,"AB 2297: no application deadline from 2025-01-01, even while the old policy was in effect."
+"Applications denied for savings over $10,000",0,N,AB 2297: savings and other monetary assets can't be counted from 2025-01-01.
+Applications denied for no pay stubs when other proof was on file,0,N,AB 2297: other proof of income must be accepted from 2025-01-01.
+An approval covers every visit in the 12 months from the decision date,0,Y,Later visits inside the 12 months were written off under the earlier approval.
+"Payment plans: 12 equal monthly payments rounded up to the dollar, at least $25, no interest",122,Y,Fewer months only when $25 a month pays it off sooner.
+"CalFresh enrollees handled inconsistently (some approved free without income documents, others left in needs info or closed)",0,Y,No written rule in either policy version. A counselor's correction can turn it into one.

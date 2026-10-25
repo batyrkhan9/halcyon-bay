@@ -1,0 +1,20 @@
+CYPRESS FLATS AUT0 BODY
+4372 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: AMANDA MARTIN        Emp ID: 44161
+Position: Technician
+    Pay Period: 07/22/2026 - 08/05/2026     Pay Date: 08/10/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             37.73     86.67       3,270.06     49,050.90
+GROSS PAY                                  3,270.06     49,050.90
+DEDUCTIONS
+  Federal Income Tax                       196.20
+  Social Security                          202.74
+  Medicare                                  47.41
+  CA SDI                                    35.97
+NET PAY                                  2,787.74
+--------------------------------------------------------------
+
+FAX RECEIVED 09/11/2026 10:30   P.01

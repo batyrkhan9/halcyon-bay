@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+1182 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI CONTRERAS        Emp ID: 50419
+Position: Instructional aide
+Pay Period: 08/16/2026 - 08/30/2026     Pay Date: 09/04/2026
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             38.91     86.67       3,372.33     57,329.61
+GROSS PAY                                  3,372.33     57,329.61
+DEDUCTIONS
+  Federal Income Tax                       303.50
+      Social Security                          209.08
+  Medicare                                  48.89
+  CA SDI                                    37.09
+NET PAY                                   2,773.77
+--------------------------------------------------------------
+
+FAX RECEIVED 09/12/2026 10:44   P.01

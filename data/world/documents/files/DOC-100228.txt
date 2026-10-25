@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+580 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DYLAN IBARRA        Emp ID: 88819
+Position: Teacher
+Pay Period: 04/04/2025 - 04/10/2025     Pay Date: 04/15/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+ Regular             18.05     40.00         722.00     10,830.00
+GROSS PAY                                    722.00     10,830.00
+DEDUCTIONS
+  Federal Income Tax                        50.54
+  Social Security                           44.76
+    Medicare                                  10.46
+      CA SDI                                     7.94
+NET PAY                                    608.30
+--------------------------------------------------------------
+
+RECEIVED MAY 01 2025  - mailroom

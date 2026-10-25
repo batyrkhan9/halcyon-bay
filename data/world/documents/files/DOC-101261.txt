@@ -1,0 +1,20 @@
+SANTA LUC1TA FARMS
+1183 INDUSTRIAL WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: RAFAEL PEREIRA        Emp ID: 14985
+Position: Field supervisor
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    10,364.00    134,732.00
+GROSS PAY                                 10,364.00    134,732.00
+DEDUCTIONS
+  Federal Income Tax                       829.12
+  Social Security                          642.56
+  Medicare                                 150.27
+  CA SDI                                   114.00
+NET PAY                                  8,628.05
+   --------------------------------------------------------------
+
+-- scanned 07/04/2026 HBCH mailroom  pg 1/1 --

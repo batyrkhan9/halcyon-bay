@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+5236 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUSAN IBARRA        Emp ID: 94663
+Position: Guest services
+Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             17.14     13.50         231.39      3,008.07
+GROSS PAY                                    231.39      3,008.07
+DEDUCTIONS
+  Federal Income Tax                        16.19
+  Social Security                           14.34
+  Medicare                                   3.35
+  CA SDI                                     2.54
+NET PAY                                    194.97
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]

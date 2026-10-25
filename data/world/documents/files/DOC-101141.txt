@@ -1,0 +1,21 @@
+TIDEWATER CONSTRUCTION
+  2173 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: XIMENA FALEOLO        Emp ID: 42527
+Position: Laborer
+Pay Period: 03/22/2026 - 04/05/2026     Pay Date: 04/10/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+| |   .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             23.90     86.67       2,071.41     14,499.87
+GROSS PAY                                  2,071.41     14,499.87
+DEDUCTIONS
+  Federal Income Tax                        82.85
+  S0cial Security                          128.42
+  Medicare                                  30.03
+  CA SDI                                    22.78
+NET PAY                                   1,807.33
+--------------------------------------------------------------
+
+RECEIVED MAY 12 2026  - mailroom

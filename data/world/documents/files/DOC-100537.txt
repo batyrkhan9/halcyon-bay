@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+9849 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEGAN WU        Emp ID: 79420
+Position: Warehouse associate
+Pay Period: 07/01/2025 - 07/14/2025     Pay Date: 07/19/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             94.76     80.00       7,580.80    113,712.00
+GROSS PAY                                  7,580.80    113,712.00
+DEDUCTIONS
+   Federal Income Tax                       833.88
+  Social Security                          470.01
+  Medicare                                 109.92
+  CA SDI                                    83.38
+NET PAY                                  6,083.61
+     --------------------------------------------------------------
+
+FAX RECEIVED 08/02/2025 10:10   P.01

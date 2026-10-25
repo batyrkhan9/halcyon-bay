@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+6863 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: NOOR XU-HARRIS        Emp ID: 54128
+ P0sition: Medical receptionist
+Pay Period: 07/19/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,843.91     29,502.56
+GROSS PAY                                  1,843.91     29,502.56
+DEDUCTION5
+  Federa1 Income Tax                       165.95
+  Social Security                          114.32
+  Medicare                                  26.73
+  CA SDI                                    20.28
+   NET PAY                                  1,516.63
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/04/2026]

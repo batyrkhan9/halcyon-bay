@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+1046 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE WALKER        Emp ID: 82154
+Position: Medical receptionist
+Pay Period: 03/14/2026 - 03/27/2026     Pay Date: 04/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.69     23.50         415.72      2,910.04
+GROSS PAY                                    415.72      2,910.04
+DEDUCTIONS
+  Federal Income Tax                        20.78
+   Social Security                           25.77
+  Medicare                                   6.02
+  CA SDI                                     4.57
+NET PAY                                    358.58
+--------------------------------------------------------------
+
+FAX RECEIVED 04/17/2026 10:56   P.01

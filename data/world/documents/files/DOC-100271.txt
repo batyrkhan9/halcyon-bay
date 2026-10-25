@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+852 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ERNESTO GONZALEZ        Emp ID: 95449
+Position: Nursery worker
+    Pay Period: 03/30/2025 - 04/13/2025     Pay Date: 04/18/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+_ _ _ _
+Salary                                       726.97      5,815.76
+ GROSS PAY                                    726.97      5,815.76
+DEDUCTIONS
+  Federal Income Tax                        79.96
+  Social Security                           45.07
+      Medicare                                  10.54
+  CA SDI                                     7.99
+NET PAY                                    583.41
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/20/2025]

@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+4266 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+ Employee: CAROL SHAH        Emp ID: 10712
+Position: Driver
+Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              37.34     80.00       2,987.20     56,756.80
+GROSS PAY                                  2,987.20     56,756.80
+ DEDUCTIONS
+  Federal Income Tax                       149.36
+  Social Security                          185.20
+   Medicare                                  43.31
+  CA SDI                                    32.85
+NET PAY                                  2,576.48
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2026]

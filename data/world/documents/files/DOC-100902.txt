@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+959 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA ROMERO        Emp ID: 42407
+Position: Teacher
+Pay Period: 12/23/2025 - 01/05/2026     Pay Date: 01/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             39.41     80.00       3,152.80      3,152.80
+GROSS PAY                                  3,152.80      3,152.80
+DEDUCTIONS
+  Federal Income Tax                       126.11
+  Social Security                          195.47
+  Medicare                                  45.71
+  CA SDI                                    34.68
+NET PAY                                  2,750.83
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/25/2026]

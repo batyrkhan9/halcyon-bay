@@ -1,0 +1,20 @@
+ VISTA SERENA MEDICAL OFFICES
+4329 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: IMANI CLARK        Emp ID: 51087
+Position: Medical receptionist
+Pay Period: 05/19/2025 - 06/02/2025     Pay Date: 06/07/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.71     86.67       2,488.30     27,371.30
+GROSS PAY                                  2,488.30     27,371.30
+DEDUCTIONS
+  Federal Income Tax                        99.53
+  Social Security                          154.27
+  Medicare                                  36.08
+    CA SDI                                    27.37
+  NET PAY                                  2,171.05
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2025]

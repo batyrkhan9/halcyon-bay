@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+4013 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEONI RAO        Emp ID: 25997
+Position: Housekeeper
+Pay Period: 06/12/2026 - 06/25/2026     Pay Date: 06/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            134.85     80.00      10,788.00    140,244.00
+ GROSS PAY                                 10,788.00    140,244.00
+    DEDUCTIONS
+  Federal Income Tax                       647.28
+  Social Security                          668.85
+    Medicare                                 156.42
+  CA SD1                                   118.66
+NET PAY                                  9,196.79
+   --------------------------------------------------------------
+
+-- scanned 07/12/2026 HBCH mailroom  pg 1/1 --

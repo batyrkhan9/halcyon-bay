@@ -1,0 +1,20 @@
+   LAS BRISAS RESTAURANT GROUP
+3481 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BAO FUENTES        Emp ID: 91362
+Position: Line c0ok
+Pay Period: 07/20/2026 - 07/26/2026     Pay Date: 07/31/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     2,477.37     76,798.47
+   GROSS PAY                                  2,477.37     76,798.47
+DEDUCTIONS
+  Federal Income Tax                       123.86
+   Social Security                          153.59
+      Medicare                                  35.92
+  CA SDI                                    27.25
+NET PAY                                  2,136.75
+    --------------------------------------------------------------
+
+-- scanned 08/10/2026 HBCH mailroom  pg 1/1 --

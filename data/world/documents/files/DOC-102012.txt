@@ -1,0 +1,20 @@
+    LAS BRISAS RESTAURANT GROUP
+7945 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE QUINN        Emp ID: 57435
+Position: Line cook
+Pay Period: 08/24/2026 - 09/07/2026     Pay Date: 09/12/2026
+  Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                       550.16      9,352.72
+   GROSS PAY                                    550.16      9,352.72
+  DEDUCTIONS
+    Federal Income Tax                        27.50
+  Social Security                           34.11
+  Medicare                                   7.97
+   CA SDI                                     6.05
+NET PAY                                    474.53
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/19/2026]

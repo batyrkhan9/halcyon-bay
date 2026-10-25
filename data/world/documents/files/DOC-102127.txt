@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+1135 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: BEATRIZ MARTINEZ        Emp ID: 47658
+Position: Laborer
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.08     80.00       2,166.40     38,995.20
+GROSS PAY                                  2,166.40     38,995.20
+DEDUCTIONS
+  Federal Income Tax                       151.64
+      Social Security                          134.31
+  Medicare                                  31.41
+  CA SDI                                    23.83
+NET PAY                                  1,825.21
+--------------------------------------------------------------
+
+-- scanned 09/28/2026 HBCH mailroom  pg 1/1 --

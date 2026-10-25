@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+3762 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: JORGE SINGH        Emp ID: 15593
+Position: Field technician
+Pay Period: 02/28/2026 - 03/13/2026     Pay Date: 03/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,862.62     17,175.72
+    GROSS PAY                                  2,862.62     17,175.72
+DEDUCTIONS
+  Federal Income Tax                       171.75
+  Social 5ecurity                          177.48
+  Medicare                                  41.50
+     CA SDI                                    31.48
+   NET PAY                                  2,440.41
+--------------------------------------------------------------
+
+-- scanned 04/03/2026 HBCH mailroom  pg 1/1 --

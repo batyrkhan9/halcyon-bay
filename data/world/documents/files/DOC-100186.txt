@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+5580 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROHAN COLEMAN        Emp ID: 53326
+Position: Instructional aide
+Pay Period: 03/19/2025 - 03/25/2025     Pay Date: 03/30/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.56     40.00       1,862.40     24,211.20
+GROSS PAY                                  1,862.40     24,211.20
+DEDUCTIONS
+  Federal Income Tax                       167.61
+  Social Security                          115.46
+  Medicare                                  27.00
+  CA SDI                                    20.48
+ NET PAY                                  1,531.85
+--------------------------------------------------------------
+
+-- scanned 04/17/2025 HBCH mailroom  pg 1/1 --

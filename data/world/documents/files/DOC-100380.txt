@@ -1,0 +1,20 @@
+   CALDER FREIGHT LINES
+8192 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA PATEL        Emp ID: 24461
+Position: Driver
+ Pay Period: 05/24/2025 - 06/06/2025     Pay Date: 06/11/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,438.78     53,265.36
+GROSS PAY                                  4,438.78     53,265.36
+DEDUCTIONS
+     Federal Income Tax                       488.26
+    Social Security                          275.20
+  Medicare                                  64.36
+     CA SDI                                    48.82
+NET PAY                                  3,562.14
+--------------------------------------------------------------
+
+-- scanned 06/17/2025 HBCH mailroom  pg 1/1 --

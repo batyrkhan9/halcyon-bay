@@ -1,0 +1,21 @@
+HALCY0N BAY UNIFIED SCH0OL DIST
+6722 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: JAMES CRUZ        Emp ID: 15957
+Position: Instructional aide
+Pay Period: 12/11/2024 - 12/24/2024     Pay Date: 12/29/2024
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.33     80.00       1,626.40     42,286.40
+GROSS PAY                                  1,626.40     42,286.40
+_ _ _ _
+DEDUCTIONS
+  Federal Income Tax                       178.90
+  Social Security                          100.83
+  Medicare                                  23.58
+  CA SDI                                    17.89
+NET PAY                                  1,305.20
+--------------------------------------------------------------
+
+-- scanned 01/09/2025 HBCH mailroom  pg 1/1 --

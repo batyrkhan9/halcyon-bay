@@ -1,0 +1,20 @@
+TIDEWATER C0NSTRUCTION
+  4363 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERRELL FONOT1        Emp ID: 64665
+Position: Laborer
+Pay Period: 08/02/2026 - 08/16/2026     Pay Date: 08/21/2026
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.01     54.50         981.54     15,704.64
+GROSS PAY                                    981.54     15,704.64
+  DEDUCTIONS
+  Federal Income Tax                        39.26
+  Social Security                           60.85
+  Medicare                                  14.23
+  CA SDI                                    10.79
+    NET PAY                                    856.41
+--------------------------------------------------------------
+
+-- scanned 08/28/2026 HBCH mailroom  pg 1/1 --

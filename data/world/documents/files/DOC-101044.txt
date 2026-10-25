@@ -1,0 +1,20 @@
+   GOLDEN HOUR SENIOR LIVING
+5440 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM JOSHI        Emp ID: 49723
+Position: Caregiver
+Pay Period: 01/29/2026 - 02/11/2026     Pay Date: 02/16/2026
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       519.12      2,076.48
+ GROSS PAY                                    519.12      2,076.48
+DEDUCTIONS
+  Federal Income Tax                        46.72
+  Social Security                           32.18
+  Medicare                                   7.52
+  CA SDI                                     5.71
+NET PAY                                    426.99
+--------------------------------------------------------------
+
+-- scanned 04/01/2026 HBCH mailroom  pg 1/1 --

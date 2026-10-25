@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+7287 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+   Employee: ASHLEY DESAI        Emp ID: 77158
+   Position: Mechanic
+Pay Period: 04/26/2025 - 05/09/2025     Pay Date: 05/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.31     80.00       3,704.80     37,048.00
+GROSS PAY                                  3,704.80     37,048.00
+DEDUCTIONS
+   Federal Income Tax                       185.24
+  Social Security                          229.69
+  Medicare                                  53.72
+  CA SDI                                    40.75
+NET PAY                                  3,195.40
+--------------------------------------------------------------
+
+FAX RECEIVED 05/25/2025 10:23   P.01

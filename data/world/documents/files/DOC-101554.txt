@@ -1,0 +1,20 @@
+PACIFIC RIM JANITORIAL
+6342 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE KOWALSKI        Emp ID: 69885
+Position: Custodian
+     Pay Period: 07/08/2026 - 07/14/2026     Pay Date: 07/19/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             16.92      8.00         135.36      3,925.44
+GROSS PAY                                    135.36      3,925.44
+DEDUCTIONS
+  Federal Income Tax                         6.76
+     Social Security                            8.39
+   Medicare                                   1.96
+  CA SDI                                     1.48
+NET PAY                                    116.77
+--------------------------------------------------------------
+
+-- scanned 08/01/2026 HBCH mailroom  pg 1/1 --

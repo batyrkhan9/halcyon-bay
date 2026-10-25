@@ -1,0 +1,20 @@
+    SEASIDE DENTAL GROUP
+2188 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DESTINY WATANABE        Emp ID: 69569
+Position: Dental assistant
+Pay Period: 06/25/2026 - 07/09/2026     Pay Date: 07/14/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.89     21.50         406.14      5,279.82
+GROSS PAY                                    406.14      5,279.82
+DEDUCTIONS
+  Federal Income Tax                        32.49
+      Social Security                           25.18
+  Medicare                                   5.88
+  CA SDI                                     4.46
+NET PAY                                    338.13
+--------------------------------------------------------------
+
+FAX RECEIVED 08/14/2026 10:59   P.01

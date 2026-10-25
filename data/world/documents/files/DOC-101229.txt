@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+1605 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI JUNG        Emp ID: 24221
+Position: Driver
+Pay Peri0d: 05/08/2026 - 05/21/2026     Pay Date: 05/26/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.29     10.50         192.04      2,112.44
+GROSS PAY                                    192.04      2,112.44
+DEDUCTIONS
+  Federal Income Tax                        21.12
+  Social Security                           11.90
+  Medicare                                   2.78
+   CA SDI                                     2.11
+    NET PAY                                    154.13
+ --------------------------------------------------------------
+
+RECEIVED JUN 03 2026  - mailroom

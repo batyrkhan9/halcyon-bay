@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+1637 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HOA KEALOHA        Emp ID: 80904
+    Position: Teacher
+Pay Period: 08/02/2025 - 08/15/2025     Pay Date: 08/20/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.64     80.00       1,411.20     23,990.40
+GROSS PAY                                  1,411.20     23,990.40
+DEDUCTIONS
+  Federal Income Tax                       155.23
+| |   .
+  Social Security                           87.49
+  Medicare                                  20.46
+  CA SDI                                    15.52
+NET PAY                                  1,132.50
+--------------------------------------------------------------
+
+RECEIVED SEP 22 2025  - mailroom

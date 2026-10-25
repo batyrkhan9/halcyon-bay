@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+ 2246 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DYLAN IBARRA        Emp ID: 88819
+Position: Teacher
+Pay Period: 03/28/2025 - 04/03/2025     Pay Date: 04/08/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.05     40.00         722.00     10,108.00
+GROSS PAY                                    722.00     10,108.00
+DEDUCTIONS
+  Federal Income Tax                        57.76
+   Social Security                           44.76
+  Medicare                                  10.46
+  CA SDI                                     7.94
+NET PAY                                    601.08
+--------------------------------------------------------------
+
+-- scanned 05/01/2025 HBCH mailroom  pg 1/1 --

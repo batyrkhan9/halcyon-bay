@@ -1,0 +1,21 @@
+    HALCYON BAY UNIFIED SCHOOL DIST
+1482 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAMES HUSSAIN        Emp ID: 85885
+Position: Instructional aide
+Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+| |   .
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,356.40     18,989.60
+GROSS PAY                                  1,356.40     18,989.60
+DEDUCTIONS
+  Federal Income Tax                       108.51
+  Social Security                           84.09
+      Medicare                                  19.66
+    CA SDI                                    14.92
+NET PAY                                  1,129.22
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/18/2026]

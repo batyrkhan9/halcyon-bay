@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+6915 HARBOR WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: LEILA HERNANDEZ        Emp ID: 12366
+Position: Software engineer
+Pay Period: 02/03/2026 - 02/16/2026     Pay Date: 02/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             19.35     80.00       1,548.00      6,192.00
+GROSS PAY                                  1,548.00      6,192.00
+DEDUCTIONS
+  Federal Income Tax                       123.84
+  Social Security                           95.97
+  Medicare                                  22.44
+  CA SDI                                    17.02
+NET PAY                                  1,288.73
+--------------------------------------------------------------
+
+-- scanned 03/04/2026 HBCH mailroom  pg 1/1 --

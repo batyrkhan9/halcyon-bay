@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+6049 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE ALMEIDA        Emp ID: 44116
+Position: Medical receptionist
+Pay Period: 05/27/2025 - 06/09/2025     Pay Date: 06/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       901.26     10,815.12
+GROSS PAY                                    901.26     10,815.12
+DEDUCTIONS
+  Federal Income Tax                        54.07
+  Social Security                           55.87
+     Medicare                                  13.06
+  CA SDI                                     9.91
+   NET PAY                                    768.35
+  --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/21/2025]

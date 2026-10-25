@@ -1,0 +1,20 @@
+    ELLERY HARDWARE SUPPLY
+4163 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ALEJANDRO JEFFERSON        Emp ID: 14390
+Position: Sales associate
+   Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+    Regular             17.80     47.75         849.95     10,199.40
+GROSS PAY                                    849.95     10,199.40
+DEDUCTIONS
+  Federal Income Tax                        33.99
+  Social Security                           52.69
+  Medicare                                  12.32
+   CA SDI                                     9.34
+NET PAY                                    741.61
+--------------------------------------------------------------
+
+RECEIVED JUL 09 2026  - mailroom

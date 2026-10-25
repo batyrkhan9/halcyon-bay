@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+303 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO GARCIA        Emp ID: 83207
+Position: Line worker
+Pay Period: 08/22/2026 - 08/28/2026     Pay Date: 09/02/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+  Regular             44.84     40.00       1,793.60     62,776.00
+GROSS PAY                                  1,793.60     62,776.00
+DEDUCTIONS
+  Federal Income Tax                       125.55
+  Social Security                          111.20
+  Medicare                                  26.00
+  CA SDI                                    19.73
+NET PAY                                  1,511.12
+--------------------------------------------------------------
+
+-- scanned 09/09/2026 HBCH mailroom  pg 1/1 --

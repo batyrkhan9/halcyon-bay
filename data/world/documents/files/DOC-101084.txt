@@ -1,0 +1,21 @@
+MIRADOR GROCERY CO-OP
+8717 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KIM RUIZ        Emp ID: 10019
+Position: Cashier
+Pay Period: 02/03/2026 - 03/04/2026     Pay Date: 03/09/2026
+| |   .
+    Pay Frequency: Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.14     46.75         848.04      2,544.12
+GROSS PAY                                    848.04      2,544.12
+DEDUCTIONS
+  Federal Income Tax                        93.28
+  Social Security                           52.57
+  Medicare                                  12.29
+  CA SDI                                     9.32
+NET PAY                                    680.58
+--------------------------------------------------------------
+
+RECEIVED APR 13 2026  - mailroom

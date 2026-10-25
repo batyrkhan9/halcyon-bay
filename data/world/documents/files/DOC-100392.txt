@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+1599 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MIGUEL FLORES        Emp ID: 95732
+Position: Medical receptionist
+Pay Period: 05/30/2025 - 06/12/2025     Pay Date: 06/17/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             17.80     56.25       1,001.25     12,015.00
+    GROSS PAY                                  1,001.25     12,015.00
+DEDUCTIONS
+  Federal Income Tax                        90.11
+  Social Security                           62.07
+  Medicare                                  14.51
+  CA SDI                                    11.01
+NET PAY                                    823.55
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/23/2025]

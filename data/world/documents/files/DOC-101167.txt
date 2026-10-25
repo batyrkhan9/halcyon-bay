@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+7622 COMMERCE WAY   CA
+                         EARNINGS 5TATEMENT
+  Employee: JOHN SMITH        Emp ID: 55778
+Position: Teacher
+Pay Period: 04/14/2026 - 04/20/2026     Pay Date: 04/25/2026
+  Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             32.38     40.00       1,295.20     22,018.40
+GROSS PAY                                  1,295.20     22,018.40
+DEDUCTIONS
+   Federal Income Tax                       116.56
+  Socia1 Security                           80.30
+  Medicare                                  18.78
+  CA SDI                                    14.24
+NET PAY                                  1,065.32
+    --------------------------------------------------------------
+
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

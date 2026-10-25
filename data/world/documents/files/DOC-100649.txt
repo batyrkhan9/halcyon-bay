@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+4914 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ARTURO CA5TILLO        Emp ID: 97699
+Position: Driver
+Pay Period: 08/19/2025 - 09/01/2025     Pay Date: 09/06/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             31.85     80.00       2,548.00     45,864.00
+GROSS PAY                                  2,548.00     45,864.00
+DEDUCTIONS
+      Federal Income Tax                       229.32
+  Social Security                          157.97
+  Medicare                                  36.94
+| |   .
+  CA SDI                                    28.02
+NET PAY                                  2,095.75
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/26/2025]

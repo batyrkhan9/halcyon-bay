@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+    2819 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE SULLIVAN-MEHTA        Emp ID: 89437
+Position: Guest services
+Pay Period: 08/15/2026 - 08/21/2026      Pay Date: 08/26/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       942.09     32,031.06
+GROSS PAY                                     942.09     32,031.06
+DEDUCTIONS
+  Federal Income Tax                       103.62
+  Social Security                           58.41
+  Medicare                                  13.66
+  CA SDI                                    10.36
+    NET PAY                                    756.04
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]

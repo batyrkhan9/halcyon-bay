@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+7702 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HASSAN GUTIERREZ        Emp ID: 86096
+Position: Line cook
+Pay Period: 06/14/2025 - 06/27/2025      Pay Date: 07/02/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             37.88     80.00       3,030.40     42,425.60
+GROSS PAY                                  3,030.40     42,425.60
+DEDUCTIONS
+   Federal Income Tax                       272.73
+  Social Security                          187.88
+  Medicare                                  43.94
+  CA SDI                                    33.33
+NET PAY                                  2,492.52
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2025]

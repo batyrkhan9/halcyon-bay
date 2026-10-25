@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+7728 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI GOMEZ        Emp ID: 83923
+Position: Caregiver
+Pay Period: 02/28/2025 - 03/13/2025     Pay Date: 03/18/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             18.99     27.50         522.22      3,133.32
+GROSS PAY                                    522.22      3,133.32
+DEDUCTIONS
+  Federal Income Tax                        20.88
+  Social Security                           32.37
+      Medicare                                   7.57
+  CA SDI                                     5.74
+NET PAY                                    455.66
+--------------------------------------------------------------
+
+FAX RECEIVED 04/18/2025 10:47   P.01

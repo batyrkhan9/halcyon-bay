@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+7672 INDU5TRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE JEFFERSON        Emp ID: 15317
+Position: Medical receptionist
+Pay Period: 06/30/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+| |   .
+Regular            101.11     80.00       8,088.80    121,332.00
+GROSS PAY                                  8,088.80    121,332.00
+ DEDUCTIONS
+  Federa1 Income Tax                       889.76
+  Social Security                          501.50
+  Medicare                                 117.28
+  CA SDI                                    88.97
+NET PAY                                  6,491.29
+--------------------------------------------------------------
+
+RECEIVED AUG 01 2026  - mailroom

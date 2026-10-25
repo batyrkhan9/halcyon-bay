@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+757 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: PAOLA PEREZ        Emp ID: 13106
+Position: Field technician
+Pay Period: 04/11/2026 - 04/17/2026     Pay Date: 04/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       693.44     11,095.04
+GROSS PAY                                    693.44     11,095.04
+DEDUCTIONS
+   Federal Income Tax                        48.54
+  Social Security                           42.99
+  Medicare                                  10.05
+  CA SDI                                     7.62
+NET PAY                                    584.24
+--------------------------------------------------------------
+
+-- scanned 05/12/2026 HBCH mailroom  pg 1/1 --

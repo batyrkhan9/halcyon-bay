@@ -1,0 +1,21 @@
+SANTA LUCITA FARMS
+2302 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: TOMASZ PEREZ         Emp ID: 74839
+    Position: Field supervisor
+Pay Period: 09/30/2025 - 10/13/2025     Pay Date: 10/18/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             18.04     80.00       1,443.20     30,307.20
+GROSS PAY                                  1,443.20     30,307.20
+DEDUCTIONS
+  Federal Income Tax                       129.88
+  Social Security                           89.47
+  Medicare                                  20.92
+  CA SDI                                    15.87
+NET PAY                                  1,187.06
+  . : .
+  --------------------------------------------------------------
+
+-- scanned 10/31/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+4042 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: AMINA MEDINA        Emp ID: 54284
+Position: Software engineer
+Pay Period: 08/09/2025 - 08/22/2025     Pay Date: 08/27/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,867.42     87,613.56
+GROSS PAY                                  4,867.42     87,613.56
+DEDUCTIONS
+  Federal Income Tax                       340.71
+  Social Security                          301.78
+  Medicare                                  70.57
+  CA SDI                                    53.54
+NET PAY                                  4,100.82
+_ _ _ _
+--------------------------------------------------------------
+
+-- scanned 09/18/2025 HBCH mailroom  pg 1/1 --

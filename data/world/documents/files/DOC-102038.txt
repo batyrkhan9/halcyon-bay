@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+7320 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: MANUEL TAYLOR        Emp ID: 63233
+Position: Warehouse associate
+  Pay Period: 08/04/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,990.23     63,843.68
+GROSS PAY                                  3,990.23     63,843.68
+   DEDUCTIONS
+  Federal 1ncome Tax                       319.21
+   Social Security                          247.39
+  Medicare                                  57.85
+  CA SDI                                    43.89
+  NET PAY                                  3,321.89
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/21/2026]

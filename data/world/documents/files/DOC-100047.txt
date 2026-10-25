@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+  8523 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: KAI WANG        Emp ID: 46117
+Position: Line worker
+Pay Period: 01/07/2025 - 01/21/2025      Pay Date: 01/26/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.57     86.67       2,042.81      4,085.62
+GROSS PAY                                  2,042.81      4,085.62
+DEDUCTI0NS
+  Federal 1ncome Tax                       183.85
+  Social Security                          126.65
+  Medicare                                  29.62
+   CA SDI                                    22.47
+NET PAY                                  1,680.22
+--------------------------------------------------------------
+
+-- scanned 02/01/2025 HBCH mailroom  pg 1/1 --

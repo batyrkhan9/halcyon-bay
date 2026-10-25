@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+   2533 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: EMILY MCCARTHY        Emp ID: 83524
+Position: Guest services
+ Pay Period: 04/01/2025 - 04/15/2025     Pay Date: 04/20/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.38     86.67       5,059.79     40,478.32
+GROSS PAY                                  5,059.79     40,478.32
+DEDUCTIONS
+  Federal Income Tax                       455.38
+  Social Security                          313.70
+   Medicare                                  73.36
+  CA 5DI                                    55.65
+NET PAY                                   4,161.70
+--------------------------------------------------------------
+
+-- scanned 05/31/2025 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+9416 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUSUF PARK        Emp ID: 46864
+Position: Caregiver
+  Pay Period: 03/04/2025 - 03/17/2025     Pay Date: 03/22/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             59.31     80.00       4,744.80     28,468.80
+GROSS PAY                                  4,744.80     28,468.80
+DEDUCTIONS
+  Federal Income Tax                       427.03
+  S0cial Security                          294.17
+    Medicare                                  68.80
+  CA SDI                                    52.19
+NET PAY                                  3,902.61
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/10/2025]

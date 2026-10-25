@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+6402 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: KEISHA IYER        Emp ID: 75265
+ Position: Warehouse associate
+Pay Period: 11/22/2024 - 12/21/2024     Pay Date: 12/26/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,375.72     43,884.36
+GROSS PAY                                  3,375.72     43,884.36
+DEDUCTIONS
+  Federal Income Tax                       168.78
+  Social Security                          209.29
+  Medicare                                  48.94
+  CA SDI                                    37.13
+NET PAY                                  2,911.58
+--------------------------------------------------------------
+
+-- scanned 02/10/2025 HBCH mailroom  pg 1/1 --

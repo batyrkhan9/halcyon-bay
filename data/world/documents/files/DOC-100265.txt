@@ -1,0 +1,18 @@
+ Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  DEEPA SUZUKI
+Your social security number: XXX-XX-8833
+Dependents: 3
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   104,724.00
+     8   Additiona1 income from Schedule 1, 1ine 10 ......         0.00
+ 9   Total income ....................................   104,724.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................   104,724.00
+ 12  Standard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Deepa Suzuki        Date: 04/12/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/19/2025]

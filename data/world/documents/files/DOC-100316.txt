@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+8084 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA WALKER        Emp ID: 64794
+Position: Software engineer
+Pay Period: 04/22/2025 - 05/05/2025     Pay Date: 05/10/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+  Regular            142.40     80.00      11,392.00    113,920.00
+GROSS PAY                                 11,392.00    113,920.00
+DEDUCTI0NS
+  Federal Income Tax                       455.68
+  Social Security                          706.30
+  Medicare                                 165.18
+   CA SDI                                   125.31
+NET PAY                                  9,939.53
+--------------------------------------------------------------
+
+FAX RECEIVED 05/28/2025 10:21   P.01

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+3693 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA CHEN        Emp ID: 18130
+Position: Software engineer
+   Pay Period: 01/07/2025 - 01/20/2025     Pay Date: 01/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     5,551.02     11,102.04
+GROSS PAY                                  5,551.02     11,102.04
+DEDUCTIONS
+  Federal Income Tax                       444.08
+  Social Security                          344.16
+  Medicare                                  80.49
+     CA SDI                                    61.06
+NET PAY                                  4,621.23
+--------------------------------------------------------------
+
+-- scanned 02/17/2025 HBCH mailroom  pg 1/1 --

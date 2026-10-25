@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+3650 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: PAOLA O'BRIEN-IVANOVA        Emp ID: 83205
+Position: Guest services
+| |   .
+Pay Period: 07/04/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.86     14.00         264.04      3,960.60
+GROSS PAY                                    264.04      3,960.60
+DEDUCTIONS
+  Federal Income Tax                        18.48
+  Social Security                           16.37
+  Medicare                                   3.82
+  CA SDI                                     2.90
+NET PAY                                    222.47
+   --------------------------------------------------------------
+
+-- scanned 08/15/2026 HBCH mailroom  pg 1/1 --

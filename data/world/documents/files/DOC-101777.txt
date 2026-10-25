@@ -1,0 +1,20 @@
+   MIRADOR PUBLIC LIBRARY
+1981 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE SILVA        Emp ID: 21416
+Position: Library assistant
+Pay Period: 06/09/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             17.54    160.25       2,810.78     19,675.46
+    GROSS PAY                                  2,810.78     19,675.46
+DEDUCTIONS
+  Federal Income Tax                       281.07
+   Social Security                          174.26
+  Medicare                                  40.75
+   CA SDI                                    30.91
+ NET PAY                                  2,283.79
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/28/2026]

@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+ 1494 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: GARY COLEMAN        Emp ID: 14463
+Position: Medical receptionist
+Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.39     80.00       1,711.20     27,379.20
+GROSS PAY                                  1,711.20     27,379.20
+DEDUCTIONS
+  Federal Income Tax                       136.89
+      Social Security                          106.09
+  Medicare                                  24.81
+  CA SDI                                    18.82
+NET PAY                                  1,424.59
+   --------------------------------------------------------------
+
+FAX RECEIVED 08/30/2026 10:29   P.01

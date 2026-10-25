@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+8613 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SARAH HADDAD        Emp ID: 74531
+   Position: Dental assistant
+Pay Period: 08/08/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             68.09     40.00       2,723.60     89,878.80
+GROSS PAY                                  2,723.60     89,878.80
+DEDUCTIONS
+  Federal Income Tax                       163.41
+  Social Security                          168.86
+   Medicare                                  39.49
+   CA SDI                                    29.96
+NET PAY                                  2,321.88
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/05/2026]

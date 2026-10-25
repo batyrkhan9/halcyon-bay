@@ -1,0 +1,20 @@
+ HARBOR POINT HOTEL
+9186 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: MARIO SANCHEZ        Emp ID: 66008
+Position: Housekeeper
+Pay Period: 05/26/2025 - 06/24/2025     Pay Date: 06/29/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              21.70    173.33       3,761.26     22,567.56
+GROSS PAY                                  3,761.26     22,567.56
+DEDUCTIONS
+   Federal Income Tax                       413.73
+  Social Security                          233.19
+    Medicare                                  54.53
+  CA SDI                                    41.37
+NET PAY                                  3,018.44
+--------------------------------------------------------------
+
+-- scanned 08/05/2025 HBCH mailroom  pg 1/1 --

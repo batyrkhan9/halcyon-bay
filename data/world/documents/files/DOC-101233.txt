@@ -1,0 +1,20 @@
+ARROYO VERDE NUR5ERY
+1257 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MATTHEW KELLY        Emp ID: 66208
+Position: Nursery worker
+Pay Period: 05/13/2026 - 05/26/2026     Pay Date: 05/31/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.01     80.00       1,920.80     21,128.80
+GROSS PAY                                  1,920.80     21,128.80
+DEDUCTIONS
+  Federal Income Tax                       115.24
+  Social Security                          119.09
+  Medicare                                  27.85
+  CA SDI                                    21.12
+NET PAY                                  1,637.50
+--------------------------------------------------------------
+
+RECEIVED JUN 06 2026  - mailroom

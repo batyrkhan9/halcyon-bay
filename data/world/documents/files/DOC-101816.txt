@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+ 6924 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOHN DIAZ        Emp ID: 24694
+Position: Line worker
+Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Salary                                     2,075.32     35,280.44
+GROSS PAY                                  2,075.32     35,280.44
+DEDUCTIONS
+  Federal Income Tax                       103.76
+  Social Security                          128.67
+  Medicare                                  30.09
+  CA SDI                                    22.82
+NET PAY                                  1,789.98
+--------------------------------------------------------------
+
+RECEIVED SEP 03 2026  - mailroom

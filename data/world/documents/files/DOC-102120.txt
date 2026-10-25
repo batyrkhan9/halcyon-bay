@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+644 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LETICIA HERNANDEZ        Emp ID: 46461
+Position: Teacher
+    Pay Period: 08/22/2026 - 09/05/2026     Pay Date: 09/10/2026
+Pay Frequency: Semi-Monthly
+| |   .
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             32.77     86.67       2,840.18     48,283.06
+GROSS PAY                                  2,840.18     48,283.06
+DEDUCTIONS
+  Federal Income Tax                       312.41
+  Social Security                          176.09
+  Medicare                                  41.18
+  CA SDI                                    31.24
+NET PAY                                  2,279.26
+ --------------------------------------------------------------
+
+-- scanned 09/27/2026 HBCH mailroom  pg 1/1 --

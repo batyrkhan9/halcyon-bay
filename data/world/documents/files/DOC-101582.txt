@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+1638 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANA RAHMAN        Emp ID: 60131
+Position: Dental assistant
+Pay Period: 07/10/2026 - 07/16/2026     Pay Date: 07/21/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.15     40.00         966.00     28,014.00
+GROSS PAY                                    966.00     28,014.00
+DEDUCTIONS
+  Federal Income Tax                       106.26
+  Social Security                           59.89
+  Medicare                                  14.00
+  CA SDI                                    10.62
+NET PAY                                    775.23
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/04/2026]

@@ -1,0 +1,20 @@
+GOLDEN HOUR SENIOR LIVING
+2643 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Emp1oyee: LARRY COSTA        Emp ID: 25749
+Position: Caregiver
+Pay Period: 09/01/2026 - 09/07/2026     Pay Date: 09/12/2026
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              29.30     40.00       1,172.00     43,364.00
+GROSS PAY                                  1,172.00     43,364.00
+DEDUCTIONS
+  Federal Income Tax                       117.20
+  Social Security                           72.66
+  Medicare                                  16.99
+   CA SDI                                    12.89
+NET PAY                                    952.26
+--------------------------------------------------------------
+
+-- scanned 09/22/2026 HBCH mailroom  pg 1/1 --

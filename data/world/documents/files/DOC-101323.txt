@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+    9089 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: OMAR DAVIS        Emp ID: 78598
+Position: Cashier
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.54     16.75         310.54      8,384.58
+GROSS PAY                                    310.54      8,384.58
+DEDUCTIONS
+  Federal Income Tax                        18.63
+  Social Security                           19.25
+  Medicare                                   4.50
+  CA SDI                                     3.41
+    NET PAY                                    264.75
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/11/2026]

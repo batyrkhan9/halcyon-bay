@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+5229 MARKET WAY   CA
+                         EARNINGS STATEMENT
+   Employee: JOSE QUINN        Emp ID: 57435
+Position: Line cook
+Pay Period: 08/09/2026 - 08/23/2026      Pay Date: 08/28/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       550.16      8,802.56
+GROSS PAY                                    550.16      8,802.56
+ DEDUCTIONS
+  Federal Income Tax                        55.01
+      Social Security                           34.11
+     Medicare                                   7.97
+  CA SDI                                     6.05
+NET PAY                                    447.02
+--------------------------------------------------------------
+
+RECEIVED SEP 19 2026  - mailroom

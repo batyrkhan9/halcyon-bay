@@ -1,0 +1,20 @@
+   ARROYO VERDE NURSERY
+6299 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+  Employee: DUC CHOI        Emp ID: 56667
+Position: Nursery worker
+  Pay Period: 05/27/2025 - 06/10/2025     Pay Date: 06/15/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              25.42     86.67       2,203.15     26,437.80
+GROSS PAY                                  2,203.15     26,437.80
+DEDUCTIONS
+  Federal Income Tax                       132.18
+  Social Security                          136.59
+  Medicare                                  31.94
+    CA SDI                                    24.23
+NET PAY                                  1,878.21
+--------------------------------------------------------------
+
+-- scanned 07/06/2025 HBCH mailroom  pg 1/1 --

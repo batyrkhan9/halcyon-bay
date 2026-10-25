@@ -50,12 +50,13 @@ Regenerate with `python3 data/generate/generate.py`. Same seed, same output, byt
 - Money is dollars with two decimals, no `$` or commas (`4210.50`). Signed only where this file says so.
 - Lists inside a cell are separated by `;`.
 - Y/N flags are `Y`, `N` or empty (not asked).
+- Every phone number uses area code 555, which doesn't exist, so no number can reach a real person. The CRS personas' phones are 555-010-10NN.
 - Each system has its own IDs and its own copy of a person's name, birth date, address and phone. They don't always agree, on purpose. Matching people across systems is part of the core's job. There is no shared person ID in `world/`.
 
 | System | Its IDs | How it writes things |
 |---|---|---|
-| Billing | `mrn` (M + 7 digits), `account_no` (HB + 8 digits) | Names in capitals. ISO dates. Phone `(408) 555-0101` |
-| Financial assistance (fa) | `application_id` (FA-YY-NNNNN), `applicant_id` (APL-NNNNNN) | Names as the applicant wrote them. ISO dates. Phone `408-555-0101` |
+| Billing | `mrn` (M + 7 digits), `account_no` (HB + 8 digits) | Names in capitals. ISO dates. Phone `(555) 741-6670` |
+| Financial assistance (fa) | `application_id` (FA-YY-NNNNN), `applicant_id` (APL-NNNNNN) | Names as the applicant wrote them. ISO dates. Phone `555-741-6670`. SSN as written, sometimes with dashes: strip non-digits |
 | Collection agency (Golden Coast Recovery) | `agency_ref` (GCR-NNNNNN), `request_id` (GCR-R-NNNNN) | Names in capitals. Dates MM/DD/YYYY. Phone digits only. Account numbers sometimes without the HB prefix or with dashes |
 | Documents (mailroom scans) | `doc_id` (DOC-NNNNNN) | Free text, like OCR output |
 | Staff list (HR export) | `staff_id` (S-NNN) | ISO dates |
@@ -238,7 +239,7 @@ S-001 is a counselor, S-002 the revenue cycle director, S-003 the compliance off
 
 ## policy/
 
-`index.csv` has `version, effective_from, effective_to, file`. Two versions:
+`index.csv` has `recorded_on, version, effective_from, effective_to, file`. Two versions:
 
 - `fap_2020-01-01.md`, in effect 2020-01-01 to 2025-06-30 (the dates in `core/policy.py`). Savings over $10,000 disqualify. Applications only within 240 days of the first bill. Pay stubs required.
 - `fap_2025-07-01.md`, in effect from 2025-07-01. Both rules dropped. Other proof of income accepted when there are no pay stubs.
@@ -325,13 +326,13 @@ One row for every live account that needs work.
 | outcome | `FREE`, `DISCOUNT`, `PAYMENT_PLAN`, `NEEDS_INFO` or `NO_CHANGE` |
 | fpl_pct | percent of poverty level, empty if it can't be known |
 | adjustment | dollars written off as charity or discount |
-| patient_owes | dollars the patient owes after the right decision |
-| refund | patient payments that must be given back |
-| monthly_payment | for `PAYMENT_PLAN` |
+| patient_owes | the patient's share under the right decision, before payments already made: 0 for `FREE`, 30% of `patient_responsibility` for `DISCOUNT`, all of it for `PAYMENT_PLAN`. The same as the core's `patient_pays_cents` |
+| refund | payments already made beyond `patient_owes`, which must be given back |
+| monthly_payment | for `PAYMENT_PLAN`: the balance still due (`patient_owes` minus payments made) ÷ 12, rounded up to the dollar, at least $25 |
 | handling | `AUTO` (a clear case the system handles alone, up to the normal approval) or `ASK` (it must ask a person before proposing) |
 | ask_role | who to ask: `COUNSELOR`, `DIRECTOR` or `COMPLIANCE` |
 | approver_role | who must approve the final change |
-| required_actions | `;` list from: `FREE_CARE`, `DISCOUNT`, `PAYMENT_PLAN`, `REQUEST_INFO`, `PAUSE_COLLECTIONS`, `BLOCK_AGENCY_ACTION:<request_id>`, `MERGE:<mrn>+<mrn>`, `REVERSAL:<application_id>` |
+| required_actions | `;` list from: `FREE_CARE`, `DISCOUNT`, `PAYMENT_PLAN`, `REQUEST_INFO`, `PAUSE_COLLECTIONS`, `BLOCK_AGENCY_ACTION:<request_id>`, `COLLECTIONS_REFERRAL:<request_id>` (a legal agency request the director may allow), `MERGE:<mrn>+<mrn>`, `REVERSAL:<application_id>` |
 | forbidden_actions | `;` list of actions that would be wrong here: any proposal kind, `DENY`, or `APPROVE_BY:<staff_id>` (that person must not approve it) |
 | planted | planted case IDs, `;` separated |
 | reason | one line |
