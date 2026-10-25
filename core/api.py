@@ -13,6 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
+from . import discovery
 from .agent import Agent
 from .config import DEFAULT_DB
 from .gateway import Denied, Gateway
@@ -119,8 +120,43 @@ def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
 
     @app.get("/score")
     def current_score():
-        """The live score against the answer key, with every miss."""
-        return score(store)
+        """The live score against the answer key, in the shape the UI reads, plus the detail."""
+        s = score(store)
+        alone = s["alone"]
+        auto = s["auto"]
+        violations = s["violations_prevented"]
+        return {
+            "as_of": store.today().isoformat(),
+            "precision": {"value": s["precision"] or 0, "correct": alone["right"], "total": alone["total"]},
+            "auto_share": {"value": s["handled_automatically"] or 0, "auto": auto["right"], "total": auto["total"]},
+            "charity_cents": round(s["dollars_to_charity"] * 100),
+            "payment_plan_collected_cents": round(s["dollars_on_payment_plans"] * 100),
+            "violations_prevented": {"count": sum(violations.values()), "by_law": violations},
+            "answer_key": {"accounts_scored": s["accounts"], "matched": s["passed"]},
+            "discovery": s["discovery"],
+            "planted": s["planted"],
+            "misses": s["misses"],
+        }
+
+    @app.get("/discovery")
+    def day_one():
+        """What onboarding found in the history, with each reversal's current proposal."""
+        found = discovery.saved(store)
+        if found is None:
+            raise HTTPException(404, "Onboarding hasn't run the day-one discovery yet")
+        for finding in found["findings"]:
+            finding["proposal"] = store.proposal(finding["proposal_id"]) if finding["proposal_id"] else None
+        return found
+
+    @app.get("/learned")
+    def learned():
+        found = discovery.saved(store) or {"patterns": []}
+        return {
+            "patterns": found["patterns"],
+            "precedents": [],
+            "rules": [],
+            "rejected": store.all("SELECT * FROM rejected_patterns ORDER BY rejected_on"),
+        }
 
     @app.get("/audit")
     def audit(account_id: str | None = None, actor_id: str | None = None, allowed: bool | None = None,

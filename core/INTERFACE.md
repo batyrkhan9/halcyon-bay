@@ -41,7 +41,7 @@ The agent reads documents with Claude, which needs `ANTHROPIC_API_KEY` in `.env`
 
 Roles: `counselor`, `director`, `compliance` (people) and `sync`, `agent`, `gateway` (the system).
 
-Work item states: `NEW`, `SCREENING`, `NEEDS_INFO`, `PROPOSED`, `APPROVED`, `REJECTED`, `POSTED`.
+Work item states: `NEW`, `SCREENING`, `NEEDS_INFO`, `PROPOSED`, `APPROVED`, `REJECTED`, `POSTED`, `CLOSED` (checked, nothing to change).
 
 Proposal kinds: `FREE_CARE`, `DISCOUNT`, `PAYMENT_PLAN`, `COLLECTIONS_REFERRAL`, `PAUSE_COLLECTIONS`, `BLOCK_AGENCY_ACTION`, `MERGE_ACCOUNTS`, `REVERSAL`, `NEW_RULE`.
 
@@ -185,13 +185,15 @@ Actions: `open_work_item`, `move_work_item`, `read_case`, `propose`, `ask`, `ans
 - `read_case` is Claude's reading of the account. `detail` has `model`, `facts` (each with its quote), `not_used` (facts code refused, with why), `conflicts` and `missing`.
 - `follow_hidden_instructions` is always `allowed: false`: a document tried to instruct the agent, and the reason quotes it. For the attack screen, search `/audit?allowed=false`.
 
+### `GET /discovery`, `GET /learned`, `GET /score`
+
+Live, in the shapes `ui/src/api/types.ts` defines (`Discovery`, `Learned`, `Score`). `/discovery` is filled when `core.sync onboard` runs; each finding carries its reversal `proposal` for the compliance officer. `/score` adds `discovery`, `planted` (pass counts per planted category) and `misses`.
+
 ## Coming
 
 Planned shapes. They will be built in this order.
 
 - `POST /sim/advance` with `{"days": 1}`: run the next simulated day (sync, then the agent works every item). Returns `/state`.
-- `GET /discovery`: the day-one discovery. Patterns learned from 18 months of history, and the ones flagged as illegal, with the affected accounts, the law each breaks and the dollars involved.
-- `GET /learned`: learned policies and rules from corrections, each with evidence counts, the backtest (cases changed, dollars moved) and its status.
+- `GET /learned` rules and precedents from corrections: today it returns the learned and flagged patterns from onboarding, with `precedents` and `rules` empty.
 - `POST /corrections` with `{"actor_id", "account_id", "correction", "note"}`: a staff correction that becomes a precedent.
-- `GET /score`: precision, share handled automatically, dollars moved to charity, dollars collected through payment plans and violations prevented, scored against the answer key.
 - `POST /judge-box` with `{"text": "..."}`: a patient described in plain English becomes a new account and is worked live. Returns the account ID to open.

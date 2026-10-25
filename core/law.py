@@ -120,12 +120,26 @@ def check_denial(
     if pct_of_poverty is None or pct_of_poverty > AB_1020_LIMIT_PCT:
         return []
     found = []
-    after_ab_2297 = decided_on >= AB_2297_EFFECTIVE
     if reason == DENIED_INCOME and decided_on >= AB_1020_EFFECTIVE:
         found.append(Violation(
             "AB 1020",
             f"Income is {pct_of_poverty:.0f}% of the poverty level; up to {AB_1020_LIMIT_PCT}% qualifies.",
         ))
+    return found + reason_violations(reason=reason, decided_on=decided_on, applied_on=applied_on,
+                                     first_bill=first_bill, had_other_proof=had_other_proof)
+
+
+def reason_violations(
+    *,
+    reason: str,
+    decided_on: date,
+    applied_on: date | None = None,
+    first_bill: date | None = None,
+    had_other_proof: bool = False,
+) -> list[Violation]:
+    """Laws the stated reason for a denial breaks, whatever the patient's income."""
+    found = []
+    after_ab_2297 = decided_on >= AB_2297_EFFECTIVE
     if reason == DENIED_SAVINGS and after_ab_2297:
         found.append(Violation("AB 2297", "Savings and other monetary assets can't be counted."))
     if reason == DENIED_LATE:

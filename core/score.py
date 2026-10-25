@@ -61,6 +61,11 @@ def check_account(store: Store, gateway: Gateway, right: dict) -> dict:
     account_no = right["account_no"]
     proposals = store.all("SELECT * FROM proposals WHERE account_id = ? ORDER BY id", account_no)
     assistance = [p for p in proposals if p["kind"] in OUTCOMES]
+    # Reversing an illegal denial is how free or discounted care reaches an account that was wrongly denied.
+    reversal = next((p for p in proposals if p["kind"] == "REVERSAL"
+                     and p["amount_cents"] == cents(right["adjustment"])), None)
+    if not assistance and reversal and right["outcome"] in ("FREE", "DISCOUNT"):
+        assistance = [{**reversal, "kind": FREE_CARE if right["outcome"] == "FREE" else DISCOUNT}]
     proposal = assistance[-1] if assistance else None
     first_question = store.one("SELECT id FROM questions WHERE account_id = ? ORDER BY id", account_no)
     asked = first_question is not None
@@ -129,13 +134,17 @@ def score(store: Store, key: dict[str, dict] | None = None) -> dict:
     alone = [r for r in rows if r["alone"]]
     auto = [r for r in rows if r["handling"] == "AUTO"]
     passed = [r for r in rows if r["passed"]]
+    right_alone = sum(r["right_alone"] for r in alone)
+    auto_right = sum(r["passed"] and r["got"] != "ASKED" for r in auto)
     audit = store.all("SELECT action, COUNT(*) AS n FROM audit_log WHERE allowed = 0 GROUP BY action")
     return {
         "accounts": len(rows),
         "passed": len(passed),
-        "precision": round(sum(r["right_alone"] for r in alone) / len(alone), 4) if alone else None,
-        "handled_automatically": round(sum(r["passed"] and not r["got"] == "ASKED" for r in auto) / len(auto), 4)
-        if auto else None,
+        "precision": round(right_alone / len(alone), 4) if alone else None,
+        "alone": {"right": right_alone, "total": len(alone)},
+        "handled_automatically": round(auto_right / len(auto), 4) if auto else None,
+        "auto": {"right": auto_right, "total": len(auto)},
+        "discovery": score_discovery(store),
         "dollars_to_charity": round(sum(r["dollars"] for r in passed if r["got"] in ("FREE", "DISCOUNT")), 2),
         "dollars_on_payment_plans": round(sum(
             cents(key[r["account"]]["patient_owes"]) / 100 for r in passed if r["got"] == "PAYMENT_PLAN"), 2),
@@ -150,6 +159,30 @@ def score(store: Store, key: dict[str, dict] | None = None) -> dict:
     }
 
 
+def score_discovery(store: Store) -> dict | None:
+    """The day-one discovery against answer_key/history_findings.csv: same case, same kind, same outcome, same dollars."""
+    path = KEY_DIRS[0] / "history_findings.csv"
+    row = store.one("SELECT value FROM settings WHERE key = 'discovery'")
+    if not path.is_file() or row is None:
+        return None
+    with path.open(newline="") as f:
+        expected = {r["application_id"]: r for r in csv.DictReader(f)}
+    found = {f["application_id"]: f for f in json.loads(row["value"])["findings"]}
+    right, wrong = [], []
+    for app_id, want in sorted(expected.items()):
+        got = found.get(app_id)
+        if got and got["kind"] == want["finding"] and got["correct_outcome"] == want["correct_outcome"] \
+                and got["adjustment_cents"] == cents(want["adjustment"]) and got["refund_cents"] == cents(want["refund"]):
+            right.append(app_id)
+        else:
+            wrong.append({"application_id": app_id, "expected": f"{want['finding']} {want['correct_outcome']} "
+                          f"${want['adjustment']} + ${want['refund']} refund",
+                          "got": f"{got['kind']} {got['correct_outcome']} ${got['adjustment_cents'] / 100:.2f} + "
+                                 f"${got['refund_cents'] / 100:.2f} refund" if got else "not found"})
+    extra = sorted(set(found) - set(expected))
+    return {"expected": len(expected), "right": len(right), "wrong": wrong, "extra": extra}
+
+
 def main() -> None:
     result = score(Store(os.environ.get("HALCYON_DB", DEFAULT_DB)))
     print(f"Accounts passed: {result['passed']} of {result['accounts']}")
@@ -157,6 +190,12 @@ def main() -> None:
     print(f"Handled automatically: {result['handled_automatically']}")
     print(f"To charity: ${result['dollars_to_charity']:,.2f}   On payment plans: ${result['dollars_on_payment_plans']:,.2f}")
     print(f"Violations prevented: {result['violations_prevented']}")
+    if d := result["discovery"]:
+        print(f"Day-one discovery: {d['right']} of {d['expected']} history findings right, {len(d['extra'])} extra")
+        for w in d["wrong"]:
+            print(f"  {w['application_id']}  expected {w['expected']}, got {w['got']}")
+        if d["extra"]:
+            print(f"  extra: {', '.join(d['extra'])}")
     print("Planted cases:")
     for category, counts in result["planted"].items():
         print(f"  {category:<28} {counts['passed']} of {counts['of']}")

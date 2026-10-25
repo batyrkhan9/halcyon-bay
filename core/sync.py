@@ -285,9 +285,18 @@ def main() -> None:
     args = sys.argv[1:]
     path = os.environ.get("HALCYON_DB", DEFAULT_DB)
     if args[:1] == ["onboard"]:
+        from .discovery import discover
+        from .reader import ReadFailed
         for suffix in ("", "-wal", "-shm"):
             Path(path + suffix).unlink(missing_ok=True)
-        print(Sync(Store(path)).onboard())
+        store = Store(path)
+        print(Sync(store).onboard())
+        try:
+            found = discover(store)
+            print(f"Day-one discovery: {len(found['findings'])} findings, ${found['total_cents'] / 100:,.2f}, "
+                  f"{found['patterns_learned']} patterns learned, {found['patterns_flagged']} flagged")
+        except ReadFailed as e:
+            print(f"Day-one discovery skipped: {e}")
         return
     if args[:1] != ["day"] or len(args) < 2:
         raise SystemExit(__doc__)
