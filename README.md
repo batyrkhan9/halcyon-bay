@@ -184,22 +184,32 @@ What it still misses:
 - **Stopped payment plans, 0 of 4.** A plan stopped without the required call or notice should be put back. Today it closes the work item, or never opens one.
 - Of the 15 precision misses, 9 are duplicates with the right help but no merge, and 6 should have asked a person first (5 documents disagree, 1 CalFresh). Every one is still a proposal waiting for a person. Nothing posts without an approval.
 
-## Run it
+## Run the demo
 
-You need Python 3.11 or newer and Node.js. No API key is needed. From the repo root:
+You need Python 3.12, [uv](https://docs.astral.sh/uv/) and Node.js. No API key is needed.
 
-```bash
-python3 -m venv core/.venv                               # or: uv venv core/.venv --python 3.12
-core/.venv/bin/pip install -r core/requirements.txt
-core/.venv/bin/python -m core.demo --day 2026-09-30       # then open http://localhost:8000
-```
+1. Install the core once:
 
-`core.demo` loads Claude's saved replies from `core/fixtures/`, onboards the history with the day-one discovery, replays the live days up to `--day`, builds the screens the first time, and serves the screens and the API together at http://localhost:8000. Nothing calls Claude and nothing is spent. The replay takes about 20 seconds.
+   ```bash
+   uv venv core/.venv --python 3.12
+   uv pip install --python core/.venv/bin/python -r core/requirements.txt
+   ```
 
-- `--day 2026-09-30` is the end of the run: every moment above and the final score.
-- `--day 2026-07-14`, the default, starts in mid-July, the way we pitch it: **Run next day** works the next days live, and the score counts only what has arrived so far. Some moments arrive later: Marcus Bellamy's lawsuit request and Tomas Brandt's account on 2026-08-04, the hidden instructions on 2026-09-13.
-- `--api-only` serves the API alone for UI work: then `cd ui && npm install && npm run dev` and open http://localhost:5173. `--no-serve` builds the database only. `--port` picks another port.
-- Between takes, run `python3 data/tools/add_account.py --reset` and start the demo again.
+2. Start the demo, then open http://localhost:8000:
+
+   ```bash
+   core/.venv/bin/python -m core.demo --day 2026-07-14
+   ```
+
+It loads the history, finds the day-one discoveries, replays the live days to the day you pick and serves the screens. The first run also builds the screens. Use `--day 2026-09-30` to show the final score. Only the judge box and new staff corrections call Claude live; they need `ANTHROPIC_API_KEY` in `.env`. To reset between takes, run `python3 data/tools/add_account.py --reset`, then start the demo again.
+
+## Setup for development
+
+1. Clone the repo.
+2. Copy `.env.example` to `.env` and add your keys. Never commit `.env`.
+3. Run `git pull --rebase` before every push.
+
+## Keys and commands
 
 Live moments need keys in `.env` at the repo root. Copy `.env.example` and fill it in.
 
@@ -219,9 +229,10 @@ python3 data/generate/validate.py                      # every data check, inclu
 python3 data/generate/generate.py                      # rebuild data/world/ and data/answer_key/, same bytes
 python3 data/tools/add_account.py --reset              # empty data/judge/ after judge box runs
 core/.venv/bin/python -m core.spend                    # Claude spend so far against the cap
+core/.venv/bin/python -m core.demo --api-only          # the API alone on :8000, for UI work with npm run dev in ui/
 ```
 
-### The screens
+## The screens
 
 | Path | Screen |
 |---|---|
