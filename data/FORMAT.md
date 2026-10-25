@@ -155,10 +155,10 @@ The financial assistance system. It has its own applicant IDs, and its own copy 
 | income_stated | yearly household income the applicant wrote |
 | income_verified | yearly income the counselor verified from documents. Empty until verified |
 | income_proof | what the counselor used: `PAY_STUBS`, `TAX_RETURN`, `EMPLOYER_LETTER`, `BENEFIT_LETTER`, `SELF_ATTESTATION` or `NONE` |
-| monetary_assets | savings the applicant reported. Only the 2023 form asked |
+| monetary_assets | savings the applicant reported. Only the 2020 form asked |
 | medi_cal, homeless | Y/N as checked on the form |
 | received_on | date the hospital received it |
-| form_version | `2023` or `2025` paper form |
+| form_version | `2020` or `2025` paper form |
 | status | `RECEIVED`, `NEEDS_INFO`, `APPROVED`, `DENIED` or `CLOSED` |
 | decision | `FREE`, `DISCOUNT`, `DENIED` or empty |
 | decision_date, decided_by | when and which staff_id |
@@ -201,7 +201,7 @@ The agency asks the hospital before it takes an action. Every request waits for 
 | recorded_on | replay day (ISO) |
 | request_id | GCR-R-NNNNN |
 | agency_ref, client_account | which placement |
-| requested_action | `CREDIT_REPORT`, `LAWSUIT` or `DEBT_SALE` (all three are extraordinary collection actions) |
+| requested_action | `CREDIT_REPORT`, `LAWSUIT`, `SELL_DEBT` or `LIEN`, the names `core/law.py` uses. All four are extraordinary collection actions |
 | requested_date | MM/DD/YYYY |
 | agency_note | free text |
 
@@ -234,11 +234,13 @@ The HR export. A staff member can also be a patient. The list does not say so.
 | dob, address_line1, city, state, zip, phone | from HR |
 | active | Y/N |
 
+S-001 is a counselor, S-002 the revenue cycle director, S-003 the compliance officer and S-004 a counselor, the same IDs and roles as `core/dev_seed.py`.
+
 ## policy/
 
 `index.csv` has `version, effective_from, effective_to, file`. Two versions:
 
-- `fap_2023-01-01.md`, in effect 2023-01-01 to 2025-06-30. Savings over $10,000 disqualify. Applications only within 240 days of the first bill.
+- `fap_2020-01-01.md`, in effect 2020-01-01 to 2025-06-30 (the dates in `core/policy.py`). Savings over $10,000 disqualify. Applications only within 240 days of the first bill. Pay stubs required.
 - `fap_2025-07-01.md`, in effect from 2025-07-01. Both rules dropped. Other proof of income accepted when there are no pay stubs.
 
 Neither mentions CalFresh. The two old rules break California law (AB 2297) from 2025-01-01, even while the old version was still in effect. The policy text is for people and Claude to read. The thresholds and deadlines belong in core code.
@@ -295,7 +297,7 @@ It adds one patient, one account, a first statement, an application and its docu
 
 ## Answer key
 
-`answer_key/` holds the right answers. The core never reads it. The score script does. The rules behind it are the real ones in the PRD, with the poverty level of the decision's year (2025: $15,650 plus $5,500 per extra person. 2026: $15,960 plus $5,680). Percent of poverty level = yearly household income ÷ that year's level × 100. Free care is at or below 200. Discount is above 200 up to 400: the patient pays 30% of `patient_responsibility`. Above 400 is a payment plan only.
+`answer_key/` holds the right answers. The core never reads it. The score script does. The rules behind it are the real ones in the PRD, with the poverty level of the decision's year (2025: $15,650 plus $5,500 per extra person. 2026: $15,960 plus $5,680). Percent of poverty level = yearly household income ÷ that year's level × 100. Free care is at or below 200. Discount is above 200 up to 400: the patient pays 30% of `patient_responsibility` (that is the core's `billed_cents`), rounded to the cent. Above 400 is a payment plan only. The answer key agrees with `core/law.py` and `core/policy.py`: income within 5 points of 200 or 400 goes to a person, an approval covers visits from its date to 12 months later, and a counselor approves up to $5,000 of adjustment. Payment plans are interest-free: 12 equal monthly payments rounded up to the dollar, at least $25 a month.
 
 ### answer_key/live_accounts.csv
 
@@ -315,7 +317,7 @@ One row for every live account that needs work.
 | ask_role | who to ask: `COUNSELOR`, `DIRECTOR` or `COMPLIANCE` |
 | approver_role | who must approve the final change |
 | required_actions | `;` list from: `FREE_CARE`, `DISCOUNT`, `PAYMENT_PLAN`, `REQUEST_INFO`, `PAUSE_COLLECTIONS`, `BLOCK_AGENCY_ACTION:<request_id>`, `MERGE:<mrn>+<mrn>`, `REVERSAL:<application_id>` |
-| forbidden_actions | `;` list of actions that would be wrong here, like `COLLECTIONS_REFERRAL` or `DENY` |
+| forbidden_actions | `;` list of actions that would be wrong here: any proposal kind, `DENY`, or `APPROVE_BY:<staff_id>` (that person must not approve it) |
 | planted | planted case IDs, `;` separated |
 | reason | one line |
 
@@ -325,13 +327,13 @@ What onboarding should find in the 18 months of history: the day-one discovery.
 
 | Column | Meaning |
 |---|---|
-| finding | `ILLEGAL_DENIAL` (reverse it) or `ILLEGAL_REASON_SAME_OUTCOME` (the stated reason breaks the law, but the patient is over 400%, so the outcome stands) |
+| finding | `ILLEGAL_DENIAL` (reverse it: denied for a late application, for savings, for no pay stubs when other proof was given, or as over income when the income is at or under 400%) or `ILLEGAL_REASON_SAME_OUTCOME` (the stated reason breaks the law, but the patient is over 400%, so the outcome stands). These are the checks in `core/law.py` `check_denial` |
 | application_id, person, accounts | which case |
 | decision_date, decided_by, stated_reason | the original decision |
 | fpl_pct | percent of poverty level in the decision's year |
 | correct_outcome | `FREE` or `DISCOUNT` for an illegal denial, `DENIED` for the same-outcome kind |
 | adjustment, refund | dollars the reversal moves |
-| law | `AB 2297` |
+| law | `AB 2297` or `AB 1020` |
 | reason | one line |
 
 ### answer_key/calfresh_backtest.csv
