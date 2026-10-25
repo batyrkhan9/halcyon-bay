@@ -23,7 +23,7 @@ const GROUPS: Array<{ label: string; states: WorkState[]; hint: string }> = [
   { label: 'Being worked', states: ['NEW', 'SCREENING'], hint: 'synced in or being screened by the AI' },
   { label: 'Asked a person', states: ['NEEDS_INFO'], hint: 'waiting on an answer' },
   { label: 'Waiting for a decision', states: ['PROPOSED', 'APPROVED'], hint: 'proposed, a person decides' },
-  { label: 'Posted', states: ['POSTED'], hint: 'done and in the ledger' },
+  { label: 'Done', states: ['POSTED', 'CLOSED'], hint: 'posted to the ledger, or checked with nothing to change' },
 ];
 
 const BAR: Record<WorkState, string> = {
@@ -34,6 +34,7 @@ const BAR: Record<WorkState, string> = {
   APPROVED: 'bg-accent/60',
   REJECTED: 'bg-danger',
   POSTED: 'bg-ink',
+  CLOSED: 'bg-ink/45',
 };
 
 const DIFF_WORDS: Record<WorkState, string> = {
@@ -44,6 +45,7 @@ const DIFF_WORDS: Record<WorkState, string> = {
   APPROVED: 'approved',
   REJECTED: 'rejected',
   POSTED: 'posted',
+  CLOSED: 'closed with nothing to change',
 };
 
 function diffLine(from: CoreState, to: CoreState): string {

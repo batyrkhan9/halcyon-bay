@@ -105,6 +105,7 @@ export const STATE_LABEL: Record<WorkState, string> = {
   APPROVED: 'Approved',
   REJECTED: 'Rejected',
   POSTED: 'Posted',
+  CLOSED: 'Closed',
 };
 
 export const STATE_HINT: Record<WorkState, string> = {
@@ -115,6 +116,7 @@ export const STATE_HINT: Record<WorkState, string> = {
   APPROVED: 'Approved, posting',
   REJECTED: 'A person said no',
   POSTED: 'Done, in the ledger',
+  CLOSED: 'Checked, nothing to change',
 };
 
 export const ROLE_LABEL: Record<string, string> = {

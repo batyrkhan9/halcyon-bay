@@ -72,7 +72,7 @@ function StoryView({ story, source, live, autoWork }: { story: Story; source: So
   const answered = questions.filter((q) => q.answer !== null);
   const forgiven = ledger.filter((l) => CHARITY_KINDS.includes(l.kind)).reduce((s, l) => s + l.amount_cents, 0);
   const blocked = audit.filter((a) => !a.allowed).length;
-  const done = !!item && ['POSTED', 'PROPOSED', 'NEEDS_INFO', 'REJECTED'].includes(item.state);
+  const done = !!item && ['POSTED', 'CLOSED', 'PROPOSED', 'NEEDS_INFO', 'REJECTED'].includes(item.state);
   const mrn = account.patient_id;
   const workItemNow = item && (item.state === 'NEW' || item.state === 'SCREENING') ? item : undefined;
   const run = useWorkRun(autoWork ?? item?.id);

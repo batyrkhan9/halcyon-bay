@@ -4,7 +4,7 @@
 export type StaffRole = 'counselor' | 'director' | 'compliance';
 export type Role = StaffRole | 'sync' | 'agent' | 'gateway';
 
-export const WORK_STATES = ['NEW', 'SCREENING', 'NEEDS_INFO', 'PROPOSED', 'APPROVED', 'REJECTED', 'POSTED'] as const;
+export const WORK_STATES = ['NEW', 'SCREENING', 'NEEDS_INFO', 'PROPOSED', 'APPROVED', 'REJECTED', 'POSTED', 'CLOSED'] as const;
 export type WorkState = (typeof WORK_STATES)[number];
 
 export type ProposalKind =

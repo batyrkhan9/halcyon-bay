@@ -109,7 +109,5 @@ The UI already handles these and lights up as soon as the branch merges; against
 1. **CRS on the account.** Please put the `data/crs` `check_person()` result, unchanged, in `account.sources.crs` (including `source: "live" | "recorded"`). The card says "Live from the CRS sandbox" only when `source` is `live`, "Recorded CRS sandbox answer" when `recorded`. A `crs_check` audit row makes "why are collections paused?" one search.
 2. **`account.sources` from sync.** Any JSON renders; `billing`, `fa`, `agency`, `documents` and `staff` get proper layouts (shapes in the sample world: `ui/src/mock/real.json` is extracted from `data/` by `npm run extract-sample`).
 3. **Judge box returns `work_item_id`.** The UI then opens the account and calls `/work` on it, so the judge watches it get read.
-4. **NEW_RULE without a work item.** `Gateway.propose()` needs a work item, but a rule belongs to no account. The UI handles `work_item_id: null, account_id: null`.
-5. **One-query "why" by person.** `/audit?q=` doesn't search `actor_id`, so `q=S-004` misses rows where S-004 is only the actor.
-6. **Wording.** `permissions.py` still says "The AI proposes and never approves. A agent can't approve." Suggest "The agent can't approve."
-7. **Names.** Send `patient_name` first name first ("Marcus Bellamy", not billing's "BELLAMY, MARCUS").
+4. **One-query "why" by person.** `/audit?q=` doesn't search `actor_id`, so `q=S-004` misses rows where S-004 is only the actor.
+5. **Wording.** `permissions.py` still says "The AI proposes and never approves. A agent can't approve." Suggest "The agent can't approve."

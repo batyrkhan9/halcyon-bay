@@ -80,6 +80,7 @@ const STATE_STYLE: Record<WorkState, string> = {
   APPROVED: 'bg-accent-tint text-accent-strong',
   REJECTED: 'bg-danger-tint text-danger',
   POSTED: 'bg-ink text-white',
+  CLOSED: 'bg-ink/[0.08] text-ink2',
 };
 const STATE_DOT: Record<WorkState, string> = {
   NEW: 'bg-ink3',
@@ -89,6 +90,7 @@ const STATE_DOT: Record<WorkState, string> = {
   APPROVED: 'bg-accent',
   REJECTED: 'bg-danger',
   POSTED: 'bg-white',
+  CLOSED: 'bg-ink2',
 };
 
 export function StatePill({ state, big }: { state: WorkState; big?: boolean }) {
