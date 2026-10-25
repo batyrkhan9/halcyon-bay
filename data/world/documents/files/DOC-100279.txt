@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-5836 COMMERCE WAY   CA
-                         EARN1NGS STATEMENT
-    Employee: DYLAN IYER        Emp ID: 10302
-Position: Technician
-Pay Period: 01/25/2025 - 02/07/2025     Pay Date: 02/12/2025
+0TTER BAY AQUARIUM
+ 7509 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: HANNAH SANCHEZ        Emp ID: 41329
+Position: Guest services
+   Pay Period: 02/17/2025 - 03/02/2025     Pay Date: 03/07/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     6,337.46     25,349.84
-GROSS PAY                                  6,337.46     25,349.84
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,190.98     10,954.90
+GROSS PAY                                  2,190.98     10,954.90
 DEDUCTIONS
-  Federal Income Tax                       253.49
-  Social Security                          392.92
-  . : .
-  Medicare                                  91.89
-  CA SDI                                    69.71
-NET PAY                                  5,529.45
+  Federal Income Tax                       109.54
+  Social Security                          135.84
+  Medicare                                  31.76
+  CA SDI                                    24.10
+NET PAY                                   1,889.74
 --------------------------------------------------------------
 
-FAX RECEIVED 03/08/2025 10:33   P.01
+FAX RECEIVED 03/18/2025 10:10   P.01

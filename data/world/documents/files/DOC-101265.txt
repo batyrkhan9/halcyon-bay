@@ -1,0 +1,20 @@
+ HALCYON BAY UNIFIED SCHOOL DIST
+2474 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BARBARA KUMAR        Emp ID: 41899
+Position: 1nstructional aide
+ Pay Period: 12/03/2025 - 12/09/2025     Pay Date: 12/14/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             48.51     40.00       1,940.40     97,020.00
+GROSS PAY                                  1,940.40     97,020.00
+DEDUCTIONS
+   Federal Income Tax                        97.02
+      Social Security                          120.30
+  Medicare                                  28.13
+      CA SDI                                    21.34
+    NET PAY                                  1,673.61
+--------------------------------------------------------------
+
+FAX RECEIVED 01/01/2026 10:55   P.01

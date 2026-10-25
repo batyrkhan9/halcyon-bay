@@ -1,21 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-1985 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN ALLEN        Emp ID: 69955
-Position: Instructional aide
-Pay Period: 08/07/2026 - 08/13/2026     Pay Date: 08/18/2026
-Pay Frequency: Weekly
+BAYLINE LOGISTICS INC
+  4990 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+Employee: RICARDO WALSH        Emp ID: 54162
+Position: Warehouse associate
+Pay Period: 08/15/2026 - 08/28/2026     Pay Date: 09/02/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       443.67     14,641.11
-GROSS PAY                                    443.67     14,641.11
-_ _ _ _
+ Regular             68.19     80.00       5,455.20     98,193.60
+GROSS PAY                                  5,455.20     98,193.60
 DEDUCTIONS
-  Federal 1ncome Tax                        39.93
-  Social Security                           27.50
-  Medicare                                   6.43
-    CA SDI                                     4.88
-    NET PAY                                    364.93
+  Federal Income Tax                       218.20
+  Social Security                          338.22
+    Medicare                                  79.10
+  CA SDI                                    60.00
+NET PAY                                  4,759.68
 --------------------------------------------------------------
 
-FAX RECEIVED 09/04/2026 10:27   P.01
+RECEIVED SEP 05 2026  - mailroom

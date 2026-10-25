@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-4280 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: MALIA NASSER        Emp ID: 93463
-Position: Custodian
-Pay Period: 10/28/2025 - 11/10/2025     Pay Date: 11/15/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-| |   .
-Regular             17.81     25.00         445.25     10,240.75
-GR0SS PAY                                    445.25     10,240.75
-DEDUCTIONS
-  Federal Income Tax                        40.07
-  5ocial Security                           27.60
-    Medicare                                   6.45
-  CA SDI                                     4.89
-NET PAY                                    366.24
+HALCYON BAY UNIFIED SCHOOL DIST
+9697 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BARBARA KUMAR        Emp ID: 41899
+Position: 1nstructional aide
+Pay Period: 11/19/2025 - 11/25/2025     Pay Date: 11/30/2025
+   Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.51     40.00       1,940.40     93,139.20
+GROSS PAY                                  1,940.40     93,139.20
+ DEDUCTIONS
+  Federal Income Tax                        97.02
+   Social Security                          120.30
+  Medicare                                  28.13
+  CA SD1                                    21.34
+NET PAY                                  1,673.61
 --------------------------------------------------------------
 
--- scanned 12/13/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 01/01/2026 10:34   P.01

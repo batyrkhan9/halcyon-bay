@@ -1,20 +1,21 @@
-SUNSET COAST HOME CARE
-7127 INDUSTRIAL WAY   CA
+ELLERY HARDWARE SUPPLY
+2145 MARKET WAY    CA
                          EARNINGS STATEMENT
-Employee: RONALD PATEL        Emp ID: 54179
-  Position: Home care aide
-Pay Period: 12/28/2025 - 01/10/2026     Pay Date: 01/15/2026
+Employee: IMANI ZAMORA        Emp ID: 10504
+Position: Sales associate
+  Pay Period: 12/24/2025 - 01/06/2026     Pay Date: 01/11/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regu1ar              21.01     80.00       1,680.80      3,361.60
-GROSS PAY                                  1,680.80      3,361.60
-DEDUCTIONS
-  Federal Income Tax                       168.08
-  Social Security                          104.21
-    Medicare                                  24.37
-  CA SDI                                    18.48
-NET PAY                                  1,365.66
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.89     80.00       1,431.20      1,431.20
+GROSS PAY                                  1,431.20      1,431.20
+    DEDUCTIONS
+   Federal Income Tax                       114.49
+  Social Security                           88.73
+  Medicare                                  20.75
+  CA SDI                                    15.74
+NET PAY                                  1,191.49
 --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
-FAX RECEIVED 01/31/2026 10:16   P.01
+RECEIVED FEB 01 2026  - mailroom

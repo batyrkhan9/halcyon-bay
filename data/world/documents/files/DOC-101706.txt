@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-4863 COMMERCE WAY   CA
+    GOLDEN HOUR SENIOR LIVING
+4825 MARKET WAY   CA
                          EARNINGS STATEMENT
-   Employee: AIKO RUIZ        Emp ID: 49592
+Employee: DEEPA IYER        Emp ID: 33196
 Position: Caregiver
-Pay Period: 03/08/2026 - 03/22/2026     Pay Date: 03/27/2026
-Pay Frequency: Semi-Monthly
+Pay Period: 04/28/2026 - 05/04/2026     Pay Date: 05/09/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-  Salary                                       956.60      5,739.60
-GROSS PAY                                    956.60      5,739.60
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             20.95     40.00         838.00     15,922.00
+GROSS PAY                                    838.00     15,922.00
 DEDUCTIONS
-      Federal Income Tax                        38.26
-   5ocial Security                           59.30
-     Medicare                                  13.87
-  CA SDI                                    10.52
-NET PAY                                    834.65
+  Federal Income Tax                        75.42
+  5ocial Security                           51.95
+  Medicare                                  12.15
+  CA SDI                                     9.21
+NET PAY                                    689.27
 --------------------------------------------------------------
 
--- scanned 04/23/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/12/2026 10:52   P.01

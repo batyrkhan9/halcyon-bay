@@ -1,20 +1,18 @@
-BLUE KELP SOFTWARE LLC
-8599 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: MANUEL CHAVEZ        Emp ID: 80608
-Position: Software engineer
-Pay Period: 07/01/2026 - 07/30/2026     Pay Date: 08/04/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    14,737.06    117,896.48
-GROSS PAY                                 14,737.06    117,896.48
-DEDUCTIONS
-  Federal Income Tax                     1,031.59
-  Social Security                          913.69
-  Medicare                                 213.68
-  CA SDI                                   162.10
-NET PAY                                 12,416.00
---------------------------------------------------------------
+SEASIDE C0MMUNITY CREDIT UNION
+  Statement Period 08/01/2026 - 08/31/2026
+    Member: AMANDA WASHINGTON       Account ending 3833
 
-RECEIVED SEP 18 2026  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,860.73
+  Deposits                     4,914.57
+  Withdrawals                 -4,865.42
+  Ending balance               2,909.88
+
+DEPOSITS AND CREDITS
+  08/02  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,638.19
+  08/16  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,638.19
+  08/30  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,638.19
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 09/19/2026 10:55   P.01

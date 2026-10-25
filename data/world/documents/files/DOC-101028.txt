@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
- Filing Status: Head of household
- Your first name and middle initial / Last name:  ALEJANDR0 HERNANDEZ
-    Your social security number: XXX-XX-8896
-Dependents: 1
-   Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    45,239.00
-     8   Additional income from Schedule 1, line 10 ......         0.00
- 9    Total income ....................................    45,239.00
- 10   Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    45,239.00
- 12  Standard deduction ..............................    21,900.00
+POINT CORRIN BOATWORKS
+5795 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARISOL KING        Emp ID: 15185
+Position: Mechanic
+Pay Period: 09/25/2025 - 10/08/2025     Pay Date: 10/13/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     4,392.06     92,233.26
+GROSS PAY                                  4,392.06     92,233.26
+DEDUCTIONS
+  Federal Income Tax                       219.60
+  Social Security                          272.30
+     Medicare                                  63.68
+  CA SDI                                    48.31
+  NET PAY                                  3,788.17
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Alejandro Hernandez        Date: 04/15/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/20/2025]
+RECEIVED OCT 22 2025  - mailroom

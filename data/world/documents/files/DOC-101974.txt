@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+8729 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+  Employee: ZAINAB HERRERA        Emp ID: 53703
+Position: Library assistant
+   Pay Period: 06/06/2026 - 06/19/2026     Pay Date: 06/24/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,177.84     28,311.92
+GROSS PAY                                  2,177.84     28,311.92
+DEDUCTIONS
+  Federal Income Tax                       130.67
+  Social Security                          135.02
+  Medicare                                  31.57
+  CA SDI                                    23.95
+NET PAY                                  1,856.63
+--------------------------------------------------------------
+
+-- scanned 07/09/2026 HBCH mailroom  pg 1/1 --

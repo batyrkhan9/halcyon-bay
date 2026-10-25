@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-8519 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+7272 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: RONALD BELL        Emp ID: 22889
-Position: Field technician
-Pay Period: 06/09/2026 - 06/15/2026     Pay Date: 06/20/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+Employee: RONALD HADDAD        Emp ID: 27109
+Position: Custodian
+Pay Period: 05/24/2026 - 06/22/2026     Pay Date: 06/27/2026
+Pay Frequency: Monthly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,533.56     38,339.00
-GROSS PAY                                  1,533.56     38,339.00
+Regular             18.06     59.00       1,065.54      6,393.24
+GROSS PAY                                  1,065.54      6,393.24
 DEDUCTIONS
-   Federal Income Tax                       122.68
-  Social Security                           95.08
-  Medicare                                  22.23
-  CA SDI                                    16.86
-NET PAY                                  1,276.71
+  Federal Income Tax                        53.27
+  S0cial Security                           66.06
+  Medicare                                  15.45
+  CA SDI                                    11.72
+NET PAY                                    919.04
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/14/2026]

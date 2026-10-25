@@ -1,0 +1,21 @@
+  MIRADOR PUBLIC LIBRARY
+5011 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: ARJUN WHITE-HUANG         Emp ID: 49461
+Position: Library assistant
+Pay Period: 07/21/2025 - 07/27/2025     Pay Date: 08/01/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             56.30     40.00       2,252.00     69,812.00
+GROSS PAY                                  2,252.00     69,812.00
+DEDUCTIONS
+    Federal 1ncome Tax                       247.72
+  Social Security                          139.62
+  . : .
+  Medicare                                  32.65
+  CA SDI                                    24.77
+NET PAY                                  1,807.24
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/11/2025]

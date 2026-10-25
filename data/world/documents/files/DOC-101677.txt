@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+   9859 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: WEI QUINN        Emp ID: 13196
+Position: Driver
+Pay Period: 04/02/2026 - 04/08/2026     Pay Date: 04/13/2026
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             93.72     40.00       3,748.80     56,232.00
+GROSS PAY                                  3,748.80     56,232.00
+DEDUCTIONS
+  Federal Income Tax                       299.90
+  Social Security                          232.42
+  Medicare                                  54.35
+   CA SDI                                    41.23
+NET PAY                                  3,120.90
+--------------------------------------------------------------
+
+RECEIVED APR 30 2026  - mailroom

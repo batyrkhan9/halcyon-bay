@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY CO
-  4755 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAMES RUIZ        Emp ID: 22007
-Position: Line worker
-Pay Period: 01/17/2026 - 01/23/2026     Pay Date: 01/28/2026
-Pay Frequency: Weekly
+ARROYO VERDE NURSERY
+6832 COMMERCE WAY    CA
+                            EARNINGS STATEMENT
+Employee: LEILANI SILVA        Emp ID: 72889
+Position: Nursery worker
+Pay Period: 01/04/2026 - 02/02/2026     Pay Date: 02/07/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Regular             46.62     40.00       1,864.80      7,459.20
-GROSS PAY                                  1,864.80      7,459.20
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            110.49    173.33      19,151.23     38,302.46
+GROSS PAY                                 19,151.23     38,302.46
 DEDUCTIONS
-  Federal Income Tax                       205.12
-  Social Security                          115.61
-  Medicare                                  27.04
-  CA SDI                                    20.51
-NET PAY                                  1,496.52
+  Federal Income Tax                     2,106.63
+_ _ _ _
+  Social Security                        1,187.37
+  Medicare                                 277.69
+  CA SDI                                   210.66
+NET PAY                                 15,368.88
 --------------------------------------------------------------
 
-RECEIVED FEB 17 2026  - mailroom
+-- scanned 02/20/2026 HBCH mailroom  pg 1/1 --

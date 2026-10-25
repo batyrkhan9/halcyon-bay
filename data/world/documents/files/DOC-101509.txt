@@ -1,20 +1,21 @@
-MARIS0L CLEANING SERVICES
-441 MARKET WAY   CA
+MARISOL CLEANING SERVICES
+6695 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: RAFAEL FLORES        Emp ID: 38847
+Employee: DARNELL JEFFERSON        Emp ID: 91569
 Position: Cleaner
-  Pay Period: 01/01/2026 - 01/14/2026     Pay Date: 01/19/2026
+  Pay Period: 01/21/2026 - 02/03/2026     Pay Date: 02/08/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.51     80.00       1,960.80      3,921.60
-  GROSS PAY                                  1,960.80      3,921.60
-  DEDUCTIONS
-  Federal Income Tax                       196.08
-  Social Security                          121.57
-  Medicare                                  28.43
-  CA SDI                                    21.56
-NET PAY                                  1,593.16
-    --------------------------------------------------------------
+Salary                                       935.44      2,806.32
+GROSS PAY                                     935.44      2,806.32
+DEDUCTIONS
+  Federal Income Tax                        46.77
+  Social Security                           57.99
+  Medicare                                  13.56
+    CA SDI                                    10.29
+NET PAY                                    806.83
+--------------------------------------------------------------
+  includes overtime 2.50 hrs
 
--- scanned 03/03/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 17 2026  - mailroom

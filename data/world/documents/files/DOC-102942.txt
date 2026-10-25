@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/31/2026
-Member: JUAN RAO       Account ending 6428
+    GOLDEN HOUR SENIOR LIVING
+  7815 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL JACKSON        Emp ID: 99480
+Position: Caregiver
+Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56     60.25       1,118.24     17,891.84
+GROSS PAY                                  1,118.24     17,891.84
+ DEDUCTIONS
+  Federal Income Tax                        89.45
+  Social Security                           69.33
+     Medicare                                  16.21
+  CA SDI                                    12.30
+NET PAY                                    930.95
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning ba1ance            1,004.88
-   Deposits                       281.28
-  Withdrawals                   -264.40
-   Ending balance               1,021.76
-
-DEPOSITS AND CREDITS
-  09/02  PAYROLL DIR DEP LAS BRISAS RESTAUR         140.64
-  08/26  PAYROLL DIR DEP LAS BRISAS RESTAUR         140.64
-
- Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 09/11/2026 10:56   P.01
+RECEIVED SEP 10 2026  - mailroom

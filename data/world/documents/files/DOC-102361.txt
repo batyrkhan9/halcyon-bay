@@ -1,20 +1,18 @@
-SANTA LUCITA FARMS
-925 HARBOR WAY   CA
-                             EARNINGS STATEMENT
-Employee: JENNIFER FLORES        Emp ID: 73378
-Position: Field supervisor
-Pay Period: 07/07/2026 - 07/21/2026     Pay Date: 07/26/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             16.96     12.50         212.00      2,968.00
-GROSS PAY                                    212.00      2,968.00
- DEDUCTIONS
-     Federal Income Tax                         8.48
-  Social Security                           13.14
-  Medicare                                   3.07
-   CA SDI                                     2.33
-NET PAY                                    184.98
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 06/01/2026 - 06/30/2026
+  Member: WE1 MARTINEZ       Account ending 3774
 
-RECEIVED AUG 05 2026  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,550.25
+  Deposits                     1,742.70
+    Withdrawals                 -1,672.99
+  Ending balance               2,619.96
+
+DEPOSITS AND CREDITS
+  06/02  PAYROLL DIR DEP PACIFIC RIM JANITO         580.90
+  06/16  PAYROLL DIR DEP PACIFIC RIM JANITO         580.90
+  06/30  PAYROLL DIR DEP PACIFIC RIM JANITO         580.90
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JUL 31 2026  - mailroom

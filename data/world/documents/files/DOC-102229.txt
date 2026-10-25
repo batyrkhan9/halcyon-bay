@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+9434 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BARBARA JO5HI        Emp ID: 85517
+Position: Driver
+Pay Period: 07/01/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     3,998.19    111,949.32
+  GR0SS PAY                                  3,998.19    111,949.32
+DEDUCTION5
+  Federal Income Tax                       239.89
+  Social Security                          247.88
+  Medicare                                  57.97
+  CA SDI                                    43.98
+NET PAY                                  3,408.47
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/25/2026]

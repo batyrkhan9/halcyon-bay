@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-5864 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: ALYSSA BRYANT        Emp ID: 34724
-    Position: Cashier
-Pay Period: 09/01/2026 - 09/14/2026     Pay Date: 09/19/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-    Regular             17.32     80.00       1,385.60     26,326.40
-GROSS PAY                                  1,385.60     26,326.40
+  ELLERY HARDWARE SUPPLY
+4899 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KYLE WRIGHT        Emp ID: 72912
+ Position: Sales ass0ciate
+   Pay Period: 09/11/2026 - 09/17/2026     Pay Date: 09/22/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.96     26.75         453.68     17,239.84
+GROSS PAY                                    453.68     17,239.84
 DEDUCTIONS
-  Federal Income Tax                        55.42
-   Social Security                           85.90
-  Medicare                                  20.09
-  CA SDI                                    15.24
-NET PAY                                  1,208.95
---------------------------------------------------------------
+_ _ _ _
+  Federal 1ncome Tax                        27.22
+  Social Security                           28.12
+  Medicare                                   6.57
+  CA SDI                                     4.99
+NET PAY                                    386.78
+ --------------------------------------------------------------
 
-FAX RECEIVED 09/27/2026 10:52   P.01
+-- scanned 09/25/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+6433 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA QUINN        Emp ID: 73196
+Position: Laborer
+Pay Period: 07/12/2026 - 07/18/2026      Pay Date: 07/23/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.02     25.00         425.50     12,765.00
+GROSS PAY                                    425.50     12,765.00
+DEDUCTIONS
+  Federal Income Tax                        34.04
+     Social 5ecurity                           26.38
+  Medicare                                   6.17
+   CA SDI                                     4.68
+NET PAY                                    354.23
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/26/2026]

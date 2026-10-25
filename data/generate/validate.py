@@ -119,6 +119,8 @@ IDS = {
 }
 STAFF_COLS = ("author", "decided_by", "stopped_by")
 NOT_BUSINESS_DATES = {"recorded_on", "dob", "debtor_dob", "start_date"}
+# The old policy row is recorded on 2025-01-01 so a replay of 2025 sees a policy; its planned end date is known.
+FUTURE_OK = {("policy/index.csv", "effective_to")}
 
 
 def norm_client(acc: str) -> str:
@@ -181,7 +183,7 @@ def check_no_future(t: dict[str, list[dict]]) -> None:
             if ro > "2026-09-30" or ro < "2025-01-01":
                 fail(f"{rel}: recorded_on {ro} outside 2025-01-01..2026-09-30")
             for col, v in r.items():
-                if col in NOT_BUSINESS_DATES or not v:
+                if col in NOT_BUSINESS_DATES or not v or (rel, col) in FUTURE_OK:
                     continue
                 iso = to_iso(v)
                 if iso and iso > ro:
@@ -422,6 +424,113 @@ def check_answer_key(t: dict[str, list[dict]]) -> None:
         fail("calfresh_backtest: a CalFresh case was denied")
 
 
+MONEY = r"-?[\d,]+\.\d\d"
+
+
+def doc_text(r: dict) -> str:
+    return (WORLD / "documents" / r["file"]).read_text(encoding="utf-8")
+
+
+def stub_facts(text: str) -> tuple[int | None, int | None]:
+    """Gross this period and net pay from a scanned pay stub."""
+    gross = net = None
+    for line in text.splitlines():
+        u = line.upper().replace("0", "O")
+        if "GROSS" in u and "PAY" in u:
+            m = re.findall(MONEY, line)
+            gross = cents(m[0].replace(",", "")) if m else None
+        if "NET" in u and "PAY" in u:
+            m = re.findall(MONEY, line)
+            net = cents(m[0].replace(",", "")) if m else None
+    return gross, net
+
+
+def check_documents_and_plans(t: dict[str, list[dict]]) -> None:
+    planted = json.loads((KEY / "planted_cases.json").read_text())
+    by_cat = collections.defaultdict(set)
+    for p in planted:
+        for a in p["records"]["application_id"]:
+            by_cat[p["category"]].add(a)
+    docs_by_app = collections.defaultdict(list)
+    for r in t["documents/index.csv"]:
+        docs_by_app[r["application_id"]].append(r)
+    apps_last = {r["application_id"]: r for r in t["fa/applications.csv"]}
+    # bank statements: deposits inside the statement period; payroll equals the stub net pay
+    n_bank = 0
+    for app_id, docs in docs_by_app.items():
+        nets = {stub_facts(doc_text(d))[1] for d in docs if d["doc_type"] == "PAY_STUB"}
+        for d in docs:
+            if d["doc_type"] != "BANK_STATEMENT":
+                continue
+            n_bank += 1
+            text = doc_text(d)
+            m = re.search(r"(\d\d)/(\d\d)/(\d{4})\s*-\s*(\d\d)/(\d\d)/(\d{4})", text)
+            if not m:
+                fail(f"{d['doc_id']}: no statement period")
+                continue
+            start = date(int(m[3]), int(m[1]), int(m[2]))
+            end = date(int(m[6]), int(m[4]), int(m[5]))
+            for line in text.splitlines():
+                dm = re.match(r"^\s+(\d\d)/(\d\d)\s{2}(.*?)\s+(" + MONEY + r")\s*$", line)
+                if not dm:
+                    continue
+                year = start.year if int(dm[1]) >= start.month else end.year
+                day = date(year, int(dm[1]), int(dm[2]))
+                if not start <= day <= end:
+                    fail(f"{d['doc_id']}: deposit on {day} outside the period {start}..{end}")
+                if "PAYROLL" in dm[3].upper().replace("0", "O") and nets and app_id not in by_cat["DOCS_DISAGREE"]:
+                    if cents(dm[4].replace(",", "")) not in nets:
+                        fail(f"{d['doc_id']}: payroll deposit {dm[4]} doesn't equal the stub net pay {sorted(nets)}")
+            if end >= date.fromisoformat(d["received_on"]):
+                fail(f"{d['doc_id']}: statement period ends after it was received")
+    NOTES.append(f"bank statements: {n_bank} checked (deposits inside the period, payroll = stub net pay)")
+    # near-cutoff cases: every reading of the income is within 5 points of the cutoff
+    for app_id in sorted(by_cat["NEAR_CUTOFF"]):
+        app = apps_last[app_id]
+        hh = int(app["household_size"])
+        line = R.poverty_line(2026, hh)
+        gross = [stub_facts(doc_text(d))[0] for d in docs_by_app[app_id] if d["doc_type"] == "PAY_STUB"]
+        readings = [g * 26 / line for g in gross] + [sum(gross) / len(gross) * 26 / line,
+                                                     int(app["income_stated"]) * 100 / line]
+        cut = 200 if readings[0] < 300 else 400
+        if not all(abs(x - cut) <= R.CUTOFF_MARGIN_PCT for x in readings):
+            fail(f"{app_id}: near-cutoff readings {[round(x, 1) for x in readings]} leave the 5-point margin")
+    # stopped payment plans: every stop breaks the 90-day rule, with no call or notice first
+    plans = collections.defaultdict(list)
+    for r in t["billing/payment_plans.csv"]:
+        plans[r["plan_id"]].append(r)
+    notes = t["fa/notes.csv"]
+    finals = {(r["account_no"], r["sent_on"]) for r in t["billing/statements.csv"] if r["kind"] == "FINAL_NOTICE"}
+    answers = {r["account_no"]: r for r in t["answer_key/live_accounts.csv"]}
+    policy_text = " ".join((WORLD / "policy" / n).read_text() for n in ("fap_2020-01-01.md", "fap_2025-07-01.md"))
+    if policy_text.count("missed payments for 90 days in a row") != 2:
+        fail("both policy versions must state the 90-day payment plan rule")
+    n_stop = 0
+    for pid, versions in plans.items():
+        last = versions[-1]
+        if last["status"] != "STOPPED":
+            continue
+        n_stop += 1
+        first_miss = min(date.fromisoformat(v["recorded_on"]) for v in versions if int(v["missed_payments"] or 0) > 0)
+        stop = date.fromisoformat(last["stopped_on"])
+        if (stop - first_miss).days + 10 >= 90:
+            fail(f"{pid}: stopped {stop} after 90+ days of missed payments, which the policy allows")
+        accts = last["account_nos"].split(";")
+        apps = {a["application_id"] for a in apps_last.values() if set(a["accounts_given"].split(";")) & set(accts)}
+        for n in notes:
+            when = n["written_on"]
+            if (n["account_no"] in accts or n["application_id"] in apps) and str(first_miss - date.resolution * 10) <= when < str(stop):
+                if re.search(r"call|notice|letter|LVM|voicemail", n["text"], re.I):
+                    fail(f"{pid}: a note before the stop shows a call or notice ({n['note_id']})")
+        for a in accts:
+            if any(acc == a and sent < str(stop) for acc, sent in finals):
+                fail(f"{pid}: a written notice went out on {a} before the stop")
+            row = answers.get(a)
+            if not row or not {"PAYMENT_PLAN", "PAUSE_COLLECTIONS"} <= set(row["required_actions"].split(";")):
+                fail(f"{pid}: account {a} needs PAYMENT_PLAN and PAUSE_COLLECTIONS in the answer key")
+    NOTES.append(f"stopped plans: {n_stop} checked (under 90 days, no call or notice first, reinstated in the key)")
+
+
 def core_cross_check(t: dict[str, list[dict]]) -> None:
     """Agree with core/policy.py and core/law.py when they can be imported."""
     sys.path.insert(0, str(ROOT))
@@ -489,6 +598,7 @@ def main(argv=None) -> int:
         check_foreign_keys(t)
         check_people(t)
         check_answer_key(t)
+        check_documents_and_plans(t)
         core_cross_check(t)
     if not args.fast:
         determinism()

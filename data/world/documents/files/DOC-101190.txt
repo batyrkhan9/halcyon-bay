@@ -1,20 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-3529 COMMERCE WAY   CA
+MARISOL CLEANING SERVICES
+1275 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: LINH ESPINOZA        Emp ID: 36831
-Position: Library assistant
- Pay Period: 10/15/2025 - 10/21/2025     Pay Date: 10/26/2025
+Employee: ALYSSA PATEL        Emp ID: 39863
+Position: Cleaner
+Pay Period: 11/29/2025 - 12/05/2025     Pay Date: 12/10/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,464.55     62,975.65
-GROSS PAY                                  1,464.55     62,975.65
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,634.26     81,713.00
+GROSS PAY                                  1,634.26     81,713.00
 DEDUCTIONS
-  Federal Income Tax                       131.80
-  Social Security                           90.80
-   Medicare                                  21.23
-  CA SDI                                    16.11
-NET PAY                                  1,204.61
-  --------------------------------------------------------------
+  Federal Income Tax                       114.39
+  Social Security                          101.32
+  Medicare                                  23.69
+  CA SDI                                    17.97
+NET PAY                                  1,376.89
+--------------------------------------------------------------
 
-FAX RECEIVED 11/13/2025 10:56   P.01
+RECEIVED DEC 13 2025  - mailroom

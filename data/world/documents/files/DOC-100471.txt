@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-4558 HARBOR WAY   CA
+ELLERY HARDWARE SUPPLY
+6001 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: HASSAN FITZGERALD-DOYLE        Emp ID: 20760
-Position: Field supervisor
-Pay Period: 03/04/2025 - 03/17/2025      Pay Date: 03/22/2025
-  Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+Employee: GREGORY DOYLE        Emp ID: 37206
+Position: Sales associate
+Pay Period: 03/17/2025 - 03/30/2025     Pay Date: 04/04/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.09     80.00       1,447.20      8,683.20
-  . : .
-GROSS PAY                                  1,447.20      8,683.20
+Regular             20.40     80.00       1,632.00     11,424.00
+ GR0SS PAY                                  1,632.00     11,424.00
 DEDUCTIONS
-  Federal Income Tax                       115.77
-  Social Security                           89.72
-  Medicare                                  20.98
-  CA SDI                                    15.91
-NET PAY                                  1,204.82
+  Federal Income Tax                       114.24
+  Socia1 Security                          101.18
+  Medicare                                  23.66
+   CA SDI                                    17.95
+NET PAY                                  1,374.97
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2025]
+FAX RECEIVED 05/11/2025 10:21   P.01

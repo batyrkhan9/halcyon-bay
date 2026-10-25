@@ -1,20 +1,21 @@
-  CYPRESS FLATS AUTO BODY
-   3617 HARBOR WAY   CA
+ MIRADOR GROCERY CO-OP
+_ _ _ _
+8062 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: JAE WU        Emp ID: 55774
-Position: Technician
-Pay Period: 06/12/2025 - 06/25/2025     Pay Date: 06/30/2025
-Pay Frequency: Bi-Weekly
+Employee: VIKRAM CHEN        Emp ID: 67649
+Position: Cashier
+Pay Period: 07/10/2025 - 07/24/2025     Pay Date: 07/29/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             16.59     80.00       1,327.20     17,253.60
-GROSS PAY                                  1,327.20     17,253.60
-    DEDUCTIONS
-  Federal Income Tax                        53.08
-  5ocial Security                           82.28
-  Medicare                                  19.24
-  CA SDI                                    14.59
-   NET PAY                                  1,158.01
+Regular             16.77     54.00         905.58     12,678.12
+GROSS PAY                                    905.58     12,678.12
+ DEDUCTIONS
+  Federal Income Tax                        72.44
+  Social Security                           56.14
+    Medicare                                  13.13
+  CA SDI                                     9.96
+NET PAY                                    753.91
 --------------------------------------------------------------
 
-FAX RECEIVED 08/01/2025 10:26   P.01
+RECEIVED AUG 26 2025  - mailroom

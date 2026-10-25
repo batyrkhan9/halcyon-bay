@@ -1,11 +1,20 @@
-HALCYON BAY COMMUNITY HOSPITAL
-   Financial Assistance Program - Self-Attestation 0f Income
+SEASIDE DENTAL GROUP
+3951 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: KAREN MOORE        Emp ID: 78196
+Position: Dental assistant
+Pay Period: 07/26/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.96     21.00         356.16     11,397.12
+GROSS PAY                                    356.16     11,397.12
+DEDUCTIONS
+  Federal Income Tax                        14.24
+  Social Security                           22.08
+  Medicare                                   5.16
+  CA SDI                                     3.91
+NET PAY                                    310.77
+--------------------------------------------------------------
 
-I, Hassan Hayes, live in a household of 1 people.
-My household's total income is about $2,000.00 per month from rideshare driving, it changes every month.
-I do not have pay stubs or other income documents to send.
-I declare under penalty of perjury that the information above is true.
-
-Signature: Hassan Hayes            Date: 08/29/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/29/2026]
+-- scanned 08/29/2026 HBCH mailroom  pg 1/1 --

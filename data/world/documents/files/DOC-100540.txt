@@ -1,0 +1,20 @@
+PACIFIC RIM JANITORIAL
+  3256 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN MEDINA        Emp ID: 38863
+Position: Cust0dian
+Pay Period: 04/29/2025 - 05/12/2025     Pay Date: 05/17/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                       669.50      6,695.00
+GROSS PAY                                    669.50      6,695.00
+  DEDUCTIONS
+  Federal Income Tax                        66.95
+   Social Security                           41.50
+  Medicare                                   9.70
+  CA SDI                                     7.36
+NET PAY                                    543.99
+--------------------------------------------------------------
+
+-- scanned 06/04/2025 HBCH mailroom  pg 1/1 --

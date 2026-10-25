@@ -1,0 +1,22 @@
+POINT CORRIN BOATWORKS
+736 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: VIKRAM RAMIREZ        Emp ID: 86150
+Position: Mechanic
+Pay Period: 11/21/2025 - 12/05/2025     Pay Date: 12/10/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    11,400.24    262,205.52
+GROSS PAY                                 11,400.24    262,205.52
+DEDUCTIONS
+  Federal Income Tax                     1,140.02
+   Social Security                          706.81
+  Medicare                                 165.30
+  CA SDI                                   125.40
+NET PAY                                  9,262.71
+--------------------------------------------------------------
+  . : .
+  includes overtime 3.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/05/2026]

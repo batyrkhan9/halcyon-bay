@@ -1,20 +1,20 @@
-    SANDPIPER CHILD CARE CENTER
-2316 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+4839 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: SANJAY ORTIZ        Emp ID: 93522
-Position: Teacher
-Pay Period: 06/14/2025 - 06/28/2025     Pay Date: 07/03/2025
-Pay Frequency: Semi-Monthly
+Employee: MANUEL ABDULLAH        Emp ID: 71343
+Position: Cashier
+Pay Period: 08/13/2025 - 08/26/2025     Pay Date: 08/31/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-5alary                                      2,223.33     28,903.29
-GROSS PAY                                  2,223.33     28,903.29
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.29     80.00       2,183.20     39,297.60
+GROSS PAY                                  2,183.20     39,297.60
 DEDUCTIONS
-  Federal Income Tax                       244.56
-  Social Security                          137.84
-  Medicare                                  32.23
-   CA SDI                                    24.45
-NET PAY                                  1,784.25
---------------------------------------------------------------
+  Federal Income Tax                       174.65
+   Social Security                          135.35
+  Medicare                                  31.65
+  CA SDI                                    24.01
+NET PAY                                   1,817.54
+    --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/09/2025]
+FAX RECEIVED 09/07/2025 10:41   P.01

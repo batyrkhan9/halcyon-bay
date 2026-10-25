@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-6458 COMMERCE WAY   CA
+MARISOL CLEANING 5ERVICES
+3791 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: FRANCISCO GOMEZ        Emp ID: 87257
-Position: Software engineer
-Pay Period: 06/07/2026 - 06/13/2026     Pay Date: 06/18/2026
-    Pay Frequency: Weekly
+Employee: JOSHUA HERNANDEZ        Emp ID: 75604
+Position: Cleaner
+Pay Period: 05/03/2026 - 05/17/2026     Pay Date: 05/22/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             22.69     40.00         907.60     22,690.00
- GROSS PAY                                    907.60     22,690.00
-DEDUCTI0NS
-  Federal Income Tax                        90.76
-  Social Security                           56.27
-    Medicare                                  13.16
-  CA SDI                                     9.98
-NET PAY                                    737.43
- --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular              27.29     86.67       2,365.22     23,652.20
+GROSS PAY                                  2,365.22     23,652.20
+DEDUCTIONS
+  Federal Income Tax                       189.21
+  Social Security                          146.64
+     Medicare                                  34.29
+  CA SDI                                    26.01
+   NET PAY                                  1,969.07
+--------------------------------------------------------------
 
--- scanned 07/01/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAY 31 2026  - mailroom

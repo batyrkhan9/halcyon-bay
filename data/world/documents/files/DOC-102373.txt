@@ -1,0 +1,22 @@
+POINT CORRIN BOATWORKS
+4895 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO HAYES        Emp ID: 28114
+Position: Mechanic
+Pay Period: 06/03/2026 - 06/17/2026      Pay Date: 06/22/2026
+Pay Frequency: Semi-Monthly
+~ ~ .  ,
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.04     86.67       2,083.55     25,002.60
+GROSS PAY                                  2,083.55     25,002.60
+DEDUCTIONS
+  Federal Income Tax                       104.17
+  Social Security                          129.18
+  Medicare                                  30.21
+  CA SDI                                    22.91
+NET PAY                                  1,797.08
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
+
+-- scanned 08/01/2026 HBCH mailroom  pg 1/1 --

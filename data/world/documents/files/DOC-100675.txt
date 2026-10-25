@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 06/01/2025 - 06/10/2025
-Member: CALEB GREEN       Account ending 9721
+LAS BRISAS RESTAURANT GROUP
+8933 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AHMED HARRIS        Emp ID: 93217
+Position: Line cook
+Pay Period: 06/13/2025 - 06/26/2025     Pay Date: 07/01/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,620.81     21,070.53
+GROSS PAY                                  1,620.81     21,070.53
+DEDUCTIONS
+  Federal Income Tax                       113.45
+  Social Security                          100.49
+  Medicare                                  23.50
+  CA SDI                                    17.82
+NET PAY                                  1,365.55
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,426.26
-  Deposits                     6,165.48
-  Withdrawals                 -5,363.96
-     Ending balance               3,227.78
-
-DEPO5ITS AND CREDITS
-  06/10  PAYROLL DIR DEP MIRADOR GROCERY CO       3,082.74
-  05/11  PAYROLL DIR DEP MIRADOR GROCERY CO       3,082.74
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/14/2025]
+FAX RECEIVED 07/14/2025 10:49   P.01

@@ -1,21 +1,21 @@
-BAYLINE LOGISTICS INC
-    1553 COMMERCE WAY   CA
+  HARBOR POINT HOTEL
+9791 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: TERESA RUIZ        Emp ID: 46904
-Position: Warehouse associate
- Pay Period: 08/07/2025 - 08/21/2025     Pay Date: 08/26/2025
-  Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              17.69     79.75       1,410.78     22,572.48
-GROSS PAY                                  1,410.78     22,572.48
-    DEDUCTIONS
-       Federal Income Tax                       141.07
+Employee: ARJUN NAVARRO        Emp ID: 28844
+Position: Housekeeper
+Pay Period: 08/31/2025 - 09/13/2025      Pay Date: 09/18/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     4,499.89     85,497.91
+GROSS PAY                                  4,499.89     85,497.91
+DEDUCTIONS
+  Federal Income Tax                       494.98
+  Social Security                          278.99
+  Medicare                                  65.24
+  CA SDI                                    49.49
+NET PAY                                  3,611.19
 | |   .
-   Social Security                           87.46
-  Medicare                                  20.45
-  CA SDI                                    15.51
-NET PAY                                  1,146.29
 --------------------------------------------------------------
 
-FAX RECEIVED 08/31/2025 10:38   P.01
+FAX RECEIVED 10/06/2025 10:17   P.01

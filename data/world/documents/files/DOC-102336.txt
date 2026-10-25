@@ -1,0 +1,21 @@
+LAS BRISAS RESTAURANT GROUP
+2363 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMANDA NAVARRO        Emp ID: 95975
+Position: Line cook
+Pay Period: 07/07/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.91     15.00         253.65      7,355.85
+   GROSS PAY                                    253.65      7,355.85
+  . : .
+DEDUCTIONS
+  Federal Income Tax                        25.36
+  Social Security                           15.72
+  Medicare                                   3.67
+  CA SDI                                     2.79
+NET PAY                                    206.11
+--------------------------------------------------------------
+
+RECEIVED JUL 30 2026  - mailroom

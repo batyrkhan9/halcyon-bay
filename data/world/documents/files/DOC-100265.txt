@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-7705 MARKET WAY   CA
-                          EARNINGS STATEMENT
- Employee: SERGIO PHAM        Emp ID: 69709
-Position: Sales associate
-Pay Period: 01/30/2025 - 02/12/2025     Pay Date: 02/17/2025
+CALDER FREIGHT LINES
+6151 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 01/08/2025 - 01/21/2025     Pay Date: 01/26/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                       831.83      3,327.32
-GROSS PAY                                    831.83      3,327.32
+Salary                                     2,516.82      5,033.64
+GROSS PAY                                  2,516.82      5,033.64
 DEDUCTIONS
-  Federal Income Tax                        41.59
-  Social Security                           51.57
-  Medicare                                  12.06
-  CA SD1                                     9.15
-NET PAY                                    717.46
+  Federal Income Tax                       201.34
+  Social Security                          156.04
+  Medicare                                  36.49
+  CA SD1                                    27.68
+NET PAY                                  2,095.27
 --------------------------------------------------------------
 
-RECEIVED MAR 07 2025  - mailroom
+FAX RECEIVED 03/13/2025 10:47   P.01

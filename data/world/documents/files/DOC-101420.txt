@@ -1,20 +1,21 @@
-CYPRESS FLATS AUTO BODY
-6066 COMMERCE WAY   CA
+SEASIDE DENTAL GROUP
+6247 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: KAREN RODRIGUEZ        Emp ID: 36948
-Position: Technician
-Pay Period: 01/21/2026 - 01/27/2026     Pay Date: 02/01/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+Employee: BRENDA NOVAK        Emp ID: 50705
+Position: Dental assistant
+Pay Period: 01/01/2026 - 01/15/2026     Pay Date: 01/20/2026
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.33     20.50         355.26      1,776.30
-GROSS PAY                                    355.26      1,776.30
- DEDUCTIONS
-  Federal Income Tax                        28.42
-  Social Security                           22.02
-  Medicare                                   5.15
-  CA SDI                                     3.90
-NET PAY                                    295.77
+Regular             89.66     86.67       7,770.83     15,541.66
+GROSS PAY                                  7,770.83     15,541.66
+   DEDUCTIONS
+  Federal Income Tax                       699.37
+| |   .
+  Social Security                          481.79
+   Medicare                                 112.67
+  CA SDI                                    85.47
+NET PAY                                   6,391.53
 --------------------------------------------------------------
 
-FAX RECEIVED 02/07/2026 10:10   P.01
+RECEIVED FEB 08 2026  - mailroom

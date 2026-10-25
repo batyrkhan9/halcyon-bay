@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+6482 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: JIAN GALLAGHER        Emp ID: 62957
+Position: Warehouse associate
+    Pay Period: 12/07/2024 - 12/13/2024     Pay Date: 12/18/2024
+  . : .
+Pay Frequency: Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,290.88     65,834.88
+GROSS PAY                                  1,290.88     65,834.88
+DEDUCTIONS
+  Federal Income Tax                        64.54
+   Social Security                           80.03
+  Medicare                                  18.71
+  CA SDI                                    14.20
+NET PAY                                  1,113.40
+--------------------------------------------------------------
+
+-- scanned 12/28/2024 HBCH mailroom  pg 1/1 --

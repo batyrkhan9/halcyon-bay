@@ -1,0 +1,20 @@
+PACIFIC RIM JAN1TORIAL
+9425 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEEPA RUIZ        Emp ID: 54690
+   Position: Cust0dian
+Pay Period: 03/31/2026 - 04/13/2026     Pay Date: 04/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.23     80.00       2,098.40     16,787.20
+GROSS PAY                                  2,098.40     16,787.20
+     DEDUCTIONS
+  Federal Income Tax                       146.88
+  Social Security                          130.10
+  Medicare                                  30.42
+  CA SDI                                    23.08
+NET PAY                                  1,767.92
+--------------------------------------------------------------
+
+-- scanned 05/12/2026 HBCH mailroom  pg 1/1 --

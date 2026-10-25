@@ -1,17 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNI0N
-Statement Period 06/01/2025 - 06/26/2025
-Member: ASHLEY HADDAD       Account ending 2678
+VISTA SERENA MEDICAL OFFICES
+ 4003 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE KHALIL        Emp ID: 82229
+Position: Medical receptionist
+Pay Period: 07/07/2025 - 07/13/2025     Pay Date: 07/18/2025
+     Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.31     40.00       1,412.40     40,959.60
+GROSS PAY                                  1,412.40     40,959.60
+DEDUCTIONS
+  Federal Income Tax                       127.11
+  Social Security                           87.56
+  Medicare                                  20.48
+  CA SDI                                    15.53
+NET PAY                                  1,161.72
+| |   .
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              994.66
-  Deposits                     1,584.44
-  Withdrawals                 -1,362.61
-  Ending balance               1,216.49
-
-DEPOSITS AND CREDITS
-  06/26  PAYROLL DIR DEP VISTA SERENA MEDIC         792.22
-  06/11  PAYROLL DIR DEP VISTA SERENA MEDIC         792.22
-
-  Thank you for banking with us.  Page 1 of 2
-
--- scanned 07/01/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 25 2025  - mailroom

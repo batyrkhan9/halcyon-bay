@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-6974 INDUSTRIAL WAY   CA
+SEASIDE DENTAL GROUP
+3103 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MAR1SOL AGUILAR-SATO        Emp ID: 96360
-Position: Line worker
-Pay Period: 10/14/2025 - 11/12/2025     Pay Date: 11/17/2025
-Pay Frequency: Monthly
+Emp1oyee: RICARDO FALEOLO        Emp ID: 31501
+P0sition: Dental assistant
+Pay Period: 11/15/2025 - 11/28/2025     Pay Date: 12/03/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    10,685.77    117,543.47
-  GROSS PAY                                 10,685.77    117,543.47
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             16.62     23.50         390.57      9,764.25
+GROSS PAY                                    390.57      9,764.25
 DEDUCTIONS
-  Federal Income Tax                       534.28
-  Social Security                          662.51
-  Medicare                                 154.94
-  CA SDI                                   117.54
-  NET PAY                                  9,216.50
+  Federal Income Tax                        39.05
+  Social Security                           24.21
+  Medicare                                   5.66
+      CA SDI                                     4.29
+NET PAY                                    317.36
 --------------------------------------------------------------
 
-FAX RECEIVED 11/29/2025 10:42   P.01
+FAX RECEIVED 12/23/2025 10:45   P.01

@@ -1,16 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 02/01/2026 - 02/28/2026
-Member: MARISOL DOYLE       Account ending 1733
+VISTA SERENA MEDICAL OFFICES
+4062 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL ZHOU        Emp ID: 74667
+Position: Medical receptionist
+Pay Period: 02/13/2026 - 02/26/2026     Pay Date: 03/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,517.85      7,589.25
+  GROSS PAY                                  1,517.85      7,589.25
+DEDUCTIONS
+  Federal Income Tax                        91.07
+  Social Security                           94.10
+    Medicare                                  22.00
+  CA SD1                                    16.69
+NET PAY                                  1,293.99
+--------------------------------------------------------------
 
-  CHECKING SUMMARY
-  Beginning balance              897.14
-  Deposits                     1,206.70
-  Withdrawals                 -1,049.82
-  Ending balance               1,054.02
-
-DEPOSITS AND CREDITS
-  02/28  PAYROLL DIR DEP LAS BRISAS RESTAUR       1,206.70
-
-   Thank you for banking with us.  Page 1 of 2
-
--- scanned 03/06/2026 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 18 2026  - mailroom

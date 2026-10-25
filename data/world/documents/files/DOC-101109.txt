@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-   9072 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: TOMASZ SOUZA        Emp ID: 46672
-Position: Cleaner
-Pay Period: 09/02/2025 - 09/15/2025     Pay Date: 09/20/2025
+CALDER FREIGHT LINES
+2519 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: TARIQ JIMENEZ        Emp ID: 79808
+Position: Driver
+Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.42     80.00       3,713.60     70,558.40
-GROSS PAY                                  3,713.60     70,558.40
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             23.96     80.00       1,916.80     42,169.60
+GROSS PAY                                  1,916.80     42,169.60
 DEDUCTIONS
-  Federal Income Tax                       408.49
-  Social Security                          230.24
-  Medicare                                  53.84
-  CA SDI                                    40.85
-NET PAY                                  2,980.18
+   Federal Income Tax                       134.17
+  S0cial Security                          118.84
+  Medicare                                  27.79
+  CA SDI                                    21.08
+NET PAY                                  1,614.92
 --------------------------------------------------------------
 
-RECEIVED OCT 17 2025  - mailroom
+-- scanned 11/10/2025 HBCH mailroom  pg 1/1 --

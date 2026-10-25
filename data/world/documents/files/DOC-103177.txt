@@ -1,0 +1,20 @@
+ POINT CORRIN BOATWORKS
+6979 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAVYA RAO        Emp ID: 25469
+Position: Mechanic
+Pay Period: 08/21/2026 - 09/03/2026     Pay Date: 09/08/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.06     56.50         963.89     17,350.02
+GROSS PAY                                    963.89     17,350.02
+DEDUCTIONS
+     Federal Income Tax                        38.55
+  Social Security                           59.76
+   Medicare                                  13.97
+   CA SDI                                    10.60
+NET PAY                                    841.01
+--------------------------------------------------------------
+
+RECEIVED SEP 27 2026  - mailroom

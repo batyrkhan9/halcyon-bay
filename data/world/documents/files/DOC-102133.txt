@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+ 8106 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN RAMIREZ        Emp ID: 42379
+Position: Dental assistant
+Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,020.80     70,291.20
+GROSS PAY                                  5,020.80     70,291.20
+DEDUCTIONS
+  Federal Income Tax                       552.28
+  Social Security                          311.29
+  Medicare                                  72.80
+      CA SDI                                    55.22
+NET PAY                                  4,029.21
+--------------------------------------------------------------
+
+FAX RECEIVED 07/19/2026 10:51   P.01

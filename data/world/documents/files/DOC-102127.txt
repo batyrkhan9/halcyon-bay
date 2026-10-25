@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-8273 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+7313 MARKET WAY   CA
                          EARNINGS STATEMENT
-   Employee: NOOR RAMIREZ        Emp ID: 25358
-Position: Laborer
-Pay Period: 06/18/2026 - 07/02/2026     Pay Date: 07/07/2026
-Pay Frequency: Semi-Monthly
+Employee: KEONI PATEL        Emp ID: 75736
+Position: Custodian
+Pay Period: 06/23/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             65.18     86.67       5,649.15     73,438.95
-GROSS PAY                                  5,649.15     73,438.95
+Regular             17.83     54.00         962.82     13,479.48
+GROSS PAY                                    962.82     13,479.48
 DEDUCTIONS
-  Federal Income Tax                       621.40
-  Social Security                          350.24
-  Medicare                                  81.91
-  CA SDI                                    62.14
-  NET PAY                                  4,533.46
-  --------------------------------------------------------------
+  Federal Income Tax                        86.65
+    Social Security                           59.69
+     Medicare                                  13.96
+  CA SDI                                    10.59
+NET PAY                                    791.93
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

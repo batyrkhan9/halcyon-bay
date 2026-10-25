@@ -1,16 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 09/01/2025 - 09/23/2025
-Member: PEDRO HO       Account ending 8139
+BAYLINE LOGISTICS INC
+4984 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ERNESTO LEWIS        Emp ID: 33606
+Position: Wareh0use associate
+_ _ _ _
+Pay Period: 09/08/2025 - 09/21/2025     Pay Date: 09/26/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       961.28     19,225.60
+GROSS PAY                                    961.28     19,225.60
+DEDUCTIONS
+  Federal Income Tax                        38.45
+     Social Security                           59.59
+   Medicare                                  13.93
+  CA SDI                                    10.57
+NET PAY                                    838.74
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              474.62
-  Deposits                     1,231.15
-   Withdrawals                 -1,231.15
-   Ending balance                 474.62
-
-DEPOSITS AND CREDITS
-      09/23  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,231.15
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 10/10/2025 10:18   P.01
+-- scanned 11/01/2025 HBCH mailroom  pg 1/1 --

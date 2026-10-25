@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-7348 MARKET WAY   CA
+CALDER FREIGHT L1NES
+7886 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ANDREW GALLAGHER        Emp ID: 57417
-Position: Line cook
-Pay Period: 07/11/2026 - 07/25/2026     Pay Date: 07/30/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+Employee: LUIS ORTIZ        Emp ID: 91127
+Position: Driver
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.36     86.67       1,591.26     23,868.90
-GROSS PAY                                  1,591.26     23,868.90
-DEDUCTIONS
-   Federal Income Tax                       159.12
-  Social Security                           98.65
-  Medicare                                  23.07
-  CA SDI                                    17.50
-NET PAY                                  1,292.92
+Regular            120.48     40.00       4,819.20    130,118.40
+GROSS PAY                                  4,819.20    130,118.40
+  DEDUCTIONS
+  Federal 1ncome Tax                       240.96
+  S0cial Security                          298.79
+  Medicare                                  69.87
+  CA SDI                                    53.01
+NET PAY                                  4,156.57
 --------------------------------------------------------------
 
-FAX RECEIVED 08/04/2026 10:24   P.01
+RECEIVED JUL 30 2026  - mailroom

@@ -1,0 +1,20 @@
+    PACIFIC RIM JANITORIAL
+4384 COMMERCE WAY   CA
+                         EARNING5 STATEMENT
+Employee: WEI MARTINEZ        Emp ID: 32714
+Position: Custodian
+Pay Period: 06/26/2026 - 07/09/2026     Pay Date: 07/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.64     43.50         723.84     10,133.76
+GROSS PAY                                    723.84     10,133.76
+DEDUCTIONS
+  Federal Income Tax                        79.62
+  Social Security                           44.87
+  Medicare                                  10.49
+  CA SDI                                     7.96
+NET PAY                                    580.90
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2026]

@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+3746 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIO SUZUKI        Emp ID: 40847
+Position: Laborer
+Pay Period: 05/10/2026 - 06/08/2026     Pay Date: 06/13/2026
+    Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             51.42    173.33       8,912.63     53,475.78
+   GR0SS PAY                                  8,912.63     53,475.78
+DEDUCTIONS
+  Federal Income Tax                       891.26
+  Social Security                          552.58
+      Medicare                                 129.23
+  CA SDI                                    98.03
+  NET PAY                                  7,241.53
+--------------------------------------------------------------
+
+RECEIVED JUL 24 2026  - mailroom

@@ -1,20 +1,19 @@
-ARROYO VERDE NURSERY
-4742 MARKET WAY   CA
-                            EARNINGS STATEMENT
-Employee: LUIS GARCIA        Emp ID: 53427
-Position: Nursery worker
-Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.77     58.75       1,043.99     12,527.88
-GROSS PAY                                  1,043.99     12,527.88
-DEDUCTIONS
-  Federal Income Tax                        62.63
-  Social Security                           64.72
-  Medicare                                  15.13
-  CA SDI                                    11.48
-NET PAY                                    890.03
-   --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+  (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  TERESA C0NTRERAS
+Your social security number: XXX-XX-2785
+Dependents: 1
+Income
+  . : .
+ 1a  Total amount from Form(s) W-2, box 1 ...........    23,524.00
+   8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    23,524.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    23,524.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 07/06/2026 10:30   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Teresa Contreras        Date: 04/01/2026
+
+RECEIVED JUL 05 2026  - mailroom

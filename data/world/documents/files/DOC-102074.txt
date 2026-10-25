@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+6233 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: PATRICIA MILLER        Emp ID: 13200
+Position: Field technician
+Pay Period: 05/31/2026 - 06/14/2026     Pay Date: 06/19/2026
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              36.50     86.67       3,163.46     37,961.52
+GROSS PAY                                  3,163.46     37,961.52
+DEDUCTIONS
+  Federal Income Tax                       189.80
+  5ocial Security                          196.13
+  Medicare                                  45.87
+  CA SDI                                    34.79
+NET PAY                                  2,696.87
+--------------------------------------------------------------
+
+FAX RECEIVED 07/16/2026 10:47   P.01

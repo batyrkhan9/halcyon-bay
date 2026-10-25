@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-4554 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: YUKI KANG        Emp ID: 20232
-Position: Home care aide
-   Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
-Pay Frequency: Bi-Weekly
+MIRADOR GROCERY CO-OP
+561 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINDA TAYLOR        Emp ID: 22447
+    Position: Cashier
+Pay Period: 07/29/2026 - 08/27/2026     Pay Date: 09/01/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,679.51     28,551.67
- GROSS PAY                                  1,679.51     28,551.67
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.97    100.50       1,906.48     17,158.32
+GROSS PAY                                  1,906.48     17,158.32
 DEDUCTIONS
-  Federal Income Tax                       100.77
-  5ocial Security                          104.13
-  Medicare                                  24.35
-     CA SDI                                    18.47
-NET PAY                                  1,431.79
+   Federal Income Tax                       209.71
+  Social Security                          118.20
+  Medicare                                  27.64
+  CA SDI                                    20.97
+NET PAY                                  1,529.96
 --------------------------------------------------------------
 
-FAX RECEIVED 09/10/2026 10:41   P.01
+-- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

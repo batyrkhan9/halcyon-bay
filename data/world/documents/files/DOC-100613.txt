@@ -1,21 +1,21 @@
-MIRADOR PUBLIC LIBRARY
-1626 MARKET WAY   CA
+PACIFIC RIM JANITORIAL
+7622 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: LEILANI JOSHI        Emp 1D: 32091
-Position: Library assistant
-Pay Period: 05/04/2025 - 05/17/2025     Pay Date: 05/22/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
+Employee: VERONICA WATANABE        Emp ID: 11521
+Position: Custodian
+Pay Period: 05/12/2025 - 05/26/2025     Pay Date: 05/31/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             92.07     80.00       7,365.60     81,021.60
-_ _ _ _
-  GROSS PAY                                  7,365.60     81,021.60
-DEDUCTIONS
-  Federal Income Tax                       736.56
-  Social Security                          456.66
-  Medicare                                 106.80
-  CA SDI                                    81.02
-NET PAY                                  5,984.56
+Regular             24.78     86.67       2,147.68     23,624.48
+GROSS PAY                                  2,147.68     23,624.48
+ DEDUCTIONS
+     Federal Income Tax                       236.24
+  S0cial Security                          133.15
+  Medicare                                  31.14
+| |   .
+  CA SDI                                    23.62
+NET PAY                                  1,723.53
 --------------------------------------------------------------
 
--- scanned 05/31/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/19/2025]

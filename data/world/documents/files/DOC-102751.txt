@@ -1,16 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-9883 FRONT ST
+COASTAL VALLEY ENERGY
+678 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+ Employee: AMINA COLEMAN        Emp ID: 57746
+Position: Field technician
+Pay Period: 07/27/2026 - 08/09/2026     Pay Date: 08/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             62.40     80.00       4,992.00     84,864.00
+ GROSS PAY                                  4,992.00     84,864.00
+DEDUCTIONS
+  Federal Income Tax                       199.68
+  Social Security                          309.50
+  Medicare                                  72.38
+  CA SDI                                    54.91
+NET PAY                                  4,355.53
+   --------------------------------------------------------------
+  includes overtime 4.00 hrs
 
-    August 30, 2026
-
-To Whom It May Concern:
-
-This letter confirms that Antonio Novak has been employed with Las Brisas Restaurant Group since
-February 2024 in the position of Line cook. Their rate of pay is $16.67 per hour, for a regular schedule of 12 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-    Sincerely,
-Eduardo Coleman
-Human Resources
-
-FAX RECEIVED 09/01/2026 10:15   P.01
+RECEIVED SEP 01 2026  - mailroom

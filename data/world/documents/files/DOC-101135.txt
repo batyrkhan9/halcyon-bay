@@ -1,21 +1,20 @@
-BLUE KELP SOFTWARE LLC
-551 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: BRIANNA JACKSON        Emp ID: 12586
- Position: Software engineer
-Pay Period: 09/10/2025 - 10/09/2025     Pay Date: 10/14/2025
-Pay Frequency: Monthly
---------------------------------------------------------------
+HARBOR POINT HOTEL
+1260 INDUSTRIAL WAY   CA
+                         EARNING5 STATEMENT
+Employee: DONALD WANG        Emp ID: 59888
+Position: Housekeeper
+Pay Period: 09/29/2025 - 10/12/2025     Pay Date: 10/17/2025
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    13,855.82    138,558.20
-GROSS PAY                                 13,855.82    138,558.20
-    DEDUCTIONS
-  Federal Income Tax                       831.34
-  Social Security                          859.06
-  Medicare                                 200.90
-  CA SDI                                   152.41
-| |   .
-NET PAY                                 11,812.11
+Salary                                     3,966.27     83,291.67
+GR0SS PAY                                  3,966.27     83,291.67
+DEDUCTIONS
+    Federal Income Tax                       436.28
+  Social Security                          245.90
+  Medicare                                  57.51
+      CA SDI                                    43.62
+NET PAY                                  3,182.96
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/27/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/19/2025]

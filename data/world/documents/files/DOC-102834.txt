@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+2793 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: GUADALUPE LEE        Emp ID: 15017
+Position: Field supervisor
+ Pay Period: 07/22/2026 - 08/05/2026     Pay Date: 08/10/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       335.13      5,026.95
+  GROSS PAY                                    335.13      5,026.95
+DEDUCTIONS
+  Federal Income Tax                        16.75
+  Social Security                           20.77
+  Medicare                                   4.85
+  CA SDI                                     3.68
+NET PAY                                    289.08
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/05/2026]

@@ -1,18 +1,20 @@
-   Form 1040   U.S. Individual Income Tax Return   2023
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  NOOR SILVA
-Your social security number: XXX-XX-8938
-Dependents: 3
-Income
-   1a  Total amount from Form(s) W-2, box 1 ...........    34,272.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    34,272.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    34,272.00
- 12  Standard deduction ..............................    21,900.00
+ HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 02/01/2025 - 02/28/2025
+  Member: JUSTIN CHOI       Account ending 5283
 
-   Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Noor Silva        Date: 04/04/2024
+CHECKING SUMMARY
+  Beginning balance            2,080.46
+  Deposits                       633.42
+  Withdrawals                   -658.75
+  Ending balance               2,055.13
 
-RECEIVED MAR 13 2025  - mailroom
+DEPOSITS AND CREDITS
+  02/14  PAYROLL DIR DEP POINT CORRIN BOATW         633.42
+
+ SAVINGS SUMMARY  (Share Savings ending 3399)
+  Ending balance              47,636.31
+  Dividends paid                  19.05
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 03/21/2025 HBCH mailroom  pg 1/1 --

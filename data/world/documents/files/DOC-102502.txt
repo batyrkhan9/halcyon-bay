@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 07/01/2026 - 07/28/2026
-Member: LINH FUENTES       Account ending 8920
+CALDER FREIGHT LINES
+1398 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LETICIA YOUNG        Emp ID: 31358
+Position: Driver
+Pay Period: 06/12/2026 - 06/26/2026     Pay Date: 07/01/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             17.06     66.50       1,134.49     14,748.37
+GROSS PAY                                  1,134.49     14,748.37
+DEDUCTIONS
+  Federal Inc0me Tax                       124.79
+     Social Security                           70.33
+  Medicare                                  16.45
+  CA SDI                                    12.47
+NET PAY                                    910.45
+--------------------------------------------------------------
 
-   CHECKING SUMMARY
-  Beginning balance            1,048.15
-  Deposits                    13,391.04
-   Withdrawals                -12,319.75
-   Ending balance               2,119.44
-
-DEPOSITS AND CREDITS
-  07/28  PAYROLL DIR DEP PACIFIC RIM JANITO       6,695.52
-  07/14  PAYROLL DIR DEP PACIFIC RIM JANITO       6,695.52
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/14/2026 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 08 2026  - mailroom

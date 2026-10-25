@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-8854 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: CHLOE IBARRA        Emp ID: 58737
-Position: Warehouse associate
+PORT ELLERY CANNERY CO
+2154 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: VERONICA NGUYEN-LIU        Emp ID: 21452
+Position: Line worker
 Pay Period: 01/09/2026 - 01/22/2026     Pay Date: 01/27/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.62     39.75         740.14      1,480.28
-GROSS PAY                                    740.14      1,480.28
-DEDUCTIONS
-      Federal Income Tax                        81.41
-  Social Security                           45.88
-  Medicare                                  10.73
-  CA SDI                                     8.14
-NET PAY                                    593.98
+Salary                                     6,602.59     13,205.18
+GROSS PAY                                  6,602.59     13,205.18
+  DEDUCTIONS
+  Federal Income Tax                       264.10
+  Social Security                          409.36
+  Medicare                                  95.73
+  CA SDI                                    72.62
+NET PAY                                  5,760.78
 --------------------------------------------------------------
 
 [HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

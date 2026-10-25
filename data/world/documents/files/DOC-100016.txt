@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+3413 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: JOHN MILLER        Emp ID: 63028
+Position: Mechanic
+Pay Period: 10/22/2024 - 11/04/2024     Pay Date: 11/09/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,407.39     32,369.97
+GROSS PAY                                  1,407.39     32,369.97
+  DEDUCTIONS
+  Federal Income Tax                        98.51
+  Social Security                           87.25
+     Medicare                                  20.40
+  CA SDI                                    15.48
+NET PAY                                  1,185.75
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/06/2024]

@@ -1,20 +1,18 @@
-VISTA SERENA MEDICAL OFFICES
-8921 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: EDUARDO SILVA        Emp ID: 40786
-Position: Medical receptionist
-Pay Period: 07/04/2025 - 07/18/2025      Pay Date: 07/23/2025
-Pay Frequency: Semi-Monthly
-   --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             26.82     86.67       2,324.49     32,542.86
-GROSS PAY                                  2,324.49     32,542.86
-DEDUCTIONS
-  Federal Income Tax                       255.69
-  Social Security                          144.11
-  Medicare                                  33.70
-  CA SDI                                    25.56
-   NET PAY                                  1,865.43
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 08/01/2025 - 08/31/2025
+Member: JOSHUA SINGH       Account ending 7578
+_ _ _ _
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/22/2025]
+ CHECKING SUMMARY
+  Beginning balance              707.40
+  Deposits                     2,752.14
+  Withdrawals                 -2,587.01
+  Ending balance                 872.53
+
+DEPOSITS AND CREDITS
+  08/11  PAYROLL DIR DEP PORT ELLERY CANNER       1,376.07
+      08/26  PAYROLL DIR DEP PORT ELLERY CANNER       1,376.07
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 09/27/2025 10:24   P.01

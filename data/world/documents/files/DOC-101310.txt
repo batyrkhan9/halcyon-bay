@@ -1,21 +1,20 @@
-ARROYO VERDE NURSERY
-6563 INDUSTRIAL WAY   CA
+MARISOL CLEANING SERVICES
+7014 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: THAO HERRERA        Emp ID: 44021
-Position: Nursery worker
-Pay Period: 11/27/2025 - 12/11/2025     Pay Date: 12/16/2025
-    Pay Frequency: Semi-Monthly
---------------------------------------------------------------
+Employee: RONALD TRAN        Emp ID: 48076
+Position: Cleaner
+   Pay Period: 12/23/2025 - 01/05/2026     Pay Date: 01/10/2026
+    Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            111.57     86.67       9,669.77    232,074.48
-GROSS PAY                                  9,669.77    232,074.48
+Regular             44.21     80.00       3,536.80      3,536.80
+GROSS PAY                                  3,536.80      3,536.80
 DEDUCTIONS
-  . : .
-  Federal Income Tax                       386.79
-  Social Security                          599.52
-  Medicare                                 140.21
-  CA SDI                                   106.36
-NET PAY                                  8,436.89
-  --------------------------------------------------------------
+  Federal Income Tax                       176.84
+  Socia1 Security                          219.28
+  Medicare                                  51.28
+  CA 5DI                                    38.90
+NET PAY                                  3,050.50
+--------------------------------------------------------------
 
-FAX RECEIVED 01/04/2026 10:46   P.01
+FAX RECEIVED 01/15/2026 10:27   P.01

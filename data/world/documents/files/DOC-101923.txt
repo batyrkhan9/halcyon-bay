@@ -1,0 +1,21 @@
+SANTA LUCITA FARMS
+870 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN DAVIS        Emp ID: 50397
+Position: Field supervisor
+Pay Period: 05/30/2026 - 06/12/2026     Pay Date: 06/17/2026
+Pay Frequency: Bi-Weekly
+| |   .
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,446.39     65,356.68
+GROSS PAY                                  5,446.39     65,356.68
+DEDUCTIONS
+  Federal Income Tax                       381.24
+    Social Security                          337.67
+  Medicare                                  78.97
+  CA SDI                                    59.91
+ NET PAY                                  4,588.60
+--------------------------------------------------------------
+
+FAX RECEIVED 07/05/2026 10:11   P.01

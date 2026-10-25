@@ -1,20 +1,20 @@
 ARROYO VERDE NURSERY
-8723 INDUSTRIAL WAY    CA
+4981 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: PAOLA WILLIAMS        Emp ID: 19892
-    Position: Nursery worker
-Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+Employee: MAI TAYLOR        Emp ID: 24187
+Position: Nursery worker
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+    Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.27     62.00       1,132.74     14,725.62
-   GROSS PAY                                  1,132.74     14,725.62
+Regular             49.06     80.00       3,924.80     54,947.20
+   GROSS PAY                                  3,924.80     54,947.20
 DEDUCTIONS
-  Federal Income Tax                        67.96
-  Social Security                           70.23
-  Medicare                                  16.42
-  CA SDI                                    12.46
-NET PAY                                    965.67
+  Federal 1ncome Tax                       431.72
+  5ocial Security                          243.33
+    Medicare                                  56.91
+  CA SDI                                    43.17
+NET PAY                                  3,149.67
 --------------------------------------------------------------
 
-RECEIVED JUL 20 2026  - mailroom
+RECEIVED JUL 18 2026  - mailroom

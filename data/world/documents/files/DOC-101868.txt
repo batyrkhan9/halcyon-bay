@@ -1,21 +1,21 @@
-    PACIFIC RIM JANITORIAL
-4813 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-   Employee: ALYSSA KIM-GALLAGHER        Emp ID: 81130
-Position: Custodian
-Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
+PACIFIC RIM JANITORIAL
+2597 HARB0R WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN ZAMORA        Emp ID: 42973
+Position: Cust0dian
+Pay Period: 04/05/2026 - 04/18/2026     Pay Date: 04/23/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             18.93     80.00       1,514.40     19,687.20
-GROSS PAY                                  1,514.40     19,687.20
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,404.12     21,637.08
+GROSS PAY                                  2,404.12     21,637.08
 DEDUCTIONS
-_ _ _ _
-  Federal Income Tax                       106.00
-  Social Security                           93.89
-  Medicare                                  21.95
-  CA SDI                                    16.65
-NET PAY                                  1,275.91
+  Federal Income Tax                       168.28
+  Social Security                          149.05
+  Medicare                                  34.86
+  CA SDI                                    26.44
+NET PAY                                  2,025.49
 --------------------------------------------------------------
+  includes overtime 2.00 hrs
 
-RECEIVED JUL 02 2026  - mailroom
+FAX RECEIVED 06/01/2026 10:46   P.01

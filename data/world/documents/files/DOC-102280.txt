@@ -1,19 +1,20 @@
-  Form 1040   U.S. Individual Income Tax Return   2025
-  . : .
-  (copy - summary page)
-  Filing Status: Head of household
-   Your first name and middle initial / Last name:  ROSA DAVIS
-Your social security number: XXX-XX-5309
-Dependents: 3
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    43,545.00
- 8   Additiona1 income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    43,545.00
- 10  Adjustments to income ...........................         0.00
-   11  Adjusted gross income ...........................    43,545.00
-  12  Standard deduction ..............................    21,900.00
+SEASIDE DENTAL GROUP
+6288 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANTONIO AGUILAR        Emp ID: 86338
+Position: Dental assistant
+Pay Period: 05/19/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.54     88.75       1,645.42      9,872.52
+   GROSS PAY                                  1,645.42      9,872.52
+DEDUCTIONS
+  Federal Income Tax                       164.54
+      Social Security                          102.01
+  Medicare                                  23.85
+  CA SDI                                    18.10
+NET PAY                                  1,336.92
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Rosa Davis        Date: 04/02/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/01/2026]
+-- scanned 07/28/2026 HBCH mailroom  pg 1/1 --

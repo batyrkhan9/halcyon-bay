@@ -1,20 +1,20 @@
- ARROYO VERDE NURSERY
-6650 INDUSTRIAL WAY    CA
+SUNSET COAST HOME CARE
+3818 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: RAJNI COLEMAN        Emp ID: 98477
-Position: Nursery worker
-Pay Period: 12/29/2025 - 01/04/2026     Pay Date: 01/09/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
+Employee: BRANDON GOMEZ        Emp ID: 26961
+   Position: Home care aide
+Pay Period: 12/17/2025 - 12/31/2025     Pay Date: 01/05/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.07     23.00         415.61        831.22
-GROSS PAY                                    415.61        831.22
-DEDUCTIONS
-  Federal Income Tax                        41.56
-  Social Security                           25.76
-  Medicare                                   6.02
-  CA SDI                                     4.57
-NET PAY                                    337.70
+Salary                                     4,520.04      4,520.04
+GROSS PAY                                  4,520.04      4,520.04
+DEDUCT1ONS
+  Federal Income Tax                       452.00
+  Social Security                          280.24
+  Medicare                                  65.54
+  CA SDI                                    49.72
+NET PAY                                  3,672.54
 --------------------------------------------------------------
 
-RECEIVED JAN 26 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/29/2026]

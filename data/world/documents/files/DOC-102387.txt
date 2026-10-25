@@ -1,18 +1,22 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-    Filing Status: Head of household
-Your first name and middle initial / Last name:  LINDA KANG-SILVA
-Your social security number: XXX-XX-7076
-Dependents: 3
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    44,158.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
-     9   Total income ....................................    44,158.00
-     10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    44,158.00
-  12  Standard deduction ..............................    21,900.00
+SANDPIPER CHILD CARE CENTER
+9003 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERESA GARCIA        Emp ID: 57899
+Position: Teacher
+Pay Period: 07/01/2026 - 07/14/2026     Pay Date: 07/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,709.98    100,649.70
+GROSS PAY                                  6,709.98    100,649.70
+DEDUCTI0NS
+      Federal Income Tax                       670.99
+      Social Security                          416.01
+   Medicare                                  97.29
+  CA SDI                                    73.81
+NET PAY                                  5,451.88
+--------------------------------------------------------------
+~ ~ .  ,
+  includes overtime 1.50 hrs
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Linda Kang-Silva        Date: 04/09/2026
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/06/2026]
+RECEIVED AUG 01 2026  - mailroom

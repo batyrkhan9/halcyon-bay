@@ -1,0 +1,20 @@
+HARB0R POINT HOTEL
+6125 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: DANIELA RAMIREZ        Emp ID: 32113
+Position: Housekeeper
+Pay Period: 07/05/2026 - 07/18/2026     Pay Date: 07/23/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             55.27     80.00       4,421.60     66,324.00
+    GROSS PAY                                  4,421.60     66,324.00
+DEDUCTIONS
+  Federal Income Tax                       353.72
+  Social Security                          274.13
+  Medicare                                  64.11
+      CA SDI                                    48.63
+NET PAY                                   3,681.01
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/14/2026]

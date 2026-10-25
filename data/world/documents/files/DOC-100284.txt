@@ -1,21 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-   1538 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: GREGORY PETROV        Emp ID: 76682
-Position: Teacher
-Pay Period: 02/17/2025 - 03/02/2025     Pay Date: 03/07/2025
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,706.37     23,531.85
-  . : .
-GROSS PAY                                  4,706.37     23,531.85
-DEDUCTIONS
-     Federal Income Tax                       235.31
-  Social Security                          291.79
-  Medicare                                  68.24
-  CA SDI                                    51.77
-NET PAY                                  4,059.26
+SANTA LUCITA FARM5
+2984 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ASHLEY MITCHELL        Emp ID: 48571
+_ _ _ _
+  Position: Field supervisor
+ Pay Period: 02/19/2025 - 02/25/2025     Pay Date: 03/02/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,249.25     11,243.25
+GROSS PAY                                  1,249.25     11,243.25
+DEDUCTIONS
+  Federal Income Tax                        87.44
+    Social Security                           77.45
+    Medicare                                  18.11
+  CA SDI                                    13.74
+NET PAY                                  1,052.51
+    --------------------------------------------------------------
 
-FAX RECEIVED 03/10/2025 10:43   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/18/2025]

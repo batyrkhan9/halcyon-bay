@@ -1,20 +1,20 @@
- ARROYO VERDE NURSERY
-7625 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-Employee: MICHAEL RAMOS        Emp ID: 73573
-Position: Nursery worker
-Pay Period: 04/14/2025 - 05/13/2025     Pay Date: 05/18/2025
-Pay Frequency: Monthly
-    --------------------------------------------------------------
+TIDEWATER CONSTRUCTION
+9856 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN ZHANG-DAVIS        Emp 1D: 35609
+ Position: Laborer
+Pay Period: 06/13/2025 - 06/27/2025     Pay Date: 07/02/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.48    173.33       8,056.38     40,281.90
-GROSS PAY                                  8,056.38     40,281.90
-DEDUCTIONS
-  Federal Income Tax                       644.51
-      Social Security                          499.49
-  Medicare                                 116.81
-  CA SDI                                    88.62
-   NET PAY                                  6,706.95
+Regular             33.72     86.67       2,922.51     37,992.63
+GROSS PAY                                  2,922.51     37,992.63
+ DEDUCTIONS
+  Federal Income Tax                       146.12
+     Social Security                          181.19
+  Medicare                                  42.37
+  CA SDI                                    32.14
+NET PAY                                  2,520.69
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/01/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2025]

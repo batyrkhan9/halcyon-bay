@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+   5146 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO FALEOLO        Emp ID: 31501
+Position: Dental assistant
+Pay Period: 11/01/2025 - 11/14/2025     Pay Date: 11/19/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.62     23.50         390.57      9,373.68
+GROSS PAY                                    390.57      9,373.68
+DEDUCTIONS
+   Federal Income Tax                        39.05
+  Social Security                           24.21
+  Medicare                                   5.66
+  CA SDI                                     4.29
+NET PAY                                    317.36
+ --------------------------------------------------------------
+
+RECEIVED DEC 23 2025  - mailroom

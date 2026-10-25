@@ -1,20 +1,22 @@
-COASTAL VALLEY ENERGY
-4904 INDUSTRIAL WAY   CA
+PORT ELLERY CANNERY CO
+8159 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: AUSTIN LIU        Emp ID: 73937
-Position: Field technician
-Pay Period: 05/08/2025 - 05/22/2025     Pay Date: 05/27/2025
-  Pay Frequency: Semi-Monthly
+Employee: NICOLE DAVIS        Emp ID: 59446
+Position: Line worker
+~ ~ .  ,
+  Pay Period: 06/10/2025 - 06/16/2025     Pay Date: 06/21/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,254.23     22,542.30
-   GROSS PAY                                  2,254.23     22,542.30
+Regular             23.65     40.00         946.00     23,650.00
+GROSS PAY                                    946.00     23,650.00
 DEDUCTIONS
-  Federal Income Tax                       112.71
-  Social Security                          139.76
-  Medicare                                  32.68
-  CA SDI                                    24.79
-NET PAY                                  1,944.29
+  Federal Income Tax                        37.84
+  Social Security                           58.65
+  Medicare                                  13.71
+  CA SD1                                    10.40
+NET PAY                                    825.40
 --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
--- scanned 06/20/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 15 2025  - mailroom

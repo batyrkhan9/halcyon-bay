@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-3486 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Emp1oyee: RAJNI JONES        Emp ID: 52796
-Position: Sales associate
-Pay Period: 05/20/2026 - 06/02/2026     Pay Date: 06/07/2026
-Pay Frequency: Bi-Weekly
+PACIFIC RIM JANITORIAL
+5638 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE MARTINEZ        Emp ID: 68965
+Position: Custodian
+Pay Period: 05/27/2026 - 06/02/2026     Pay Date: 06/07/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             69.50     80.00       5,560.00     66,720.00
-GROSS PAY                                  5,560.00     66,720.00
+Regular             17.14     31.50         539.91     12,417.93
+GROSS PAY                                    539.91     12,417.93
 DEDUCTIONS
-   Federal Income Tax                       333.60
-  Social Security                          344.72
-  Medicare                                  80.62
-    CA SDI                                    61.16
-NET PAY                                   4,739.90
+  Federal Income Tax                        43.19
+  Social Security                           33.47
+    Medicare                                   7.82
+  CA SDI                                     5.93
+  NET PAY                                    449.50
 --------------------------------------------------------------
 
--- scanned 07/03/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/01/2026 10:29   P.01

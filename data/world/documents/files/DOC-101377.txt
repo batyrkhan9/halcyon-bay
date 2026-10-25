@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-4287 MARKET WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: RONALD PATEL        Emp ID: 54179
-Position: Home care aide
-Pay Period: 12/14/2025 - 12/27/2025     Pay Date: 01/01/2026
-  Pay Frequency: Bi-Weekly
+MIRADOR PUBLIC LIBRARY
+4926 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE KELLY        Emp ID: 17049
+Position: Library assistant
+Pay Period: 01/07/2026 - 01/21/2026     Pay Date: 01/26/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.01     80.00       1,680.80      1,680.80
-GRO5S PAY                                  1,680.80      1,680.80
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.94     86.67       5,108.33     10,216.66
+GROSS PAY                                  5,108.33     10,216.66
 DEDUCTIONS
-  Federal Income Tax                       117.65
-  Social Security                          104.21
-  Medicare                                  24.37
-  CA SDI                                    18.48
-NET PAY                                  1,416.09
+     Federal Inc0me Tax                       510.83
+  Social Security                          316.71
+   Medicare                                  74.07
+  CA SDI                                    56.19
+NET PAY                                  4,150.53
 --------------------------------------------------------------
 
-FAX RECEIVED 01/31/2026 10:35   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/01/2026]

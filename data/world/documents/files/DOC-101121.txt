@@ -1,21 +1,21 @@
-COASTLINE SAVINGS BANK
-Statement Period 10/01/2025 - 10/06/2025
-Member: ARACELI KING       Account ending 9364
+ HALCYON BAY UNIFIED SCHOOL DIST
+| |   .
+9774 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE CHEN        Emp ID: 72313
+Position: Instructional aide
+Pay Period: 09/28/2025 - 10/27/2025     Pay Date: 11/01/2025
+Pay Frequency: Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       847.16      9,318.76
+    GROSS PAY                                    847.16      9,318.76
+DEDUCTIONS
+  Federal Income Tax                        59.30
+  Social Security                           52.52
+  Medicare                                  12.28
+  CA SDI                                     9.31
+NET PAY                                    713.75
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,239.14
-  Deposits                       634.56
-     Withdrawals                   -571.10
-  Ending balance               1,302.60
-
-DEPOSITS AND CREDITS
-  10/06  PAYROLL DIR DEP POINT CORRIN BOATW         317.28
-  09/21  PAYROLL DIR DEP POINT CORRIN BOATW         317.28
-
-SAVINGS SUMMARY  (Share Savings ending 4638)
-  Ending balance              34,393.49
-  Dividends paid                  13.75
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 10/24/2025 10:39   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/15/2025]

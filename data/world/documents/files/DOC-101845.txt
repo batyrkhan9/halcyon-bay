@@ -1,20 +1,21 @@
-COASTAL VALLEY ENERGY
-1161 COMMERCE WAY   CA
+MIRADOR GROCERY CO-OP
+6357 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: TUAN JEFFERSON-ZAMORA        Emp ID: 85485
-Position: Field technician
-Pay Period: 05/09/2026 - 05/22/2026     Pay Date: 05/27/2026
+Employee: VALERIA WILSON         Emp ID: 42354
+Position: Cashier
+Pay Period: 04/23/2026 - 05/06/2026     Pay Date: 05/11/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             64.13     80.00       5,130.40     56,434.40
-GROSS PAY                                  5,130.40     56,434.40
+Regular             24.90     80.00       1,992.00     19,920.00
+  . : .
+ GROSS PAY                                  1,992.00     19,920.00
 DEDUCTIONS
-  Federal Income Tax                       307.82
-  Social Security                          318.08
-    Medicare                                  74.39
-  CA SDI                                    56.43
-NET PAY                                  4,373.68
---------------------------------------------------------------
+  Federal Income Tax                       139.44
+   Social Security                          123.50
+  Medicare                                  28.88
+      CA SDI                                    21.91
+NET PAY                                  1,678.27
+   --------------------------------------------------------------
 
-RECEIVED JUN 17 2026  - mailroom
+FAX RECEIVED 05/28/2026 10:51   P.01

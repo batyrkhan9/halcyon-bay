@@ -1,21 +1,21 @@
-SEASIDE DENTAL GROUP
-    8653 COMMERCE WAY   CA
+BLUE KELP SOFTWARE LLC
+1052 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: GUADALUPE YOUNG        Emp ID: 80645
-Position: Dental assistant
-   Pay Period: 07/14/2026 - 08/12/2026     Pay Date: 08/17/2026
-Pay Frequency: Monthly
+Employee: JOSE MEDINA        Emp ID: 33805
+Position: Software engineer
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     9,076.12     72,608.96
-GROSS PAY                                  9,076.12     72,608.96
-DEDUCTI0NS
-  Federal Income Tax                       635.32
-   Social Security                          562.71
-  Medicare                                 131.60
-   CA SDI                                    99.83
-NET PAY                                  7,646.66
-  . : .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     58.00       1,067.78     19,220.04
+GROSS PAY                                  1,067.78     19,220.04
+  DEDUCTIONS
+    Federal Income Tax                        96.10
+  Social Security                           66.20
+  Medicare                                  15.48
+  CA SDI                                    11.74
+NET PAY                                    878.26
 --------------------------------------------------------------
+  includes overtime 1.50 hrs
 
-RECEIVED SEP 24 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/23/2026]

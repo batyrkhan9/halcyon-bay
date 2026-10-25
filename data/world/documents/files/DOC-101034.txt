@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-3905 COMMERCE WAY   CA
+  SANTA LUCITA FARMS
+1472 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KENJI COLEMAN        Emp ID: 23702
-Position: Field supervisor
-   Pay Period: 08/29/2025 - 09/04/2025     Pay Date: 09/09/2025
- Pay Frequency: Weekly
---------------------------------------------------------------
+Employee: NOAH GALLAGHER        Emp ID: 81632
+   Position: Field supervisor
+Pay Period: 09/20/2025 - 09/26/2025     Pay Date: 10/01/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,561.82     56,225.52
-GROSS PAY                                  1,561.82     56,225.52
-DEDUCTIONS
-  Federal Income Tax                       156.18
-   Social Security                           96.83
-  Medicare                                  22.64
-  CA SDI                                    17.18
-NET PAY                                  1,268.99
+Salary                                     1,145.35     45,814.00
+  GROSS PAY                                  1,145.35     45,814.00
+ DEDUCTIONS
+  Federal Income Tax                       125.98
+  Social Security                           71.01
+  Medicare                                  16.60
+   CA SDI                                    12.59
+  NET PAY                                    919.17
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/22/2025]
+FAX RECEIVED 10/22/2025 10:18   P.01

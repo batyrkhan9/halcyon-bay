@@ -1,21 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-5781 HARBOR WAY   CA
+SANTA LUCITA FARMS
+306 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: RAYMOND CHAVEZ        Emp ID: 81912
-  . : .
-Position: Teacher
-  Pay Period: 02/19/2025 - 03/05/2025     Pay Date: 03/10/2025
+Employee: RAYMOND KOWALSKI        Emp ID: 18643
+Position: Field supervisor
+Pay Period: 02/28/2025 - 03/14/2025     Pay Date: 03/19/2025
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             18.21     86.67       1,578.26      7,891.30
-GROSS PAY                                  1,578.26      7,891.30
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,176.37     25,058.22
+GROSS PAY                                  4,176.37     25,058.22
 DEDUCTIONS
-  Federal Income Tax                        78.91
-  Social Security                           97.85
-  Medicare                                  22.88
-  CA SDI                                    17.36
-NET PAY                                  1,361.26
+  Federal Income Tax                       375.87
+  Social Security                          258.93
+  Medicare                                  60.55
+  CA SDI                                    45.94
+ NET PAY                                  3,435.08
 --------------------------------------------------------------
 
-RECEIVED APR 10 2025  - mailroom
+RECEIVED APR 19 2025  - mailroom

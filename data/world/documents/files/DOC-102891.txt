@@ -1,18 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  LEILANI PEREIRA
-Your s0cial security number: XXX-XX-8745
- Dependents: 1
-Income
-    1a  Total amount from Form(s) W-2, box 1 ...........    39,832.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    39,832.00
- 10  Adjustments to income ...........................         0.00
- 11   Adjusted gross income ...........................    39,832.00
- 12  Standard deduction ..............................    21,900.00
+BLUE KELP SOFTWARE LLC
+8106 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA PEREZ        Emp ID: 92132
+Position: Software engineer
+Pay Period: 08/18/2026 - 08/31/2026     Pay Date: 09/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Salary                                     5,095.04     90,625.95
+GROSS PAY                                  5,095.04     90,625.95
+DEDUCTIONS
+  Federal Income Tax                       254.75
+  Social Security                          315.89
+  Medicare                                  73.87
+  CA SDI                                    56.04
+NET PAY                                  4,394.49
+--------------------------------------------------------------
+  includes overtime 0.75 hrs
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Leilani Pereira        Date: 04/12/2026
-
-RECEIVED SEP 08 2026  - mailroom
+RECEIVED SEP 09 2026  - mailroom

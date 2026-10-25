@@ -1,20 +1,20 @@
-POINT CORRIN BOATWORKS
-5239 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: KENJI VASQUEZ        Emp ID: 15317
-Position: Mechanic
-Pay Period: 06/07/2026 - 06/13/2026     Pay Date: 06/18/2026
-Pay Frequency: Weekly
-    --------------------------------------------------------------
- EARNING5            RATE      HOURS     THIS PERI0D        YTD
-Salary                                       789.49     19,737.25
-GROSS PAY                                    789.49     19,737.25
+  COASTAL VALLEY ENERGY
+3030 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: XIMENA SCOTT        Emp ID: 95163
+Position: Field technician
+Pay Period: 05/30/2026 - 06/28/2026     Pay Date: 07/03/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.41    173.33       3,364.34     23,550.38
+GROSS PAY                                  3,364.34     23,550.38
 DEDUCTIONS
-  Federal Income Tax                        31.57
-  Social Security                           48.94
-      Medicare                                  11.44
-  CA SDI                                     8.68
-NET PAY                                    688.86
+  Federa1 Income Tax                       370.07
+  Social Security                          208.58
+  Medicare                                  48.78
+  CA SDI                                    37.00
+NET PAY                                  2,699.91
 --------------------------------------------------------------
 
--- scanned 07/09/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 09 2026  - mailroom

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+5813 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DAVID COSTA        Emp ID: 12408
+Position: Software engineer
+Pay Period: 02/06/2026 - 02/20/2026     Pay Date: 02/25/2026
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+ EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             47.48     86.67       4,115.09     16,460.36
+GROSS PAY                                  4,115.09     16,460.36
+DEDUCTIONS
+  Federal Income Tax                       329.20
+  Social Security                          255.13
+  Medicare                                  59.66
+  CA SDI                                    45.26
+   NET PAY                                  3,425.84
+--------------------------------------------------------------
+
+-- scanned 03/19/2026 HBCH mailroom  pg 1/1 --

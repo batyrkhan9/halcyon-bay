@@ -1,21 +1,17 @@
-POINT CORRIN BOATWORKS
-4288 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: LETICIA RUIZ        Emp ID: 69884
-_ _ _ _
-Position: Mechanic
-Pay Period: 06/28/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             76.10    173.33      13,190.41    105,523.28
-  GROSS PAY                                 13,190.41    105,523.28
-DEDUCTIONS
-  Federal Income Tax                     1,450.94
-      Social Security                          817.80
-  Medicare                                 191.26
-   CA SDI                                   145.09
-NET PAY                                 10,585.32
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 08/01/2026 - 08/31/2026
+Member: AMINA COLEMAN       Account ending 5211
 
--- scanned 09/07/2026 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning balance              987.94
+  Deposits                    12,518.04
+  Withdrawals                -10,765.51
+      Ending balance               2,740.47
+
+DEPOSITS AND CREDITS
+   08/07  PAYROLL DIR DEP VI5TA SERENA MEDIC       6,259.02
+  08/21  PAYROLL DIR DEP VISTA SERENA MEDIC       6,259.02
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/07/2026]

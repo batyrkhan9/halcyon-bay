@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+424 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MANUEL MITCHELL        Emp ID: 51188
+ Position: Line cook
+  Pay Period: 08/12/2025 - 08/25/2025     Pay Date: 08/30/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.80     33.00         587.40     10,573.20
+GR0SS PAY                                    587.40     10,573.20
+DEDUCTIONS
+  Federal Income Tax                        41.11
+  Social Security                           36.41
+  Medicare                                   8.51
+  CA SDI                                     6.46
+NET PAY                                    494.91
+--------------------------------------------------------------
+
+-- scanned 09/02/2025 HBCH mailroom  pg 1/1 --

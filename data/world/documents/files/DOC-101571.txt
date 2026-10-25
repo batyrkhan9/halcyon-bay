@@ -1,20 +1,21 @@
-BLUE KELP SOFTWARE LLC
-8582 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: DAVID COSTA        Emp ID: 12408
-Position: Software engineer
-Pay Period: 02/06/2026 - 02/20/2026     Pay Date: 02/25/2026
-Pay Frequency: Semi-Monthly
+VISTA SERENA MEDICAL OFFICES
+4677 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+ Employee: BRIANNA KEALOHA        Emp ID: 47024
+Position: Medical receptionist
+Pay Period: 03/08/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Weekly
    --------------------------------------------------------------
- EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.88     86.67       2,069.68      8,278.72
-   GROSS PAY                                  2,069.68      8,278.72
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       773.35      9,280.20
+| |   .
+GROSS PAY                                     773.35      9,280.20
 DEDUCTIONS
-  Federal Income Tax                       186.27
-  Social Security                          128.32
-  Medicare                                  30.01
-  CA SDI                                    22.76
-NET PAY                                  1,702.32
+  Federal Income Tax                        85.06
+  Social Security                           47.94
+    Medicare                                  11.21
+  CA SDI                                     8.50
+NET PAY                                    620.64
 --------------------------------------------------------------
 
-RECEIVED MAR 19 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/01/2026]

@@ -1,20 +1,18 @@
-SEASIDE DENTAL GROUP
-5984 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ERNESTO RUIZ         Emp ID: 55922
-Position: Dental assistant
-Pay Period: 02/11/2026 - 02/17/2026     Pay Date: 02/22/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       358.70      2,869.60
-GROSS PAY                                     358.70      2,869.60
- DEDUCTIONS
-  Federal Income Tax                        35.87
-  Social Security                           22.23
-  Medicare                                   5.20
-  CA SDI                                     3.94
-NET PAY                                    291.46
---------------------------------------------------------------
+   Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  DONNA MARTIN
+   Your social security number: XXX-XX-1291
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........     7,320.00
+ 8    Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................     7,320.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................     7,320.00
+ 12  Standard deduction ..............................    14,600.00
 
--- scanned 03/11/2026 HBCH mailroom  pg 1/1 --
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Donna Martin        Date: 04/02/2025
+
+-- scanned 03/21/2026 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,21 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-4543 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: DARNELL LOPEZ        Emp ID: 94452
-Position: Instructional aide
-Pay Period: 06/18/2025 - 07/01/2025     Pay Date: 07/06/2025
-    Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,369.91     47,178.74
-GROSS PAY                                  3,369.91     47,178.74
- DEDUCTIONS
-  Federal Income Tax                       202.19
-  5ocial Security                          208.93
-  Medicare                                  48.86
-  CA SDI                                    37.06
-| |   .
-NET PAY                                  2,872.87
+SEASIDE DENTAL GROUP
+1917 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: NICOLE HAYES        Emp ID: 50152
+Position: Dental assistant
+Pay Period: 07/02/2025 - 07/16/2025     Pay Date: 07/21/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,546.08     21,645.12
+GROSS PAY                                  1,546.08     21,645.12
+    DEDUCTIONS
+  Federal Income Tax                        77.30
+  Social Security                           95.85
+  Medicare                                  22.41
+  CA SDI                                    17.00
+NET PAY                                  1,333.52
+--------------------------------------------------------------
+      includes overtime 1.50 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2025]

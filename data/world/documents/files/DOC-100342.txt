@@ -1,20 +1,17 @@
-SANTA LUC1TA FARMS
-1108 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: BEATRIZ MITCHELL        Emp ID: 48571
-Position: Field supervisor
- Pay Period: 02/19/2025 - 02/25/2025     Pay Date: 03/02/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,571.32     23,141.88
-GROSS PAY                                  2,571.32     23,141.88
-DEDUCTIONS
-   Federal Income Tax                       179.99
-  Social Security                          159.42
-      Medicare                                  37.28
-   CA SDI                                    28.28
-NET PAY                                  2,166.35
---------------------------------------------------------------
+    COASTLINE SAVINGS BANK
+Statement Period 03/01/2025 - 03/31/2025
+Member: AIKO LI       Account ending 3642
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/18/2025]
+CHECKING SUMMARY
+  Beginning balance            2,402.76
+    Deposits                     7,335.42
+  Withdrawals                 -7,115.35
+  Ending balance               2,622.83
+
+   DEPOSITS AND CREDITS
+   03/13  PAYROLL DIR DEP PACIFIC RIM JANITO       3,667.71
+  03/27  PAYROLL D1R DEP PACIFIC RIM JANITO       3,667.71
+
+  Thank you for banking with us.  Page 1 of 2
+
+RECEIVED APR 07 2025  - mailroom

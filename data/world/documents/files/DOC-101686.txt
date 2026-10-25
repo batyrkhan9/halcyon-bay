@@ -1,18 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 03/01/2026 - 03/31/2026
-Member: SUSAN ALMEIDA       Account ending 3167
+   SANDPIPER CHILD CARE CENTER
+    1776 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: AMANDA LE        Emp ID: 75865
+Position: Teacher
+Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.84     32.00         602.88      5,425.92
+GROSS PAY                                    602.88      5,425.92
+| |   .
+DEDUCTIONS
+  Federal 1ncome Tax                        66.31
+  Social Security                           37.37
+  Medicare                                   8.74
+  CA SDI                                     6.63
+NET PAY                                    483.83
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,258.75
-     Deposits                     9,699.44
-_ _ _ _
-   Withdrawals                -10,087.41
-  Ending balance               1,870.78
-
-   DEPOSITS AND CREDITS
-  04/04  PAYROLL DIR DEP HARBOR POINT H0TEL       4,849.72
-  03/21  PAYROLL DIR DEP HARBOR POINT HOTEL       4,849.72
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 04/19/2026 HBCH mailroom  pg 1/1 --
+-- scanned 05/02/2026 HBCH mailroom  pg 1/1 --

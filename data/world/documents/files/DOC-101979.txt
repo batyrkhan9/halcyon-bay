@@ -1,21 +1,20 @@
-TIDEWATER CON5TRUCTION
-~ ~ .  ,
-855 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: JOSEFINA ROBINSON        Emp ID: 23160
-Position: Laborer
-Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
-Pay Frequency: Semi-Monthly
-    --------------------------------------------------------------
+HARBOR POINT HOTEL
+4881 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: MARISOL SUZUKI        Emp ID: 40952
+Position: Housekeeper
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,877.92     50,412.96
-GR0SS PAY                                  3,877.92     50,412.96
-  DEDUCTIONS
-  Federal Income Tax                       426.57
-  Social Security                          240.43
-  Medicare                                  56.23
-  CA SDI                                    42.65
-NET PAY                                  3,112.04
-   --------------------------------------------------------------
+Regular             18.29     54.75       1,001.38     13,017.94
+GROSS PAY                                  1,001.38     13,017.94
+    DEDUCTIONS
+  Federal Income Tax                        90.12
+     Social 5ecurity                           62.08
+  Medicare                                  14.52
+  CA SDI                                    11.01
+NET PAY                                     823.65
+--------------------------------------------------------------
 
-RECEIVED JUL 11 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/09/2026]

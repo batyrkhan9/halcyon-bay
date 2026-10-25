@@ -1,18 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 12/01/2024 - 12/31/2024
-Member: JIAN NOVAK       Account ending 9840
+CALDER FREIGHT LINES
+1993 MARKET WAY   CA
+_ _ _ _
+                          EARNINGS STATEMENT
+Employee: KAYLA MILLER        Emp ID: 20929
+Position: Driver
+Pay Period: 12/18/2024 - 12/24/2024     Pay Date: 12/29/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             87.84     40.00       3,513.60    182,707.20
+GROSS PAY                                  3,513.60    182,707.20
+DEDUCTIONS
+  Federal Income Tax                       210.81
+  5ocial Security                          217.84
+  Medicare                                  50.94
+  CA SDI                                    38.65
+NET PAY                                  2,995.36
+  --------------------------------------------------------------
 
-CHECKING SUMMARY
-   Beginning balance            1,865.28
-  Deposits                     6,534.78
-  Withdrawals                 -6,534.78
-  Ending balance               1,865.28
-
-DEPOSITS AND CREDITS
-     12/31  PAYROLL DIR DEP ARROYO VERDE NURSE       3,267.39
-  12/17  PAYROLL DIR DEP ARROYO VERDE NURSE       3,267.39
-  . : .
-
-    Thank you for banking with us.  Page 1 of 2
-
-RECEIVED JAN 15 2025  - mailroom
+FAX RECEIVED 01/12/2025 10:51   P.01

@@ -1,16 +1,20 @@
-   SEASIDE COMMUNITY CREDIT UNION
-Statement Period 03/01/2025 - 03/21/2025
-Member: MIN-JI GREEN       Account ending 2850
+CYPRE5S FLAT5 AUTO BODY
+4046 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH BUI        Emp ID: 78166
+Position: Technician
+Pay Period: 03/05/2025 - 03/19/2025     Pay Date: 03/24/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,451.60      8,709.60
+GROSS PAY                                  1,451.60      8,709.60
+DEDUCTIONS
+  Federal Income Tax                       101.61
+  Social Security                           89.99
+  Medicare                                  21.04
+      CA SDI                                    15.96
+NET PAY                                  1,223.00
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-    Beginning balance            1,287.13
-      Deposits                       861.74
-  Withdrawals                   -827.27
-     Ending balance               1,321.60
-
-DEP0SITS AND CREDITS
-     03/21  PAYROLL DIR DEP MARISOL CLEANING S         861.74
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 04/04/2025 HBCH mailroom  pg 1/1 --
+-- scanned 04/17/2025 HBCH mailroom  pg 1/1 --

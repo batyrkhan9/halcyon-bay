@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-4930 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: ARJUN FALEOLO        Emp ID: 75561
-Position: Line worker
-Pay Period: 06/19/2025 - 07/03/2025     Pay Date: 07/08/2025
-Pay Frequency: Semi-Monthly
+    SUNSET COAST HOME CARE
+4461 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILANI PETROV        Emp ID: 97306
+Position: Home care aide
+Pay Period: 06/26/2025 - 07/25/2025     Pay Date: 07/30/2025
+  Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              18.75     22.50         421.88      5,484.44
-GROSS PAY                                    421.88      5,484.44
-DEDUCTIONS
-  Federal Income Tax                        37.96
-  Social Security                           26.15
-  Medicare                                   6.11
-  CA SDI                                     4.64
-NET PAY                                    347.02
- --------------------------------------------------------------
+Regular            150.76    173.33      26,131.23    209,049.84
+GROSS PAY                                 26,131.23    209,049.84
+   DEDUCTIONS
+  Federal Income Tax                     1,045.24
+  Social Security                        1,620.13
+  Medicare                                 378.90
+  CA SDI                                   287.44
+NET PAY                                 22,799.52
+--------------------------------------------------------------
 
--- scanned 08/06/2025 HBCH mailroom  pg 1/1 --
+RECEIVED SEP 01 2025  - mailroom

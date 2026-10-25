@@ -1,20 +1,18 @@
-BAYLINE LOGISTICS INC
-9976 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: ROHAN CORTEZ        Emp ID: 45854
-Position: Warehouse associate
-Pay Period: 03/03/2026 - 03/16/2026     Pay Date: 03/21/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,076.82      6,460.92
- GROSS PAY                                  1,076.82      6,460.92
-DEDUCTIONS
-  Federal Income Tax                        43.07
-  5ocial Security                           66.76
-  Medicare                                  15.61
-  CA SDI                                    11.84
-NET PAY                                    939.54
---------------------------------------------------------------
+   Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  LUCIA ALMEIDA
+Y0ur social security number: XXX-XX-9071
+Dependents: 0
+   Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    91,949.00
+ 8   Additiona1 income from Schedule 1, line 10 ......         0.00
+  9   Total inc0me ....................................    91,949.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    91,949.00
+ 12  Standard deduction ..............................    14,600.00
 
-FAX RECEIVED 03/29/2026 10:48   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Y0ur signature: /s/ Lucia Almeida         Date: 04/01/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/10/2026]

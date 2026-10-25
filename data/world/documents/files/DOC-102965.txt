@@ -1,21 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-2807 INDUSTRIAL WAY   CA
+SANTA LUCITA FARMS
+9669 COMMERCE WAY   CA
                          EARNINGS STATEMENT
- Employee: OLIVIA CHAVEZ        Emp ID: 93248
-    Position: Line cook
-Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
+Employee: JORGE WRIGHT        Emp ID: 34192
+Position: Field supervisor
+Pay Period: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             21.00     80.00       1,680.00     28,560.00
-_ _ _ _
-GROSS PAY                                  1,680.00     28,560.00
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             97.08     80.00       7,766.40    139,795.20
+GROSS PAY                                  7,766.40    139,795.20
 DEDUCTIONS
-    Federal 1ncome Tax                       134.40
-  Social Security                          104.16
-  Medicare                                  24.36
-      CA SDI                                    18.48
-NET PAY                                  1,398.60
+  Federal Income Tax                       310.65
+  Social Security                          481.51
+   Medicare                                 112.61
+  CA SDI                                    85.43
+NET PAY                                  6,776.20
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/13/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/12/2026]

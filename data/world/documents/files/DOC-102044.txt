@@ -1,21 +1,21 @@
-MIRADOR PUBLIC LIBRARY
-4965 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-  . : .
-   Employee: ANTONIO WU        Emp ID: 39077
-Position: Library assistant
-Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
+BLUE KELP SOFTWARE LLC
+3028 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+~ ~ .  ,
+Employee: MARGARET OKAFOR        Emp ID: 34688
+Position: Engineering manager
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,024.55     14,343.70
-GROSS PAY                                  1,024.55     14,343.70
+Regular             73.13     80.00       5,850.40     81,905.60
+GROSS PAY                                  5,850.40     81,905.60
 DEDUCTIONS
-   Federal Income Tax                        51.22
-  Social 5ecurity                           63.52
-  Medicare                                  14.85
-   CA SDI                                    11.27
-NET PAY                                    883.69
---------------------------------------------------------------
+  Federal Income Tax                       409.52
+  Social Security                          362.72
+  Medicare                                  84.83
+  CA SDI                                    64.35
+NET PAY                                  4,928.98
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]
+FAX RECEIVED 07/14/2026 10:31   P.01

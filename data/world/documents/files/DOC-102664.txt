@@ -1,20 +1,16 @@
-CALDER FREIGHT LINES
-8453 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: LETICIA VALENCIA        Emp ID: 25556
-Position: Driver
-Pay Period: 07/13/2026 - 07/27/2026     Pay Date: 08/01/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,541.95     68,129.25
-GROSS PAY                                  4,541.95     68,129.25
-DEDUCTIONS
-  Federal Income Tax                       499.61
-  Social Security                          281.60
-  Medicare                                  65.85
-  CA SDI                                    49.96
- NET PAY                                  3,644.93
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 07/01/2026 - 07/31/2026
+Member: MARIA ALVAREZ        Account ending 2494
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2026]
+CHECKING SUMMARY
+  Beginning balance            1,591.14
+  Deposits                       889.64
+  Withdrawals                   -907.43
+  Ending balance               1,573.35
+
+DEPOSITS AND CREDITS
+  07/16  PAYROLL DIR DEP GOLDEN HOUR SENIOR         889.64
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/23/2026]

@@ -1,20 +1,20 @@
- CALDER FREIGHT LINES
-9102 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: SUSAN FUENTES        Emp ID: 68423
-Position: Driver
-Pay Period: 10/01/2024 - 10/30/2024     Pay Date: 11/04/2024
-Pay Frequency: Monthly
+ARROYO VERDE NURSERY
+8322 COMMERCE WAY   CA
+                         EARNING5 STATEMENT
+Employee: OMAR AGUILAR        Emp ID: 21261
+Position: Nursery worker
+Pay Period: 11/18/2024 - 12/01/2024     Pay Date: 12/06/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.59     64.75       1,203.70     13,240.70
-GROSS PAY                                  1,203.70     13,240.70
+Regular             18.40     24.00         441.60     11,040.00
+GROSS PAY                                    441.60     11,040.00
 DEDUCTIONS
-  Federal Income Tax                        84.25
-  Social Security                           74.62
-  Medicare                                  17.45
-     CA SDI                                    13.24
-NET PAY                                  1,014.14
+      Federal Income Tax                        22.08
+  Social Security                           27.37
+      Medicare                                   6.40
+  CA SDI                                     4.85
+    NET PAY                                    380.90
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/20/2024]
+FAX RECEIVED 12/16/2024 10:19   P.01

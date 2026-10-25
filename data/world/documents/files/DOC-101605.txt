@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-4851 HARBOR WAY   CA
+   CALDER FREIGHT LINES
+1254 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Empl0yee: SHARON DAVIS        Emp ID: 95187
-Position: Laborer
-Pay Period: 02/07/2026 - 02/21/2026     Pay Date: 02/26/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.51     45.00         742.95      2,971.80
-GROSS PAY                                    742.95      2,971.80
-DEDUCTIONS
-  Federal Income Tax                        66.86
-  Social Security                           46.06
-   Medicare                                  10.77
-  CA SDI                                     8.17
-NET PAY                                    611.09
---------------------------------------------------------------
+Employee: NOOR SOUZA        Emp ID: 32566
+Position: Driver
+Pay Period: 03/23/2026 - 04/05/2026     Pay Date: 04/10/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+     Regular             29.61     80.00       2,368.80     18,950.40
+GROSS PAY                                  2,368.80     18,950.40
+ DEDUCTIONS
+    Federal Income Tax                       236.88
+   Social Security                          146.86
+      Medicare                                  34.34
+  CA SDI                                    26.05
+NET PAY                                  1,924.67
+ --------------------------------------------------------------
 
-RECEIVED MAR 31 2026  - mailroom
+RECEIVED APR 14 2026  - mailroom

@@ -1,0 +1,20 @@
+  TIDEWATER CONSTRUCTION
+2873 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: EMILY O'BRIEN        Emp ID: 44808
+Position: Laborer
+Pay Period: 12/07/2024 - 12/21/2024     Pay Date: 12/26/2024
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             43.67     86.67       3,784.88     94,622.00
+GROSS PAY                                  3,784.88     94,622.00
+DEDUCTIONS
+   Federal Income Tax                       151.39
+  Social Security                          234.66
+  Medicare                                  54.88
+  CA SDI                                    41.63
+NET PAY                                  3,302.32
+--------------------------------------------------------------
+
+FAX RECEIVED 02/04/2025 10:14   P.01

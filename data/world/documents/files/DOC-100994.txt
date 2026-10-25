@@ -1,17 +1,18 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 08/01/2025 - 08/22/2025
-Member: ALYSSA CASTILLO       Account ending 7288
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  YUKI ANDERSON
+Your social security number: XXX-XX-8840
+Dependents: 0
+Income
+    1a  Total amount from Form(s) W-2, box 1 ...........   114,130.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   114,130.00
+ 10  Adjustments to income ...........................         0.00
+  11  Adjusted gross income ...........................   114,130.00
+ 12  Standard deduction ..............................    21,900.00
 
-   CHECKING SUMMARY
-  Beginning balance            1,824.89
-  Deposits                     1,673.10
-  Withdrawals                 -1,723.29
-  Ending balance               1,774.70
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Yuki Anderson        Date: 04/10/2025
 
-DEPOSITS AND CREDITS
-  08/22  PAYROLL DIR DEP CALDER FREIGHT LIN         836.55
-  08/08  PAYROLL DIR DEP CALDER FREIGHT LIN         836.55
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/08/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/15/2025]

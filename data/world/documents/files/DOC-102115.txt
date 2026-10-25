@@ -1,21 +1,20 @@
-    TIDEWATER CONSTRUCTION
-7051 MARKET WAY   CA
+OTTER BAY AQUARIUM
+8709 MARKET WAY   CA
                          EARNINGS STATEMENT
-| |   .
-Employee: MARIO ALLEN        Emp ID: 42658
-Position: Laborer
-Pay Period: 06/09/2026 - 06/22/2026     Pay Date: 06/27/2026
-Pay Frequency: Bi-Weekly
+Employee: LOGAN LI        Emp ID: 71240
+Position: Guest services
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,931.43     77,108.59
-GROSS PAY                                  5,931.43     77,108.59
+ Regular             88.40     40.00       3,536.00     95,472.00
+GROSS PAY                                  3,536.00     95,472.00
 DEDUCTIONS
-  Federal Inc0me Tax                       237.25
-  Social Security                          367.74
-  Medicare                                  86.00
-  CA SDI                                    65.24
-NET PAY                                  5,175.20
-   --------------------------------------------------------------
+  Federal Income Tax                       212.16
+  Social Security                          219.23
+  Medicare                                  51.27
+  CA SDI                                    38.89
+NET PAY                                  3,014.45
+--------------------------------------------------------------
 
-FAX RECEIVED 07/21/2026 10:20   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2026]

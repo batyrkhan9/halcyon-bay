@@ -1,21 +1,21 @@
-BAYLINE LOGISTICS INC
-446 COMMERCE WAY   CA
+GOLDEN HOUR SENI0R LIVING
+713 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: FRANK CHOI        Emp ID: 86639
-Position: Warehouse associate
-Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+   Employee: ANDREW WRIGHT        Emp ID: 76209
+ Position: Caregiver
+Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
 Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,516.00     21,224.00
-GROSS PAY                                  1,516.00     21,224.00
-  . : .
-  DEDUCTIONS
-  Federal Income Tax                       121.28
-  Social Security                           93.99
-  Medicare                                  21.98
-  CA SDI                                    16.67
-NET PAY                                  1,262.08
+_ _ _ _
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,272.00     13,992.00
+GROSS PAY                                  1,272.00     13,992.00
+DEDUCTIONS
+   Federal Income Tax                        89.04
+  Social Security                           78.86
+  Medicare                                  18.44
+  CA SDI                                    13.99
+NET PAY                                  1,071.67
 --------------------------------------------------------------
 
--- scanned 07/13/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 10 2026  - mailroom

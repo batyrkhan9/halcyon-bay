@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-1504 HARBOR WAY   CA
+COASTAL VALLEY ENERGY
+ 4279 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: DUC KAHANANUI        Emp ID: 19013
-    Position: Caregiver
- Pay Period: 07/12/2026 - 07/25/2026      Pay Date: 07/30/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+  Employee: SUNITA DO        Emp ID: 47616
+Position: Field technician
+Pay Period: 07/23/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Monthly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.09     48.50         877.36     14,037.76
-GROSS PAY                                    877.36     14,037.76
-DEDUCTIONS
-  Federal Income Tax                        52.64
-  Social Security                           54.39
-  Medicare                                  12.72
-  CA SDI                                     9.65
-NET PAY                                    747.96
+Salary                                     4,983.29     39,866.32
+GROSS PAY                                  4,983.29     39,866.32
+   DEDUCTIONS
+  Federal Income Tax                       298.99
+  Social Security                          308.96
+  Medicare                                  72.25
+  CA SDI                                    54.81
+NET PAY                                  4,248.28
 --------------------------------------------------------------
 
--- scanned 09/06/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/07/2026]

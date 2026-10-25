@@ -1,17 +1,18 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 04/01/2025 - 04/13/2025
-Member: HUNG KING       Account ending 9316
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  GUADALUPE KUMAR-SATO
+Your social security number: XXX-XX-3321
+  Dependents: 1
+Income
+   1a  Total amount from Form(s) W-2, box 1 ...........    18,223.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    18,223.00
+  10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    18,223.00
+ 12  Standard deduction ..............................    21,900.00
 
-CHECKING SUMMARY
-  Beginning balance            2,181.38
-  Deposits                       708.98
-  Withdrawals                   -708.98
-  Ending balance               2,181.38
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+   Your signature: /s/ Guadalupe Kumar-Sato        Date: 04/09/2025
 
-DEPOSITS AND CREDITS
-  04/13  PAYROLL DIR DEP CALDER FREIGHT LIN         354.49
-  04/06  PAYROLL DIR DEP CALDER FREIGHT LIN         354.49
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED APR 18 2025  - mailroom
+FAX RECEIVED 05/04/2025 10:43   P.01

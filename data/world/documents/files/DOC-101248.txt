@@ -1,20 +1,19 @@
-CALDER FREIGHT LINES
-8999 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAMON THOMAS        Emp ID: 69353
-Position: Driver
-Pay Period: 11/04/2025 - 11/10/2025     Pay Date: 11/15/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.86     40.00         674.40     31,022.40
-GROSS PAY                                    674.40     31,022.40
-DEDUCTIONS
-  Federal Income Tax                        53.95
-  Social Security                           41.81
-  Medicare                                   9.77
-  CA SDI                                     7.41
-NET PAY                                    561.46
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+  Filing Status: Head of household
+Your first name and middle initial / Last name:  YESENIA HUYNH
+Your social security number: XXX-XX-6856
+    Dependents: 1
+Income
+~ ~ .  ,
+   1a  Total amount from Form(s) W-2, box 1 ...........    38,672.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+  9   Total income ....................................    38,672.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    38,672.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/08/2025]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Yesenia Huynh        Date: 04/13/2025
+
+-- scanned 12/30/2025 HBCH mailroom  pg 1/1 --

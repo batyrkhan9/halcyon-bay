@@ -1,0 +1,20 @@
+SEASIDE DENTAL GROUP
+6740 MARKET WAY    CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA DO-IYER        Emp ID: 68010
+   Position: Dental assistant
+Pay Period: 08/17/2025 - 09/15/2025     Pay Date: 09/20/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,905.92     35,153.28
+    GROSS PAY                                  3,905.92     35,153.28
+ DEDUCTIONS
+  Federal Income Tax                       156.23
+  S0cial Security                          242.16
+  Medicare                                  56.63
+  CA SDI                                    42.96
+NET PAY                                  3,407.94
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/01/2025]

@@ -1,0 +1,20 @@
+HALCY0N BAY UNIFIED SCHOOL DIST
+4027 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  Employee: RAFAEL GARCIA        Emp ID: 79905
+Position: Instructional aide
+Pay Period: 04/10/2026 - 05/09/2026     Pay Date: 05/14/2026
+ Pay Frequency: Monthly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     6,873.35     34,366.75
+GROSS PAY                                  6,873.35     34,366.75
+    DEDUCTION5
+  Federal Income Tax                       343.66
+  Social Security                          426.14
+  Medicare                                  99.66
+  CA 5DI                                    75.60
+NET PAY                                  5,928.29
+--------------------------------------------------------------
+
+FAX RECEIVED 05/29/2026 10:41   P.01

@@ -1,20 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-9303 MARKET WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+8256 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DENNIS HERNANDEZ        Emp ID: 23433
-Position: Library assistant
-Pay Period: 11/14/2025 - 11/27/2025     Pay Date: 12/02/2025
-Pay Frequency: Bi-Weekly
+Employee: BARBARA KUMAR        Emp ID: 41899
+Position: Instructional aide
+Pay Period: 11/26/2025 - 12/02/2025     Pay Date: 12/07/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             34.31     80.00       2,744.80     65,875.20
-GRO5S PAY                                  2,744.80     65,875.20
-DEDUCTIONS
-  Federal Income Tax                       137.24
-  Social Security                          170.17
-  Medicare                                  39.80
-  CA SDI                                    30.19
-NET PAY                                  2,367.40
-   --------------------------------------------------------------
+Regular             48.51     40.00       1,940.40     95,079.60
+GROSS PAY                                  1,940.40     95,079.60
+DEDUCTI0NS
+  Federal Income Tax                        97.02
+  Social Security                          120.30
+  Medicare                                  28.13
+  CA SDI                                    21.34
+   NET PAY                                  1,673.61
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/12/2025]
+RECEIVED JAN 01 2026  - mailroom

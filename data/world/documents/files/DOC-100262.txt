@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2023
-(copy - summary page)
- Filing 5tatus: Married filing jointly
- Your first name and middle initial / Last name:  MADISON JEFFERSON
-Your social security number: XXX-XX-8240
-Dependents: 1
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    47,936.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    47,936.00
-     10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    47,936.00
-  12  Standard deduction ..............................    21,900.00
+CALDER FREIGHT LINES
+573 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOOR WASHINGTON        Emp ID: 94083
+Position: Driver
+Pay Period: 01/22/2025 - 02/04/2025     Pay Date: 02/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     2,516.82      7,550.46
+GRO5S PAY                                  2,516.82      7,550.46
+DEDUCTIONS
+  Federal Income Tax                       201.34
+  Social Security                          156.04
+  Medicare                                  36.49
+  CA SDI                                    27.68
+  NET PAY                                  2,095.27
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Madison Jefferson        Date: 04/02/2024
-
-FAX RECEIVED 03/05/2025 10:51   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/13/2025]

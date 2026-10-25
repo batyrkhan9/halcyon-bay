@@ -1,18 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-  Statement Period 02/01/2026 - 02/22/2026
-Member: ERNESTO RUIZ       Account ending 7247
-~ ~ .  ,
+MIRADOR PUBLIC LIBRARY
+    2241 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO KIM        Emp ID: 54706
+Position: Library assistant
+Pay Period: 02/06/2026 - 02/19/2026     Pay Date: 02/24/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             72.38     80.00       5,790.40     23,161.60
+GROSS PAY                                  5,790.40     23,161.60
+DEDUCTIONS
+  Federal Income Tax                       347.42
+  Social Security                          359.00
+      Medicare                                  83.96
+  CA SDI                                    63.69
+NET PAY                                  4,936.33
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance              574.45
-  Deposits                       559.56
-   Withdrawals                   -565.15
-  Ending balance                 568.86
-
- DEPOSITS AND CREDITS
-      02/22  PAYROLL DIR DEP SEASIDE DENTAL GRO         279.78
-  02/15  PAYROLL DIR DEP SEASIDE DENTAL GRO         279.78
-
-Thank you for banking with us.   Page 1 of 2
-
-FAX RECEIVED 03/11/2026 10:48   P.01
+FAX RECEIVED 03/25/2026 10:27   P.01

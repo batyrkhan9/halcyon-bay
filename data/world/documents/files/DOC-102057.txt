@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-338 INDUSTRIAL WAY   CA
+ARROYO VERDE NURSERY
+4827 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: FRANCISCO DO        Emp ID: 26906
-Position: Laborer
-Pay Period: 06/23/2026 - 06/29/2026     Pay Date: 07/04/2026
-Pay Frequency: Weekly
+Employee: RONALD FLORES        Emp ID: 97214
+Position: Nursery worker
+Pay Period: 06/16/2026 - 06/29/2026     Pay Date: 07/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                       614.74     16,597.98
-| |   .
-  GROSS PAY                                    614.74     16,597.98
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.45     80.00       2,116.00     29,624.00
+    GROSS PAY                                  2,116.00     29,624.00
 DEDUCTIONS
-  Federal Income Tax                        49.17
-  Social Security                           38.11
-  Medicare                                   8.91
-  CA SDI                                     6.76
-NET PAY                                    511.79
- --------------------------------------------------------------
+   Federal Income Tax                       211.60
+  Social Security                          131.19
+  Medicare                                  30.68
+  CA SDI                                    23.27
+NET PAY                                  1,719.26
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/18/2026]
+FAX RECEIVED 07/15/2026 10:18   P.01

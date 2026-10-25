@@ -1,20 +1,21 @@
-MARISOL CLEANING SERVICES
-5368 MARKET WAY   CA
-                         EARNING5 STATEMENT
- Employee: JENNIFER KOWALSKI        Emp ID: 44715
-Position: Cleaner
-Pay Period: 12/29/2025 - 01/27/2026     Pay Date: 02/01/2026
-Pay Frequency: Monthly
+SANDPIPER CHILD CARE CENTER
+7583 MARKET WAY   CA
+                          EARNINGS STATEMENT
+  Employee: HANNAH RIVERA        Emp ID: 60914
+| |   .
+Position: Teacher
+Pay Period: 12/23/2025 - 01/06/2026     Pay Date: 01/11/2026
+  Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.58    130.75       2,167.84      4,335.68
-  GROSS PAY                                  2,167.84      4,335.68
+    EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+ Regular             18.48     59.00       1,090.32      1,090.32
+GROSS PAY                                  1,090.32      1,090.32
 DEDUCTIONS
-  Federal Income Tax                       195.10
-  Social Security                          134.40
-  Medicare                                  31.43
-  CA SDI                                    23.84
-NET PAY                                  1,783.07
+  Federal Income Tax                        76.32
+  Social Security                           67.60
+  Medicare                                  15.81
+  CA SDI                                    11.99
+    NET PAY                                    918.60
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/11/2026]
+RECEIVED FEB 11 2026  - mailroom

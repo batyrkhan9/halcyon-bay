@@ -1,20 +1,21 @@
- TIDEWATER CONSTRUCTION
-9997 COMMERCE WAY   CA
+LAS BRISAS RESTAURANT GROUP
+7039 COMMERCE WAY   CA
                          EARNINGS STATEMENT
- Employee: WEI ANDERSON        Emp ID: 22833
-Position: Laborer
-Pay Period: 07/29/2026 - 08/11/2026     Pay Date: 08/16/2026
-    Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             18.60     80.00       1,488.00     25,296.00
-GROSS PAY                                  1,488.00     25,296.00
-DEDUCTIONS
-   Federal Income Tax                        89.28
-  Social Security                           92.25
-  Medicare                                  21.57
-  CA SDI                                    16.36
- NET PAY                                  1,268.54
+Employee: WEI ABDULLAH        Emp ID: 12687
+Position: Line cook
+Pay Period: 08/13/2026 - 08/26/2026     Pay Date: 08/31/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,248.99     22,318.11
+GROSS PAY                                  1,248.99     22,318.11
+  DEDUCTIONS
+  Federal Income Tax                       112.40
+  Social Security                           77.43
+     Medicare                                  18.11
+  CA SDI                                    13.73
+NET PAY                                  1,027.32
+--------------------------------------------------------------
+  includes overtime 0.50 hrs
 
-FAX RECEIVED 09/03/2026 10:28   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/03/2026]

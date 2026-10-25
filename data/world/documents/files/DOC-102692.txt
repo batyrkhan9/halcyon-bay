@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 08/01/2026 - 08/13/2026
-  Member: PRISCILLA WANG       Account ending 1763
+GOLDEN HOUR SENIOR LIVING
+8287 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH MENDOZA        Emp ID: 65232
+ Position: Caregiver
+    Pay Period: 07/16/2026 - 07/29/2026     Pay Date: 08/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     1,905.78     30,492.48
+GROSS PAY                                  1,905.78     30,492.48
+DEDUCTIONS
+  Federal Income Tax                       171.52
+  Socia1 Security                          118.15
+  Medicare                                  27.63
+  CA SDI                                    20.96
+NET PAY                                  1,567.52
+--------------------------------------------------------------
 
-CHECKING 5UMMARY
-  Beginning balance              639.53
-      Deposits                     1,470.28
-  Withdrawals                 -1,529.09
-      Ending balance                 580.72
-
-   DEPOSITS AND CRED1TS
-  08/13  PAYROLL DIR DEP BAYLINE LOGISTICS          735.14
-  07/29  PAYROLL DIR DEP BAYLINE LOGISTICS          735.14
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/28/2026 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 27 2026  - mailroom

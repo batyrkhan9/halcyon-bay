@@ -1,0 +1,21 @@
+    PORT ELLERY CANNERY CO
+9590 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN BELL        Emp 1D: 55906
+Position: Line worker
+| |   .
+Pay Period: 02/11/2026 - 02/25/2026     Pay Date: 03/02/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.03     68.25       1,230.55      6,152.75
+   GROSS PAY                                  1,230.55      6,152.75
+DEDUCTIONS
+  Federal Income Tax                        86.13
+  Social Security                           76.29
+  Medicare                                  17.84
+  CA SDI                                    13.53
+NET PAY                                  1,036.76
+--------------------------------------------------------------
+
+FAX RECEIVED 03/10/2026 10:22   P.01

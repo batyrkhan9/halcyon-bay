@@ -1,17 +1,20 @@
- PACIFIC TIDE BANK
-Statement Period 03/01/2026 - 03/12/2026
-Member: DAVID COSTA       Account ending 3003
+VISTA SERENA MEDICAL OFFICES
+6903 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRIANNA KEALOHA        Emp ID: 47024
+Position: Medical receptionist
+Pay Period: 03/01/2026 - 03/07/2026     Pay Date: 03/12/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Sa1ary                                       773.35      8,506.85
+GROSS PAY                                    773.35      8,506.85
+DEDUCTIONS
+  Federal Income Tax                        85.06
+  Social Security                           47.94
+  Medicare                                  11.21
+      CA SDI                                     8.50
+NET PAY                                    620.64
+   --------------------------------------------------------------
 
-    CHECKING SUMMARY
-  Beginning balance            2,034.81
-  Deposits                     3,228.70
-  Withdrawals                 -2,970.40
-  Ending balance               2,293.11
-
-DEPOSITS AND CREDITS
-      03/12  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,614.35
-  02/25  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,614.35
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED MAR 19 2026  - mailroom
+FAX RECEIVED 04/01/2026 10:29   P.01

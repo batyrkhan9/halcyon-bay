@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+7789 COMMERCE WAY    CA
+                           EARNINGS STATEMENT
+Employee: AMANDA WASHINGTON        Emp ID: 32871
+Position: Technician
+Pay Period: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.02     80.00       1,921.60     34,588.80
+GROSS PAY                                  1,921.60     34,588.80
+DEDUCTIONS
+   Federal Income Tax                       115.29
+  Social Security                          119.13
+  Medicare                                  27.86
+  CA SDI                                    21.13
+   NET PAY                                  1,638.19
+--------------------------------------------------------------
+
+-- scanned 09/19/2026 HBCH mailroom  pg 1/1 --

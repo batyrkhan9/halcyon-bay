@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-   9750 COMMERCE WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+5671 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: TUAN WU        Emp ID: 74659
-Position: Field supervisor
-Pay Period: 06/07/2026 - 06/13/2026     Pay Date: 06/18/2026
- Pay Frequency: Weekly
+Employee: ROHAN IYER        Emp ID: 93840
+Position: Instructional aide
+Pay Period: 05/18/2026 - 05/31/2026     Pay Date: 06/05/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,815.17     45,379.25
-GROSS PAY                                  1,815.17     45,379.25
+Salary                                       913.37     10,960.44
+ GROSS PAY                                     913.37     10,960.44
 DEDUCTIONS
-  Federal Income Tax                       199.66
-  S0cial Security                          112.54
-  Medicare                                  26.32
-  CA SDI                                    19.96
-NET PAY                                  1,456.69
+  Federal Income Tax                       100.47
+  Social Security                           56.62
+  Medicare                                  13.24
+  CA SDI                                    10.04
+NET PAY                                    733.00
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]
+FAX RECEIVED 07/03/2026 10:48   P.01

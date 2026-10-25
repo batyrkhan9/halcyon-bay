@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+7784 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN FL0RES        Emp ID: 67362
+Position: Field technician
+Pay Period: 06/10/2026 - 06/16/2026     Pay Date: 06/21/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.92     14.50         274.34      6,858.50
+GROSS PAY                                    274.34      6,858.50
+DEDUCTIONS
+  Federal Income Tax                        19.20
+  5ocial Security                           17.00
+  Medicare                                   3.97
+  CA SDI                                     3.01
+NET PAY                                    231.16
+--------------------------------------------------------------
+
+RECEIVED JUL 19 2026  - mailroom

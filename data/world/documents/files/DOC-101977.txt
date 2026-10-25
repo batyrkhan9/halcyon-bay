@@ -1,17 +1,21 @@
-    COASTLINE SAVINGS BANK
-Statement Period 07/01/2026 - 07/05/2026
-Member: JAE HO       Account ending 9532
+MIRADOR PUBLIC LIBRARY
+ 8174 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ZAINAB HERRERA        Emp ID: 53703
+Position: Library assistant
+Pay Period: 05/23/2026 - 06/05/2026     Pay Date: 06/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     2,177.84     26,134.08
+GRO5S PAY                                  2,177.84     26,134.08
+DEDUCTIONS
+  Federal Income Tax                       130.67
+  Social Security                          135.02
+   Medicare                                  31.57
+~ ~ .  ,
+  CA SDI                                    23.95
+NET PAY                                  1,856.63
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,767.72
-  Deposits                     1,931.04
-      Withdrawals                 -1,988.97
-  Ending balance               2,709.79
-
-   DEPOSITS AND CREDITS
-  07/05  PAYROLL DIR DEP MIRAD0R GROCERY CO         965.52
-  06/05  PAYROLL DIR DEP MIRADOR GROCERY CO         965.52
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 07/10/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/09/2026 10:28   P.01

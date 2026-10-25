@@ -1,18 +1,20 @@
-  COASTLINE SAVINGS BANK
-Statement Period 07/01/2026 - 07/12/2026
- Member: SANJAY GUTIERREZ       Account ending 1105
+    SEASIDE DENTAL GROUP
+118 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN RAMIREZ        Emp ID: 42379
+Position: Dental assistant
+Pay Period: 06/02/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,020.80     65,270.40
+GROSS PAY                                  5,020.80     65,270.40
+DEDUCTIONS
+    Federal Income Tax                       552.28
+  Social Security                          311.29
+  Medicare                                  72.80
+      CA SDI                                    55.22
+NET PAY                                  4,029.21
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance            2,005.79
-  Deposits                    10,527.08
-  Withdrawals                -10,948.16
-  Ending balance               1,584.71
-
-~ ~ .  ,
-DEPOSITS AND CREDITS
-  07/12  PAYROLL DIR DEP MIRADOR GROCERY CO       5,263.54
-  06/27  PAYROLL DIR DEP MIRADOR GROCERY CO       5,263.54
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 07/23/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/19/2026 10:32   P.01

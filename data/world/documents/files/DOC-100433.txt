@@ -1,0 +1,21 @@
+ SEASIDE DENTAL GROUP
+1317 MARKET WAY   CA
+                         EARNINGS STATEMENT
+| |   .
+Employee: KIM WALKER        Emp ID: 48841
+Position: Dental assistant
+Pay Period: 03/12/2025 - 03/25/2025     Pay Date: 03/30/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     5,971.05     41,797.35
+GROSS PAY                                  5,971.05     41,797.35
+  DEDUCTIONS
+  Federal Income Tax                       417.97
+  Social Security                          370.20
+  Medicare                                  86.58
+   CA SDI                                    65.68
+NET PAY                                  5,030.62
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/23/2025]

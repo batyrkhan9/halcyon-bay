@@ -1,21 +1,20 @@
 SUNSET COAST HOME CARE
- 8291 MARKET WAY   CA
+4278 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: BRIANNA WATANABE        Emp ID: 38591
-Position: Home care aide
-Pay Period: 11/26/2025 - 12/10/2025     Pay Date: 12/15/2025
-Pay Frequency: Semi-Monthly
+Employee: MIGUEL HUANG        Emp ID: 21968
+   Position: Home care aide
+Pay Period: 11/16/2025 - 11/30/2025     Pay Date: 12/05/2025
+   Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,695.39     40,689.36
-GROSS PAY                                  1,695.39     40,689.36
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                     4,517.42    103,900.66
+GROSS PAY                                  4,517.42    103,900.66
 DEDUCTIONS
-  . : .
-  Federal Income Tax                       152.58
-     Social Security                          105.11
-  Medicare                                  24.58
-    CA SDI                                    18.64
-NET PAY                                  1,394.48
+  Federal Income Tax                       316.21
+  Social 5ecurity                          280.08
+  Medicare                                  65.50
+  CA SDI                                    49.69
+NET PAY                                  3,805.94
 --------------------------------------------------------------
 
--- scanned 12/27/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JAN 06 2026  - mailroom

@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-715 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-Employee: DANIELA ZHANG        Emp ID: 16410
-Position: Software engineer
-    Pay Period: 08/04/2026 - 08/10/2026     Pay Date: 08/15/2026
+SUNSET COAST HOME CARE
+6979 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: YUSUF PETROV        Emp ID: 25117
+Position: Home care aide
+Pay Period: 07/21/2026 - 07/27/2026      Pay Date: 08/01/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.29     40.00       1,411.60     46,582.80
-GROSS PAY                                  1,411.60     46,582.80
+5alary                                       403.05     12,494.55
+GROSS PAY                                    403.05     12,494.55
 DEDUCTIONS
-  Federal Income Tax                       155.27
-  Social Security                           87.51
-  Medicare                                  20.46
-  CA SD1                                    15.52
-NET PAY                                  1,132.84
+  Federal Income Tax                        20.15
+  Social Security                           24.98
+  Medicare                                   5.84
+  CA SDI                                     4.43
+NET PAY                                    347.65
 --------------------------------------------------------------
 
 -- scanned 08/25/2026 HBCH mailroom  pg 1/1 --

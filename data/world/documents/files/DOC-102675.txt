@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-755 INDUSTRIAL WAY   CA
+BLUE KELP SOFTWARE LLC
+2073 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE WASHINGTON        Emp ID: 89915
-Position: Laborer
-Pay Period: 07/25/2026 - 08/08/2026     Pay Date: 08/13/2026
-Pay Frequency: Semi-Monthly
+Employee: SOFIA TAYLOR        Emp ID: 77757
+Position: Software engineer
+| |   .
+Pay Period: 07/02/2026 - 07/15/2026     Pay Date: 07/20/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.11     86.67       1,569.59     23,543.85
-    GROSS PAY                                  1,569.59     23,543.85
+Salary                                     4,042.60     60,639.00
+GROSS PAY                                  4,042.60     60,639.00
 DEDUCTIONS
-  Federal Income Tax                       156.95
-  Social Security                           97.31
-  Medicare                                  22.75
-  CA SDI                                    17.26
-NET PAY                                  1,275.32
---------------------------------------------------------------
+  Federal Income Tax                       363.83
+  Social Security                          250.64
+  Medicare                                  58.61
+      CA SD1                                    44.46
+NET PAY                                  3,325.06
+    --------------------------------------------------------------
 
-FAX RECEIVED 08/25/2026 10:40   P.01
+FAX RECEIVED 08/25/2026 10:30   P.01

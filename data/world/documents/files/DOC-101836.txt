@@ -1,21 +1,19 @@
-MIRADOR GROCERY CO-OP
-  101 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: TERRELL MOORE         Emp ID: 14307
-| |   .
-Position: Cashier
-Pay Period: 05/04/2026 - 05/17/2026     Pay Date: 05/22/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.64     80.00       1,731.20     19,043.20
-GROSS PAY                                  1,731.20     19,043.20
-DEDUCTIONS
-  Federal Income Tax                       190.43
-  Social Security                          107.33
-  Medicare                                  25.10
-  CA SDI                                    19.04
-NET PAY                                  1,389.30
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 04/01/2026 - 04/30/2026
+Member: HANNAH ZHOU       Account ending 4049
+_ _ _ _
 
-FAX RECEIVED 05/31/2026 10:36   P.01
+CHECKING SUMMARY
+      Beginning balance              558.09
+  Deposits                     2,901.57
+  Withdrawals                 -2,814.52
+  Ending balance                 645.14
+
+DEPOSITS AND CREDITS
+  04/02  PAYROLL DIR DEP HARBOR POINT H0TEL         967.19
+    04/16  PAYROLL DIR DEP HARBOR POINT HOTEL         967.19
+  04/30  PAYROLL DIR DEP HARBOR POINT HOTEL         967.19
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 05/21/2026 HBCH mailroom  pg 1/1 --

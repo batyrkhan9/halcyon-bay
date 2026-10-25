@@ -1,20 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-7936 INDUSTRIAL WAY   CA
+SEASIDE DENTAL GROUP
+8191 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: LEILA CARTER        Emp ID: 67094
-Position: Line cook
- Pay Period: 03/12/2026 - 03/25/2026     Pay Date: 03/30/2026
-Pay Frequency: Bi-Weekly
+   Employee: SANJAY SMITH        Emp ID: 45438
+Position: Dental assistant
+Pay Period: 03/23/2026 - 04/21/2026     Pay Date: 04/26/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.05     80.00       1,364.00      9,548.00
-GROSS PAY                                  1,364.00      9,548.00
-    DEDUCTIONS
-  Federal Income Tax                       150.04
-  Social Security                           84.56
-  Medicare                                  19.77
-  CA SDI                                    15.00
-NET PAY                                  1,094.63
+~ ~ .  ,
+Sa1ary                                       863.72      3,454.88
+GROSS PAY                                    863.72      3,454.88
+DEDUCTIONS
+  Federal Income Tax                        95.00
+  Social Security                           53.55
+  Medicare                                  12.52
+  CA SDI                                     9.50
+NET PAY                                    693.15
 --------------------------------------------------------------
 
-RECEIVED APR 22 2026  - mailroom
+RECEIVED MAY 11 2026  - mailroom

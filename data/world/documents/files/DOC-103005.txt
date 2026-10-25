@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-421 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: TANISHA BANKS        Emp ID: 64176
-Position: Dental assistant
-Pay Period: 08/26/2026 - 09/01/2026     Pay Date: 09/06/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             22.67     40.00         906.80     32,644.80
-GROSS PAY                                    906.80     32,644.80
+VISTA SERENA MEDICAL OFFICES
+3678 MARKET WAY   CA
+                             EARNINGS STATEMENT
+Employee: VIKRAM COLEMAN        Emp ID: 41154
+Position: Medical receptionist
+Pay Period: 08/25/2026 - 09/07/2026      Pay Date: 09/12/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             74.52     80.00       5,961.60    113,270.40
+GROSS PAY                                  5,961.60    113,270.40
 DEDUCTIONS
-  Federal Income Tax                        63.47
-  Social Security                           56.22
-  Medicare                                  13.14
-  CA SDI                                     9.97
-NET PAY                                    764.00
-   --------------------------------------------------------------
+     Federal Income Tax                       655.77
+  Social Security                          369.61
+  Medicare                                  86.44
+  CA SDI                                    65.57
+NET PAY                                  4,784.21
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/16/2026]
+FAX RECEIVED 09/16/2026 10:37   P.01

@@ -1,0 +1,20 @@
+SANTA LUCITA FARMS
+    3632 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEI TORRES        Emp ID: 48654
+Position: Field supervisor
+Pay Period: 08/26/2026 - 09/01/2026     Pay Date: 09/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             36.89     40.00       1,475.60     53,121.60
+GROSS PAY                                  1,475.60     53,121.60
+DEDUCTIONS
+      Federal Income Tax                       118.04
+  Social Security                           91.48
+  Medicare                                  21.39
+  CA SDI                                    16.23
+NET PAY                                  1,228.46
+--------------------------------------------------------------
+
+FAX RECEIVED 09/11/2026 10:26   P.01

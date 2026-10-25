@@ -1,0 +1,20 @@
+PACIFIC RIM JANITORIAL
+3020 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: JOHN IVANOVA        Emp ID: 44270
+Position: Custodian
+Pay Period: 01/08/2026 - 01/21/2026     Pay Date: 01/26/2026
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                     2,759.05      5,518.10
+GROSS PAY                                  2,759.05      5,518.10
+DEDUCTIONS
+  Federal Income Tax                       165.54
+  Social Security                          171.06
+   Medicare                                  40.00
+  CA 5DI                                    30.35
+NET PAY                                  2,352.10
+--------------------------------------------------------------
+
+-- scanned 02/08/2026 HBCH mailroom  pg 1/1 --

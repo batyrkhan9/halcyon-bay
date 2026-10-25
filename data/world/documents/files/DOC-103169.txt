@@ -1,0 +1,21 @@
+ELLERY HARDWARE SUPPLY
+5077 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JENNIFER MEHTA        Emp ID: 79505
+P0sition: Sales associate
+Pay Period: 08/27/2026 - 09/02/2026     Pay Date: 09/07/2026
+Pay Frequency: Weekly
+  . : .
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,163.40    113,882.40
+GROSS PAY                                  3,163.40    113,882.40
+DEDUCTIONS
+  Federal Income Tax                       284.70
+  Social Security                          196.13
+  Medicare                                  45.86
+  CA SDI                                    34.79
+NET PAY                                  2,601.92
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]

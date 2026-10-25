@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+6162 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA BROWN        Emp ID: 88938
+Position: Nursery worker
+Pay Period: 07/12/2026 - 07/18/2026     Pay Date: 07/23/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             22.22     40.00         888.80     26,664.00
+GROSS PAY                                    888.80     26,664.00
+DEDUCTIONS
+  Federal Income Tax                        62.21
+  Social Security                           55.10
+  Medicare                                  12.88
+  CA SDI                                     9.77
+NET PAY                                    748.84
+--------------------------------------------------------------
+
+FAX RECEIVED 08/02/2026 10:10   P.01

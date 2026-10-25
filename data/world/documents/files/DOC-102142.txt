@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+1798 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO JONES        Emp ID: 40461
+Position: Cashier
+    Pay Period: 06/20/2026 - 07/04/2026     Pay Date: 07/09/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,380.52     30,946.76
+GROSS PAY                                  2,380.52     30,946.76
+   DEDUCTIONS
+  Federal Income Tax                       238.05
+  Social Security                          147.59
+  Medicare                                  34.51
+     CA SDI                                    26.18
+NET PAY                                   1,934.19
+--------------------------------------------------------------
+
+FAX RECEIVED 07/19/2026 10:43   P.01

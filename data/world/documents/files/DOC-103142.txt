@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-_ _ _ _
-   Filing Status: Single
-Your first name and middle initial / Last name:  LUIS LI
-Your social security number: XXX-XX-5100
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    10,287.00
-   8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    10,287.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    10,287.00
- 12  Standard deduction ..............................    14,600.00
+PACIFIC TIDE BANK
+Statement Period 08/01/2026 - 08/31/2026
+Member: DONALD BRYANT       Account ending 9510
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Luis Li        Date: 04/09/2026
+CHECKING SUMMARY
+   Beginning balance              698.92
+  Deposits                    13,568.24
+      Withdrawals                -11,533.00
+  Ending balance               2,734.16
+  . : .
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/28/2026]
+DEPOSITS AND CREDITS
+    08/04  PAYROLL DIR DEP PACIFIC RIM JANITO       3,392.06
+  08/11  PAYROLL DIR DEP PACIFIC RIM JANITO       3,392.06
+  08/18  PAYROLL DIR DEP PACIFIC RIM JANITO       3,392.06
+    08/25  PAYROLL DIR DEP PACIFIC RIM JANIT0       3,392.06
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/25/2026]

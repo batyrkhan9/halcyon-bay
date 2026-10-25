@@ -1,20 +1,18 @@
-MIRADOR PUBLIC LIBRARY
-4419 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
- Employee: XIMENA ITO        Emp ID: 77389
-Position: Library assistant
-Pay Period: 08/23/2025 - 08/29/2025     Pay Date: 09/03/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             59.42     40.00       2,376.80     85,564.80
-GROSS PAY                                  2,376.80     85,564.80
-DEDUCTIONS
-   Federal Income Tax                       261.44
-  Social Security                          147.36
-   Medicare                                  34.46
-  CA SDI                                    26.14
-NET PAY                                  1,907.40
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  KENJI GUPTA
+Your social security number: XXX-XX-2980
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    23,529.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    23,529.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    23,529.00
+   12  Standard deduction ..............................    14,600.00
 
-RECEIVED SEP 13 2025  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Kenji Gupta        Date: 04/15/2025
+
+-- scanned 10/19/2025 HBCH mailroom  pg 1/1 --

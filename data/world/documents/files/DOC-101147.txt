@@ -1,0 +1,21 @@
+   HARBOR POINT HOTEL
+7128 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENNETH FUENTES        Emp ID: 21799
+Position: Housekeeper
+| |   .
+Pay Period: 11/05/2025 - 11/11/2025     Pay Date: 11/16/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             41.44     40.00       1,657.60     76,249.60
+GROSS PAY                                  1,657.60     76,249.60
+ DEDUCTIONS
+  Federal Income Tax                        82.88
+  Social Security                          102.77
+  Medicare                                  24.03
+    CA SDI                                    18.23
+NET PAY                                  1,429.69
+--------------------------------------------------------------
+
+-- scanned 11/27/2025 HBCH mailroom  pg 1/1 --

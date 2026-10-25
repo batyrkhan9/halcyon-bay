@@ -1,0 +1,20 @@
+    ELLERY HARDWARE SUPPLY
+7953 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA GALLAGHER        Emp ID: 84154
+Position: Sales associate
+Pay Period: 05/18/2025 - 05/24/2025     Pay Date: 05/29/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.13     35.75         648.15     14,259.30
+GROSS PAY                                    648.15     14,259.30
+DEDUCTIONS
+  Federal Inc0me Tax                        38.88
+  Social Security                           40.18
+  Medicare                                   9.39
+  CA SDI                                     7.13
+NET PAY                                    552.57
+--------------------------------------------------------------
+
+-- scanned 06/11/2025 HBCH mailroom  pg 1/1 --

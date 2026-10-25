@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 04/01/2026 - 04/11/2026
-Member: AIKO RUIZ       Account ending 2884
+HARBOR POINT HOTEL
+8500 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANDREW HAYES        Emp ID: 50556
+Position: Housekeeper
+Pay Period: 04/02/2026 - 05/01/2026     Pay Date: 05/06/2026
+Pay Frequency: Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    16,487.94     82,439.70
+GROSS PAY                                 16,487.94     82,439.70
+ DEDUCTIONS
+  Federal Income Tax                     1,154.15
+   Socia1 Security                        1,022.25
+  Medicare                                 239.07
+   CA SDI                                   181.36
+NET PAY                                 13,891.11
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,412.39
-  Deposits                     1,492.28
-  Withdrawals                 -1,507.20
-  Ending balance               2,397.47
-
-    DEPOSITS AND CREDITS
-   04/11  PAYROLL DIR DEP GOLDEN HOUR SENIOR         746.14
-  03/27  PAYROLL DIR DEP GOLDEN HOUR SENIOR         746.14
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED APR 23 2026  - mailroom
+RECEIVED MAY 12 2026  - mailroom

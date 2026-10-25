@@ -1,20 +1,20 @@
- PACIFIC RIM JANITORIAL
-5408 INDUSTRIAL WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+8659 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TOMASZ RAMOS        Emp ID: 85249
-Position: Custodian
-    Pay Period: 06/27/2025 - 07/10/2025     Pay Date: 07/15/2025
+Employee: RICARDO RAMOS        Emp ID: 92668
+Position: Instructional aide
+Pay Period: 07/31/2025 - 08/13/2025     Pay Date: 08/18/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-    Salary                                     3,415.25     47,813.50
-GROSS PAY                                  3,415.25     47,813.50
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             52.77     80.00       4,221.60     71,767.20
+GROSS PAY                                  4,221.60     71,767.20
 DEDUCTIONS
-  Federal Income Tax                       307.37
-  Social Security                          211.74
-      Medicare                                  49.52
-  CA SDI                                    37.56
-NET PAY                                  2,809.06
+  Federal Income Tax                       337.72
+  Social Security                          261.73
+  Medicare                                  61.21
+  CA SDI                                    46.43
+NET PAY                                  3,514.51
 --------------------------------------------------------------
 
-RECEIVED AUG 07 2025  - mailroom
+FAX RECEIVED 09/03/2025 10:55   P.01

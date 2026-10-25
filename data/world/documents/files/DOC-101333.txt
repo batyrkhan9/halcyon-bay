@@ -1,0 +1,21 @@
+    POINT CORRIN BOATWORKS
+2677 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ROGELIO GARCIA        Emp ID: 59577
+Position: Mechanic
+Pay Period: 12/02/2025 - 12/15/2025     Pay Date: 12/20/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             31.01     80.00       2,480.80     64,500.80
+GROSS PAY                                  2,480.80     64,500.80
+DEDUCTIONS
+   Federal Income Tax                       124.04
+  Social Security                          153.81
+  Medicare                                  35.97
+  CA SDI                                    27.28
+NET PAY                                  2,139.70
+--------------------------------------------------------------
+
+FAX RECEIVED 01/25/2026 10:57   P.01

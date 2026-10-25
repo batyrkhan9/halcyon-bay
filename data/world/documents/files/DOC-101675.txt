@@ -1,21 +1,20 @@
-SUNSET COAST HOME CARE
-9275 MARKET WAY   CA
+CALDER FREIGHT LINES
+     9954 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: OLIVIA XU        Emp ID: 35534
-   Position: Home care aide
-Pay Period: 03/02/2026 - 03/15/2026     Pay Date: 03/20/2026
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
+Employee: WEI QUINN        Emp ID: 13196
+Position: Driver
+Pay Period: 04/09/2026 - 04/15/2026     Pay Date: 04/20/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.45     80.00       1,876.00     11,256.00
-  . : .
-GROSS PAY                                  1,876.00     11,256.00
+  Regular             93.72     40.00       3,748.80     59,980.80
+GROSS PAY                                  3,748.80     59,980.80
 DEDUCTIONS
-  Federal Income Tax                       168.84
-  Social Security                          116.31
-  Medicare                                  27.20
-  CA SDI                                    20.63
-NET PAY                                   1,543.02
+  Federal Income Tax                       299.90
+      Social Security                          232.42
+  Medicare                                  54.35
+  CA SDI                                    41.23
+NET PAY                                  3,120.90
 --------------------------------------------------------------
 
--- scanned 04/18/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/30/2026]

@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-4838 HARBOR WAY   CA
+PEACHTREE FREIGHT SYSTEMS
+3495 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KAREN R0DRIGUEZ        Emp ID: 36948
-Position: Technician
-Pay Period: 01/14/2026 - 01/20/2026     Pay Date: 01/25/2026
-   Pay Frequency: Weekly
+Employee: MARCUS BELLAMY        Emp ID: 39813
+Position: Regional sales manager
+Pay Period: 01/18/2026 - 01/24/2026      Pay Date: 01/29/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              17.33     20.50         355.26      1,421.04
-| |   .
-GROSS PAY                                    355.26      1,421.04
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             49.81     40.00       1,992.40      9,962.00
+GROSS PAY                                  1,992.40      9,962.00
 DEDUCTIONS
-  Federal Income Tax                        14.21
-  Social Security                           22.02
-  Medicare                                   5.15
-  CA SDI                                     3.90
-NET PAY                                    309.98
-    --------------------------------------------------------------
+   Federal Income Tax                       119.54
+  Social Security                          123.52
+  Medicare                                  28.89
+  CA SDI                                    21.91
+NET PAY                                   1,698.54
+--------------------------------------------------------------
 
-RECEIVED FEB 07 2026  - mailroom
+RECEIVED FEB 09 2026  - mailroom

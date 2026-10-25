@@ -1,20 +1,21 @@
-  ELLERY HARDWARE SUPPLY
-6956 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: OLIVIA GREEN        Emp ID: 99850
-Position: Sales associate
-Pay Period: 07/08/2026 - 07/14/2026     Pay Date: 07/19/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+ARROYO VERDE NURSERY
+~ ~ .  ,
+1258 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: MARQUIS NGUYEN        Emp ID: 40383
+Position: Nursery worker
+Pay Period: 04/22/2026 - 05/21/2026     Pay Date: 05/26/2026
+    Pay Frequency: Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             57.64     40.00       2,305.60     66,862.40
-GROSS PAY                                  2,305.60     66,862.40
+Regular             41.00    173.33       7,106.53     35,532.65
+GROSS PAY                                  7,106.53     35,532.65
 DEDUCTIONS
-  Federal Income Tax                       230.56
-  Social Security                          142.94
-  Medicare                                  33.43
-  CA SDI                                    25.36
-NET PAY                                  1,873.31
-   --------------------------------------------------------------
+   Federal Income Tax                       497.45
+   Social Security                          440.60
+  Medicare                                 103.04
+  CA SDI                                    78.17
+NET PAY                                  5,987.27
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/10/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/05/2026]

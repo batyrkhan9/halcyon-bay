@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+8359 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JORGE NGUYEN        Emp ID: 26115
+Position: Laborer
+  Pay Period: 09/07/2025 - 09/20/2025     Pay Date: 09/25/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             33.04     80.00       2,643.20     52,864.00
+GROSS PAY                                  2,643.20     52,864.00
+DEDUCTIONS
+  Federal Income Tax                       185.02
+    Social Security                          163.87
+      Medicare                                  38.32
+      CA SD1                                    29.07
+NET PAY                                  2,226.92
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/14/2025]

@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+6824 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN FLORES        Emp ID: 67362
+Position: Field technician
+Pay Period: 06/24/2026 - 06/30/2026     Pay Date: 07/05/2026
+  Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.92     14.50         274.34      7,407.18
+GROSS PAY                                    274.34      7,407.18
+DEDUCTIONS
+  Federal Income Tax                        19.20
+  Social Security                           17.00
+  Medicare                                   3.97
+   CA SDI                                     3.01
+NET PAY                                    231.16
+  --------------------------------------------------------------
+
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

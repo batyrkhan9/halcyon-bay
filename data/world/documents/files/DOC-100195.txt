@@ -1,21 +1,17 @@
-   VISTA SERENA MEDICAL OFFICES
-4000 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: ARACELI HUSSAIN        Emp ID: 59001
-Position: Medical receptionist
-Pay Period: 12/18/2024 - 12/31/2024      Pay Date: 01/05/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       239.07        239.07
-  . : .
-  GROSS PAY                                    239.07        239.07
-DEDUCTIONS
-   Federal Income Tax                        14.34
-  Social Security                           14.82
-  Medicare                                   3.46
-    CA SDI                                     2.63
-NET PAY                                    203.82
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+    Statement Period 01/01/2025 - 01/31/2025
+Member: HIROSHI MURPHY       Account ending 2206
 
-RECEIVED FEB 08 2025  - mailroom
+CHECKING SUMMARY
+   Beginning balance              793.78
+  Deposits                     1,555.80
+  Withdrawals                 -1,555.80
+   Ending balance                 793.78
+
+DEPOSITS AND CREDITS
+  01/04  PAYROLL DIR DEP PORT ELLERY CANNER         777.90
+  01/19  PAYROLL DIR DEP PORT ELLERY CANNER         777.90
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/18/2025]

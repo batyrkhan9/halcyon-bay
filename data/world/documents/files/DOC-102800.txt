@@ -1,21 +1,20 @@
-    CALDER FREIGHT LINES
-3725 INDUSTRIAL WAY   CA
+CYPRESS FLATS AUTO BODY
+1606 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN WHITE        Emp ID: 58797
-    Position: Driver
-Pay Period: 08/09/2026 - 08/15/2026     Pay Date: 08/20/2026
- Pay Frequency: Weekly
+Employee: KENJI WALKER        Emp ID: 61082
+Position: Technician
+Pay Period: 08/06/2026 - 08/12/2026     Pay Date: 08/17/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     TH1S PERIOD        YTD
-  Regular             98.94     40.00       3,957.60    134,558.40
-GROSS PAY                                  3,957.60    134,558.40
-~ ~ .  ,
-  DEDUCTIONS
-  Federal Income Tax                       316.60
-  Social Security                          245.37
-  Medicare                                  57.38
-  CA SDI                                    43.53
-NET PAY                                  3,294.72
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,947.87     97,279.71
+GROSS PAY                                  2,947.87     97,279.71
+DEDUCTIONS
+      Federal Income Tax                       176.87
+  Social Security                          182.76
+  Medicare                                  42.74
+  CA SDI                                    32.42
+NET PAY                                  2,513.08
 --------------------------------------------------------------
 
-RECEIVED SEP 04 2026  - mailroom
+FAX RECEIVED 09/04/2026 10:49   P.01

@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+4804 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILA MILLER         Emp ID: 29743
+Position: Guest services
+Pay Period: 08/22/2026 - 08/28/2026     Pay Date: 09/02/2026
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.46     40.00       1,058.40     37,044.00
+GROSS PAY                                   1,058.40     37,044.00
+DEDUCTIONS
+    Federal Income Tax                        84.67
+  Social Security                           65.62
+   Medicare                                  15.34
+  CA SDI                                    11.64
+NET PAY                                    881.13
+ --------------------------------------------------------------
+
+FAX RECEIVED 09/27/2026 10:32   P.01

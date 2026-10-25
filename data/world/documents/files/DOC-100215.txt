@@ -1,0 +1,21 @@
+   VISTA SERENA MEDICAL OFFICES
+3188 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+_ _ _ _
+Employee: KAYLA SATO        Emp ID: 65225
+Position: Medical receptionist
+Pay Period: 12/31/2024 - 01/14/2025     Pay Date: 01/19/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,491.03      6,982.06
+GROSS PAY                                  3,491.03      6,982.06
+DEDUCTIONS
+  Federal Income Tax                       139.64
+  Social Security                          216.44
+  Medicare                                  50.62
+  CA SDI                                    38.40
+NET PAY                                  3,045.93
+--------------------------------------------------------------
+
+RECEIVED MAR 03 2025  - mailroom

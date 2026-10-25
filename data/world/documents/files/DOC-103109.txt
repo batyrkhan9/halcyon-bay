@@ -1,18 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-  (copy - summary page)
-Filing 5tatus: Head of household
-Your first name and middle initial / Last name:  MICHAEL GREEN
-Your social security number: XXX-XX-8573
-   Dependents: 1
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   156,000.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
-     9   Total income ....................................   156,000.00
- 10  Adjustments to income ...........................         0.00
-  11  Adjusted gross income ...........................   156,000.00
- 12  Standard deduction ..............................    21,900.00
+BLUE KELP SOFTWARE LLC
+ 8811 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE MEDINA         Emp ID: 33805
+Position: Software engineer
+Pay Period: 08/24/2026 - 09/06/2026     Pay Date: 09/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     58.00       1,067.78     20,287.82
+GROSS PAY                                  1,067.78     20,287.82
+DEDUCTIONS
+  Federal Income Tax                        96.10
+  Social Security                           66.20
+  Medicare                                  15.48
+      CA SDI                                    11.74
+NET PAY                                    878.26
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Michael Green        Date: 04/03/2026
-
--- scanned 09/24/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/23/2026]

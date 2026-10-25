@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 08/01/2026 - 08/18/2026
-Member: SUNITA GOMEZ-HADDAD       Account ending 9662
+5UNSET COAST HOME CARE
+8979 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: GRACE KIM        Emp ID: 51191
+Position: Home care aide
+Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             32.98     80.00       2,638.40     42,214.40
+GROSS PAY                                  2,638.40     42,214.40
+DEDUCTIONS
+  Federal Income Tax                       158.30
+  Social Security                          163.58
+  Medicare                                  38.25
+  CA SDI                                    29.02
+NET PAY                                  2,249.25
+--------------------------------------------------------------
 
-    CHECKING SUMMARY
-  Beginning balance            2,726.88
-  Deposits                     7,930.68
-  Withdrawals                 -7,216.91
-  Ending balance               3,440.65
-
-DEPOSITS AND CREDITS
-  08/18  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,965.34
-  07/19  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,965.34
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED AUG 28 2026  - mailroom
+-- scanned 08/28/2026 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,21 @@
- COA5TAL VALLEY ENERGY
-7986 HARBOR WAY   CA
+VISTA SERENA MEDICAL OFFICES
+2306 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: YUKI NAVARRO        Emp ID: 81560
-Position: Field technician
-   Pay Period: 04/21/2026 - 05/04/2026     Pay Date: 05/09/2026
+_ _ _ _
+Employee: IMANI ROBINSON        Emp ID: 35455
+Position: Medical receptionist
+Pay Period: 03/18/2026 - 03/31/2026     Pay Date: 04/05/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-5alary                                      1,372.25     13,722.50
-GROSS PAY                                  1,372.25     13,722.50
- DEDUCTIONS
-   Federal Income Tax                        54.89
-  Social Security                           85.08
-  Medicare                                  19.89
-  CA SDI                                    15.09
- NET PAY                                  1,197.30
-    --------------------------------------------------------------
+Regular             22.13     80.00       1,770.40     12,392.80
+   GROSS PAY                                  1,770.40     12,392.80
+DEDUCTIONS
+  Federal Income Tax                       123.92
+  Social Security                          109.76
+   Medicare                                  25.67
+  CA SDI                                    19.47
+NET PAY                                   1,491.58
+--------------------------------------------------------------
 
-FAX RECEIVED 05/14/2026 10:20   P.01
+RECEIVED MAY 14 2026  - mailroom

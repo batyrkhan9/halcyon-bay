@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-4547 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: TERRELL ORTIZ        Emp ID: 47836
-Position: Warehouse associate
-Pay Period: 04/18/2025 - 05/01/2025     Pay Date: 05/06/2025
- Pay Frequency: Bi-Weekly
+PACIFIC RIM JANITORIAL
+1091 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JUAN MEDINA         Emp ID: 38863
+  Position: Cust0dian
+Pay Period: 05/13/2025 - 05/26/2025     Pay Date: 05/31/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.13     27.75         503.11      4,527.99
-GROSS PAY                                     503.11      4,527.99
+Salary                                       669.50      7,364.50
+GROSS PAY                                    669.50      7,364.50
 DEDUCTIONS
-  Federal Income Tax                        50.31
-  Social Security                           31.19
-  Medicare                                   7.29
-  CA SDI                                     5.53
-NET PAY                                    408.79
+  Federal Income Tax                        66.95
+  Social Security                           41.50
+   Medicare                                   9.70
+     CA SDI                                     7.36
+NET PAY                                    543.99
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/16/2025]
+RECEIVED JUN 04 2025  - mailroom

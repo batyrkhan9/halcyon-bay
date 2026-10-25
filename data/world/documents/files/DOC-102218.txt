@@ -1,20 +1,18 @@
-HARBOR POINT HOTEL
-1667 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAE FALEOLO        Emp ID: 17001
-Position: Housekeeper
-Pay Period: 07/05/2026 - 07/18/2026     Pay Date: 07/23/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,482.63     37,239.45
-    GROSS PAY                                  2,482.63     37,239.45
-  DEDUCTIONS
-  Federal Income Tax                       148.95
-   Social Security                          153.92
-  Medicare                                  35.99
-   CA SDI                                    27.30
-NET PAY                                  2,116.47
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:   AMANDA MENDOZA
+Your social security number: XXX-XX-7426
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    44,641.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+  9   Total income ....................................    44,641.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    44,641.00
+ 12  Standard deduction ..............................    14,600.00
 
-FAX RECEIVED 07/28/2026 10:36   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Amanda Mendoza        Date: 04/04/2026
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/24/2026]

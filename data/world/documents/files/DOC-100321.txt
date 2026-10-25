@@ -1,17 +1,21 @@
-    SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2025 - 02/28/2025
-Member: ARTURO VALENCIA       Account ending 5119
+OTTER BAY AQUARIUM
+4064 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+    Emp1oyee: NOOR HO        Emp ID: 72268
+Position: Guest services
+Pay Period: 02/13/2025 - 02/26/2025     Pay Date: 03/03/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             67.39     80.00       5,391.20     26,956.00
+GROSS PAY                                  5,391.20     26,956.00
+DEDUCTIONS
+  Federal Income Tax                       377.38
+  Social Security                          334.25
+  Medicare                                  78.17
+      CA SDI                                    59.30
+NET PAY                                  4,542.10
+  --------------------------------------------------------------
+  includes overtime 2.00 hrs
 
-CHECKING SUMMARY
-  Beginning balance              667.47
-  Deposits                     2,648.66
-   Withdrawals                 -2,277.84
-  Ending balance               1,038.29
-
-DEPOSITS AND CREDITS
-  03/03  PAYROLL DIR DEP ARROYO VERDE NURSE       1,324.33
-  02/16  PAYROLL DIR DEP ARROYO VERDE NURSE       1,324.33
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED MAR 15 2025  - mailroom
+-- scanned 04/02/2025 HBCH mailroom  pg 1/1 --

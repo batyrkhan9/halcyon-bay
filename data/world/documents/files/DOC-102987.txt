@@ -1,0 +1,20 @@
+  SANDPIPER CHILD CARE CENTER
+1446 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: AHMED ROMERO        Emp ID: 63305
+Position: Teacher
+Pay Period: 08/15/2026 - 08/28/2026     Pay Date: 09/02/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             60.41     80.00       4,832.80     86,990.40
+GROSS PAY                                  4,832.80     86,990.40
+DEDUCTIONS
+     Federal Income Tax                       289.96
+  Social Security                          299.63
+  Medicare                                  70.07
+  CA SDI                                    53.16
+NET PAY                                  4,119.98
+--------------------------------------------------------------
+
+-- scanned 09/15/2026 HBCH mailroom  pg 1/1 --

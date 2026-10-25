@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 06/01/2025 - 06/29/2025
-Member: PATRICIA O'BRIEN       Account ending 8019
+BLUE KELP SOFTWARE LLC
+ 3306 HARB0R WAY    CA
+                          EARNINGS 5TATEMENT
+Employee: STEVEN CHOI        Emp ID: 68573
+Position: Software engineer
+ Pay Period: 07/11/2025 - 07/25/2025     Pay Date: 07/30/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.50     53.25         985.12     14,776.80
+GROSS PAY                                    985.12     14,776.80
+DEDUCTIONS
+  Federal Income Tax                        49.25
+   Social Security                           61.07
+  Medicare                                  14.28
+  CA SDI                                    10.83
+NET PAY                                     849.69
+--------------------------------------------------------------
 
-    CHECKING SUMMARY
-     Beginning balance              402.67
-   Deposits                     2,817.66
-  Withdrawals                 -2,902.18
-  Ending balance                 318.15
-
-DEPOSITS AND CREDITS
-  06/29  PAYROLL DIR DEP ELLERY HARDWARE SU       1,408.83
-  06/14  PAYROLL DIR DEP ELLERY HARDWARE SU       1,408.83
-
-    Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/07/2025]
+-- scanned 08/03/2025 HBCH mailroom  pg 1/1 --

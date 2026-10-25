@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+4971 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: STEVEN PEREZ        Emp ID: 80493
+Position: Line worker
+Pay Period: 08/13/2026 - 08/26/2026     Pay Date: 08/31/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.44     19.25         354.97      6,389.46
+GROSS PAY                                    354.97      6,389.46
+DEDUCTIONS
+  Federal Income Tax                        17.74
+      Social Security                           22.00
+  Medicare                                   5.14
+  CA SDI                                     3.90
+NET PAY                                    306.19
+--------------------------------------------------------------
+
+-- scanned 09/09/2026 HBCH mailroom  pg 1/1 --

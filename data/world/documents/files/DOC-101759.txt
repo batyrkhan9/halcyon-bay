@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
-899 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: CARMEN BROWN        Emp ID: 33397
+M1RADOR GROCERY CO-OP
+9699 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ANJALI NGUYEN        Emp ID: 90412
 Position: Cashier
-Pay Period: 04/07/2026 - 04/20/2026     Pay Date: 04/25/2026
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                       294.02      2,646.18
-GROSS PAY                                    294.02      2,646.18
+Pay Period: 03/22/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,388.35      5,553.40
+GROSS PAY                                  1,388.35      5,553.40
 DEDUCTIONS
-  Federal Income Tax                        29.40
-      Social Security                           18.22
-  Medicare                                   4.26
-   CA SDI                                     3.23
-NET PAY                                     238.91
+  Federal Income Tax                       138.83
+  Social Security                           86.07
+  Medicare                                  20.13
+  CA SDI                                    15.27
+NET PAY                                  1,128.05
 --------------------------------------------------------------
 
-RECEIVED MAY 12 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/13/2026]

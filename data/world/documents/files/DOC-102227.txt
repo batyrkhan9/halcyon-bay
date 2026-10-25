@@ -1,20 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-4691 MARKET WAY   CA
+CALDER FREIGHT LINES
+1359 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: RICARDO MURPHY        Emp ID: 36234
-Position: Medical receptionist
-Pay Period: 07/07/2026 - 07/20/2026     Pay Date: 07/25/2026
-Pay Frequency: Bi-Weekly
+Employee: BARBARA JOSHI        Emp ID: 85517
+Position: Driver
+Pay Period: 07/08/2026 - 07/14/2026     Pay Date: 07/19/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,239.23     48,588.45
-GROSS PAY                                  3,239.23     48,588.45
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     3,998.19    115,947.51
+GROSS PAY                                  3,998.19    115,947.51
 DEDUCTIONS
-  Federal Income Tax                       194.35
-  Social Security                          200.83
-  Medicare                                  46.96
-  CA SDI                                    35.63
-NET PAY                                  2,761.46
+  Federal Income Tax                       239.89
+  Social Security                          247.88
+  Medicare                                  57.97
+  CA SDI                                    43.98
+NET PAY                                  3,408.47
+_ _ _ _
 --------------------------------------------------------------
 
-RECEIVED JUL 29 2026  - mailroom
+FAX RECEIVED 07/25/2026 10:49   P.01

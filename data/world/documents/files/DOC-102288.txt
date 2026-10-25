@@ -1,0 +1,20 @@
+ CYPRESS FLATS AUTO BODY
+4938 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: PEDRO LOPEZ        Emp ID: 20945
+Position: Technician
+Pay Period: 06/15/2026 - 06/28/2026     Pay Date: 07/03/2026
+  Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             19.31     80.00       1,544.80     21,627.20
+GROSS PAY                                  1,544.80     21,627.20
+DEDUCTIONS
+  Federal Income Tax                        92.68
+  Social Security                           95.77
+  Medicare                                  22.40
+  CA SDI                                    16.99
+  NET PAY                                  1,316.96
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/28/2026]

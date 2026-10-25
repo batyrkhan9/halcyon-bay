@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-3145 HARBOR WAY   CA
+PORT ELLERY CANNERY CO
+    1555 MARKET WAY   CA
                            EARNINGS STATEMENT
-Employee: OMAR HUANG-TUIASOSOPO        Emp ID: 46476
-Position: Guest services
-Pay Period: 08/09/2026 - 08/23/2026     Pay Date: 08/28/2026
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
+Employee: THAO THOMPSON         Emp ID: 17051
+Position: Line worker
+Pay Period: 08/09/2026 - 08/22/2026     Pay Date: 08/27/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              48.60     86.67       4,212.16     67,394.56
-GROSS PAY                                  4,212.16     67,394.56
+Regular             17.55     16.50         289.58      5,212.44
+GROSS PAY                                    289.58      5,212.44
 DEDUCTIONS
-  Federal Income Tax                       210.60
-  Social Security                          261.15
-  Medicare                                  61.07
-  CA SDI                                    46.33
-NET PAY                                   3,633.01
+  Federal Income Tax                        11.58
+  Social Security                           17.95
+      Medicare                                   4.19
+  CA SDI                                     3.18
+NET PAY                                    252.68
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/24/2026]
+RECEIVED SEP 21 2026  - mailroom

@@ -1,20 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-7359 INDUSTRIAL WAY   CA
-                           EARNINGS STATEMENT
-Employee: ARACELI WILLIAMS        Emp ID: 47820
-Position: Medical receptionist
-Pay Period: 01/20/2025 - 02/18/2025     Pay Date: 02/23/2025
-Pay Frequency: Monthly
+SEASIDE DENTAL GROUP
+9828 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH WATANABE        Emp ID: 32822
+Position: Dental assistant
+Pay Period: 02/23/2025 - 03/09/2025     Pay Date: 03/14/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             18.40     32.50         598.00      1,196.00
-GROSS PAY                                    598.00      1,196.00
+Regular             17.82     36.25         645.98      3,229.90
+GROSS PAY                                     645.98      3,229.90
 DEDUCTIONS
-  Federal Income Tax                        59.80
-  Social Security                           37.07
-  Medicare                                   8.67
-  CA SDI                                     6.57
-NET PAY                                    485.89
---------------------------------------------------------------
+  Federal Income Tax                        71.05
+  Social Security                           40.05
+  Medicare                                   9.36
+     CA SD1                                     7.10
+NET PAY                                    518.42
+   --------------------------------------------------------------
 
--- scanned 04/04/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/16/2025]

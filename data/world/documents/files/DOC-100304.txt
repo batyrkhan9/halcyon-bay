@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-    1696 INDUSTRIAL WAY   CA
-                             EARNINGS STATEMENT
-Employee: NOOR WASHINGTON        Emp ID: 94083
-Position: Driver
-Pay Period: 02/05/2025 - 02/18/2025     Pay Date: 02/23/2025
-Pay Frequency: Bi-Weekly
+TIDEWATER CONSTRUCTION
+8517 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: DEEPA ITO        Emp ID: 94686
+Position: Laborer
+Pay Period: 03/01/2025 - 03/07/2025     Pay Date: 03/12/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                     2,516.82     10,067.28
- GROSS PAY                                  2,516.82     10,067.28
+Regular             20.70     40.00         828.00      9,108.00
+GROSS PAY                                    828.00      9,108.00
 DEDUCTIONS
-  Federal Income Tax                       201.34
-   Social Security                          156.04
-  Medicare                                  36.49
-  CA SDI                                    27.68
-NET PAY                                  2,095.27
-  --------------------------------------------------------------
+  Federal Income Tax                        41.40
+  Social Security                           51.33
+  Medicare                                  12.00
+      CA SDI                                     9.10
+ NET PAY                                    714.17
+--------------------------------------------------------------
 
-FAX RECEIVED 03/13/2025 10:59   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/25/2025]

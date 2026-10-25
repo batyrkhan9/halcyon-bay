@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-671 COMMERCE WAY   CA
+BAYLINE LOGISTICS INC
+2038 MARKET WAY   CA
                          EARNINGS STATEMENT
-  Employee: YUSUF CARTER        Emp ID: 82738
-P0sition: Teacher
-Pay Period: 06/16/2025 - 06/29/2025     Pay Date: 07/04/2025
+Employee: BEATRIZ IVANOVA        Emp ID: 34909
+Position: Warehouse associate
+Pay Period: 08/02/2025 - 08/15/2025     Pay Date: 08/20/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,884.57     54,383.98
-GROSS PAY                                  3,884.57     54,383.98
-   DEDUCTIONS
-  Federal Income Tax                       155.38
-  5ocial Security                          240.84
-  Medicare                                  56.32
-  CA SDI                                    42.73
-NET PAY                                   3,389.30
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             42.15     80.00       3,372.00     57,324.00
+GROSS PAY                                  3,372.00     57,324.00
+DEDUCTIONS
+  Federal Income Tax                       202.32
+   Social Security                          209.06
+  Medicare                                  48.89
+  CA SDI                                    37.09
+NET PAY                                  2,874.64
 --------------------------------------------------------------
 
-FAX RECEIVED 07/27/2025 10:37   P.01
+RECEIVED AUG 25 2025  - mailroom

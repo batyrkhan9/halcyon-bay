@@ -1,19 +1,18 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 07/01/2026 - 07/18/2026
-Member: ANA JOSHI       Account ending 3537
+F0rm 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  JUAN ADAMS
+Your social security number: XXX-XX-8088
+Dependents: 1
+Income
+ 1a  Total amount fr0m Form(s) W-2, box 1 ...........    24,196.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+     9   Total income ....................................    24,196.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    24,196.00
+ 12  Standard deduction ..............................    21,900.00
 
-CHECKING SUMMARY
-    Beginning balance            1,818.73
-  Deposits                    13,087.81
-   Withdrawals                -13,087.81
-  Ending balance               1,818.73
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Juan Adams        Date: 04/15/2026
 
-DEPOSITS AND CREDITS
-  06/23  MOBILE DEPOSIT                           3,024.82
-  06/30  MOBILE DEPOSIT                           4,106.95
-  07/07  MOBILE DEPOSIT                           4,988.53
-  07/14  MOBILE DEPOSIT                             967.51
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]
+-- scanned 07/18/2026 HBCH mailroom  pg 1/1 --

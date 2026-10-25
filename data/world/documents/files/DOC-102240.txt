@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-9029 MARKET WAY   CA
+   PACIFIC RIM JANITORIAL
+7262 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: DESTINY SOUZA        Emp ID: 38133
-Position: Caregiver
-Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
-Pay Frequency: Weekly
+Employee: SHARON VALENCIA        Emp ID: 75302
+Position: Custodian
+Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+~ ~ .  ,
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.58     40.00       1,103.20     33,096.00
-GROSS PAY                                  1,103.20     33,096.00
+Salary                                     4,757.10     66,599.40
+GROSS PAY                                  4,757.10     66,599.40
 DEDUCTIONS
-  Federal Income Tax                       110.32
-  Social Security                           68.39
-     Medicare                                  15.99
-  CA SDI                                    12.13
-   NET PAY                                    896.37
+  Federal Income Tax                       237.85
+  Social Security                          294.94
+   Medicare                                  68.97
+  CA SDI                                    52.32
+NET PAY                                  4,103.02
 --------------------------------------------------------------
 
-FAX RECEIVED 07/29/2026 10:47   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/26/2026]

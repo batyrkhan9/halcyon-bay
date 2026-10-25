@@ -1,20 +1,21 @@
-OTTER BAY AQUARIUM
-1812 INDUSTRIAL WAY   CA
+VISTA SERENA MEDICAL OFFICES
+3319 HARBOR WAY    CA
                          EARNINGS STATEMENT
-Employee: RAYMOND MITCHELL        Emp ID: 85864
-Position: Guest services
-Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
-Pay Frequency: Bi-Weekly
+Employee: JIA ZAMORA        Emp ID: 79300
+Position: Medical receptionist
+    Pay Period: 06/01/2025 - 06/07/2025     Pay Date: 06/12/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             18.30     43.75         800.62      8,006.20
-GROSS PAY                                    800.62      8,006.20
-DEDUCTIONS
-  Federal Income Tax                        88.06
-  Social Security                           49.63
-  Medicare                                  11.60
-  CA SDI                                     8.80
-   NET PAY                                    642.53
+ Regular             18.61     10.00         186.10      4,466.40
+   GROSS PAY                                    186.10      4,466.40
+~ ~ .  ,
+   DEDUCTIONS
+    Federal Income Tax                        18.61
+  Social Security                           11.53
+  Medicare                                   2.69
+  CA SDI                                     2.04
+NET PAY                                    151.23
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/28/2025]
+RECEIVED JUN 16 2025  - mailroom

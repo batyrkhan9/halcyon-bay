@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+4203 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: DAVID HERNANDEZ        Emp ID: 76412
+Position: Line cook
+Pay Period: 12/11/2024 - 01/09/2025     Pay Date: 01/14/2025
+Pay Frequency: Monthly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,253.94      1,253.94
+GROSS PAY                                  1,253.94      1,253.94
+DEDUCTIONS
+  Federal Income Tax                       137.93
+     Social Security                           77.74
+  Medicare                                  18.18
+  CA SDI                                    13.79
+NET PAY                                  1,006.30
+    --------------------------------------------------------------
+
+RECEIVED JAN 29 2025  - mailroom

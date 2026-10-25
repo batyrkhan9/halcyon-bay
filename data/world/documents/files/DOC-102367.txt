@@ -1,17 +1,22 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 07/01/2026 - 07/26/2026
-Member: JENNIFER FLORES       Account ending 1481
+HALCYON BAY UNIFIED SCHOOL DIST
+801 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARQUIS SUZUKI        Emp ID: 74036
+Position: Instructional aide
+Pay Period: 06/30/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.73     40.00       1,029.20     28,817.60
+GROSS PAY                                  1,029.20     28,817.60
+DEDUCTIONS
+  Federal Income Tax                        92.62
+   Social Security                           63.81
+  Medicare                                  14.92
+  CA SDI                                    11.32
+  . : .
+NET PAY                                    846.53
+  --------------------------------------------------------------
+  includes overtime 4.00 hrs
 
-CHECKING SUMMARY
-  Beginning balance              325.08
-  Deposits                       330.72
-  Withdrawals                   -314.18
-  Ending balance                 341.62
-
-DEPOSITS AND CREDITS
-  07/26  PAYROLL DIR DEP SANTA LUCITA FARMS         165.36
-  07/11  PAYROLL DIR DEP SANTA LUC1TA FARMS         165.36
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/05/2026 HBCH mailroom  pg 1/1 --
+-- scanned 07/31/2026 HBCH mailroom  pg 1/1 --

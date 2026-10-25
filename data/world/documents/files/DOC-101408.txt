@@ -1,0 +1,20 @@
+  ARROYO VERDE NURSERY
+   4007 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA DAVIS        Emp ID: 41787
+Position: Nursery worker
+Pay Period: 01/05/2026 - 01/11/2026      Pay Date: 01/16/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             61.48     40.00       2,459.20      7,377.60
+GROSS PAY                                  2,459.20      7,377.60
+DEDUCTIONS
+    Federal Income Tax                       270.51
+  Social Security                          152.47
+  Medicare                                  35.65
+  CA SDI                                    27.05
+NET PAY                                  1,973.52
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/06/2026]

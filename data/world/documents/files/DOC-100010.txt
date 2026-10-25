@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-584 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+7528 INDU5TRIAL WAY    CA
                          EARNINGS STATEMENT
-Employee: JUAN DOYLE        Emp ID: 64660
-Position: Home care aide
-    Pay Period: 11/10/2024 - 11/23/2024     Pay Date: 11/28/2024
-    Pay Frequency: Bi-Weekly
+Employee: CHLOE MOORE        Emp ID: 49486
+Position: Mechanic
+Pay Period: 10/13/2024 - 10/26/2024      Pay Date: 10/31/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             54.94     80.00       4,395.20    105,484.80
-GROSS PAY                                  4,395.20    105,484.80
-DEDUCTIONS
-  Federal Income Tax                       395.56
-  Social Security                          272.50
-  Medicare                                  63.73
-  CA SDI                                    48.34
-NET PAY                                  3,615.07
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,168.53     91,707.66
+GROSS PAY                                  4,168.53     91,707.66
+DEDUCTI0NS
+  Federal Income Tax                       250.11
+  Social Security                          258.44
+  Medicare                                  60.44
+  CA SDI                                    45.85
+NET PAY                                  3,553.69
 --------------------------------------------------------------
 
--- scanned 12/07/2024 HBCH mailroom  pg 1/1 --
+-- scanned 11/18/2024 HBCH mailroom  pg 1/1 --

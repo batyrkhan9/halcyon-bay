@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-3848 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-  Employee: ASHLEY HUSSAIN        Emp ID: 29987
-Position: Field supervisor
-  Pay Period: 07/13/2026 - 07/26/2026     Pay Date: 07/31/2026
-Pay Frequency: Bi-Weekly
+SEASIDE DENTAL GROUP
+ 8318 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: JOSHUA COSTA        Emp ID: 95309
+    Position: Dental assistant
+Pay Period: 07/04/2026 - 08/02/2026     Pay Date: 08/07/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
-  EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-  Regular             20.74     80.00       1,659.20     26,547.20
-  GROSS PAY                                  1,659.20     26,547.20
-  DEDUCT1ONS
-  Federal Income Tax                       182.51
-  Social Security                          102.87
-  Medicare                                  24.05
-  . : .
-  CA SDI                                    18.25
-NET PAY                                  1,331.52
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             70.78    173.33      12,268.30     98,146.40
+GROSS PAY                                 12,268.30     98,146.40
+DEDUCTIONS
+  Federal Income Tax                       981.46
+  Social Security                          760.63
+  Medicare                                 177.89
+  CA SD1                                   134.95
+NET PAY                                 10,213.37
 --------------------------------------------------------------
 
-FAX RECEIVED 08/16/2026 10:15   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/11/2026]

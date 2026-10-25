@@ -1,21 +1,20 @@
-  CALDER FREIGHT LINES
-  5112 MARKET WAY   CA
+SUNSET COAST HOME CARE
+7791 INDUSTRIAL WAY    CA
                          EARNINGS STATEMENT
-Employee: ABIGAIL THOMPSON        Emp ID: 55251
-Position: Driver
-~ ~ .  ,
-Pay Period: 11/04/2025 - 11/10/2025     Pay Date: 11/15/2025
-Pay Frequency: Weekly
+    Employee: LEILANI THOMAS        Emp ID: 82509
+Position: Home care aide
+Pay Period: 11/04/2025 - 11/17/2025     Pay Date: 11/22/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.74     40.00       1,109.60     51,041.60
-GROSS PAY                                  1,109.60     51,041.60
-DEDUCTIONS
-    Federal Income Tax                        44.38
-  Social Security                           68.79
-  Medicare                                  16.08
-  CA SDI                                    12.20
-NET PAY                                    968.15
---------------------------------------------------------------
+Regular             89.49     80.00       7,159.20    171,820.80
+GROSS PAY                                   7,159.20    171,820.80
+   DEDUCTIONS
+  Federal Income Tax                       286.36
+  Social Security                          443.87
+  Medicare                                 103.80
+  CA SDI                                    78.75
+NET PAY                                  6,246.42
+    --------------------------------------------------------------
 
--- scanned 12/02/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/26/2025]

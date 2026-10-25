@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-5223 HARBOR WAY   CA
-                          EARNINGS STATEMENT
-Employee: RAJNI JUNG        Emp ID: 96460
-Position: Line worker
-Pay Period: 03/12/2025 - 04/10/2025     Pay Date: 04/15/2025
-Pay Frequency: Monthly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-     Regular             23.37    173.33       4,050.72     16,202.88
-GROSS PAY                                  4,050.72     16,202.88
+   COASTAL VALLEY ENERGY
+   322 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAMON CARTER        Emp ID: 81327
+    Position: Field technician
+Pay Period: 04/20/2025 - 04/26/2025     Pay Date: 05/01/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       300.75      5,413.50
+GROSS PAY                                    300.75      5,413.50
 DEDUCTIONS
-   Federal Income Tax                       324.05
-  Social Security                          251.14
-  Medicare                                  58.73
-  CA SDI                                    44.55
-NET PAY                                  3,372.25
+  Federal Income Tax                        15.03
+  Social Security                           18.64
+  Medicare                                   4.36
+  CA SDI                                     3.30
+NET PAY                                    259.42
 --------------------------------------------------------------
 
-RECEIVED APR 20 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/08/2025]

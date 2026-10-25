@@ -1,20 +1,20 @@
-POINT CORRIN BOATWORKS
-8926 COMMERCE WAY   CA
+PACIFIC RIM JANITORIAL
+9040 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: GREGORY GARCIA        Emp ID: 41169
-Position: Mechanic
-Pay Period: 08/05/2025 - 08/11/2025     Pay Date: 08/16/2025
-Pay Frequency: Weekly
+Employee: TARIQ ROMERO        Emp ID: 68903
+Position: Custodian
+Pay Period: 09/13/2025 - 09/26/2025     Pay Date: 10/01/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.57     40.00       1,142.80     37,712.40
-GROSS PAY                                   1,142.80     37,712.40
+    Regular             37.23     80.00       2,978.40     59,568.00
+GROSS PAY                                  2,978.40     59,568.00
 DEDUCTIONS
-  Federal Income Tax                       125.70
-  Social Security                           70.85
-  Medicare                                  16.57
-  CA SDI                                    12.57
-NET PAY                                    917.11
+    Federal Income Tax                       297.84
+  Social Security                          184.66
+  Medicare                                  43.18
+  CA SDI                                    32.76
+NET PAY                                  2,419.96
 --------------------------------------------------------------
 
-RECEIVED SEP 03 2025  - mailroom
+RECEIVED OCT 11 2025  - mailroom

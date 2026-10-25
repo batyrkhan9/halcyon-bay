@@ -1,0 +1,21 @@
+CYPRESS FLATS AUTO BODY
+9658 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: ERNESTO SALAZAR        Emp ID: 77488
+Position: Technician
+~ ~ .  ,
+Pay Period: 08/12/2025 - 08/25/2025     Pay Date: 08/30/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,053.26     18,958.68
+ GROSS PAY                                  1,053.26     18,958.68
+DEDUCTIONS
+  Federal Income Tax                        63.19
+  Social Security                           65.30
+  Medicare                                  15.27
+  CA SDI                                    11.58
+NET PAY                                    897.92
+--------------------------------------------------------------
+
+RECEIVED SEP 06 2025  - mailroom

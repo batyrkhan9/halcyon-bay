@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+3585 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA SULLIVAN-WILSON         Emp ID: 39074
+Position: Teacher
+Pay Period: 08/10/2026 - 08/23/2026     Pay Date: 08/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             52.42     80.00       4,193.60     75,484.80
+GROSS PAY                                  4,193.60     75,484.80
+DEDUCTIONS
+  Federal Income Tax                       461.29
+  Social Security                          260.00
+      Medicare                                  60.80
+   CA SDI                                    46.13
+ NET PAY                                  3,365.38
+--------------------------------------------------------------
+
+-- scanned 09/04/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+7830 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOHN WALKER        Emp ID: 96140
+Position: 5oftware engineer
+ Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
+ Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             23.70     80.00       1,896.00     32,232.00
+GROSS PAY                                  1,896.00     32,232.00
+DEDUCTIONS
+  Federal Income Tax                        75.84
+  Social Security                          117.55
+  Medicare                                  27.49
+  CA SDI                                    20.85
+NET PAY                                  1,654.27
+--------------------------------------------------------------
+
+FAX RECEIVED 09/21/2026 10:26   P.01

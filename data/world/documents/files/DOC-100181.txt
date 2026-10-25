@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+5806 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILA TANAKA        Emp ID: 12318
+Position: Mechanic
+    Pay Period: 12/25/2024 - 01/07/2025     Pay Date: 01/12/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.79     80.00       1,343.20      1,343.20
+~ ~ .  ,
+GROSS PAY                                  1,343.20      1,343.20
+DEDUCTIONS
+  Federal Income Tax                        67.16
+  S0cial Security                           83.27
+      Medicare                                  19.47
+  CA SDI                                    14.77
+NET PAY                                  1,158.53
+--------------------------------------------------------------
+
+FAX RECEIVED 02/10/2025 10:57   P.01

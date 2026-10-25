@@ -1,0 +1,21 @@
+  OTTER BAY AQUARIUM
+848 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO GREEN        Emp ID: 94916
+Position: Guest services
+  . : .
+Pay Period: 06/21/2025 - 07/04/2025     Pay Date: 07/09/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             33.17     80.00       2,653.60     37,150.40
+GROSS PAY                                  2,653.60     37,150.40
+DEDUCTIONS
+  Federal 1ncome Tax                       238.82
+  Social Security                          164.52
+     Medicare                                  38.47
+  CA SDI                                    29.19
+NET PAY                                  2,182.60
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/04/2025]

@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-8168 INDUSTRIAL WAY   CA
+MIRADOR PUBLIC LIBRARY
+9605 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: CALEB GALLAGHER        Emp ID: 53189
-Position: Cleaner
-Pay Period: 02/03/2026 - 02/17/2026     Pay Date: 02/22/2026
-Pay Frequency: Semi-Monthly
+ Employee: RAYMOND CHOI        Emp ID: 24465
+Position: Library assistant
+    Pay Period: 03/09/2026 - 03/15/2026     Pay Date: 03/20/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,802.53     11,210.12
-GROSS PAY                                  2,802.53     11,210.12
-DEDUCTIONS
-  Federal Income Tax                       168.15
-     Social Security                          173.75
-  Medicare                                  40.63
-  CA SDI                                    30.82
-NET PAY                                  2,389.18
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       298.10      3,577.20
+GROSS PAY                                    298.10      3,577.20
+   DEDUCTIONS
+    Federal Income Tax                        17.88
+  Social Security                           18.48
+  Medicare                                   4.32
+  CA SDI                                     3.27
+  NET PAY                                    254.15
 --------------------------------------------------------------
 
--- scanned 03/12/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2026]

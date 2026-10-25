@@ -1,18 +1,21 @@
-COASTLINE SAVINGS BANK
-  Statement Period 04/01/2026 - 04/19/2026
- Member: SOFIA BROWN-TANAKA       Account ending 8888
-
-CHECKING SUMMARY
-  Beginning balance              821.18
-  Deposits                     3,833.84
-  Withdrawals                 -3,335.44
-     Ending balance               1,319.58
-
-DEPOSITS AND CREDITS
-  04/19  PAYROLL DIR DEP BAYLINE LOGISTICS        1,916.92
-  04/05  PAYROLL DIR DEP BAYLINE LOGISTICS        1,916.92
-
+ARROYO VERDE NURSERY
+2149 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: JOSE DESAI        Emp ID: 56905
+ Position: Nursery worker
+Pay Period: 03/23/2026 - 04/06/2026     Pay Date: 04/11/2026
+Pay Frequency: Semi-Month1y
+--------------------------------------------------------------
 _ _ _ _
-Thank you for banking with us.  Page 1 of 2
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     3,840.54     26,883.78
+GROSS PAY                                  3,840.54     26,883.78
+  DEDUCTIONS
+  Federa1 Income Tax                       268.83
+  Social Security                          238.11
+  Medicare                                  55.68
+   CA SDI                                    42.24
+NET PAY                                  3,235.68
+--------------------------------------------------------------
 
-FAX RECEIVED 04/25/2026 10:26   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

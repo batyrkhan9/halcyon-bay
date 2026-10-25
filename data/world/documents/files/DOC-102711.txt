@@ -1,20 +1,19 @@
-VISTA SERENA MEDICAL OFFICES
-3379 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAFAEL LIU        Emp ID: 31892
-Position: Medical receptionist
-Pay Period: 07/25/2026 - 08/07/2026     Pay Date: 08/12/2026
- Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             28.64     80.00       2,291.20     36,659.20
-GROSS PAY                                   2,291.20     36,659.20
-DEDUCTIONS
-  Federal Income Tax                       183.29
-  Social Security                          142.05
-  Medicare                                  33.22
-  CA SDI                                    25.20
-NET PAY                                  1,907.44
-    --------------------------------------------------------------
+SEASIDE COMMUNITY CREDIT UNION
+Statement Period 07/01/2026 - 07/31/2026
+Member: CHRISTOPHER ITO       Account ending 1069
 
-RECEIVED AUG 29 2026  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,912.01
+  Deposits                    10,735.68
+      Withdrawals                -10,843.03
+     Ending ba1ance               2,804.66
+
+DEPOSITS AND CREDITS
+  07/05  PAYROLL DIR DEP MARISOL CLEANING S       2,683.92
+      07/12  PAYROLL DIR DEP MARISOL CLEANING S       2,683.92
+  07/19  PAYROLL DIR DEP MARISOL CLEANING S       2,683.92
+      07/26  PAYROLL DIR DEP MARISOL CLEANING S       2,683.92
+
+   Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/29/2026]

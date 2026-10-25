@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-5214 HARBOR WAY   CA
+GOLDEN HOUR SENIOR LIVING
+5832 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: TERRELL PETROV        Emp ID: 79183
-Position: Custodian
-Pay Period: 05/14/2026 - 05/28/2026     Pay Date: 06/02/2026
-Pay Frequency: Semi-Monthly
+Employee: ANDREW WRIGHT        Emp ID: 76209
+Position: Caregiver
+Pay Period: 05/21/2026 - 06/03/2026     Pay Date: 06/08/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-Regular             17.66     41.00         724.06      7,964.66
-GROSS PAY                                    724.06      7,964.66
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,272.00     15,264.00
+GROSS PAY                                  1,272.00     15,264.00
 DEDUCTIONS
-      Federal Income Tax                        36.20
-  Social Security                           44.89
-  Medicare                                  10.49
-    CA SDI                                     7.96
-  NET PAY                                    624.52
+  Federal Income Tax                        89.04
+  Social Security                           78.86
+  Medicare                                  18.44
+  CA SDI                                    13.99
+NET PAY                                  1,071.67
 --------------------------------------------------------------
 
-RECEIVED JUL 12 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]

@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-4077 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-Employee: ELENA ABDULLAH        Emp ID: 82723
-Position: Caregiver
-Pay Period: 08/03/2026 - 08/16/2026     Pay Date: 08/21/2026
+BLUE KELP SOFTWARE LLC
+5478 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARACELI PATEL        Emp ID: 29680
+Position: Software engineer
+Pay Period: 07/28/2026 - 08/10/2026     Pay Date: 08/15/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,639.87     95,877.79
- GROSS PAY                                  5,639.87     95,877.79
-  DEDUCTIONS
-  Federal Income Tax                       507.58
-  Social Security                          349.67
-  Medicare                                  81.77
-  CA SDI                                    62.03
-NET PAY                                  4,638.82
-   --------------------------------------------------------------
+Regular             44.10     80.00       3,528.00     59,976.00
+GROSS PAY                                   3,528.00     59,976.00
+   DEDUCTIONS
+     Federal Income Tax                       211.68
+  Social Security                          218.73
+  Medicare                                  51.15
+  CA SDI                                    38.80
+NET PAY                                  3,007.64
+--------------------------------------------------------------
 
-RECEIVED SEP 10 2026  - mailroom
+-- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

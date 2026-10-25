@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+4781 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: MADISON DESAI        Emp ID: 62209
+Position: Library assistant
+Pay Period: 05/30/2026 - 06/28/2026     Pay Date: 07/03/2026
+   Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.28    173.33       3,168.47     22,179.29
+GROSS PAY                                  3,168.47     22,179.29
+DEDUCTIONS
+     Federal Income Tax                       158.42
+   Social Security                          196.44
+  Medicare                                  45.94
+  . : .
+     CA SDI                                    34.85
+  NET PAY                                  2,732.82
+--------------------------------------------------------------
+
+RECEIVED JUL 13 2026  - mailroom

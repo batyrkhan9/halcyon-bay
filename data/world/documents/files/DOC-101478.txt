@@ -1,20 +1,20 @@
-SEASIDE DENTAL GROUP
-7967 INDUSTRIAL WAY   CA
+MARISOL CLEANING SERVICES
+7050 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-    Employee: ESPERANZA HO        Emp ID: 47665
-Position: Dental assistant
-Pay Period: 01/08/2026 - 01/22/2026      Pay Date: 01/27/2026
-Pay Frequency: Semi-Monthly
+Emp1oyee: ALEJANDRO O'BRIEN        Emp ID: 78358
+   Position: Cleaner
+Pay Period: 02/12/2026 - 02/25/2026     Pay Date: 03/02/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.12     86.67       1,830.47      3,660.94
-GROSS PAY                                  1,830.47      3,660.94
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+ Regular             16.54     41.25         682.28      3,411.40
+GROSS PAY                                    682.28      3,411.40
 DEDUCTIONS
-  Federal Income Tax                       109.82
-  Social Security                          113.48
-     Medicare                                  26.54
-  CA SDI                                    20.13
-NET PAY                                  1,560.50
-  --------------------------------------------------------------
+  Federal Income Tax                        40.93
+  Social Security                           42.30
+  Medicare                                   9.89
+  CA SDI                                     7.50
+NET PAY                                    581.66
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/22/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2026]

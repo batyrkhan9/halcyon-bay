@@ -1,20 +1,20 @@
-  BLUE KELP SOFTWARE LLC
-7062 MARKET WAY   CA
+ARROYO VERDE NURSERY
+839 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL HUYNH-NGUYEN        Emp 1D: 54183
-Position: Software engineer
-Pay Period: 08/06/2026 - 08/12/2026     Pay Date: 08/17/2026
-Pay Frequency: Weekly
-   --------------------------------------------------------------
+Employee: JUSTIN YOUNG        Emp ID: 72664
+Position: Nursery worker
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              28.63     40.00       1,145.20     37,791.60
-   GROSS PAY                                  1,145.20     37,791.60
+Salary                                     4,420.42     75,147.14
+    GROSS PAY                                  4,420.42     75,147.14
 DEDUCTIONS
-  Federal Income Tax                        91.61
-  Social Security                           71.00
-  Medicare                                  16.60
-   CA SDI                                    12.59
-NET PAY                                    953.40
+  Federal Income Tax                       309.42
+  Social Security                          274.06
+  Medicare                                  64.09
+  CA SDI                                    48.62
+NET PAY                                  3,724.23
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/03/2026]
+-- scanned 09/03/2026 HBCH mailroom  pg 1/1 --

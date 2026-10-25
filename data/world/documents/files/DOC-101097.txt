@@ -1,0 +1,20 @@
+MIRADOR GROCERY CO-OP
+    2093 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: AMANDA ESPINOZA        Emp ID: 77388
+ Position: Cashier
+     Pay Period: 09/08/2025 - 09/21/2025     Pay Date: 09/26/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.01     80.00       3,840.80     76,816.00
+GR0SS PAY                                  3,840.80     76,816.00
+DEDUCTIONS
+  Federal Income Tax                       307.26
+    Social Security                          238.13
+  Medicare                                  55.69
+  CA SDI                                    42.24
+ NET PAY                                  3,197.48
+  --------------------------------------------------------------
+
+-- scanned 11/05/2025 HBCH mailroom  pg 1/1 --

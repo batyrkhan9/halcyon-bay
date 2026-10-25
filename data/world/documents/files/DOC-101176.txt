@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-4821 COMMERCE WAY   CA
+  GOLDEN HOUR SENIOR LIVING
+1238 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DANIELA SULL1VAN        Emp ID: 87693
-Position: Driver
-Pay Period: 10/14/2025 - 10/27/2025     Pay Date: 11/01/2025
+Employee: KEISHA KIM        Emp ID: 61202
+Position: Caregiver
+Pay Period: 11/07/2025 - 11/20/2025     Pay Date: 11/25/2025
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                     6,248.34    137,463.48
-GROSS PAY                                  6,248.34    137,463.48
-   DEDUCTI0NS
-  Federal Income Tax                       374.90
-  Social Security                          387.39
-  Medicare                                  90.60
-  CA SDI                                    68.73
-NET PAY                                  5,326.72
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             43.73     80.00       3,498.40     83,961.60
+GROSS PAY                                  3,498.40     83,961.60
+DEDUCTIONS
+     Federal Income Tax                       139.93
+  Socia1 Security                          216.90
+   Medicare                                  50.72
+  CA SDI                                    38.48
+NET PAY                                  3,052.37
 --------------------------------------------------------------
 
-RECEIVED NOV 10 2025  - mailroom
+-- scanned 12/04/2025 HBCH mailroom  pg 1/1 --

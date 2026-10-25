@@ -1,16 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2025 - 02/06/2025
-Member: NOAH JUNG        Account ending 6490
+OTTER BAY AQUARIUM
+9794 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SERGIO XU        Emp ID: 87509
+Position: Guest services
+Pay Period: 01/24/2025 - 02/22/2025     Pay Date: 02/27/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+   Regular             16.73     44.75         748.67      1,497.34
+GROSS PAY                                    748.67      1,497.34
+DEDUCTIONS
+  Federal Income Tax                        74.86
+      Social Security                           46.41
+  Medicare                                  10.85
+  CA SDI                                     8.23
+NET PAY                                    608.32
+ --------------------------------------------------------------
 
-CHECKING SUMMARY
-      Beginning balance            1,613.89
-     Deposits                     1,139.78
-  Withdrawals                 -1,094.18
-  Ending balance               1,659.49
-
-DEPOSITS AND CREDITS
-  02/06  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,139.78
-
- Thank you for banking with us.  Page 1 of 2
-
-RECEIVED FEB 16 2025  - mailroom
+RECEIVED MAR 02 2025  - mailroom

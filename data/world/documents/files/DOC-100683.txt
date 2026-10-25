@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-8887 HARBOR WAY   CA
-                             EARNINGS STATEMENT
-  Employee: LUIS BU1        Emp ID: 46652
-Position: Field technician
-Pay Period: 05/10/2025 - 05/23/2025     Pay Date: 05/28/2025
-Pay Frequency: Bi-Weekly
+LAS BRISAS RESTAURANT GROUP
+6553 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: HANNAH PARK        Emp ID: 46809
+    Position: Line cook
+Pay Period: 06/14/2025 - 06/20/2025     Pay Date: 06/25/2025
+     Pay Frequency: Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.65     80.00       1,732.00     19,052.00
-GROSS PAY                                  1,732.00     19,052.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            121.20     40.00       4,848.00    126,048.00
+GRO5S PAY                                   4,848.00    126,048.00
 DEDUCTIONS
-    Federal Income Tax                       103.92
-  Social Security                          107.38
-    Medicare                                  25.11
-  CA SDI                                    19.05
-NET PAY                                   1,476.54
+  Federal Income Tax                       193.92
+      Social Security                          300.57
+  Medicare                                  70.29
+  CA SDI                                    53.32
+NET PAY                                  4,229.90
 --------------------------------------------------------------
 
-FAX RECEIVED 06/19/2025 10:12   P.01
+-- scanned 07/14/2025 HBCH mailroom  pg 1/1 --

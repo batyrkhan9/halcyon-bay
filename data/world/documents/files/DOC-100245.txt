@@ -1,17 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 02/01/2025 - 02/13/2025
-Member: JOSE PHAM       Account ending 1181
+SANTA LUCITA FARMS
+2098 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+   Employee: AMANDA JEFFERSON        Emp ID: 16318
+Position: Field supervisor
+Pay Period: 02/19/2025 - 02/25/2025     Pay Date: 03/02/2025
+| |   .
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.69      9.00         168.21      1,513.89
+GROSS PAY                                    168.21      1,513.89
+DEDUCTIONS
+  Federal Income Tax                        11.77
+  Social Security                           10.42
+  Medicare                                   2.43
+  CA SDI                                     1.85
+NET PAY                                    141.74
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              902.13
-  Deposits                       961.04
-  Withdrawals                 -1,009.09
-    Ending balance                 854.08
-
-DEPOSITS AND CREDITS
-  02/13  PAYROLL DIR DEP MIRADOR GROCERY CO         480.52
-  02/06  PAYROLL DIR DEP MIRADOR GROCERY CO         480.52
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 02/26/2025 HBCH mailroom  pg 1/1 --
+RECEIVED MAR 12 2025  - mailroom

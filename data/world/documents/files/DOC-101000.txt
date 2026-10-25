@@ -1,0 +1,18 @@
+Form 1040   U.S. Individual Income Tax Return   2024
+ (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  KAYLA O'BRIEN
+Your social security number: XXX-XX-9394
+Dependents: 2
+Income
+     1a  Total amount from Form(s) W-2, box 1 ...........    94,575.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    94,575.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    94,575.00
+ 12  5tandard deduction ..............................    21,900.00
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Kayla O'Brien        Date: 04/08/2025
+
+FAX RECEIVED 10/17/2025 10:39   P.01

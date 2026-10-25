@@ -1,21 +1,20 @@
-COASTAL VALLEY ENERGY
-6636 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: KAI RUIZ        Emp ID: 75623
-  . : .
-Position: Field technician
-Pay Period: 11/28/2024 - 12/11/2024     Pay Date: 12/16/2024
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             70.34     80.00       5,627.20    146,307.20
-GROSS PAY                                  5,627.20    146,307.20
- DEDUCTIONS
-  Federal Income Tax                       281.36
-  Social Security                          348.88
-  Medicare                                  81.59
-  CA SDI                                    61.89
-NET PAY                                  4,853.48
+OTTER BAY AQUARIUM
+2588 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: MARIA FONOTI-NGUYEN        Emp ID: 93382
+Position: Guest services
+Pay Period: 11/20/2024 - 11/26/2024     Pay Date: 12/01/2024
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.28     17.00         310.76     14,916.48
+GROSS PAY                                     310.76     14,916.48
+DEDUCTIONS
+  Federal Income Tax                        21.75
+  Social Security                           19.26
+  Medicare                                   4.50
+  CA SDI                                     3.41
+NET PAY                                    261.84
 --------------------------------------------------------------
 
--- scanned 01/03/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 01/01/2025 10:58   P.01

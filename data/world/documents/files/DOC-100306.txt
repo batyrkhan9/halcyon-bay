@@ -1,20 +1,21 @@
-CALDER FREIGHT LINE5
-4167 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: NOOR WASHINGTON        Emp ID: 94083
-Position: Driver
-    Pay Period: 01/08/2025 - 01/21/2025     Pay Date: 01/26/2025
+SANDPIPER CHILD CARE CENTER
+7462 COMMERCE WAY   CA
+                           EARNING5 STATEMENT
+Employee: JAE MOORE-ORTIZ        Emp ID: 53572
+Position: Teacher
+Pay Period: 02/06/2025 - 02/19/2025     Pay Date: 02/24/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,516.82      5,033.64
-GROSS PAY                                  2,516.82      5,033.64
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             18.58     65.00       1,207.70      4,830.80
+GROSS PAY                                  1,207.70      4,830.80
 DEDUCTIONS
-  Federal Income Tax                       226.51
-  Social Security                          156.04
-  Medicare                                  36.49
-  CA SD1                                    27.68
-NET PAY                                  2,070.10
+  Federa1 Income Tax                        72.46
+  Social Security                           74.87
+~ ~ .  ,
+  Medicare                                  17.51
+  CA SDI                                    13.28
+NET PAY                                  1,029.58
 --------------------------------------------------------------
 
-FAX RECEIVED 03/13/2025 10:47   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2025]

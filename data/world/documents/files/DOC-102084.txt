@@ -1,21 +1,20 @@
-     TIDEWATER CONSTRUCTION
-6326 HARBOR WAY   CA
-~ ~ .  ,
-                           EARNINGS STATEMENT
-Employee: RAVI FLORES        Emp ID: 42086
-Position: Laborer
-Pay Period: 06/22/2026 - 06/28/2026     Pay Date: 07/03/2026
-Pay Frequency: Weekly
+BLUE KELP SOFTWARE LLC
+    9123 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERESA SUZUKI-HUANG        Emp ID: 88555
+Position: Software engineer
+Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             16.71     37.75         630.80     17,031.60
-GROSS PAY                                    630.80     17,031.60
-DEDUCTIONS
-  Federal Income Tax                        25.23
-  Socia1 Security                           39.11
-  Medicare                                   9.14
-  CA SDI                                     6.93
-NET PAY                                    550.39
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             40.13     80.00       3,210.40     41,735.20
+GRO5S PAY                                  3,210.40     41,735.20
+   DEDUCTIONS
+  Federa1 Income Tax                       353.14
+  Social Security                          199.04
+  Medicare                                  46.55
+  CA SDI                                    35.31
+NET PAY                                  2,576.36
 --------------------------------------------------------------
 
-RECEIVED JUL 20 2026  - mailroom
+-- scanned 07/18/2026 HBCH mailroom  pg 1/1 --

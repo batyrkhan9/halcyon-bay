@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+5759 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: CAROL PATEL        Emp ID: 91157
+Position: Laborer
+Pay Period: 06/30/2025 - 07/13/2025     Pay Date: 07/18/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             17.99     52.00         935.48     14,032.20
+GROSS PAY                                    935.48     14,032.20
+DEDUCTI0NS
+  Federal Income Tax                        84.19
+  Social Security                           58.00
+  Medicare                                  13.56
+  CA SDI                                    10.29
+NET PAY                                    769.44
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/03/2025]

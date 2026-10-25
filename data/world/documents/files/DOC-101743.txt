@@ -1,20 +1,18 @@
-ARROYO VERDE NURSERY
-3485 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: KAVYA CHAVEZ        Emp ID: 44007
-Position: Nursery worker
-Pay Period: 03/22/2026 - 04/04/2026     Pay Date: 04/09/2026
-   Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-5alary                                     4,357.57     34,860.56
-GROSS PAY                                  4,357.57     34,860.56
-DEDUCTIONS
-    Federal Income Tax                       392.18
-  Social Security                          270.16
-  Medicare                                  63.18
-  CA SDI                                    47.93
-  NET PAY                                  3,584.12
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  MANUEL AGUILAR
+Your social security number: XXX-XX-1804
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    51,968.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    51,968.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gr0ss income ...........................    51,968.00
+ 12  Standard deducti0n ..............................    14,600.00
 
-FAX RECEIVED 05/11/2026 10:19   P.01
+Sign Here    Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Manuel Aguilar        Date: 04/15/2026
+
+FAX RECEIVED 05/12/2026 10:32   P.01

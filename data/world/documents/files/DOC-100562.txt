@@ -1,20 +1,21 @@
-CALDER FREIGHT LINES
-4309 MARKET WAY   CA
+LAS BRISAS RESTAURANT GROUP
+5427 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DONALD SATO        Emp ID: 13311
-Position: Driver
-    Pay Period: 04/26/2025 - 05/10/2025     Pay Date: 05/15/2025
-Pay Frequency: Semi-Monthly
+Employee: TUAN SOUZA        Emp ID: 99207
+Position: Line cook
+Pay Period: 04/21/2025 - 05/04/2025     Pay Date: 05/09/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,247.82     20,230.38
-GROSS PAY                                   2,247.82     20,230.38
+_ _ _ _
+Regular             53.11     80.00       4,248.80     42,488.00
+GROSS PAY                                  4,248.80     42,488.00
 DEDUCTIONS
-  Federal Income Tax                        89.91
-   Social Security                          139.36
-  Medicare                                  32.59
-  CA SDI                                    24.72
-NET PAY                                  1,961.24
---------------------------------------------------------------
+    Federal Income Tax                       382.39
+  Social Security                          263.42
+  Medicare                                  61.60
+  CA SDI                                    46.73
+NET PAY                                  3,494.66
+  --------------------------------------------------------------
 
-FAX RECEIVED 05/20/2025 10:20   P.01
+FAX RECEIVED 06/09/2025 10:24   P.01

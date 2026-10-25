@@ -1,21 +1,20 @@
-HARBOR POINT HOTEL
-4822 MARKET WAY   CA
+  SEASIDE DENTAL GROUP
+8259 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DYLAN BRYANT-GALLAGHER        Emp ID: 53928
-Position: Housekeeper
-Pay Period: 05/29/2025 - 06/04/2025      Pay Date: 06/09/2025
-Pay Frequency: Weekly
+Employee: CHLOE GUPTA        Emp ID: 89685
+Position: Dental assistant
+Pay Period: 06/17/2025 - 07/01/2025      Pay Date: 07/06/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,351.23     31,078.29
-GROSS PAY                                  1,351.23     31,078.29
-| |   .
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             23.75     86.67       2,058.41     26,759.33
+ GROSS PAY                                  2,058.41     26,759.33
 DEDUCTIONS
-  Federal Income Tax                       121.61
-  Social Security                           83.77
-  Medicare                                  19.59
-  CA SDI                                    14.86
-NET PAY                                  1,111.40
+  Federal Income Tax                       226.42
+  Social Security                          127.62
+  Medicare                                  29.84
+  CA SDI                                    22.64
+NET PAY                                  1,651.89
 --------------------------------------------------------------
 
-RECEIVED JUN 27 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/18/2025]

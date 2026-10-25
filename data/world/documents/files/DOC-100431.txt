@@ -1,21 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-    8858 COMMERCE WAY   CA
+SANTA LUCITA FARMS
+7744 COMMERCE WAY   CA
                          EARNINGS STATEMENT
- Employee: MEI KEALOHA        Emp ID: 55500
-  . : .
- Position: Instructional aide
-Pay Period: 03/24/2025 - 04/06/2025     Pay Date: 04/11/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-   Regular             28.50     80.00       2,280.00     18,240.00
-GROSS PAY                                  2,280.00     18,240.00
-DEDUCTIONS
-   Federal Income Tax                       136.80
-  Social Security                          141.36
-  Medicare                                  33.06
-   CA SDI                                    25.08
-NET PAY                                  1,943.70
---------------------------------------------------------------
+    Employee: MAI PETROV        Emp ID: 77397
+Position: Field supervisor
+Pay Period: 03/22/2025 - 03/28/2025     Pay Date: 04/02/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      1,155.19     16,172.66
+GROSS PAY                                  1,155.19     16,172.66
+ DEDUCTIONS
+  Federal Income Tax                        92.41
+  Social Security                           71.62
+  Medicare                                  16.75
+  CA SDI                                    12.70
+ NET PAY                                    961.71
+  --------------------------------------------------------------
 
-RECEIVED APR 15 2025  - mailroom
+FAX RECEIVED 04/22/2025 10:46   P.01

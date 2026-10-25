@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+8391 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: HECTOR IYER        Emp ID: 52797
+Position: Field technician
+Pay Period: 12/19/2024 - 01/01/2025     Pay Date: 01/06/2025
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.67     80.00       2,053.60      2,053.60
+GROSS PAY                                  2,053.60      2,053.60
+DEDUCTIONS
+  Federal Income Tax                       205.36
+  Social Security                          127.32
+  Medicare                                  29.77
+  CA SDI                                    22.59
+NET PAY                                  1,668.56
+--------------------------------------------------------------
+
+-- scanned 01/09/2025 HBCH mailroom  pg 1/1 --

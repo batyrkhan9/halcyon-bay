@@ -1,16 +1,21 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 07/01/2026 - 07/31/2026
-Member: DONNA JONES       Account ending 2102
+PORT ELLERY CANNERY CO
+1464 MARKET WAY   CA
+                         EARNINGS STATEMENT
+~ ~ .  ,
+Employee: EDUARDO FLORES        Emp ID: 76272
+Position: Line worker
+Pay Period: 06/30/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,465.21     36,978.15
+GROSS PAY                                  2,465.21     36,978.15
+DEDUCTIONS
+  Federal Income Tax                       172.56
+   Social Security                          152.84
+  Medicare                                  35.74
+  CA SDI                                    27.11
+NET PAY                                  2,076.96
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,660.34
-  Deposits                     1,112.50
-  Withdrawals                 -1,034.62
-  Ending balance               2,738.22
-
-DEPOSITS AND CREDITS
-  08/04  PAYROLL DIR DEP SANTA LUCITA FARMS       1,112.50
-
-  Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 08/17/2026 10:28   P.01
+RECEIVED AUG 11 2026  - mailroom

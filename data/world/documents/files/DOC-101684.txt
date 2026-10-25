@@ -1,20 +1,21 @@
-HARBOR POINT HOTEL
-6124 INDUSTRIAL WAY   CA
+SUNSET C0AST HOME CARE
+   119 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: SUSAN ALMEIDA        Emp ID: 81276
-Position: Housekeeper
-  Pay Period: 03/03/2026 - 03/16/2026     Pay Date: 03/21/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+Employee: ANDREW PHAM        Emp ID: 50772
+Position: Home care aide
+Pay Period: 03/06/2026 - 03/20/2026     Pay Date: 03/25/2026
+    Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             77.72     80.00       6,217.60     37,305.60
-GROSS PAY                                  6,217.60     37,305.60
+Regular             17.57     77.50       1,361.68      8,170.08
+  . : .
+GROSS PAY                                  1,361.68      8,170.08
 DEDUCTIONS
-    Federal Income Tax                       435.23
-  5ocial Security                          385.49
-  Medicare                                  90.15
-      CA SDI                                    68.39
-NET PAY                                  5,238.34
- --------------------------------------------------------------
+  Federal Income Tax                        54.46
+  Social Security                           84.42
+  Medicare                                  19.74
+   CA SDI                                    14.97
+NET PAY                                  1,188.09
+--------------------------------------------------------------
 
-FAX RECEIVED 04/19/2026 10:25   P.01
+RECEIVED MAY 01 2026  - mailroom

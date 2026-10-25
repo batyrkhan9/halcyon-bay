@@ -1,21 +1,17 @@
-POINT CORRIN BOATWORKS
-9573 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: OMAR TORRES        Emp ID: 44103
-Position: Mechanic
-Pay Period: 07/24/2026 - 08/22/2026     Pay Date: 08/27/2026
-Pay Frequency: Monthly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-| |   .
-Regular             16.78     42.25         708.96      5,671.68
-GROSS PAY                                    708.96      5,671.68
-DEDUCTIONS
-   Federal Income Tax                        28.35
-  Social Security                           43.95
-  Medicare                                  10.28
-  CA SDI                                     7.79
-NET PAY                                    618.59
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+ Statement Period 08/01/2026 - 08/31/2026
+Member: ASHLEY HO       Account ending 8529
 
--- scanned 09/04/2026 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning ba1ance            1,122.63
+  Deposits                     7,942.60
+  Withdrawals                 -7,227.76
+  Ending balance               1,837.47
+
+DEPOSITS AND CREDITS
+  08/04  PAYROLL DIR DEP SANDPIPER CHILD CA       3,971.30
+  08/18  PAYROLL DIR DEP SANDPIPER CHILD CA       3,971.30
+
+    Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/05/2026]

@@ -1,0 +1,22 @@
+POINT CORRIN BOATWORKS
+   6223 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Employee: LETICIA KANG        Emp ID: 73679
+Position: Mechanic
+Pay Period: 05/12/2025 - 05/25/2025     Pay Date: 05/30/2025
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      1,678.92     18,468.12
+GROSS PAY                                  1,678.92     18,468.12
+DEDUCTIONS
+  Federal Income Tax                       167.89
+  Social Security                          104.09
+  Medicare                                  24.34
+     CA SDI                                    18.46
+NET PAY                                  1,364.14
+_ _ _ _
+--------------------------------------------------------------
+  includes overtime 3.00 hrs
+
+-- scanned 07/06/2025 HBCH mailroom  pg 1/1 --

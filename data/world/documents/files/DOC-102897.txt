@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-136 INDUSTRIAL WAY   CA
+   CALDER FREIGHT LINES
+4215 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: LARRY TANAKA        Emp ID: 95354
-Position: Line worker
-    Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
-    Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-   Regular             84.84     80.00       6,787.20    115,382.40
-    GROSS PAY                                  6,787.20    115,382.40
+Employee: TUAN HUANG        Emp ID: 47479
+Position: Driver
+   Pay Period: 08/15/2026 - 08/29/2026     Pay Date: 09/03/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     5,711.57     97,096.69
+    GROSS PAY                                  5,711.57     97,096.69
 DEDUCTIONS
-  Federal Income Tax                       271.48
-      Social Security                          420.80
-  Medicare                                  98.41
-  CA SDI                                    74.65
-NET PAY                                  5,921.86
+  Federal Income Tax                       456.92
+   Social Security                          354.11
+  Medicare                                  82.81
+  CA SDI                                    62.82
+NET PAY                                  4,754.91
 --------------------------------------------------------------
 
-RECEIVED SEP 08 2026  - mailroom
+FAX RECEIVED 09/10/2026 10:16   P.01

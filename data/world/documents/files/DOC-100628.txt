@@ -1,20 +1,20 @@
 BLUE KELP SOFTWARE LLC
-2485 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
- Employee: HASSAN IBARRA        Emp ID: 56009
+6036 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: NOAH JOHNSON        Emp ID: 72990
 Position: Software engineer
-Pay Period: 05/03/2025 - 05/16/2025     Pay Date: 05/21/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                       899.37      9,893.07
-GROSS PAY                                    899.37      9,893.07
+ Pay Period: 05/25/2025 - 05/31/2025     Pay Date: 06/05/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Salary                                     2,813.33     64,706.59
+GROSS PAY                                  2,813.33     64,706.59
 DEDUCTIONS
-  Federal Income Tax                        89.93
-  Social Security                           55.76
-  Medicare                                  13.04
-   CA SDI                                     9.89
-NET PAY                                    730.75
+   Federal Income Tax                       112.53
+  Social Security                          174.42
+  Medicare                                  40.79
+  CA SDI                                    30.94
+NET PAY                                  2,454.65
 --------------------------------------------------------------
 
--- scanned 06/02/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/22/2025]

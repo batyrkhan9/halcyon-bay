@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+3262 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE SATO        Emp ID: 54246
+Position: Teacher
+Pay Period: 04/06/2026 - 04/20/2026     Pay Date: 04/25/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             58.33     86.67       5,055.46     40,443.68
+GROSS PAY                                  5,055.46     40,443.68
+DEDUCTIONS
+  Federal Income Tax                       303.32
+  Social Security                          313.43
+  Medicare                                  73.30
+  CA SDI                                    55.61
+NET PAY                                  4,309.80
+--------------------------------------------------------------
+
+RECEIVED JUN 02 2026  - mailroom

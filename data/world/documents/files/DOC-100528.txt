@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-   9067 HARBOR WAY   CA
+SUNSET COAST HOME CARE
+9527 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: RAVI WANG        Emp ID: 92051
-Position: Field supervisor
-Pay Period: 03/23/2025 - 04/06/2025     Pay Date: 04/11/2025
-Pay Frequency: Semi-Monthly
+Employee: VALERIA O'BRIEN        Emp ID: 76830
+P0sition: Home care aide
+Pay Period: 04/19/2025 - 05/03/2025     Pay Date: 05/08/2025
+Pay Frequency: 5emi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.31     86.67       2,106.95     14,748.65
-GROSS PAY                                  2,106.95     14,748.65
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+   Regular            101.45     86.67       8,792.67     79,134.03
+    GROSS PAY                                  8,792.67     79,134.03
 DEDUCTIONS
-   Federal Income Tax                       210.69
-  Social Security                          130.63
-  Medicare                                  30.55
-  CA SDI                                    23.17
-NET PAY                                  1,711.91
+  Federal Income Tax                       879.26
+   Social Security                          545.14
+  Medicare                                 127.49
+  CA SDI                                    96.71
+NET PAY                                  7,144.07
 --------------------------------------------------------------
 
--- scanned 05/11/2025 HBCH mailroom  pg 1/1 --
+RECEIVED JUN 03 2025  - mailroom

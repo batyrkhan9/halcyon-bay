@@ -1,20 +1,20 @@
-    BLUE KELP SOFTWARE LLC
-6002 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-   Employee: VIKRAM LOPEZ        Emp ID: 86498
-Position: Software engineer
-   Pay Period: 08/29/2026 - 09/11/2026     Pay Date: 09/16/2026
-Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,510.46     28,698.74
-GROSS PAY                                  1,510.46     28,698.74
-DEDUCTIONS
-  Federal Income Tax                        90.62
-  Social Security                           93.64
-  Medicare                                  21.90
-  CA SDI                                    16.61
-NET PAY                                  1,287.69
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 08/01/2026 - 08/31/2026
+Member: WILLIAM BRYANT       Account ending 1760
 
-FAX RECEIVED 09/22/2026 10:28   P.01
+CHECKING SUMMARY
+  Beginning balance            2,095.04
+     Deposits                     8,021.10
+  Withdrawals                 -7,379.41
+  Ending balance               2,736.73
+
+DEP0SITS AND CREDITS
+  08/02  PAYROLL DIR DEP MIRADOR GROCERY CO       1,604.22
+   08/09  PAYROLL DIR DEP MIRADOR GROCERY CO       1,604.22
+  08/16  PAYROLL DIR DEP MIRADOR GROCERY CO       1,604.22
+  08/23  PAYROLL DIR DEP MIRADOR GROCERY CO       1,604.22
+  08/30  PAYROLL DIR DEP MIRADOR GROCERY CO       1,604.22
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 09/20/2026 HBCH mailroom  pg 1/1 --

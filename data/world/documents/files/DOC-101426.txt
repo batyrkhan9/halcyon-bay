@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+910 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+  . : .
+Emp1oyee: JOSHUA ANDERSON-ESPINOZA        Emp ID: 67002
+Position: Mechanic
+Pay Period: 01/01/2026 - 01/14/2026     Pay Date: 01/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             68.75     80.00       5,500.00     11,000.00
+GROSS PAY                                  5,500.00     11,000.00
+DEDUCTIONS
+  Federal Income Tax                       275.00
+    Social Security                          341.00
+  Medicare                                  79.75
+   CA SDI                                    60.50
+ NET PAY                                  4,743.75
+--------------------------------------------------------------
+
+RECEIVED FEB 10 2026  - mailroom

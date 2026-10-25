@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-1551 INDUSTRIAL WAY   CA
-                         EARN1NGS STATEMENT
-Employee: JUSTIN PETROV        Emp ID: 18327
- Position: Caregiver
-Pay Period: 08/07/2026 - 08/20/2026     Pay Date: 08/25/2026
+ BAYLINE LOGISTICS INC
+    1357 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RICARDO WALSH        Emp ID: 54162
+Position: Warehouse associate
+Pay Period: 07/18/2026 - 07/31/2026     Pay Date: 08/05/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+_ _ _ _
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              19.94     80.00       1,595.20     27,118.40
-GROSS PAY                                  1,595.20     27,118.40
-DEDUCTIONS
-  Federal Income Tax                       159.52
-  Social Security                           98.90
-  Medicare                                  23.13
-  CA SDI                                    17.54
-NET PAY                                  1,296.11
+Regular             68.19     80.00       5,455.20     87,283.20
+GROSS PAY                                  5,455.20     87,283.20
+  DEDUCTION5
+  Federal Income Tax                       218.20
+  Social Security                          338.22
+  Medicare                                  79.10
+  CA SDI                                    60.00
+NET PAY                                  4,759.68
 --------------------------------------------------------------
 
-FAX RECEIVED 09/04/2026 10:39   P.01
+RECEIVED SEP 05 2026  - mailroom

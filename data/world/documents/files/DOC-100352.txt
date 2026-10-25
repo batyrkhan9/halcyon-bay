@@ -1,20 +1,17 @@
-CALDER FREIGHT LINES
-5878 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: HASSAN ESPINOZA        Emp ID: 50194
-Position: Driver
-Pay Period: 02/04/2025 - 02/17/2025     Pay Date: 02/22/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             17.63     22.50         396.68      1,586.72
-GROSS PAY                                     396.68      1,586.72
-DEDUCTIONS
-  Federal Income Tax                        27.76
-  Social Security                           24.59
-  Medicare                                   5.75
-  CA SDI                                     4.36
-NET PAY                                     334.22
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 03/01/2025 - 03/31/2025
+    Member: ARTURO ADAMS       Account ending 3079
 
-RECEIVED MAR 20 2025  - mailroom
+CHECKING SUMMARY
+  Beginning ba1ance            1,699.63
+   Deposits                     1,162.14
+  Withdrawals                 -1,011.06
+  Ending balance               1,850.71
+
+DEPOSITS AND CREDITS
+  03/13  PAYROLL DIR DEP MIRADOR GROCERY CO         581.07
+  03/27  PAYROLL DIR DEP MIRADOR GROCERY CO         581.07
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/08/2025]

@@ -1,0 +1,20 @@
+  PACIFIC RIM JANITORIAL
+5243 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: AIKO LI        Emp ID: 92372
+Position: Custodian
+Pay Period: 02/23/2025 - 03/08/2025     Pay Date: 03/13/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             55.74     80.00       4,459.20     26,755.20
+GROSS PAY                                  4,459.20     26,755.20
+DEDUCTIONS
+  Federal Income Tax                       401.32
+  Social Security                          276.47
+  Medicare                                  64.65
+  CA SDI                                    49.05
+NET PAY                                  3,667.71
+--------------------------------------------------------------
+
+-- scanned 04/07/2025 HBCH mailroom  pg 1/1 --

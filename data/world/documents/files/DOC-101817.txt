@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+3039 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: PRISCILLA SMITH        Emp ID: 55584
+Position: Mechanic
+Pay Period: 04/05/2026 - 04/18/2026     Pay Date: 04/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             32.13     80.00       2,570.40     23,133.60
+GROSS PAY                                  2,570.40     23,133.60
+DEDUCTIONS
+   Federal Income Tax                       231.33
+   Social Security                          159.36
+  Medicare                                  37.27
+   CA SDI                                    28.27
+NET PAY                                  2,114.17
+--------------------------------------------------------------
+
+-- scanned 05/15/2026 HBCH mailroom  pg 1/1 --

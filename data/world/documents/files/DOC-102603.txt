@@ -1,18 +1,20 @@
-PACIFIC TIDE BANK
-Statement Peri0d 08/01/2026 - 08/09/2026
-Member: CARLOS WALSH       Account ending 1485
+MIRADOR PUBLIC LIBRARY
+3281 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: RAYMOND WU        Emp ID: 66490
+Position: Library assistant
+Pay Period: 07/26/2026 - 08/08/2026     Pay Date: 08/13/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,783.39     30,317.63
+GROSS PAY                                  1,783.39     30,317.63
+DEDUCTIONS
+  Federal Income Tax                       196.17
+      Social 5ecurity                          110.57
+  Medicare                                  25.85
+  CA SDI                                    19.61
+NET PAY                                  1,431.19
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-   Beginning balance            1,484.34
-  Deposits                     2,328.22
-  Withdrawals                 -2,398.06
-  Ending balance               1,414.50
-| |   .
-
-DEPOSITS AND CREDITS
-  08/09  PAYROLL DIR DEP GOLDEN HOUR SENIOR       1,164.11
-   07/25  PAYROLL DIR DEP GOLDEN HOUR SENIOR       1,164.11
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED AUG 22 2026  - mailroom
+RECEIVED AUG 19 2026  - mailroom

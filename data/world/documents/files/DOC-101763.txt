@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-4739 COMMERCE WAY   CA
+MIRADOR GROCERY CO-OP
+3151 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: PEDRO HAYES        Emp ID: 70104
-Position: Warehouse associate
-Pay Period: 04/14/2026 - 04/28/2026     Pay Date: 05/03/2026
-  Pay Frequency: Semi-Month1y
+Employee: ANJALI NGUYEN        Emp ID: 90412
+Position: Cashier
+Pay Period: 01/21/2026 - 02/19/2026     Pay Date: 02/24/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             85.89     86.67       7,444.09     66,996.81
-GROSS PAY                                  7,444.09     66,996.81
+Salary                                     1,388.35      2,776.70
+ GROSS PAY                                  1,388.35      2,776.70
 DEDUCTIONS
-  Federal Income Tax                       446.64
-  Social Security                          461.53
-  Medicare                                 107.93
-  CA SDI                                    81.88
-    NET PAY                                  6,346.11
---------------------------------------------------------------
+  Federal Income Tax                       138.83
+  Social Security                           86.07
+  Medicare                                  20.13
+  CA SDI                                    15.27
+NET PAY                                  1,128.05
+  --------------------------------------------------------------
 
--- scanned 05/12/2026 HBCH mailroom  pg 1/1 --
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

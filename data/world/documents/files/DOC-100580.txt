@@ -1,21 +1,20 @@
-MIRADOR PUBLIC LIBRARY
- 5229 INDUSTRIAL WAY   CA
-| |   .
-                             EARNINGS STATEMENT
-Employee: DONNA ROBINSON        Emp ID: 10415
-Position: Library assistant
-Pay Period: 04/27/2025 - 05/10/2025     Pay Date: 05/15/2025
-  Pay Frequency: Bi-Weekly
+ELLERY HARDWARE 5UPPLY
+537 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESENIA GALLAGHER        Emp ID: 84154
+Position: Sales associate
+Pay Period: 05/11/2025 - 05/17/2025     Pay Date: 05/22/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       968.03      9,680.30
-GROSS PAY                                    968.03      9,680.30
-DEDUCTIONS
-   Federal Income Tax                        58.08
-  Social Security                           60.01
-  Medicare                                  14.03
-  CA SDI                                    10.64
-NET PAY                                    825.27
-   --------------------------------------------------------------
+Regular             18.13     35.75         648.15     13,611.15
+GROSS PAY                                    648.15     13,611.15
+   DEDUCT1ONS
+  Federal Income Tax                        38.88
+  Social Security                           40.18
+  Medicare                                   9.39
+  CA SDI                                     7.13
+NET PAY                                    552.57
+--------------------------------------------------------------
 
-FAX RECEIVED 05/24/2025 10:15   P.01
+FAX RECEIVED 06/11/2025 10:13   P.01

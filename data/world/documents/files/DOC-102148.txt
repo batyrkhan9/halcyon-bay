@@ -1,0 +1,20 @@
+CYPRESS FLAT5 AUTO BODY
+9121 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN MURPHY        Emp ID: 85383
+Position: Technician
+Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      2,326.62     32,572.68
+GROSS PAY                                  2,326.62     32,572.68
+DEDUCTIONS
+  Federal Income Tax                       232.66
+  Social Security                          144.25
+  Medicare                                  33.73
+  CA SDI                                    25.59
+NET PAY                                  1,890.39
+--------------------------------------------------------------
+
+FAX RECEIVED 07/20/2026 10:51   P.01

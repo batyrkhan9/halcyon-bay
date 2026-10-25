@@ -1,20 +1,20 @@
-GOLDEN HOUR SENIOR LIVING
-1971 HARBOR WAY    CA
+COASTAL VALLEY ENERGY
+9365 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: MANUEL LEE        Emp ID: 46735
-Position: Caregiver
-Pay Period: 07/29/2026 - 08/04/2026     Pay Date: 08/09/2026
-Pay Frequency: Weekly
+Employee: RODRIGO TUIASOSOPO        Emp ID: 76627
+Position: Field technician
+Pay Period: 07/14/2026 - 07/27/2026     Pay Date: 08/01/2026
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.28     30.75         531.36     17,003.52
-GROSS PAY                                    531.36     17,003.52
-DEDUCTION5
-  Federal Income Tax                        21.25
-  Social Security                           32.94
-   Medicare                                   7.70
-  CA SDI                                     5.84
-NET PAY                                    463.63
---------------------------------------------------------------
+Regular             42.42     80.00       3,393.60     54,297.60
+GROSS PAY                                  3,393.60     54,297.60
+DEDUCTIONS
+  Federal Income Tax                       203.61
+  Social Security                          210.40
+  Medicare                                  49.20
+  CA SD1                                    37.33
+    NET PAY                                  2,893.06
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/21/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/16/2026]

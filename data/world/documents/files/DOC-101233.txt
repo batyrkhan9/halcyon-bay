@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-8860 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-Employee: MARISOL AGUILAR-SATO        Emp ID: 96360
-Position: Line worker
-Pay Period: 08/15/2025 - 09/13/2025     Pay Date: 09/18/2025
-Pay Frequency: Monthly
+SUNSET COAST HOME CARE
+5639 HARBOR WAY   CA
+                         EARN1NGS STATEMENT
+Employee: LEILANI THOMAS        Emp ID: 82509
+Position: Home care aide
+Pay Period: 11/18/2025 - 12/01/2025     Pay Date: 12/06/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-5alary                                    10,685.77     96,171.93
-GROSS PAY                                 10,685.77     96,171.93
- DEDUCTIONS
-   Federal Income Tax                     1,068.57
-  Social Security                          662.51
-  Medicare                                 154.94
-  CA SDI                                   117.54
-   NET PAY                                  8,682.21
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             89.49     80.00       7,159.20    178,980.00
+GROSS PAY                                  7,159.20    178,980.00
+DEDUCTIONS
+  Federal Income Tax                       286.36
+  Social Security                          443.87
+    Medicare                                 103.80
+  CA SDI                                    78.75
+NET PAY                                  6,246.42
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/29/2025]
+-- scanned 12/26/2025 HBCH mailroom  pg 1/1 --

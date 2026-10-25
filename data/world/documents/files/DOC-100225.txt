@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+ 8769 1NDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JESSICA KUMAR        Emp ID: 58216
+Position: Warehouse associate
+Pay Period: 02/09/2025 - 02/22/2025     Pay Date: 02/27/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       994.23      4,971.15
+| |   .
+GROSS PAY                                     994.23      4,971.15
+DEDUCTIONS
+  Federal Income Tax                        89.48
+  Social Security                           61.64
+  Medicare                                  14.41
+  CA SDI                                    10.93
+NET PAY                                    817.77
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2025]

@@ -1,20 +1,24 @@
- OTTER BAY AQUARIUM
-9774 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANTONIO PEREIRA-WALKER        Emp ID: 65343
-Position: Guest services
-Pay Period: 12/13/2024 - 12/26/2024     Pay Date: 12/31/2024
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,856.15     77,116.05
-GROSS PAY                                  2,856.15     77,116.05
-   DEDUCTIONS
-  Federal Income Tax                       257.05
-  Social Security                          177.08
-  Medicare                                  41.41
-  CA SDI                                    31.41
-NET PAY                                  2,349.20
---------------------------------------------------------------
+PAC1FIC TIDE BANK
+5tatement Period 12/01/2024 - 12/31/2024
+Member: KAYLA MILLER       Account ending 6550
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/18/2025]
+   CHECKING SUMMARY
+  Beginning balance            2,115.51
+  Deposits                    14,976.80
+      Withdrawals                -15,426.10
+  Ending balance               1,666.21
+
+DEPOSITS AND CREDITS
+  12/01  PAYROLL DIR DEP CALDER FREIGHT LIN       2,995.36
+  12/08  PAYROLL DIR DEP CALDER FREIGHT LIN       2,995.36
+  12/15  PAYROLL DIR DEP CALDER FREIGHT LIN       2,995.36
+      12/22  PAYROLL DIR DEP CALDER FREIGHT LIN       2,995.36
+  12/29  PAYROLL DIR DEP CALDER FREIGHT LIN       2,995.36
+
+SAVINGS SUMMARY  (Share Savings ending 1907)
+    Ending balance              20,468.58
+  Dividends paid                   8.18
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JAN 12 2025  - mailroom

@@ -1,0 +1,21 @@
+VISTA SERENA MEDICAL OFFICES
+5986 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+_ _ _ _
+Employee: DUC MOORE        Emp ID: 91503
+Position: Medical receptionist
+Pay Period: 03/05/2025 - 03/18/2025     Pay Date: 03/23/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             98.19     80.00       7,855.20     47,131.20
+GROSS PAY                                  7,855.20     47,131.20
+DEDUCTIONS
+  Federal Income Tax                       471.31
+  Social Security                          487.02
+     Medicare                                 113.90
+      CA SDI                                    86.40
+NET PAY                                  6,696.57
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/10/2025]

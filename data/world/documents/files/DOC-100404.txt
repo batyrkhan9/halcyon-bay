@@ -1,16 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 03/01/2025 - 03/22/2025
-  Member: ROGELIO GONZALEZ       Account ending 3614
+SANDPIPER CHILD CARE CENTER
+  7061 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO CLARK-SANCHEZ        Emp ID: 21319
+P0sition: Teacher
+   Pay Period: 03/17/2025 - 03/30/2025     Pay Date: 04/04/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       554.08      3,878.56
+GROSS PAY                                    554.08      3,878.56
+  DEDUCTIONS
+  Federal Income Tax                        27.70
+  Social Security                           34.35
+   Medicare                                   8.03
+    CA SDI                                     6.09
+NET PAY                                    477.91
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,406.19
-   Deposits                     4,985.76
-      Withdrawals                 -5,035.61
-  Ending balance               1,356.34
-
-DEPOSITS AND CREDITS
-   03/22  PAYROLL DIR DEP BAYLINE LOGISTICS        4,985.76
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/06/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/19/2025]

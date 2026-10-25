@@ -1,17 +1,20 @@
-  MIRADOR GROCERY CO-OP
-7808 MAIN ST
+HARB0R POINT HOTEL
+4204 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: MEGAN MENDOZA-FALEOLO        Emp ID: 20673
+Position: Housekeeper
+Pay Period: 01/23/2026 - 02/21/2026     Pay Date: 02/26/2026
+Pay Frequency: Monthly
+ --------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             59.41    173.33      10,297.54     20,595.08
+GROSS PAY                                 10,297.54     20,595.08
+DEDUCTIONS
+  Federal Income Tax                       823.80
+  Social Security                          638.44
+  Medicare                                 149.31
+   CA SDI                                   113.27
+NET PAY                                  8,572.72
+--------------------------------------------------------------
 
-March 03, 2026
-
-To Whom It May Concern:
-
-This letter confirms that Sharon Navarro has been employed with Mirador Grocery Co-Op since
-| |   .
-January 2024 in the p0sition of Cashier. Their current annual salary is $50,327.00.
-Employment is ongoing. Please contact our office with any questions.
-
-Sincerely,
-Linda Clark
-Human Resources
-
-RECEIVED MAR 19 2026  - mailroom
+RECEIVED MAR 31 2026  - mailroom

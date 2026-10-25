@@ -1,21 +1,21 @@
-    LAS BR1SAS RESTAURANT GROUP
-5841 COMMERCE WAY   CA
+CALDER FREIGHT L1NES
+4258 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ANDREW GALLAGHER        Emp ID: 57417
-Position: Line cook
-Pay Period: 06/26/2026 - 07/10/2026     Pay Date: 07/15/2026
-  . : .
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
+Employee: MALIA CONTRERAS        Emp ID: 15125
+Position: Driver
+Pay Period: 07/11/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.36     86.67       1,591.26     22,277.64
-GROSS PAY                                  1,591.26     22,277.64
+  . : .
+Regu1ar             18.90     40.00         756.00     21,924.00
+GROSS PAY                                    756.00     21,924.00
 DEDUCTIONS
-  Federal Income Tax                       111.38
-  Social Security                           98.65
-  Medicare                                  23.07
-  CA SDI                                    17.50
-NET PAY                                   1,340.66
+  Federal Income Tax                        68.04
+    Social Security                           46.87
+  Medicare                                  10.96
+   CA SD1                                     8.31
+NET PAY                                    621.82
 --------------------------------------------------------------
 
--- scanned 08/04/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 30 2026  - mailroom

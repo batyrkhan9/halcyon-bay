@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+ 4972 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MIN-JI RODRIGUEZ        Emp ID: 60112
+  Position: Technician
+Pay Period: 04/01/2026 - 04/14/2026     Pay Date: 04/19/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,600.40     44,803.20
+GROSS PAY                                  5,600.40     44,803.20
+DEDUCTIONS
+  Federal Income Tax                       336.02
+  Social Security                          347.22
+     Medicare                                  81.20
+   CA SDI                                    61.60
+NET PAY                                  4,774.36
+--------------------------------------------------------------
+
+FAX RECEIVED 05/12/2026 10:54   P.01

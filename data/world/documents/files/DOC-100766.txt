@@ -1,20 +1,21 @@
-SANTA LUCITA FARMS
- 9732 MARKET WAY   CA
+TIDEWATER CONSTRUCTION
+9197 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: BRANDON DOYLE        Emp ID: 19525
-Position: Field supervisor
-Pay Period: 06/26/2025 - 07/09/2025     Pay Date: 07/14/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+  . : .
+Employee: DEEPA PEREIRA        Emp ID: 73847
+Position: Laborer
+  Pay Period: 06/16/2025 - 06/30/2025     Pay Date: 07/05/2025
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.97     80.00       3,757.60     52,606.40
-GROSS PAY                                  3,757.60     52,606.40
-DEDUCTIONS
-  Federal Income Tax                       375.76
-  Social 5ecurity                          232.97
-  Medicare                                  54.48
-   CA SDI                                    41.33
-NET PAY                                  3,053.06
+Regu1ar             18.43     33.25         612.80      7,966.40
+GROSS PAY                                    612.80      7,966.40
+DEDUCT1ONS
+  Federal Income Tax                        61.28
+  Social Security                           37.99
+  Medicare                                   8.88
+  CA SDI                                     6.74
+NET PAY                                    497.91
 --------------------------------------------------------------
 
--- scanned 07/17/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/07/2025 10:58   P.01

@@ -1,20 +1,21 @@
-GOLDEN HOUR SENIOR LIVING
-9518 INDUSTRIAL WAY   CA
+PORT ELLERY CANNERY CO
+7101 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: HANNAH ITO        Emp ID: 75759
-Position: Caregiver
-Pay Period: 06/09/2026 - 06/23/2026     Pay Date: 06/28/2026
-Pay Frequency: Semi-Monthly
+Employee: TUAN JUNG        Emp ID: 90608
+Position: Line worker
+Pay Period: 05/26/2026 - 06/08/2026     Pay Date: 06/13/2026
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                     4,845.09     58,141.08
-GROSS PAY                                  4,845.09     58,141.08
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,206.82     14,481.84
+GROSS PAY                                  1,206.82     14,481.84
 DEDUCTIONS
-  Federal Inc0me Tax                       339.15
-  Social Security                          300.39
-  Medicare                                  70.25
-  CA SDI                                    53.29
-    NET PAY                                  4,082.01
+     Federal Income Tax                        84.47
+  Social Security                           74.82
+  Medicare                                  17.49
+    CA 5DI                                    13.27
+| |   .
+NET PAY                                  1,016.77
 --------------------------------------------------------------
 
--- scanned 07/06/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 05 2026  - mailroom

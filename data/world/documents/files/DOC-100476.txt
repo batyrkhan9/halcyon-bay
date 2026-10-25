@@ -1,21 +1,18 @@
-TIDEWATER CONSTRUCTION
-6614 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: R0SA BRYANT        Emp ID: 80667
-Position: Laborer
-Pay Period: 03/28/2025 - 04/10/2025     Pay Date: 04/15/2025
-  Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                       320.01      2,560.08
-  . : .
-GROSS PAY                                    320.01      2,560.08
-DEDUCTIONS
-  Federal Income Tax                        35.20
-  Social Security                           19.84
-  Medicare                                   4.64
-      CA SDI                                     3.52
-NET PAY                                    256.81
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  MADISON MENDOZA
+ Your social security number: XXX-XX-4346
+Dependents: 0
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    26,035.00
+   8   Additional income from Schedule 1, line 10 ......         0.00
+    9   Total income ....................................    26,035.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    26,035.00
+ 12  Standard deduction ..............................    14,600.00
 
-RECEIVED APR 26 2025  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Madison Mendoza        Date: 04/02/2025
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/11/2025]

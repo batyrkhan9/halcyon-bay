@@ -1,20 +1,20 @@
-    SEASIDE DENTAL GROUP
-2963 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+3702 HARBOR WAY   CA
                          EARNINGS STATEMENT
- Employee: LOGAN GUPTA        Emp ID: 71191
-   Position: Dental assistant
-Pay Period: 02/12/2026 - 03/13/2026     Pay Date: 03/18/2026
-  Pay Frequency: Monthly
---------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-    Regular             18.89     71.75       1,355.36      4,066.08
-GROSS PAY                                  1,355.36      4,066.08
+Employee: TERRELL RAMIREZ        Emp ID: 79532
+Position: Warehouse associate
+Pay Period: 01/07/2026 - 02/05/2026     Pay Date: 02/10/2026
+Pay Frequency: Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar            104.67    173.33      18,142.45     36,284.90
+GROSS PAY                                 18,142.45     36,284.90
 DEDUCTIONS
-   Federal Income Tax                       135.53
-  Social Security                           84.03
-  Medicare                                  19.65
-   CA SDI                                    14.90
-  NET PAY                                  1,101.25
-    --------------------------------------------------------------
+  Federal Income Tax                     1,088.54
+  Social Security                        1,124.83
+  Medicare                                 263.06
+  CA SDI                                   199.56
+NET PAY                                 15,466.46
+   --------------------------------------------------------------
 
-FAX RECEIVED 04/02/2026 10:45   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/14/2026]

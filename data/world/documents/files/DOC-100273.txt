@@ -1,20 +1,20 @@
-CYPRESS FLATS AUTO BODY
-4081 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+1597 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: BEATRIZ KAHANANUI        Emp ID: 77536
-Position: Technician
-Pay Period: 01/23/2025 - 02/05/2025     Pay Date: 02/10/2025
-Pay Frequency: Bi-Weekly
+Employee: TERRELL SALAZAR        Emp ID: 90236
+Position: Warehouse associate
+Pay Period: 02/20/2025 - 02/26/2025     Pay Date: 03/03/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             46.80     80.00       3,744.00     11,232.00
-GROSS PAY                                  3,744.00     11,232.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       576.43      5,187.87
+GROSS PAY                                    576.43      5,187.87
 DEDUCTIONS
-  Federal Income Tax                       224.64
-  Social Security                          232.12
-  Medicare                                  54.28
-     CA SDI                                    41.18
-NET PAY                                   3,191.78
---------------------------------------------------------------
+    Federal Income Tax                        28.82
+  Social Security                           35.73
+  Medicare                                   8.35
+  CA SDI                                     6.34
+NET PAY                                    497.19
+   --------------------------------------------------------------
 
-FAX RECEIVED 03/08/2025 10:52   P.01
+-- scanned 03/15/2025 HBCH mailroom  pg 1/1 --

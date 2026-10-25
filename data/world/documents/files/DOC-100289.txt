@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+2109 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PEDRO CHAVEZ        Emp ID: 42136
+Position: Sales associate
+Pay Period: 02/21/2025 - 02/27/2025     Pay Date: 03/04/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.26     40.00       3,010.40     27,093.60
+GROSS PAY                                  3,010.40     27,093.60
+DEDUCTIONS
+  Federal Income Tax                       120.41
+  Social Security                          186.64
+  Medicare                                  43.65
+  CA SDI                                    33.11
+NET PAY                                  2,626.59
+--------------------------------------------------------------
+
+RECEIVED MAR 21 2025  - mailroom

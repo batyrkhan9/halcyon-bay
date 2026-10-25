@@ -1,16 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 04/01/2026 - 04/11/2026
-Member: MEGAN MITCHELL       Account ending 4993
+BLUE KELP SOFTWARE LLC
+  7836 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+ Employee: GREGORY RA0        Emp ID: 23295
+Position: Software engineer
+Pay Period: 03/28/2026 - 04/10/2026     Pay Date: 04/15/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     30.00         552.30      4,418.40
+GROSS PAY                                    552.30      4,418.40
+DEDUCTIONS
+  Federal Income Tax                        49.70
+   Social Security                           34.24
+    Medicare                                   8.00
+  CA SDI                                     6.07
+NET PAY                                    454.29
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,427.99
-  Deposits                     3,739.63
-      Withdrawa1s                 -3,777.02
-     Ending balance               2,390.60
-
-DEPOSITS AND CREDITS
-  04/11  PAYROLL DIR DEP ELLERY HARDWARE SU       3,739.63
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/15/2026]
+FAX RECEIVED 04/26/2026 10:24   P.01

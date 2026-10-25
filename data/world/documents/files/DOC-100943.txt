@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+7912 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DYLAN SULLIVAN        Emp ID: 76335
+Position: Driver
+   Pay Period: 08/22/2025 - 09/04/2025     Pay Date: 09/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             18.99     52.25         992.23     17,860.14
+GROSS PAY                                    992.23     17,860.14
+DEDUCTIONS
+  Federal Income Tax                        49.61
+  Social Security                           61.51
+  Medicare                                  14.38
+  CA SD1                                    10.91
+NET PAY                                    855.82
+   --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/30/2025]

@@ -1,0 +1,20 @@
+    PORT ELLERY CANNERY CO
+788 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSEFINA SMITH        Emp ID: 96692
+Position: Line worker
+Pay Period: 06/04/2025 - 06/10/2025     Pay Date: 06/15/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.17     32.75         562.32     13,495.68
+GROSS PAY                                    562.32     13,495.68
+DEDUCTIONS
+  Federal Income Tax                        61.85
+  Social Security                           34.86
+  Medicare                                   8.15
+  CA SD1                                     6.18
+NET PAY                                    451.28
+--------------------------------------------------------------
+
+-- scanned 06/19/2025 HBCH mailroom  pg 1/1 --

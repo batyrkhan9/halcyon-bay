@@ -1,20 +1,17 @@
-TIDEWATER CONSTRUCTION
-3798 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: FRANCISCO DO        Emp ID: 26906
-   Position: Laborer
-Pay Period: 06/30/2026 - 07/06/2026     Pay Date: 07/11/2026
-Pay Frequency: Weekly
- --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                       614.74     17,212.72
-GRO5S PAY                                    614.74     17,212.72
-DEDUCTIONS
-  Federal Income Tax                        67.62
-   Social Security                           38.11
-  Medicare                                   8.91
-  CA SDI                                     6.76
-NET PAY                                    493.34
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 06/01/2026 - 06/30/2026
+Member: MIGUEL JUNG       Account ending 2410
 
-FAX RECEIVED 07/18/2026 10:41   P.01
+CHECKING SUMMARY
+   Beginning balance            2,290.98
+   Deposits                       653.68
+     Withdrawals                   -660.21
+     Ending balance               2,284.45
+
+DEPOSITS AND CREDITS
+  06/01  PAYROLL DIR DEP POINT CORRIN BOATW         326.84
+  06/16  PAYROLL DIR DEP POINT CORRIN BOATW         326.84
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 07/15/2026 HBCH mailroom  pg 1/1 --

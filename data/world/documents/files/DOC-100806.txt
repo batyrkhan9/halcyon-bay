@@ -1,21 +1,21 @@
 SANDPIPER CHILD CARE CENTER
-1593 COMMERCE WAY   CA
+1002 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: BRANDON JONES        Emp ID: 19441
+Employee: RONALD ROBINSON        Emp ID: 19106
 Position: Teacher
-    Pay Period: 07/01/2025 - 07/15/2025     Pay Date: 07/20/2025
-Pay Frequency: Semi-Monthly
+Pay Period: 06/16/2025 - 07/15/2025     Pay Date: 07/20/2025
+Pay Frequency: Monthly
 --------------------------------------------------------------
-~ ~ .  ,
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular            117.29     86.67      10,165.52    142,317.28
-GRO5S PAY                                 10,165.52    142,317.28
-    DEDUCTION5
-  Federal Income Tax                       406.62
-  Social Security                          630.26
-  Medicare                                 147.40
-  CA SDI                                   111.82
-NET PAY                                  8,869.42
+Regular             25.23    173.33       4,373.12     30,611.84
+GROSS PAY                                  4,373.12     30,611.84
+DEDUCTIONS
+  Federal Income Tax                       218.65
+  Social Security                          271.13
+  Medicare                                  63.41
+  CA SDI                                    48.10
+NET PAY                                  3,771.83
 --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
-RECEIVED JUL 23 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/24/2025]

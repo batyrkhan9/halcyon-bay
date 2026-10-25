@@ -1,20 +1,21 @@
-  HARBOR POINT HOTEL
-5055 MARKET WAY   CA
+MARISOL CLEANING SERVICES
+3638 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: VIKRAM MOORE-ROMERO        Emp ID: 56954
-Position: Housekeeper
-Pay Period: 12/18/2025 - 12/31/2025     Pay Date: 01/05/2026
-Pay Frequency: Bi-Weekly
+Emp1oyee: ELENA JOSHI        Emp ID: 64646
+    Position: Cleaner
+Pay Period: 01/07/2026 - 01/13/2026     Pay Date: 01/18/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             31.70     80.00       2,536.00      2,536.00
-GROSS PAY                                  2,536.00      2,536.00
- DEDUCTIONS
-  Federal Income Tax                       278.96
-  Social Security                          157.23
-  Medicare                                  36.77
-  CA SDI                                    27.89
-NET PAY                                  2,035.15
+Regular             59.27     40.00       2,370.80      7,112.40
+GROSS PAY                                  2,370.80      7,112.40
+DEDUCTIONS
+~ ~ .  ,
+  Federal Income Tax                       118.54
+  Social Security                          146.99
+  Medicare                                  34.37
+  CA SDI                                    26.07
+NET PAY                                  2,044.83
 --------------------------------------------------------------
 
-FAX RECEIVED 01/23/2026 10:34   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/29/2026]

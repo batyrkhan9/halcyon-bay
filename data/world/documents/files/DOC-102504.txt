@@ -1,19 +1,20 @@
-    Form 1040   U.S. Individual Income Tax Return   2025
- (copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  LINH FUENTES
-Your social security number: XXX-XX-1611
-Dependents: 4
-  Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   223,184.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   223,184.00
-    10  Adjustments to income ...........................         0.00
-_ _ _ _
- 11  Adjusted gross income ...........................   223,184.00
- 12   Standard deduction ..............................    21,900.00
+COASTAL VALLEY ENERGY
+8642 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JIA SILVA        Emp ID: 62855
+Position: Field technician
+Pay Period: 07/12/2026 - 07/25/2026     Pay Date: 07/30/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.57     80.00       2,205.60     35,289.60
+GROSS PAY                                  2,205.60     35,289.60
+DEDUCTIONS
+  Federal Income Tax                       220.56
+  Social Security                          136.74
+  Medicare                                  31.98
+  CA SDI                                    24.26
+NET PAY                                  1,792.06
+--------------------------------------------------------------
 
- Sign Here    Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Linh Fuentes        Date: 04/14/2026
-
--- scanned 08/14/2026 HBCH mailroom  pg 1/1 --
+-- scanned 08/08/2026 HBCH mailroom  pg 1/1 --

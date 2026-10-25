@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-4033 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: SHARON IYER        Emp ID: 26957
-Position: Driver
-Pay Period: 05/02/2026 - 05/16/2026     Pay Date: 05/21/2026
-Pay Frequency: Semi-Monthly
+    SANTA LUCITA FARMS
+8860 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: DEBORAH WATANABE        Emp ID: 84057
+    Position: Field supervisor
+Pay Period: 04/27/2026 - 05/03/2026     Pay Date: 05/08/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             38.19     86.67       3,309.93     33,099.30
-GROSS PAY                                  3,309.93     33,099.30
+Regular             59.48     40.00       2,379.20     45,204.80
+GROSS PAY                                  2,379.20     45,204.80
 DEDUCTIONS
-  Federal Income Tax                       231.69
-  Social Security                          205.21
-  Medicare                                  47.99
-  CA SDI                                    36.40
-NET PAY                                  2,788.64
+  Federal Income Tax                       142.75
+  Social Security                          147.51
+  Medicare                                  34.49
+  CA SDI                                    26.17
+NET PAY                                  2,028.28
 --------------------------------------------------------------
 
-FAX RECEIVED 05/29/2026 10:30   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/17/2026]

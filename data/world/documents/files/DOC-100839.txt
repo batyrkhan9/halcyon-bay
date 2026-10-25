@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-5260 MARKET WAY   CA
+ELLERY HARDWARE SUPPLY
+2964 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSEFINA IYER        Emp ID: 33618
-Position: Guest services
-Pay Period: 07/16/2025 - 07/22/2025     Pay Date: 07/27/2025
-Pay Frequency: Weekly
+Employee: HIROSHI WU        Emp ID: 33786
+Position: Sales associate
+Pay Period: 08/07/2025 - 08/20/2025     Pay Date: 08/25/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.59      8.00         148.72      4,461.60
- GROSS PAY                                    148.72      4,461.60
+EARNING5             RATE      HOURS     THIS PERIOD        YTD
+Regular             26.75     80.00       2,140.00     36,380.00
+GROSS PAY                                  2,140.00     36,380.00
 DEDUCTIONS
-  Federal Income Tax                         7.43
-  Social Security                            9.22
-  Medicare                                   2.15
-  CA SDI                                     1.63
-NET PAY                                    128.29
-   --------------------------------------------------------------
+  Federal Income Tax                       214.00
+      Social Security                          132.68
+  Medicare                                  31.03
+  CA SDI                                    23.54
+NET PAY                                  1,738.75
+--------------------------------------------------------------
 
-RECEIVED AUG 06 2025  - mailroom
+FAX RECEIVED 08/28/2025 10:44   P.01

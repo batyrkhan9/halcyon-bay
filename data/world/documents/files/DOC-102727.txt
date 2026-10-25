@@ -1,16 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/16/2026
-Member: ALYSSA PEREZ       Account ending 6348
+GOLDEN HOUR SENIOR LIVING
+444 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN ABDULLAH        Emp 1D: 28284
+Position: Caregiver
+Pay Period: 07/26/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOUR5     THI5 PERIOD        YTD
+Regular             24.87     40.00         994.80     31,833.60
+GROSS PAY                                    994.80     31,833.60
+DEDUCTIONS
+     Federal Income Tax                        99.48
+     Social Security                           61.67
+  Medicare                                  14.42
+  CA SDI                                    10.94
+NET PAY                                    808.29
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,036.18
-  Deposits                     3,794.13
-  Withdrawals                 -3,414.71
-   Ending balance               2,415.60
-
-DEPOSITS AND CREDITS
-  08/16  PAYROLL DIR DEP HALCYON BAY UNIFIE       3,794.13
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/31/2026 HBCH mailroom  pg 1/1 --
+-- scanned 08/29/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+7762 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUSAN RIVERA        Emp ID: 53197
+Position: Technician
+Pay Period: 01/23/2025 - 02/05/2025     Pay Date: 02/10/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                       715.52      2,146.56
+GROSS PAY                                    715.52      2,146.56
+DEDUCTIONS
+  Federal Income Tax                        28.62
+  Social Security                           44.36
+  Medicare                                  10.37
+  CA SDI                                     7.87
+NET PAY                                    624.30
+--------------------------------------------------------------
+
+FAX RECEIVED 03/08/2025 10:14   P.01

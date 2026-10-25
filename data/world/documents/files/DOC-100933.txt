@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+7043 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: MARISOL MITCHELL        Emp ID: 63422
+Position: Cleaner
+Pay Period: 08/23/2025 - 09/05/2025     Pay Date: 09/10/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERI0D        YTD
+Regular             32.17     80.00       2,573.60     48,898.40
+GROSS PAY                                  2,573.60     48,898.40
+DEDUCTIONS
+  Federal Income Tax                       231.62
+  Social Security                          159.56
+  Medicare                                  37.31
+  CA SDI                                    28.31
+NET PAY                                  2,116.80
+--------------------------------------------------------------
+
+FAX RECEIVED 09/28/2025 10:19   P.01

@@ -1,20 +1,21 @@
 MIRADOR PUBLIC LIBRARY
-2395 INDUSTRIAL WAY   CA
+ 9240 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: BRENDA MITCHELL        Emp ID: 77577
-Position: Library assistant
-Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
-   Pay Frequency: Bi-Weekly
+ Employee: TANISHA DELGADO        Emp ID: 39310
+  Position: Library assistant
+Pay Period: 06/18/2026 - 06/24/2026     Pay Date: 06/29/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.19     69.00       1,255.11     17,571.54
-GROSS PAY                                  1,255.11     17,571.54
-DEDUCTION5
-  Federal Income Tax                       112.95
-  Social Security                           77.81
-  Medicare                                  18.19
-  CA SDI                                    13.80
-NET PAY                                  1,032.36
+Regular             36.45     40.00       1,458.00     37,908.00
+    GROSS PAY                                  1,458.00     37,908.00
+DEDUCTIONS
+  Federal Income Tax                       102.06
+  Social Security                           90.39
+  Medicare                                  21.14
+  CA SDI                                    16.03
+  . : .
+ NET PAY                                  1,228.38
 --------------------------------------------------------------
 
-FAX RECEIVED 07/19/2026 10:33   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/17/2026]

@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-8266 HARBOR WAY   CA
+PACIFIC RIM JANITORIAL
+ 4567 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: DESTINY SINGH         Emp ID: 47588
-Position: Housekeeper
-Pay Period: 06/15/2025 - 07/14/2025     Pay Date: 07/19/2025
-Pay Frequency: Monthly
+Employee: SUNITA COLEMAN        Emp ID: 63576
+Position: Custodian
+Pay Period: 09/13/2025 - 09/26/2025     Pay Date: 10/01/2025
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             18.66     82.25       1,534.78     10,743.46
-GROSS PAY                                  1,534.78     10,743.46
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.49     80.00       1,719.20     34,384.00
+GROSS PAY                                   1,719.20     34,384.00
 DEDUCTIONS
-  Federal Income Tax                       107.43
-  Social Security                           95.15
-   Medicare                                  22.25
-  CA SDI                                    16.88
-NET PAY                                  1,293.07
+   Federal Income Tax                       103.15
+   Social 5ecurity                          106.59
+  Medicare                                  24.92
+  CA SDI                                    18.91
+NET PAY                                  1,465.63
 --------------------------------------------------------------
 
-FAX RECEIVED 09/04/2025 10:58   P.01
+-- scanned 10/13/2025 HBCH mailroom  pg 1/1 --

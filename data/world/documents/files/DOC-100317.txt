@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+1848 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MADISON JEFFERSON        Emp ID: 17256
+Position: Technician
+Pay Period: 12/10/2024 - 01/08/2025     Pay Date: 01/13/2025
+Pay Frequency: Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,867.51      1,867.51
+GROSS PAY                                  1,867.51      1,867.51
+ DEDUCTIONS
+  Federal Income Tax                       205.42
+  Social Security                          115.78
+      Medicare                                  27.07
+  CA SDI                                    20.54
+NET PAY                                  1,498.70
+--------------------------------------------------------------
+
+FAX RECEIVED 03/28/2025 10:19   P.01

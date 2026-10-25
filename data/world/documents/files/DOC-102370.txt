@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-5280 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: ARJUN SULLIVAN        Emp ID: 92644
-Position: Laborer
-Pay Period: 07/11/2026 - 07/17/2026     Pay Date: 07/22/2026
-Pay Frequency: Weekly
+POINT CORRIN BOATWORKS
+    7483 HARBOR WAY   CA
+                             EARNINGS STATEMENT
+Employee: FRANCISCO HAYES        Emp ID: 28114
+Position: Mechanic
+Pay Period: 07/03/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             30.09     40.00       1,203.60     34,904.40
-GROSS PAY                                  1,203.60     34,904.40
+Regular             24.04     86.67       2,083.55     29,169.70
+GROSS PAY                                  2,083.55     29,169.70
 DEDUCTIONS
-  Federal Income Tax                        72.21
-  Social Security                           74.62
-  Medicare                                  17.45
-  CA SDI                                    13.24
-NET PAY                                  1,026.08
+  Federal Income Tax                       104.17
+  Socia1 Security                          129.18
+  Medicare                                  30.21
+  CA SDI                                    22.91
+NET PAY                                  1,797.08
 --------------------------------------------------------------
+  includes overtime 1.50 hrs
 
-FAX RECEIVED 08/05/2026 10:26   P.01
+RECEIVED AUG 01 2026  - mailroom

@@ -1,20 +1,17 @@
-OTTER BAY AQUARIUM
-8669 HARBOR WAY    CA
-                            EARNINGS STATEMENT
-    Employee: RAVI JONES        Emp ID: 21158
-  Position: Guest services
-Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.24     86.67       3,054.25     39,705.25
-GROSS PAY                                  3,054.25     39,705.25
-DEDUCTIONS
-  Federal Income Tax                       122.17
-  Social Security                          189.36
-  Medicare                                  44.28
-  CA SDI                                    33.59
-NET PAY                                  2,664.85
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 06/01/2026 - 06/30/2026
+Member: ETHAN MURPHY       Account ending 6903
 
-FAX RECEIVED 07/24/2026 10:58   P.01
+CHECKING SUMMARY
+  Beginning balance            2,783.57
+  Deposits                     3,780.78
+  Withdrawals                 -3,894.20
+  Ending balance               2,670.15
+
+DEPOSITS AND CREDITS
+  06/09  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,890.39
+  06/23  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,890.39
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]

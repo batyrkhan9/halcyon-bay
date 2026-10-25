@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-3610 HARBOR WAY   CA
+    SUNSET COAST HOME CARE
+3972 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIO CARTER        Emp ID: 16366
- Position: Laborer
-Pay Period: 06/27/2025 - 07/10/2025     Pay Date: 07/15/2025
+Employee: JORGE DESAI        Emp ID: 77797
+Position: Home care aide
+Pay Period: 06/30/2025 - 07/13/2025     Pay Date: 07/18/2025
 Pay Frequency: Bi-Weekly
-  --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,663.29     51,286.06
-GROSS PAY                                  3,663.29     51,286.06
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       983.64     14,754.60
+GROSS PAY                                    983.64     14,754.60
 DEDUCTIONS
-  Federal Income Tax                       146.53
-  Social Security                          227.12
-      Medicare                                  53.11
-  CA SDI                                    40.29
-NET PAY                                  3,196.24
-  --------------------------------------------------------------
+  Federal Income Tax                        98.36
+  Social Security                           60.98
+  Medicare                                  14.26
+  CA SDI                                    10.82
+NET PAY                                    799.22
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/22/2025]
+-- scanned 08/12/2025 HBCH mailroom  pg 1/1 --

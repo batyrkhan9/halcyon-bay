@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 12/01/2024 - 12/30/2024
-Member: KA1 RUIZ       Account ending 5378
+ HALCYON BAY UNIFIED SCHOOL DIST
+1849 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANK LI        Emp ID: 45658
+Position: Instructional aide
+Pay Period: 10/22/2024 - 11/20/2024      Pay Date: 11/25/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.68    173.33       6,184.41     68,028.51
+GROSS PAY                                  6,184.41     68,028.51
+DEDUCTIONS
+  Federal Income Tax                       309.22
+  Social Security                          383.43
+  Medicare                                  89.67
+  CA SDI                                    68.02
+NET PAY                                  5,334.07
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,703.05
-  Deposits                     8,778.42
-  Withdrawals                 -8,076.14
-  Ending balance               2,405.33
-
-DEPO5ITS AND CRED1TS
-  12/30  PAYROLL DIR DEP COASTAL VALLEY ENE       4,389.21
-  12/16  PAYROLL DIR DEP COASTAL VALLEY ENE       4,389.21
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 01/03/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/01/2025]

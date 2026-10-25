@@ -1,20 +1,21 @@
-SANTA LUCITA FARMS
-4015 HARB0R WAY   CA
+  MIRADOR PUBLIC LIBRARY
+5592 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: PEDRO CARTER        Emp ID: 46648
-Position: Field supervisor
-    Pay Period: 04/11/2026 - 05/10/2026     Pay Date: 05/15/2026
-Pay Frequency: Monthly
+Employee: TANISHA DELGADO        Emp ID: 39310
+Position: Library assistant
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
+  Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             45.69    173.33       7,919.45     39,597.25
-GROSS PAY                                  7,919.45     39,597.25
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             36.45     40.00       1,458.00     39,366.00
+| |   .
+GROSS PAY                                  1,458.00     39,366.00
 DEDUCTIONS
-  Federal Income Tax                       871.13
-  Social Security                          491.00
-  Medicare                                 114.83
-   CA SD1                                    87.11
-   NET PAY                                  6,355.38
---------------------------------------------------------------
+   Federal Income Tax                       102.06
+  Social 5ecurity                           90.39
+  Medicare                                  21.14
+  CA SDI                                    16.03
+NET PAY                                  1,228.38
+ --------------------------------------------------------------
 
-RECEIVED JUL 19 2026  - mailroom
+RECEIVED JUL 17 2026  - mailroom

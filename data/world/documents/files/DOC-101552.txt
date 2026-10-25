@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-9361 COMMERCE WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+   3426 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-| |   .
-  Employee: AHMED WANG        Emp ID: 37832
-Position: Mechanic
-Pay Period: 02/16/2026 - 03/01/2026     Pay Date: 03/06/2026
-Pay Frequency: Bi-Weekly
+Employee: LUCIA DO        Emp ID: 76409
+Position: Instructional aide
+Pay Period: 03/08/2026 - 03/14/2026     Pay Date: 03/19/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.05     39.25         708.46      3,542.30
-GROSS PAY                                     708.46      3,542.30
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             17.14     25.50         437.07      5,244.84
+  GROSS PAY                                    437.07      5,244.84
 DEDUCTIONS
-   Federal Income Tax                        42.50
-  Social Security                           43.92
-  Medicare                                  10.27
-  CA SDI                                     7.79
-NET PAY                                    603.98
+  Federal Income Tax                        34.96
+  Social Security                           27.09
+      Medicare                                   6.33
+  CA SDI                                     4.80
+NET PAY                                    363.89
 --------------------------------------------------------------
 
-FAX RECEIVED 03/14/2026 10:50   P.01
+-- scanned 03/28/2026 HBCH mailroom  pg 1/1 --

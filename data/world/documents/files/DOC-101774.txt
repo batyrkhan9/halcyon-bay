@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-5004 MARKET WAY   CA
-                         EARN1NGS STATEMENT
-Employee: JAMAL ZAMORA        Emp ID: 47341
-Position: Technician
-Pay Period: 03/22/2026 - 04/20/2026     Pay Date: 04/25/2026
-Pay Frequency: Monthly
-| |   .
- --------------------------------------------------------------
+POINT CORRIN BOATWORKS
+513 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOAH HERRERA        Emp ID: 84009
+Position: Mechanic
+Pay Period: 03/22/2026 - 04/04/2026     Pay Date: 04/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.20    173.33       4,541.25     18,165.00
-GROSS PAY                                  4,541.25     18,165.00
+Regular             17.76     74.00       1,314.24     10,513.92
+ GROSS PAY                                  1,314.24     10,513.92
 DEDUCTIONS
-  Federal Income Tax                       499.53
-    Social Security                          281.55
-  Medicare                                  65.84
-  CA SDI                                    49.95
-NET PAY                                  3,644.38
+  Federal Income Tax                       118.28
+  Social Security                           81.48
+  Medicare                                  19.05
+  CA SDI                                    14.45
+NET PAY                                  1,080.98
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+RECEIVED MAY 13 2026  - mailroom

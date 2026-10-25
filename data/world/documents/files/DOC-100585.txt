@@ -1,0 +1,20 @@
+LAS BRISAS RESTAURANT GROUP
+122 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAREN COLEMAN        Emp ID: 25041
+Position: Line cook
+Pay Period: 05/16/2025 - 05/30/2025     Pay Date: 06/04/2025
+ Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,354.36     47,897.96
+GROSS PAY                                  4,354.36     47,897.96
+DEDUCTIONS
+  Federal Income Tax                       348.34
+   Social Security                          269.97
+  Medicare                                  63.13
+  CA SDI                                    47.89
+NET PAY                                  3,625.03
+--------------------------------------------------------------
+
+FAX RECEIVED 06/13/2025 10:50   P.01

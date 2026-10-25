@@ -1,21 +1,21 @@
-POINT CORRIN BOATWORKS
-5717 HARBOR WAY   CA
+HARBOR POINT HOTEL
+9726 1NDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-| |   .
-    Employee: LUCIA RAO        Emp ID: 62861
-Position: Mechanic
-Pay Period: 12/10/2024 - 12/23/2024     Pay Date: 12/28/2024
-Pay Frequency: Bi-Weekly
+Employee: MANUEL BANKS        Emp 1D: 73575
+Position: Housekeeper
+Pay Period: 01/01/2025 - 01/07/2025     Pay Date: 01/12/2025
+_ _ _ _
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,401.94     36,450.44
-GROSS PAY                                  1,401.94     36,450.44
+Regular             28.37     40.00       1,134.80      2,269.60
+    GROSS PAY                                  1,134.80      2,269.60
 DEDUCTIONS
-   Federal Income Tax                       140.19
-   Socia1 Security                           86.92
-  Medicare                                  20.32
-  CA SDI                                    15.42
-NET PAY                                  1,139.09
+  Federal Income Tax                       102.13
+     Social Security                           70.35
+  Medicare                                  16.45
+  CA SDI                                    12.48
+NET PAY                                    933.39
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/24/2025]
+RECEIVED JAN 22 2025  - mailroom

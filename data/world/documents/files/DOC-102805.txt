@@ -1,17 +1,18 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 08/01/2026 - 08/20/2026
-Member: ARJUN WHITE       Account ending 8184
+Form 1040    U.S. Individual 1ncome Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  KENJI WALKER
+    Your social security number: XXX-XX-7686
+Dependents: 2
+    Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   153,289.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+   9   Total income ....................................   153,289.00
+ 10  Adjustments to income ...........................         0.00
+   11  Adjusted gross income ...........................   153,289.00
+ 12  Standard deduction ..............................    21,900.00
 
-CHECKING SUMMARY
-  Beginning ba1ance              862.84
-  Deposits                     6,173.84
-    Withdrawals                 -6,112.10
-  Ending balance                 924.58
-
-DEPOSITS AND CREDITS
-    08/20  PAYROLL DIR DEP CALDER FREIGHT LIN       3,086.92
-  08/13  PAYROLL DIR DEP CALDER FREIGHT LIN       3,086.92
-
-   Thank you for banking with us.  Page 1 of 2
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Kenji Walker        Date: 04/05/2026
 
 [HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/04/2026]

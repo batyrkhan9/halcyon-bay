@@ -1,20 +1,21 @@
-SANTA LUCITA FARMS
-   4588 MARKET WAY   CA
+SUNSET COAST HOME CARE
+3937 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: PRISCILLA JUNG        Emp ID: 87679
-Position: Field supervisor
-Pay Period: 07/02/2026 - 07/08/2026     Pay Date: 07/13/2026
-Pay Frequency: Weekly
+ Employee: DONALD SHAH        Emp ID: 86210
+Position: Home care aide
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
+~ ~ .  ,
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.35     21.50         373.02     10,444.56
- GROSS PAY                                    373.02     10,444.56
-   DEDUCTIONS
-  Federal Income Tax                        14.92
-  Social Security                           23.12
-  Medicare                                   5.40
-  CA SDI                                     4.10
-NET PAY                                    325.48
-    --------------------------------------------------------------
+Regu1ar            100.21     80.00       8,016.80    104,218.40
+  GROSS PAY                                  8,016.80    104,218.40
+DEDUCTIONS
+  Federa1 Income Tax                       561.17
+      Social Security                          497.04
+  Medicare                                 116.24
+  CA SDI                                    88.18
+NET PAY                                  6,754.17
+--------------------------------------------------------------
 
--- scanned 07/25/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 07/22/2026 10:23   P.01

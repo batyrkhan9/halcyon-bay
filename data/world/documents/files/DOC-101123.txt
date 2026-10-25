@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL D1ST
+3900 INDUSTRIAL WAY    CA
+                             EARNINGS STATEMENT
+Employee: JORGE CHEN        Emp ID: 72313
+Position: Instructional aide
+Pay Period: 08/29/2025 - 09/27/2025     Pay Date: 10/02/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       847.16      8,471.60
+GROSS PAY                                    847.16      8,471.60
+DEDUCTIONS
+  Federal Income Tax                        59.30
+      Social Security                           52.52
+  Medicare                                  12.28
+  CA SDI                                     9.31
+NET PAY                                    713.75
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/15/2025]

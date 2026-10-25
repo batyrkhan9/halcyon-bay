@@ -1,0 +1,20 @@
+MARISOL CLEANING SERVICES
+ 7915 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SUNITA LE        Emp ID: 17157
+Position: Cleaner
+Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.35     46.75         857.86     12,010.04
+GROSS PAY                                    857.86     12,010.04
+    DEDUCTIONS
+  Federal Income Tax                        68.62
+  Social Security                           53.18
+    Medicare                                  12.43
+  CA SDI                                     9.43
+NET PAY                                    714.20
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/16/2026]

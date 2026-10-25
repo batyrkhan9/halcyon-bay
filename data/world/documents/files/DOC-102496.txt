@@ -1,17 +1,20 @@
-C0ASTLINE SAVINGS BANK
-Statement Period 07/01/2026 - 07/31/2026
-Member: AALIYAH PEREZ       Account ending 4628
+PORT ELLERY CANNERY CO
+9825 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN QUINN        Emp ID: 78021
+Position: Line worker
+ Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,516.87     21,236.18
+   GROSS PAY                                  1,516.87     21,236.18
+DEDUCTIONS
+  Federal Income Tax                       136.51
+  Social Security                           94.04
+  Medicare                                  21.99
+  CA SDI                                    16.68
+NET PAY                                  1,247.65
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              975.87
-  Deposits                     3,478.16
-  Withdrawals                 -3,339.03
-     Ending balance               1,115.00
-
-DEPOSITS AND CREDITS
-    07/31  PAYROLL DIR DEP CALDER FREIGHT LIN       1,739.08
-  07/17  PAYROLL DIR DEP CALDER FREIGHT LIN       1,739.08
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/14/2026]
+FAX RECEIVED 08/07/2026 10:46   P.01

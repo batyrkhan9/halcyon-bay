@@ -1,20 +1,21 @@
-LAS BRISAS RESTAURANT GROUP
-1903 MARKET WAY   CA
+ARROYO VERDE NURSERY
+7924 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: MANUEL PETROV        Emp ID: 57533
-Position: Line cook
-   Pay Period: 06/09/2026 - 06/22/2026     Pay Date: 06/27/2026
-Pay Frequency: Bi-Weekly
+Employee: HIROSHI IBARRA        Emp ID: 75884
+    Position: Nursery worker
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular             18.97      9.00         170.73      2,219.49
-GROSS PAY                                    170.73      2,219.49
-   DEDUCTIONS
-   Federal Income Tax                        11.95
-  Social Security                           10.58
-  Medicare                                   2.47
-  CA SDI                                     1.87
-  NET PAY                                    143.86
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,969.54     27,573.56
+GROSS PAY                                  1,969.54     27,573.56
+  DEDUCT1ONS
+  Federal Income Tax                       196.95
+      Social Security                          122.11
+  Medicare                                  28.55
+  CA SDI                                    21.66
+NET PAY                                  1,600.27
+  --------------------------------------------------------------
+  includes overtime 3.00 hrs
 
-RECEIVED JUL 08 2026  - mailroom
+RECEIVED JUL 09 2026  - mailroom

@@ -1,21 +1,21 @@
- SANTA LUCITA FARMS
-3895 MARKET WAY   CA
+COASTAL VALLEY ENERGY
+3988 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-_ _ _ _
-Employee: TOMASZ RAHMAN        Emp ID: 93410
-Position: Field supervisor
-Pay Period: 01/25/2026 - 02/07/2026      Pay Date: 02/12/2026
-Pay Frequency: Bi-Weekly
+Employee: DEEPA LIN        Emp ID: 29368
+Position: Field technician
+  Pay Period: 02/09/2026 - 02/23/2026     Pay Date: 02/28/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       376.26      1,505.04
-GROSS PAY                                    376.26      1,505.04
+Regular             58.17     86.67       5,041.59     20,166.36
+GROSS PAY                                  5,041.59     20,166.36
 DEDUCTIONS
-  Federal Income Tax                        41.38
-  Social Security                           23.32
-  Medicare                                   5.45
-  CA SDI                                     4.13
-NET PAY                                    301.98
+  Federal Income Tax                       201.66
+  Social Security                          312.57
+  Medicare                                  73.10
+   CA SDI                                    55.45
+NET PAY                                   4,398.81
 --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-FAX RECEIVED 02/27/2026 10:36   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/09/2026]

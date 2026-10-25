@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 12/01/2024 - 12/08/2024
-Member: GRACE PATEL       Account ending 4802
+CALDER FREIGHT LINES
+5811 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE KANG        Emp ID: 59700
+Position: Driver
+Pay Period: 10/17/2024 - 10/30/2024     Pay Date: 11/04/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.43     14.00         244.02      5,612.46
+  GROSS PAY                                    244.02      5,612.46
+DEDUCTIONS
+  Federal Income Tax                        24.40
+  Social Security                           15.12
+      Medicare                                   3.53
+  CA SDI                                     2.68
+NET PAY                                    198.29
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-   Beginning balance            1,744.65
-  Deposits                    18,905.74
-  Withdrawals                -16,447.99
-  Ending balance               4,202.40
-
-DEPOSITS AND CREDITS
-     12/08  PAYROLL DIR DEP ELLERY HARDWARE SU       9,452.87
-  11/23  PAYROLL DIR DEP ELLERY HARDWARE SU       9,452.87
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED DEC 15 2024  - mailroom
+-- scanned 12/09/2024 HBCH mailroom  pg 1/1 --

@@ -1,21 +1,21 @@
- SEASIDE DENTAL GROUP
-2935 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: KEISHA CARTER        Emp ID: 12174
-Position: Dental assistant
-Pay Period: 08/18/2025 - 08/31/2025     Pay Date: 09/05/2025
+BAYLINE LOGISTICS INC
   . : .
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+ 9125 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: ROHAN CARTER-JACKSON        Emp ID: 25858
+Position: Warehouse associate
+Pay Period: 09/16/2025 - 10/15/2025     Pay Date: 10/20/2025
+ Pay Frequency: Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,194.77     39,505.86
-GROSS PAY                                  2,194.77     39,505.86
-   DEDUCTIONS
-  Federal Income Tax                       219.47
-  Social Security                          136.07
-  Medicare                                  31.82
-  CA SDI                                    24.14
-NET PAY                                  1,783.27
+Regular             21.20    173.33       3,674.60     36,746.00
+GROSS PAY                                  3,674.60     36,746.00
+DEDUCTIONS
+  Federal Income Tax                       330.71
+  Social Security                          227.82
+   Medicare                                  53.28
+  CA SDI                                    40.42
+NET PAY                                  3,022.37
 --------------------------------------------------------------
 
--- scanned 09/27/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/29/2025]

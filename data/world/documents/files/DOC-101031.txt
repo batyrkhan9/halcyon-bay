@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+3062 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: MARISOL KING        Emp ID: 15185
+Position: Mechanic
+Pay Period: 09/11/2025 - 09/24/2025     Pay Date: 09/29/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,392.06     87,841.20
+GROSS PAY                                  4,392.06     87,841.20
+DEDUCTIONS
+  Federal Income Tax                       219.60
+  5ocial Security                          272.30
+  Medicare                                  63.68
+     CA SDI                                    48.31
+NET PAY                                  3,788.17
+_ _ _ _
+--------------------------------------------------------------
+
+-- scanned 10/22/2025 HBCH mailroom  pg 1/1 --

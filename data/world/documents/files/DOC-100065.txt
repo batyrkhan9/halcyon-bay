@@ -1,20 +1,21 @@
-BAYLINE LOGISTICS INC
-5517 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: EDUARDO KING        Emp ID: 66845
- Position: Warehouse associate
-Pay Period: 12/06/2024 - 12/12/2024     Pay Date: 12/17/2024
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,275.04    218,027.04
-GROSS PAY                                  4,275.04    218,027.04
-DEDUCTIONS
-  Federal Income Tax                       384.75
-  Social Security                          265.05
-      Medicare                                  61.98
-  CA SDI                                    47.02
-NET PAY                                  3,516.24
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 11/01/2024 - 11/30/2024
+Member: DYLAN LE       Account ending 9849
 
-FAX RECEIVED 01/01/2025 10:41   P.01
+CHECKING SUMMARY
+  Beginning balance              478.37
+  Deposits                     2,102.00
+  Withdrawals                 -1,933.84
+  Ending balance                 646.53
+
+DEPOSITS AND CREDITS
+      11/08  PAYROLL DIR DEP PORT ELLERY CANNER       1,051.00
+  11/22  PAYROLL DIR DEP PORT ELLERY CANNER       1,051.00
+
+SAVINGS SUMMARY  (Share Savings ending 2963)
+  Ending balance              27,183.71
+  Dividends paid                  10.87
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/30/2024]

@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+4642 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: VIKRAM WHITE        Emp ID: 63956
+Position: Laborer
+  Pay Period: 06/30/2026 - 07/29/2026     Pay Date: 08/03/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             18.73    109.00       2,041.57     16,332.56
+GROSS PAY                                  2,041.57     16,332.56
+DEDUCTIONS
+  Federal Income Tax                       163.32
+    Social Security                          126.57
+  Medicare                                  29.60
+  CA SD1                                    22.45
+NET PAY                                  1,699.63
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2026  - mailroom

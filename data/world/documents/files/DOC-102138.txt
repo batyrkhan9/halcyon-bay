@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-4527 HARBOR WAY   CA
+SEASIDE DENTAL GROUP
+3194 COMMERCE WAY   CA
                          EARNINGS STATEMENT
- Employee: RONALD IBARRA         Emp ID: 51899
-Position: Custodian
-Pay Period: 06/04/2026 - 07/03/2026     Pay Date: 07/08/2026
-Pay Frequency: Monthly
-   --------------------------------------------------------------
+  Employee: ROBERT CHOI        Emp ID: 71406
+ Position: Dental assistant
+Pay Period: 05/30/2026 - 06/12/2026     Pay Date: 06/17/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                     5,714.67     40,002.69
-  . : .
-GROSS PAY                                  5,714.67     40,002.69
+Regular             18.44     48.25         889.73     10,676.76
+GROSS PAY                                    889.73     10,676.76
 DEDUCTIONS
-  Federal Income Tax                       400.02
-  Social Security                          354.31
-  Medicare                                  82.86
-  CA SDI                                    62.86
- NET PAY                                  4,814.62
+  Federal Income Tax                        62.28
+   Social Security                           55.16
+  Medicare                                  12.90
+  CA SDI                                     9.78
+~ ~ .  ,
+    NET PAY                                    749.61
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]
+FAX RECEIVED 07/19/2026 10:34   P.01

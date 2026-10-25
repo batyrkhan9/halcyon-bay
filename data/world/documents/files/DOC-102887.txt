@@ -1,0 +1,21 @@
+ PORT ELLERY CANNERY CO
+8560 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: STEVEN PEREZ        Emp ID: 80493
+Position: Line worker
+Pay Period: 07/30/2026 - 08/12/2026     Pay Date: 08/17/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             18.44     19.25         354.97      6,034.49
+GROSS PAY                                    354.97      6,034.49
+| |   .
+DEDUCTIONS
+  Federal Income Tax                        17.74
+  Social Security                           22.00
+  Medicare                                   5.14
+   CA SDI                                     3.90
+NET PAY                                    306.19
+--------------------------------------------------------------
+
+FAX RECEIVED 09/09/2026 10:25   P.01

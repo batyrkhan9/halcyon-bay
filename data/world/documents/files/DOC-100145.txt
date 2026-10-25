@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+2780 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: BAO THOMAS        Emp ID: 43097
+Position: Laborer
+  Pay Period: 01/04/2025 - 01/10/2025     Pay Date: 01/15/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                        665.03      1,995.09
+   GROSS PAY                                    665.03      1,995.09
+DEDUCTIONS
+  Federal Income Tax                        73.15
+  Social Security                           41.23
+  Medicare                                   9.64
+  CA SDI                                     7.31
+NET PAY                                    533.70
+--------------------------------------------------------------
+
+-- scanned 01/30/2025 HBCH mailroom  pg 1/1 --

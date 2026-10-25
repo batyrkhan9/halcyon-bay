@@ -1,0 +1,21 @@
+SANDPIPER CHILD CARE CENTER
+ 4295 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TYLER IVANOVA        Emp ID: 68545
+Position: Teacher
+Pay Period: 02/19/2026 - 03/04/2026     Pay Date: 03/09/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.68     80.00       2,054.40     10,272.00
+GROSS PAY                                  2,054.40     10,272.00
+DEDUCTIONS
+  Federal Income Tax                       225.98
+  Social Security                          127.37
+  Medicare                                  29.78
+| |   .
+  CA SDI                                    22.59
+NET PAY                                  1,648.68
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2026]

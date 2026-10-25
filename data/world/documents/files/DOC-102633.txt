@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3511 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+   Employee: MALIA TAYLOR        Emp ID: 52119
+Position: Medical receptionist
+Pay Period: 07/19/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                       453.38      7,254.08
+GROSS PAY                                    453.38      7,254.08
+ DEDUCT1ONS
+  Federal Income Tax                        27.20
+  Social Security                           28.11
+  Medicare                                   6.57
+  CA SDI                                     4.98
+NET PAY                                    386.52
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/22/2026]

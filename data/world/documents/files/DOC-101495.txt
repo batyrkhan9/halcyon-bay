@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-6706 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-Employee: TERESA PETROV        Emp ID: 56168
-Position: Field supervisor
-Pay Period: 01/10/2026 - 01/23/2026     Pay Date: 01/28/2026
-Pay Frequency: Bi-Weekly
+PORT ELLERY CANNERY CO
+2127 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: JUAN BELL        Emp ID: 55906
+Position: Line worker
+Pay Period: 01/12/2026 - 01/26/2026     Pay Date: 01/31/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Salary                                     4,375.09      8,750.18
-GRO5S PAY                                  4,375.09      8,750.18
+ EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             18.03     68.25       1,230.55      3,691.65
+GROSS PAY                                  1,230.55      3,691.65
 DEDUCTIONS
-   Federal Income Tax                       306.25
-  Social Security                          271.25
-  Medicare                                  63.43
-   CA SDI                                    48.12
-NET PAY                                  3,686.04
+  Federal Income Tax                        86.13
+  Social Security                           76.29
+  Medicare                                  17.84
+  CA SDI                                    13.53
+NET PAY                                  1,036.76
 --------------------------------------------------------------
 
--- scanned 02/27/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 03/10/2026 10:29   P.01

@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+1784 1NDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: YESEN1A WASHINGTON-XU        Emp ID: 16344
+Position: Line worker
+Pay Period: 02/21/2025 - 03/06/2025     Pay Date: 03/11/2025
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,957.43     24,787.15
+GROSS PAY                                  4,957.43     24,787.15
+DEDUCTIONS
+  Federal Income Tax                       396.59
+    Social Security                          307.36
+  Medicare                                  71.88
+  CA SDI                                    54.53
+NET PAY                                   4,127.07
+    --------------------------------------------------------------
+
+FAX RECEIVED 03/27/2025 10:11   P.01

@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-3033 INDUSTRIAL WAY   CA
+MIRAD0R GROCERY CO-OP
+5127 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: MICHAEL DESAI        Emp ID: 70403
-Position: Mechanic
-Pay Period: 08/21/2026 - 08/27/2026     Pay Date: 09/01/2026
-Pay Frequency: Weekly
+Employee: EDUARDO HO        Emp ID: 95530
+Position: Cashier
+  Pay Period: 08/18/2026 - 08/31/2026     Pay Date: 09/05/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.28     21.50         371.52     13,003.20
-GROSS PAY                                    371.52     13,003.20
-DEDUCTIONS
-_ _ _ _
-  Federal Income Tax                        40.86
-      Social Security                           23.03
-  Medicare                                   5.38
-  CA SDI                                     4.08
-NET PAY                                    298.17
+Regular             23.02     80.00       1,841.60     33,148.80
+GROSS PAY                                  1,841.60     33,148.80
+ DEDUCTIONS
+  Federal 1ncome Tax                       110.49
+  S0cial Security                          114.17
+  Medicare                                  26.70
+   CA SDI                                    20.25
+NET PAY                                  1,569.99
 --------------------------------------------------------------
 
-FAX RECEIVED 09/25/2026 10:30   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/23/2026]

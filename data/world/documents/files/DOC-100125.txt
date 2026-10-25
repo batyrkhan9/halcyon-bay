@@ -1,18 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 01/01/2025 - 01/11/2025
-Member: ARACELI THOMAS-CONTRERAS       Account ending 8937
+CALDER FREIGHT LINES
+    1076 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: ASHLEY GARCIA        Emp ID: 50800
+Position: Driver
+Pay Period: 11/08/2024 - 12/07/2024     Pay Date: 12/12/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.53    173.33       4,771.77     57,261.24
+GROSS PAY                                  4,771.77     57,261.24
+DEDUCTIONS
+  Federal Income Tax                       429.45
+  Social Security                          295.85
+  Medicare                                  69.19
+   CA SDI                                    52.48
+NET PAY                                  3,924.80
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-   Beginning balance            1,369.01
-  Deposits                     1,041.12
-  Withdrawals                 -1,093.17
-   Ending balance               1,316.96
-~ ~ .  ,
-
-  DEPOSITS AND CREDITS
-    01/11  PAYROLL DIR DEP MIRADOR GROCERY CO         520.56
-  01/04  PAYROLL DIR DEP MIRADOR GROCERY CO         520.56
-
-Thank you for banking with us.   Page 1 of 2
-
-FAX RECEIVED 01/20/2025 10:50   P.01
+-- scanned 01/21/2025 HBCH mailroom  pg 1/1 --

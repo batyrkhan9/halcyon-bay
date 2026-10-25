@@ -1,20 +1,18 @@
-POINT CORRIN BOATWORK5
-    598 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: BAO JACKSON        Emp ID: 66988
-Position: Mechanic
-Pay Period: 10/15/2024 - 11/13/2024     Pay Date: 11/18/2024
-Pay Frequency: Monthly
---------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             79.64    173.33      13,804.00    151,844.00
-GROSS PAY                                 13,804.00    151,844.00
-DEDUCTIONS
-  Federal Income Tax                       828.24
-  Social Security                          855.84
-     Medicare                                 200.15
-  CA SDI                                   151.84
-NET PAY                                 11,767.93
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 11/01/2024 - 11/30/2024
+    Member: ANDRE ROMERO       Account ending 8288
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/29/2024]
+CHECKING SUMMARY
+| |   .
+  Beginning balance            1,322.35
+  Deposits                     2,916.26
+  Withdrawals                 -2,770.44
+  Ending balance               1,468.17
+
+DEPOSITS AND CREDITS
+  11/06  PAYROLL DIR DEP SUNSET COAST HOME        1,458.13
+  11/20  PAYROLL DIR DEP SUNSET COAST HOME        1,458.13
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 12/27/2024 10:49   P.01

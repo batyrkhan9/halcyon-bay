@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-   5690 COMMERCE WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+339 MARKET WAY   CA
                          EARNINGS STATEMENT
-Empl0yee: DESTINY THOMAS        Emp ID: 32415
-Position: Home care aide
-Pay Period: 03/14/2026 - 03/28/2026     Pay Date: 04/02/2026
-Pay Frequency: Semi-Monthly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             90.38     86.67       7,833.23     54,832.61
-GROSS PAY                                  7,833.23     54,832.61
-DEDUCTIONS
-  Federal Income Tax                       704.99
-  5ocial Security                          485.66
-    Medicare                                 113.58
-  CA SDI                                    86.16
-NET PAY                                  6,442.84
+Empl0yee: ROGELIO JEFFERSON        Emp ID: 54902
+Position: Instructional aide
+Pay Period: 03/27/2026 - 04/09/2026     Pay Date: 04/14/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             24.32     80.00       1,945.60     15,564.80
+GROSS PAY                                  1,945.60     15,564.80
+DEDUCTIONS
+     Federal Income Tax                       116.73
+  Social Security                          120.62
+  Medicare                                  28.21
+  CA SDI                                    21.40
+NET PAY                                  1,658.64
+     --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/21/2026]
+FAX RECEIVED 05/10/2026 10:54   P.01

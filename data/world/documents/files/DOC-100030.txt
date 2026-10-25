@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-7342 COMMERCE WAY   CA
-                            EARNING5 STATEMENT
-Employee: JIAN CHAVEZ        Emp ID: 28491
-Position: Laborer
-Pay Period: 11/06/2024 - 11/19/2024     Pay Date: 11/24/2024
-Pay Frequency: Bi-Weekly
+CYPRESS FLATS AUTO BODY
+1505 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: BRANDON CRUZ        Emp ID: 89614
+Position: Technician
+Pay Period: 11/15/2024 - 11/21/2024     Pay Date: 11/26/2024
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,643.93     63,454.32
-   GROSS PAY                                  2,643.93     63,454.32
+Salary                                       248.98     11,951.04
+GROSS PAY                                    248.98     11,951.04
 DEDUCTIONS
-  Federal Income Tax                       132.19
-  Social Security                          163.92
-  Medicare                                  38.33
-~ ~ .  ,
-  CA SDI                                    29.08
-NET PAY                                  2,280.41
-    --------------------------------------------------------------
+  Federal Income Tax                        17.42
+  Social Security                           15.43
+     Medicare                                   3.61
+  CA SDI                                     2.73
+NET PAY                                    209.79
+--------------------------------------------------------------
 
--- scanned 12/19/2024 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/15/2024]

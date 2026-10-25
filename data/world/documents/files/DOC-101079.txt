@@ -1,20 +1,17 @@
-PACIFIC RIM JANITORIAL
-    4428 C0MMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: TUAN MCCARTHY        Emp ID: 42034
- Position: Cust0dian
-    Pay Period: 08/22/2025 - 09/04/2025     Pay Date: 09/09/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             34.39     80.00       2,751.20     49,521.60
-GROSS PAY                                  2,751.20     49,521.60
-DEDUCTIONS
-  Federal Income Tax                       137.56
-  Social Security                          170.57
-  Medicare                                  39.89
-  CA SDI                                    30.26
-NET PAY                                  2,372.92
---------------------------------------------------------------
+PACIFIC TIDE BANK
+  . : .
+  Statement Period 10/01/2025 - 10/31/2025
+Member: BRIANNA DO-IYER       Account ending 5269
 
-FAX RECEIVED 10/06/2025 10:35   P.01
+CHECKING SUMMARY
+  Beginning balance            2,498.42
+  Deposits                     3,407.94
+  Withdrawals                 -3,544.25
+  Ending balance               2,362.11
+
+DEPOSITS AND CREDITS
+  10/20  PAYROLL DIR DEP SEASIDE DENTAL GRO       3,407.94
+
+Thank y0u for banking with us.   Page 1 of 2
+
+-- scanned 11/01/2025 HBCH mailroom  pg 1/1 --

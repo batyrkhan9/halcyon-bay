@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+   3740 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINH LI        Emp ID: 72453
+Position: Mechanic
+Pay Period: 05/30/2025 - 06/13/2025     Pay Date: 06/18/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,979.22     35,750.64
+GROSS PAY                                  2,979.22     35,750.64
+DEDUCTIONS
+  Federal Income Tax                       268.12
+  Social Security                          184.71
+  Medicare                                  43.19
+  CA SDI                                    32.77
+NET PAY                                  2,450.43
+--------------------------------------------------------------
+
+RECEIVED JUN 21 2025  - mailroom

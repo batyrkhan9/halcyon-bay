@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-357 MARKET WAY   CA
+SANTA LUCITA FARMS
+3173 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: MARQUIS HAYES        Emp ID: 55870
-Position: Instructional aide
-Pay Period: 07/29/2026 - 08/27/2026     Pay Date: 09/01/2026
-Pay Frequency: Monthly
-   --------------------------------------------------------------
+Employee: MEI T0RRES        Emp ID: 48654
+Position: Field supervisor
+Pay Period: 08/12/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             56.11    173.33       9,725.55     87,529.95
-GROSS PAY                                  9,725.55     87,529.95
+   Regular             36.89     40.00       1,475.60     50,170.40
+GROSS PAY                                  1,475.60     50,170.40
 DEDUCTIONS
-  Federal Income Tax                       778.04
-  Social Security                          602.98
-  Medicare                                 141.02
-  CA SDI                                   106.98
-NET PAY                                  8,096.53
+  Federal Income Tax                       118.04
+  Social Security                           91.48
+  Medicare                                  21.39
+  CA SDI                                    16.23
+NET PAY                                  1,228.46
 --------------------------------------------------------------
 
-RECEIVED SEP 12 2026  - mailroom
+FAX RECEIVED 09/11/2026 10:39   P.01

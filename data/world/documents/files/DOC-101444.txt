@@ -1,20 +1,11 @@
-BAYLINE LOGISTICS INC
-7636 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: CHLOE IBARRA        Emp ID: 58737
-Position: Warehouse associate
-Pay Period: 12/26/2025 - 01/08/2026      Pay Date: 01/13/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.62     39.75         740.14        740.14
-GROSS PAY                                    740.14        740.14
-    DEDUCTIONS
-      Federal Income Tax                        51.80
-  Social Security                           45.88
-      Medicare                                  10.73
-  CA SDI                                     8.14
-NET PAY                                    623.59
---------------------------------------------------------------
+  HALCYON BAY COMMUNITY HOSPITAL
+  Financial Assistance Program - Self-Attestation of Income
+
+I, Lauren Wang, live in a household of 2 people.
+My household's total income is about $900.00 per month from selling at the flea market.
+I do not have pay stubs or other income documents to send.
+I declare under penalty of perjury that the information above is true.
+
+Signature: Lauren Wang            Date: 02/12/2026
 
 [HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

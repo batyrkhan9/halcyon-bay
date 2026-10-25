@@ -56,20 +56,29 @@ def footer(rng: random.Random, received: date) -> str:
     ])
 
 
+def deductions(gross_cents: int, fed_pct: int) -> tuple[int, int, int, int, int]:
+    """Federal, Social Security, Medicare, SDI and net pay for one stub. Same gross, same net."""
+    fed = gross_cents * fed_pct // 100
+    ss = (gross_cents * 62 + 50) // 1000
+    med = (gross_cents * 145 + 500) // 10000
+    sdi = (gross_cents * 11 + 50) // 1000
+    return fed, ss, med, sdi, gross_cents - fed - ss - med - sdi
+
+
+def stub_net(gross_cents: int, fed_pct: int) -> int:
+    return deductions(gross_cents, fed_pct)[4]
+
+
 def pay_stub(rng, *, employer, title, name, emp_id, frequency, gross_cents, pay_date: date,
              received: date, ytd_periods: int, hourly: bool, hours: float | None = None, rate_cents: int | None = None,
-             extra_text: str = "") -> str:
+             extra_text: str = "", fed_pct: int | None = None, ytd_cents: int | None = None) -> str:
     days = PERIOD_DAYS[frequency]
     start = pay_date - timedelta(days=days + 4)
     end = pay_date - timedelta(days=5)
     hours = hours if hours is not None else HOURS[frequency]
     rate = (rate_cents / 100) if rate_cents is not None else gross_cents / 100 / hours
-    fed = gross_cents * rng.randint(4, 11) // 100
-    ss = (gross_cents * 62 + 50) // 1000
-    med = (gross_cents * 145 + 500) // 10000
-    sdi = (gross_cents * 11 + 50) // 1000
-    net = gross_cents - fed - ss - med - sdi
-    ytd = gross_cents * ytd_periods
+    fed, ss, med, sdi, net = deductions(gross_cents, fed_pct if fed_pct is not None else rng.randint(4, 11))
+    ytd = ytd_cents if ytd_cents is not None else gross_cents * ytd_periods
     lines = [
         f"{employer}",
         f"{rng.randint(100, 9999)} {rng.choice(['INDUSTRIAL', 'HARBOR', 'COMMERCE', 'MARKET'])} WAY   CA",
@@ -102,8 +111,10 @@ def pay_stub(rng, *, employer, title, name, emp_id, frequency, gross_cents, pay_
 
 
 def bank_statement(rng, *, bank, name, period_end: date, deposits: list[tuple[date, str, int]],
-                   savings_cents: int | None, received: date) -> str:
-    start = period_end.replace(day=1)
+                   savings_cents: int | None, received: date, period_start: date | None = None) -> str:
+    start = period_start or period_end.replace(day=1)
+    assert all(start <= d[0] <= period_end for d in deposits), "deposits must fall inside the statement period"
+    assert period_end < received, "a statement can't cover days after it was received"
     begin = rng.randint(20_000, 300_000)
     dep_total = sum(d[2] for d in deposits)
     wd = dep_total * rng.randint(85, 105) // 100

@@ -1,21 +1,20 @@
-MAR1SOL CLEANING SERVICES
-8585 MARKET WAY   CA
+GOLDEN HOUR SENIOR LIVING
+9958 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: TUAN MENDOZA        Emp ID: 72413
-    Position: Cleaner
-| |   .
-Pay Period: 07/18/2025 - 07/31/2025     Pay Date: 08/05/2025
+    Employee: BRANDON KOWALSKI        Emp ID: 80931
+Position: Caregiver
+Pay Period: 08/08/2025 - 08/21/2025     Pay Date: 08/26/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.46     15.75         290.74      4,651.84
-GROSS PAY                                    290.74      4,651.84
+Salary                                     2,225.70     37,836.90
+GROSS PAY                                  2,225.70     37,836.90
 DEDUCTIONS
-   Federal 1ncome Tax                        23.25
-      Social Security                           18.02
-  Medicare                                   4.21
-  CA SDI                                     3.19
-NET PAY                                    242.07
+  Federal Income Tax                       111.28
+  Social Security                          137.99
+  Medicare                                  32.27
+  CA SDI                                    24.48
+NET PAY                                  1,919.68
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/17/2025]
+-- scanned 09/13/2025 HBCH mailroom  pg 1/1 --

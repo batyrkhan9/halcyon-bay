@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+5818 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: LOGAN PHAM        Emp ID: 95931
+P0sition: Driver
+Pay Period: 03/02/2025 - 03/15/2025     Pay Date: 03/20/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             51.34     80.00       4,107.20     24,643.20
+GROSS PAY                                  4,107.20     24,643.20
+DEDUCTIONS
+  Federal Income Tax                       164.28
+  Social Security                          254.64
+   Medicare                                  59.55
+  CA SDI                                    45.17
+NET PAY                                  3,583.56
+--------------------------------------------------------------
+
+FAX RECEIVED 04/06/2025 10:37   P.01

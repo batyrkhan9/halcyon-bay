@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
-5872 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-Employee: JENNIFER KOWALSKI        Emp ID: 44715
-Position: Cleaner
-Pay Period: 11/29/2025 - 12/28/2025     Pay Date: 01/02/2026
-Pay Frequency: Monthly
+SANTA LUCITA FARMS
+9626 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AHMED JOSHI        Emp ID: 95329
+Position: Field supervisor
+    Pay Period: 01/20/2026 - 02/03/2026     Pay Date: 02/08/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.58    130.75       2,167.84      2,167.84
-GROSS PAY                                  2,167.84      2,167.84
- DEDUCTIONS
-      Federal Income Tax                       216.78
-  Social Security                          134.40
-      Medicare                                  31.43
-  CA SDI                                    23.84
-NET PAY                                  1,761.39
- --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             22.41     86.67       1,942.27      5,826.81
+   GROSS PAY                                  1,942.27      5,826.81
+DEDUCTIONS
+  Federal Income Tax                       155.38
+  Social Security                          120.42
+  Medicare                                  28.16
+     CA 5DI                                    21.36
+NET PAY                                  1,616.95
+   --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/11/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/12/2026]

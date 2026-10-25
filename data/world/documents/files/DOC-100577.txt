@@ -1,20 +1,20 @@
-MARISOL CLEANING SERVICES
- 6857 INDUSTRIAL WAY    CA
+LAS BRISAS RESTAURANT GROUP
+1311 MARKET WAY   CA
                          EARNINGS STATEMENT
-    Employee: CAROL KEALOHA        Emp ID: 50467
- Position: Cleaner
-Pay Period: 03/30/2025 - 04/12/2025     Pay Date: 04/17/2025
-Pay Frequency: Bi-Weekly
+Employee: HECTOR ROBINSON        Emp ID: 59547
+Position: Line cook
+Pay Period: 04/22/2025 - 05/05/2025     Pay Date: 05/10/2025
+Pay Frequency: Bi-Week1y
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.44     80.00       1,555.20     12,441.60
-GROSS PAY                                  1,555.20     12,441.60
+Regular             64.69     80.00       5,175.20     51,752.00
+   GROSS PAY                                  5,175.20     51,752.00
 DEDUCTIONS
-  Federal Income Tax                       171.07
-  Social Security                           96.42
-  Medicare                                  22.55
-  CA SDI                                    17.10
-NET PAY                                  1,248.06
- --------------------------------------------------------------
+  Federal Income Tax                       258.76
+  Social Security                          320.86
+   Medicare                                  75.04
+  CA SDI                                    56.92
+NET PAY                                  4,463.62
+   --------------------------------------------------------------
 
-RECEIVED MAY 24 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/11/2025]

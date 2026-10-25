@@ -1,21 +1,20 @@
-POINT CORRIN BOATWORKS
-1118 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-    Employee: ARACELI KING        Emp ID: 60557
-Position: Mechanic
-Pay Period: 09/02/2025 - 09/16/2025     Pay Date: 09/21/2025
-   Pay Frequency: Semi-Monthly
-   --------------------------------------------------------------
+BAYLINE LOGISTICS INC
+4080 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: KENJI WASHINGTON        Emp ID: 95757
+Position: Warehouse associate
+Pay Period: 10/06/2025 - 10/20/2025     Pay Date: 10/25/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.31     23.50         406.78      7,322.04
-GROSS PAY                                    406.78      7,322.04
-~ ~ .  ,
+Regular             16.84     86.67       1,459.52     29,190.40
+GROSS PAY                                  1,459.52     29,190.40
 DEDUCTIONS
-  Federal Income Tax                        44.74
-  Social Security                           25.22
-  Medicare                                   5.89
-   CA SDI                                     4.47
-NET PAY                                    326.46
-   --------------------------------------------------------------
+  Federal Income Tax                       145.95
+  Social Security                           90.49
+  Medicare                                  21.16
+  CA SDI                                    16.05
+NET PAY                                  1,185.87
+--------------------------------------------------------------
 
-FAX RECEIVED 10/24/2025 10:37   P.01
+RECEIVED NOV 14 2025  - mailroom

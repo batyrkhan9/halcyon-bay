@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-1557 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: RONALD SHAH        Emp ID: 83080
-  Position: Instructional aide
-Pay Period: 03/08/2026 - 03/21/2026     Pay Date: 03/26/2026
+MIRADOR PUBLIC LIBRARY
+7223 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+   Employee: OLIVIA BROWN        Emp ID: 20913
+Position: Library assistant
+Pay Period: 02/26/2026 - 03/11/2026     Pay Date: 03/16/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.87     31.00         553.97      3,877.79
-GROSS PAY                                    553.97      3,877.79
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.00     68.00       1,224.00      7,344.00
+  GROSS PAY                                  1,224.00      7,344.00
 DEDUCTIONS
-  Federal Income Tax                        55.39
-  Social Security                           34.34
-  Medicare                                   8.03
-  CA SDI                                     6.09
-   NET PAY                                    450.12
+  Federal Income Tax                        97.92
+  Social Security                           75.88
+  Medicare                                  17.74
+  CA SDI                                    13.46
+NET PAY                                  1,019.00
 --------------------------------------------------------------
 
--- scanned 04/02/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/15/2026]

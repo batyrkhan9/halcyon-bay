@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+   9687 1NDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Emp1oyee: HANNAH ZHOU        Emp ID: 82919
+Position: Housekeeper
+Pay Period: 04/26/2026 - 05/09/2026     Pay Date: 05/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             17.57     67.75       1,190.37     11,903.70
+   GROSS PAY                                  1,190.37     11,903.70
+DEDUCTIONS
+  Federal Income Tax                       119.03
+  Social Security                           73.80
+  Medicare                                  17.26
+  CA SDI                                    13.09
+NET PAY                                    967.19
+--------------------------------------------------------------
+
+FAX RECEIVED 05/21/2026 10:17   P.01

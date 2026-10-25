@@ -1,18 +1,20 @@
-   Form 1040   U.S. Individual Income Tax Return   2025
-    (copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  ROBERT SILVA
-  Your social security number: XXX-XX-9910
-Dependents: 3
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   239,346.00
-     8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   239,346.00
-   10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................   239,346.00
- 12  Standard deduction ..............................    21,900.00
+COASTAL VALLEY ENERGY
+4064 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMINA JIMENEZ        Emp ID: 98610
+Position: Field technician
+Pay Period: 07/27/2026 - 08/09/2026     Pay Date: 08/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             40.51     80.00       3,240.80     55,093.60
+GROSS PAY                                  3,240.80     55,093.60
+DEDUCTIONS
+  Federal Income Tax                       226.85
+  Social Security                          200.93
+  Medicare                                  46.99
+   CA SDI                                    35.64
+NET PAY                                  2,730.39
+ --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-    Your signature: /s/ Robert Silva        Date: 04/08/2026
-
--- scanned 09/01/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/31/2026 10:47   P.01

@@ -1,20 +1,22 @@
-OTTER BAY AQUARIUM
-3410 HARBOR WAY    CA
+MARISOL CLEANING SERVICES
+  5675 HARBOR WAY   CA
                          EARNINGS STATEMENT
-   Employee: TANISHA FITZGERALD        Emp ID: 85015
-     Position: Guest services
-Pay Period: 03/31/2026 - 04/29/2026     Pay Date: 05/04/2026
-Pay Frequency: Month1y
---------------------------------------------------------------
+Employee: GRACE MARTIN-FONOTI        Emp ID: 57805
+Position: Cleaner
+Pay Period: 03/23/2026 - 04/06/2026     Pay Date: 04/11/2026
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             72.56    173.33      12,576.82     62,884.10
-GROSS PAY                                  12,576.82     62,884.10
+Regular              18.30     33.50         613.05      4,291.35
+_ _ _ _
+GROSS PAY                                    613.05      4,291.35
 DEDUCTIONS
-  Federal Income Tax                       754.60
-  Social Security                          779.76
-  Medicare                                 182.36
-  CA SDI                                   138.34
-NET PAY                                 10,721.76
+  Federal Income Tax                        30.65
+      Social Security                           38.00
+  Medicare                                   8.88
+  CA SDI                                     6.74
+NET PAY                                    528.78
 --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+RECEIVED MAY 14 2026  - mailroom

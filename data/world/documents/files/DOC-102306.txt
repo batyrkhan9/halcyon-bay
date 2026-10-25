@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-    Statement Period 07/01/2026 - 07/18/2026
-Member: ROBERT PETROV       Account ending 8286
+GOLDEN HOUR SENIOR LIVING
+    6974 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: ELENA HUSSAIN        Emp ID: 37349
+Position: Caregiver
+Pay Period: 07/04/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,644.39     99,665.85
+GROSS PAY                                  6,644.39     99,665.85
+DEDUCTIONS
+  Federal Income Tax                       332.21
+  Social Security                          411.95
+  Medicare                                  96.34
+  CA SDI                                    73.08
+NET PAY                                  5,730.81
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning ba1ance            2,119.43
-  Deposits                     2,679.44
-     Withdrawals                 -2,277.52
-   Ending balance               2,521.35
-
-DEPOSITS AND CREDITS
-  07/18  PAYROLL DIR DEP PORT ELLERY CANNER       1,339.72
-  07/11  PAYROLL DIR DEP PORT ELLERY CANNER       1,339.72
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED AUG 02 2026  - mailroom
+FAX RECEIVED 07/29/2026 10:16   P.01

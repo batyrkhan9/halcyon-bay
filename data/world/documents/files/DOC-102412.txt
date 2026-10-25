@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-7489 HARBOR WAY   CA
+SUNSET COA5T HOME CARE
+186 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA KOWALSKI        Emp ID: 83632
-Position: Field supervisor
-Pay Period: 06/17/2026 - 07/01/2026     Pay Date: 07/06/2026
+Employee: AALIYAH FALEOLO        Emp ID: 72533
+  Position: Home care aide
+Pay Period: 06/23/2026 - 07/07/2026     Pay Date: 07/12/2026
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular            127.59     86.67      11,058.23    143,756.99
-GROSS PAY                                 11,058.23    143,756.99
- DEDUCTIONS
-  Federal Income Tax                     1,105.82
-      Social Security                          685.61
-  Medicare                                 160.34
-  CA SDI                                   121.64
-NET PAY                                  8,984.82
+Regular             93.84     86.67       8,133.11    105,730.43
+GROSS PAY                                  8,133.11    105,730.43
+    DEDUCTIONS
+  Federal Income Tax                       894.64
+  Social Security                          504.25
+  Medicare                                 117.93
+  CA SDI                                    89.46
+NET PAY                                  6,526.83
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/03/2026]

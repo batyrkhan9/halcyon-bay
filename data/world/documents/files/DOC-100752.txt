@@ -1,20 +1,21 @@
-COASTAL VALLEY ENERGY
-986 INDUSTRIAL WAY    CA
-                          EARNINGS STATEMENT
-Employee: TARIQ MILLER        Emp ID: 74919
-Position: Field technician
-Pay Period: 05/14/2025 - 05/27/2025     Pay Date: 06/01/2025
-Pay Frequency: Bi-Weekly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             44.14     80.00       3,531.20     38,843.20
-GROSS PAY                                  3,531.20     38,843.20
+OTTER BAY AQUARIUM
+_ _ _ _
+8949 COMMERCE WAY   CA
+                            EARNINGS STATEMENT
+Employee: FRANCISCO GREEN        Emp ID: 94916
+Position: Guest services
+Pay Period: 07/05/2025 - 07/18/2025     Pay Date: 07/23/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             33.17     80.00       2,653.60     39,804.00
+GROSS PAY                                  2,653.60     39,804.00
 DEDUCTIONS
-  Federal Income Tax                       176.56
-  Social Security                          218.93
-      Medicare                                  51.20
-    CA SDI                                    38.84
-NET PAY                                  3,045.67
-  --------------------------------------------------------------
+  Federal Income Tax                       238.82
+   Social Security                          164.52
+  Medicare                                  38.47
+  CA SDI                                    29.19
+NET PAY                                  2,182.60
+--------------------------------------------------------------
 
-RECEIVED JUL 09 2025  - mailroom
+-- scanned 08/04/2025 HBCH mailroom  pg 1/1 --

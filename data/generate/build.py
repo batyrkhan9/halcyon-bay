@@ -44,6 +44,8 @@ class Builder:
         bad = pools.PERSONA_SURNAMES | pools.STAFF_SURNAMES
         self.last_names = [n for n in pools.LAST_NAMES if n.upper() not in bad]
         self.person_info: dict[int, dict] = {}       # person.seq -> answer key facts
+        self.allow_overtime = True                   # ordinary stubs sometimes say "includes overtime"
+        self.last_stub: dict | None = None
 
     # ------------------------------------------------------------------ people
 
@@ -305,21 +307,40 @@ class Builder:
             n = pick(rng, [(2, 60), (3, 25), (1, 15)])
             last_pay = received - timedelta(days=rng.randint(3, 18))
             emp_id = f"{rng.randint(10000, 99999)}"
+            fed_pct = rng.randint(4, 11)                 # one withholding rate per job, so net pay repeats
+            net = D.stub_net(gross, fed_pct)
+            step = D.PERIOD_DAYS[freq]
+            ot_text = ""
+            if self.allow_overtime and rng.random() < 0.06:
+                ot_text = f"  includes overtime {rng.choice(['1.50', '2.00', '2.50', '3.00', '4.00'])} hrs"
             for k in range(n):
-                pd = last_pay - timedelta(days=D.PERIOD_DAYS[freq] * k)
-                ytd = max(1, (pd - date(pd.year, 1, 1)).days // D.PERIOD_DAYS[freq] + 1)
+                pd = last_pay - timedelta(days=step * k)
+                ytd = max(1, (pd - date(pd.year, 1, 1)).days // step + 1)
+                extra = "\n".join(x for x in (ot_text, extra_stub_text if k == 0 else "") if x)
                 text = D.pay_stub(rng, employer=person.employer, title=person.job, name=name, emp_id=emp_id,
                                   frequency=freq, gross_cents=gross, pay_date=pd, received=received,
                                   ytd_periods=ytd, hourly=hourly, hours=hours, rate_cents=rate,
-                                  extra_text=extra_stub_text if k == 0 else "")
+                                  extra_text=extra, fed_pct=fed_pct)
                 docs_made.append(("PAY_STUB", text))
+            self.last_stub = {"net": net, "gross": gross, "step": step, "last_pay": last_pay,
+                              "employer": person.employer}
             if bank or savings_cents is not None:
-                net = gross * 78 // 100
-                deps = [(last_pay - timedelta(days=D.PERIOD_DAYS[freq] * k), f"PAYROLL DIR DEP {person.employer[:18]}",
-                         net) for k in range(min(2, n))]
-                text = D.bank_statement(rng, bank=rng.choice(pools.BANKS), name=name,
-                                        period_end=(last_pay.replace(day=1) - timedelta(days=1)) if last_pay.day < 5
-                                        else last_pay, deposits=deps, savings_cents=savings_cents, received=received)
+                # the last full calendar month before the documents arrived; payroll lands on the stub pay dates
+                end = received.replace(day=1) - timedelta(days=1)
+                start = end.replace(day=1)
+                while True:
+                    deps = []
+                    d = last_pay
+                    while d >= start:
+                        if d <= end:
+                            deps.append((d, f"PAYROLL DIR DEP {person.employer[:18]}", net))
+                        d -= timedelta(days=step)
+                    if deps:
+                        break
+                    start = (start - timedelta(days=1)).replace(day=1)
+                text = D.bank_statement(rng, bank=rng.choice(pools.BANKS), name=name, period_start=start,
+                                        period_end=end, deposits=sorted(deps), savings_cents=savings_cents,
+                                        received=received)
                 docs_made.append(("BANK_STATEMENT", text))
         elif proof == "TAX_RETURN":
             truth = round(annual_cents / 100) * 100
@@ -526,7 +547,8 @@ class Builder:
 
     def screen_answer(self, acc: Rec, person, outcome: str, pct, on: date, *, proof_label="", handling="AUTO",
                       ask_role="", extra_required=(), extra_forbidden=(), planted=(), reason=None,
-                      merged_balance=None, approver_override=None, owes_override=None, drop_required=()) -> dict:
+                      merged_balance=None, approver_override=None, owes_override=None, drop_required=(),
+                      forbidden_only=None) -> dict:
         """The right answer for an account whose outcome is known, as of day `on`."""
         pr = acc.f["patient_responsibility"]
         paid = self.w.paid_by_patient(acc, on)
@@ -559,6 +581,8 @@ class Builder:
             if x not in forb:
                 forb.append(x)
         req = [x for x in req if x not in drop_required]
+        if forbidden_only is not None:
+            forb = list(forbidden_only)
         forb = [x for x in forb if x not in req]
         if approver_override is not None:
             approver = approver_override

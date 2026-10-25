@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+2703 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Empl0yee: ISABEL ZHANG-RODRIGUEZ        Emp ID: 86229
+Position: Teacher
+Pay Period: 08/14/2025 - 08/27/2025     Pay Date: 09/01/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             25.31     80.00       2,024.80     36,446.40
+GROSS PAY                                  2,024.80     36,446.40
+DEDUCTIONS
+  Federal Income Tax                       161.98
+  Social Security                          125.53
+  Medicare                                  29.36
+   CA SDI                                    22.27
+NET PAY                                  1,685.66
+--------------------------------------------------------------
+
+-- scanned 09/13/2025 HBCH mailroom  pg 1/1 --

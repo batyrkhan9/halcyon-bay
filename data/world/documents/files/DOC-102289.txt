@@ -1,21 +1,20 @@
-SEASIDE DENTAL GROUP
-3217 COMMERCE WAY   CA
+    CYPRESS FLATS AUTO BODY
+8320 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: AMANDA WALSH        Emp 1D: 40068
-   Position: Dental assistant
-Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+    Employee: PEDRO LOPEZ        Emp ID: 20945
+    Position: Technician
+Pay Period: 06/01/2026 - 06/14/2026     Pay Date: 06/19/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             32.71     80.00       2,616.80     39,252.00
-  . : .
-    GROSS PAY                                  2,616.80     39,252.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.31     80.00       1,544.80     20,082.40
+GROSS PAY                                  1,544.80     20,082.40
 DEDUCTIONS
-  Federal Income Tax                       104.67
-      Social Security                          162.24
-  Medicare                                  37.94
-  CA SDI                                    28.78
-NET PAY                                  2,283.17
+  Federal Income Tax                        92.68
+  Social Security                           95.77
+  Medicare                                  22.40
+  CA SDI                                    16.99
+NET PAY                                  1,316.96
 --------------------------------------------------------------
 
-RECEIVED AUG 02 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/28/2026]

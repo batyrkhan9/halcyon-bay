@@ -1,21 +1,20 @@
-   BAYLINE LOGISTICS INC
-4010 COMMERCE WAY   CA
+HARBOR POINT HOTEL
+7942 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: MANUEL PEREZ        Emp ID: 22067
-~ ~ .  ,
-Position: Warehouse associate
-Pay Period: 08/30/2025 - 09/05/2025     Pay Date: 09/10/2025
+Employee: ARJUN NOVAK        Emp ID: 16049
+    Position: Housekeeper
+Pay Period: 09/21/2025 - 09/27/2025     Pay Date: 10/02/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       710.65     26,294.05
-GR0SS PAY                                    710.65     26,294.05
+Regular             18.23     20.75         378.27     15,130.80
+GROSS PAY                                    378.27     15,130.80
 DEDUCTIONS
-  Federal Income Tax                        71.06
-  Social Security                           44.06
-  Medicare                                  10.30
-   CA SDI                                     7.81
-   NET PAY                                    577.42
+  Federal Income Tax                        30.26
+  Social Security                           23.45
+  Medicare                                   5.48
+  CA SDI                                     4.16
+NET PAY                                    314.92
 --------------------------------------------------------------
 
-FAX RECEIVED 09/24/2025 10:57   P.01
+-- scanned 10/23/2025 HBCH mailroom  pg 1/1 --

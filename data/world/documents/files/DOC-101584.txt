@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-9069 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: ESPERANZA PHAM        Emp ID: 62234
-Position: Laborer
-Pay Period: 02/28/2026 - 03/06/2026     Pay Date: 03/11/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+OTTER BAY AQUARIUM
+4094 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: CARLOS IT0        Emp ID: 28023
+Position: Guest services
+Pay Period: 02/24/2026 - 03/25/2026     Pay Date: 03/30/2026
+Pay Frequency: Monthly
+    --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.06     27.25         464.88      4,648.80
-GROSS PAY                                    464.88      4,648.80
-  DEDUCTIONS
-   Federal Income Tax                        41.83
-  Social Security                           28.82
-  Medicare                                   6.74
-  CA SDI                                     5.11
-NET PAY                                    382.38
+Regu1ar             82.44    173.33      14,289.33     42,867.99
+    GROSS PAY                                 14,289.33     42,867.99
+DEDUCTIONS
+  Federal Income Tax                       714.46
+  Social Security                          885.93
+  Medicare                                 207.19
+  CA SDI                                   157.18
+NET PAY                                 12,324.57
 --------------------------------------------------------------
 
--- scanned 03/26/2026 HBCH mailroom  pg 1/1 --
+-- scanned 04/06/2026 HBCH mailroom  pg 1/1 --

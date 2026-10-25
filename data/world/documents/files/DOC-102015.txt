@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-4382 INDUSTRIAL WAY   CA
+OTTER BAY AQUARIUM
+5521 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: CALEB MARTINEZ        Emp ID: 61500
-Position: Laborer
-Pay Period: 06/08/2026 - 06/21/2026     Pay Date: 06/26/2026
-Pay Frequency: Bi-Weekly
+Employee: FRANK MENDOZA        Emp ID: 72441
+Position: Guest services
+Pay Period: 06/03/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             93.33     80.00       7,466.40     97,063.20
-GROSS PAY                                  7,466.40     97,063.20
-  DEDUCTIONS
-   Federal Income Tax                       373.32
-  Social Security                          462.91
-  Medicare                                 108.26
-  CA SDI                                    82.13
-  NET PAY                                  6,439.78
-_ _ _ _
+EARNINGS            RATE      HOURS     THI5 PERI0D        YTD
+Regular             28.73     86.67       2,490.03     29,880.36
+    GROSS PAY                                  2,490.03     29,880.36
+DEDUCTIONS
+  Federal Income Tax                       249.00
+      Social Security                          154.38
+  Medicare                                  36.10
+  CA SDI                                    27.39
+NET PAY                                  2,023.16
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2026]
+FAX RECEIVED 07/13/2026 10:53   P.01

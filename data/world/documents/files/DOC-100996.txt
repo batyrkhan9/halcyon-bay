@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-8681 COMMERCE WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: MIGUEL TORRES        Emp ID: 80804
-Position: Field supervisor
-Pay Period: 07/25/2025 - 08/07/2025     Pay Date: 08/12/2025
+BAYLINE LOGISTICS INC
+737 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+Employee: EDUARDO HARRIS        Emp ID: 72452
+Position: Warehouse associate
+Pay Period: 09/24/2025 - 10/07/2025     Pay Date: 10/12/2025
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             38.45     80.00       3,076.00     49,216.00
-GROSS PAY                                  3,076.00     49,216.00
+Salary                                     3,326.68     69,860.28
+  GROSS PAY                                  3,326.68     69,860.28
 DEDUCTIONS
-   Federal Income Tax                       153.80
-  Social Security                          190.71
-  Medicare                                  44.60
-   CA SDI                                    33.83
-NET PAY                                  2,653.06
+  Federal Income Tax                       199.60
+  Social Security                          206.25
+  Medicare                                  48.23
+  CA SD1                                    36.59
+NET PAY                                  2,836.01
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/08/2025]
+-- scanned 10/16/2025 HBCH mailroom  pg 1/1 --

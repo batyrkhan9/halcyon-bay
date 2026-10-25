@@ -1,20 +1,21 @@
-CYPRESS FLATS AUTO BODY
-2806 HARBOR WAY    CA
-                             EARNINGS STATEMENT
- Employee: TERESA SCOTT        Emp ID: 11079
-Position: Technician
-Pay Period: 06/16/2026 - 07/15/2026     Pay Date: 07/20/2026
-Pay Frequency: Monthly
-    --------------------------------------------------------------
+HALCYON BAY UNIFIED SCHOOL DIST
+7683 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DARNELL KUMAR        Emp ID: 45633
+Position: Instructional aide
+Pay Period: 07/07/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.43     44.75         824.74      5,773.18
-GROSS PAY                                    824.74      5,773.18
-DEDUCTIONS
-  Federal Income Tax                        90.72
-  Social Security                           51.13
-  Medicare                                  11.95
-     CA SDI                                     9.07
-NET PAY                                    661.87
+Regular             18.54     31.75         588.64     17,070.56
+GROSS PAY                                    588.64     17,070.56
+   DEDUCTIONS
+  Federal Income Tax                        29.43
+_ _ _ _
+  Social Security                           36.49
+  Medicare                                   8.53
+   CA SDI                                     6.47
+NET PAY                                    507.72
 --------------------------------------------------------------
 
-FAX RECEIVED 08/03/2026 10:52   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/29/2026]

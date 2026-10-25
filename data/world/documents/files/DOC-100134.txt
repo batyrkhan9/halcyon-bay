@@ -1,16 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 01/01/2025 - 01/07/2025
-Member: LEILA KOWALSKI-LEE        Account ending 4176
+HARBOR POINT HOTEL
+5158 COMMERCE WAY    CA
+                         EARNINGS STATEMENT
+Employee: MANUEL BANKS        Emp ID: 73575
+    Position: Housekeeper
+Pay Period: 12/18/2024 - 12/24/2024     Pay Date: 12/29/2024
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             28.37     40.00       1,134.80     59,009.60
+GROSS PAY                                  1,134.80     59,009.60
+DEDUCTIONS
+  Federal Income Tax                       102.13
+  Social Security                           70.35
+  Medicare                                  16.45
+  CA SDI                                    12.48
+  NET PAY                                    933.39
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,180.25
-  Deposits                     2,884.60
-  Withdrawals                 -2,855.75
-  Ending balance               1,209.10
-
-DEPOSITS AND CREDITS
-  01/07  PAYROLL DIR DEP SANTA LUCITA FARMS       2,884.60
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/25/2025]
+FAX RECEIVED 01/22/2025 10:27   P.01

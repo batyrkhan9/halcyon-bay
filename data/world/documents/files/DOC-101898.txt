@@ -1,21 +1,20 @@
-MARISOL CLEANING SERVICES
-6174 COMMERCE WAY   CA
+GOLDEN HOUR SENIOR LIVING
+3290 HARBOR WAY   CA
                           EARNINGS STATEMENT
-  Employee: MALIA SOUZA        Emp ID: 46533
-Position: Cleaner
-Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
-Pay Frequency: Bi-Weekly
+Employee: DEEPA WANG        Emp ID: 16688
+Position: Caregiver
+    Pay Period: 04/29/2026 - 05/13/2026     Pay Date: 05/18/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,611.50     59,949.50
-GROSS PAY                                  4,611.50     59,949.50
-_ _ _ _
-DEDUCTIONS
-  Federal Income Tax                       368.92
-  Social Security                          285.91
-  Medicare                                  66.86
-  CA 5DI                                    50.72
-  NET PAY                                  3,839.09
+Regular             35.34     86.67       3,062.92     30,629.20
+ GROSS PAY                                  3,062.92     30,629.20
+ DEDUCTIONS
+   Federal Income Tax                       245.03
+  Social Security                          189.90
+  Medicare                                  44.41
+  CA SDI                                    33.69
+NET PAY                                  2,549.89
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]
+-- scanned 07/02/2026 HBCH mailroom  pg 1/1 --

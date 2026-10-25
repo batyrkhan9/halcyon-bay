@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-4986 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
- Employee: STEVEN FLORES        Emp ID: 41256
-Position: Home care aide
-Pay Period: 08/31/2026 - 09/06/2026     Pay Date: 09/11/2026
+PACIFIC RIM JANITORIAL
+1814 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: DONALD BRYANT        Emp ID: 60370
+Position: Custodian
+   Pay Period: 08/21/2026 - 08/27/2026     Pay Date: 09/01/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,258.77     46,574.49
-GROSS PAY                                  1,258.77     46,574.49
-  DEDUCTIONS
-  Federal Income Tax                       125.87
-  Social Security                           78.04
-  Medicare                                  18.25
-  CA SDI                                    13.84
-NET PAY                                  1,022.77
+Salary                                     4,026.16    140,915.60
+    GROSS PAY                                  4,026.16    140,915.60
+DEDUCTIONS
+  Federal Income Tax                       281.83
+   Social Security                          249.62
+    Medicare                                  58.37
+  CA SDI                                    44.28
+NET PAY                                  3,392.06
 --------------------------------------------------------------
 
-FAX RECEIVED 09/27/2026 10:22   P.01
+FAX RECEIVED 09/25/2026 10:32   P.01

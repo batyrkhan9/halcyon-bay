@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-  4042 INDUSTRIAL WAY   CA
-_ _ _ _
-                         EARNINGS STATEMENT
-  Employee: BEATR1Z KAHANANUI        Emp ID: 77536
-Position: Technician
-Pay Period: 02/06/2025 - 02/19/2025     Pay Date: 02/24/2025
-Pay Frequency: Bi-Weekly
+   ARROYO VERDE NURSERY
+7710 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: KEISHA VASQUEZ        Emp ID: 60541
+    Position: Nursery worker
+Pay Period: 02/16/2025 - 02/22/2025     Pay Date: 02/27/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.80     80.00       3,744.00     14,976.00
-GROSS PAY                                  3,744.00     14,976.00
-    DEDUCTIONS
-  Federal Income Tax                       336.96
-  Social Security                          232.12
-     Medicare                                  54.28
-  CA SDI                                    41.18
-NET PAY                                  3,079.46
+Regular             46.98     40.00       1,879.20     16,912.80
+  GROSS PAY                                  1,879.20     16,912.80
+DEDUCTIONS
+  Federal Income Tax                       187.92
+  Social Security                          116.51
+  Medicare                                  27.24
+  CA SDI                                    20.67
+NET PAY                                  1,526.86
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2025]
+RECEIVED MAR 14 2025  - mailroom

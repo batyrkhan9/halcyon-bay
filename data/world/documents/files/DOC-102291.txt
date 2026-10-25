@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+6781 MARKET WAY   CA
+~ ~ .  ,
+                         EARNINGS STATEMENT
+Employee: AB1GAIL ZHANG         Emp ID: 42815
+  Position: Driver
+  Pay Period: 06/27/2026 - 07/11/2026     Pay Date: 07/16/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             47.94     86.67       4,154.96     58,169.44
+   GROSS PAY                                  4,154.96     58,169.44
+  DEDUCTIONS
+  Federal Income Tax                       415.49
+  Social Security                          257.60
+  Medicare                                  60.24
+  CA 5DI                                    45.70
+NET PAY                                  3,375.93
+--------------------------------------------------------------
+
+-- scanned 07/29/2026 HBCH mailroom  pg 1/1 --

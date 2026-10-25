@@ -1,0 +1,20 @@
+ CYPRESS FLATS AUTO BODY
+5613 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KEISHA MOORE        Emp ID: 14578
+Position: Technician
+Pay Period: 07/28/2026 - 08/10/2026     Pay Date: 08/15/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular            103.82     80.00       8,305.60    141,195.20
+GROSS PAY                                  8,305.60    141,195.20
+DEDUCTIONS
+  Federal Income Tax                       913.61
+  Social Security                          514.94
+  Medicare                                 120.43
+    CA SDI                                    91.36
+NET PAY                                  6,665.26
+--------------------------------------------------------------
+
+FAX RECEIVED 09/10/2026 10:14   P.01

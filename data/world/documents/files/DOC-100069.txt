@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+9607 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE HAYES        Emp ID: 58171
+Position: Library assistant
+Pay Period: 11/13/2024 - 11/26/2024     Pay Date: 12/01/2024
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             69.88     80.00       5,590.40    134,169.60
+GROSS PAY                                  5,590.40    134,169.60
+DEDUCTIONS
+    Federal Income Tax                       447.23
+  Social Security                          346.60
+  Medicare                                  81.06
+  CA SDI                                    61.49
+NET PAY                                  4,654.02
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/31/2024]

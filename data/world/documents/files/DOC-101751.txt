@@ -1,21 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-6050 MARKET WAY   CA
-  . : .
+CYPRESS FLATS AUTO BODY
+8613 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ETHAN KOWALSKI        Emp ID: 17590
-Position: Library assistant
-Pay Period: 03/31/2026 - 04/14/2026      Pay Date: 04/19/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       662.54      5,300.32
-GROSS PAY                                    662.54      5,300.32
-  DEDUCTIONS
-  Federal Income Tax                        26.50
-  Social Security                           41.07
-  Medicare                                   9.60
-  CA SDI                                     7.28
-NET PAY                                    578.09
+Employee: MIN-JI RODRIGUEZ        Emp ID: 60112
+ Position: Technician
+Pay Period: 04/15/2026 - 04/28/2026     Pay Date: 05/03/2026
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+   Salary                                     5,600.40     50,403.60
+GROSS PAY                                  5,600.40     50,403.60
+    DEDUCTIONS
+  Federal Income Tax                       336.02
+  Social Security                          347.22
+  Medicare                                  81.20
+  CA SDI                                    61.60
+NET PAY                                  4,774.36
 --------------------------------------------------------------
 
 [HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

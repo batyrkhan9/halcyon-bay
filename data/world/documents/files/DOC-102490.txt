@@ -1,0 +1,20 @@
+ GOLDEN HOUR SENIOR LIVING
+    3349 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Employee: MARISOL ORTIZ        Emp ID: 80745
+Position: Caregiver
+Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             72.52     80.00       5,801.60     81,222.40
+GROSS PAY                                  5,801.60     81,222.40
+DEDUCTIONS
+  Federal Income Tax                       638.17
+  Social Security                          359.69
+   Medicare                                  84.12
+  CA SDI                                    63.81
+NET PAY                                  4,655.81
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/07/2026]

@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-9409 COMMERCE WAY   CA
-                             EARNINGS 5TATEMENT
-Employee: JOHN WILLIAMS        Emp ID: 18870
-   Position: Line cook
-    Pay Period: 10/02/2025 - 10/15/2025     Pay Date: 10/20/2025
-Pay Frequency: Bi-Weekly
+    PACIFIC RIM JANITORIAL
+ 6798 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: JENNIFER WRIGHT        Emp ID: 47066
+Position: Custodian
+Pay Period: 10/07/2025 - 10/21/2025     Pay Date: 10/26/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             20.25     80.00       1,620.00     34,020.00
-GROSS PAY                                  1,620.00     34,020.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,252.09     45,041.80
+GROSS PAY                                  2,252.09     45,041.80
 DEDUCTIONS
-  Federal Income Tax                        64.80
-  Social Security                          100.44
-  Medicare                                  23.49
-  CA SDI                                    17.82
-NET PAY                                  1,413.45
---------------------------------------------------------------
+  Federal Income Tax                       135.12
+  Social Security                          139.63
+  Medicare                                  32.65
+  CA SDI                                    24.77
+NET PAY                                  1,919.92
+    --------------------------------------------------------------
 
-RECEIVED NOV 03 2025  - mailroom
+FAX RECEIVED 11/28/2025 10:38   P.01

@@ -1,0 +1,20 @@
+HARBOR POINT HOTEL
+8032 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+ Employee: GARY 1VANOVA        Emp ID: 39673
+Position: Housekeeper
+Pay Period: 07/18/2026 - 07/31/2026      Pay Date: 08/05/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.29     31.50         576.14      9,218.24
+GROSS PAY                                    576.14      9,218.24
+DEDUCTIONS
+  Federal Income Tax                        40.32
+   Social Security                           35.72
+  Medicare                                   8.35
+  CA SDI                                     6.33
+NET PAY                                    485.42
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/23/2026]

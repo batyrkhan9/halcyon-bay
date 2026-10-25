@@ -1,21 +1,21 @@
-COASTLINE SAVINGS BANK
-Statement Period 04/01/2025 - 04/15/2025
-    Member: RAJNI JUNG       Account ending 6840
+SEASIDE DENTAL GROUP
+3363 INDUSTRIAL WAY    CA
+                         EARNINGS STATEMENT
+Employee: BRANDON DOYLE        Emp ID: 60778
+Position: Dental assistant
+Pay Period: 03/22/2025 - 04/04/2025     Pay Date: 04/09/2025
+   Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Sa1ary                                     3,767.28     30,138.24
+GR0SS PAY                                  3,767.28     30,138.24
+DEDUCTIONS
+  Federal Income Tax                       263.70
+  Social Security                          233.57
+  . : .
+  Medicare                                  54.62
+   CA SDI                                    41.44
+NET PAY                                  3,173.95
+   --------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,741.17
-      Deposits                     6,319.12
-  Withdrawals                 -5,560.82
-  Ending balance               2,499.47
-
-DEPOSITS AND CREDIT5
-     04/15  PAYROLL DIR DEP PORT ELLERY CANNER       3,159.56
-   03/16  PAYROLL DIR DEP PORT ELLERY CANNER       3,159.56
-
-SAVINGS SUMMARY  (Share Savings ending 2136)
-  Ending balance              28,601.51
-  Dividends paid                  11.44
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 04/20/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/08/2025 10:36   P.01

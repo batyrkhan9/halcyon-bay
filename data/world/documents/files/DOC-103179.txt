@@ -1,0 +1,20 @@
+TIDEWATER CONSTRUCTION
+6773 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: YUKI COSTA        Emp ID: 52734
+Position: Laborer
+Pay Period: 08/19/2026 - 09/17/2026     Pay Date: 09/22/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     2,612.04     23,508.36
+GROSS PAY                                  2,612.04     23,508.36
+DEDUCTIONS
+  Federa1 Income Tax                       287.32
+  Social Security                          161.94
+  Medicare                                  37.87
+  CA SDI                                    28.73
+NET PAY                                  2,096.18
+--------------------------------------------------------------
+
+FAX RECEIVED 09/28/2026 10:34   P.01

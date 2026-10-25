@@ -1,20 +1,21 @@
-SANDPIPER CHILD CARE CENTER
-  316 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: TYLER MITCHELL        Emp ID: 94484
-P0sition: Teacher
-Pay Period: 01/19/2025 - 01/25/2025     Pay Date: 01/30/2025
-Pay Frequency: Weekly
-   --------------------------------------------------------------
+OTTER BAY AQUARIUM
+8052 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+ Employee: TYLER VO        Emp ID: 74804
+Position: Guest services
+    Pay Period: 01/05/2025 - 01/18/2025     Pay Date: 01/23/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                       899.16      4,495.80
-GROSS PAY                                    899.16      4,495.80
+Salary                                     2,151.71      4,303.42
+GROSS PAY                                  2,151.71      4,303.42
+  . : .
 DEDUCTIONS
-  Federal Income Tax                        62.94
-  Social Security                           55.74
-  Medicare                                  13.03
-      CA SDI                                     9.89
-NET PAY                                    757.56
+  Federal Income Tax                       150.61
+  Social Security                          133.40
+  Medicare                                  31.20
+  CA SDI                                    23.66
+NET PAY                                  1,812.84
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/02/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/30/2025]

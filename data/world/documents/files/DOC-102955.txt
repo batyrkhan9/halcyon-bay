@@ -1,21 +1,20 @@
 SANTA LUCITA FARMS
-4127 COMMERCE WAY   CA
+9868 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: PRISCILLA HERNANDEZ        Emp ID: 62210
+Employee: MEI TORRES        Emp ID: 48654
 Position: Field supervisor
-Pay Period: 07/14/2026 - 07/27/2026      Pay Date: 08/01/2026
-Pay Frequency: Bi-Weekly
+Pay Period: 08/19/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-~ ~ .  ,
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    10,159.75    162,556.00
-GROSS PAY                                 10,159.75    162,556.00
-DEDUCTIONS
-  Federal Income Tax                     1,117.57
-  Social Security                          629.90
-  Medicare                                 147.31
-  CA 5DI                                   111.75
-NET PAY                                  8,153.22
---------------------------------------------------------------
+Regular             36.89     40.00       1,475.60     51,646.00
+GROSS PAY                                  1,475.60     51,646.00
+   DEDUCTIONS
+  Federal Income Tax                       118.04
+      Social Security                           91.48
+  Medicare                                  21.39
+      CA SDI                                    16.23
+NET PAY                                  1,228.46
+    --------------------------------------------------------------
 
--- scanned 09/12/2026 HBCH mailroom  pg 1/1 --
+RECEIVED SEP 11 2026  - mailroom

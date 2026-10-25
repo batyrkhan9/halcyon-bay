@@ -1,20 +1,20 @@
-SEAS1DE DENTAL GROUP
-337 INDUSTRIAL WAY   CA
+SEASIDE DENTAL GROUP
+4530 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ARJUN GUPTA        Emp ID: 72908
+Employee: LUIS JACK5ON        Emp ID: 46487
 Position: Dental assistant
-Pay Period: 06/13/2025 - 06/26/2025     Pay Date: 07/01/2025
-Pay Frequency: Bi-Weekly
+Pay Period: 07/10/2025 - 07/16/2025     Pay Date: 07/21/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                    11,751.42    152,768.46
-GROSS PAY                                 11,751.42    152,768.46
+    EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             37.70     40.00       1,508.00     43,732.00
+GROSS PAY                                   1,508.00     43,732.00
 DEDUCTIONS
-  Federal Income Tax                       587.57
-  Social Security                          728.58
-  Medicare                                 170.39
-  CA SDI                                   129.26
-    NET PAY                                 10,135.62
-    --------------------------------------------------------------
+  Federal Income Tax                        90.48
+  Social Security                           93.49
+  Medicare                                  21.86
+   CA SDI                                    16.58
+NET PAY                                  1,285.59
+--------------------------------------------------------------
 
--- scanned 07/20/2025 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 09 2025  - mailroom

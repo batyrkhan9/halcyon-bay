@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-   5169 C0MMERCE WAY   CA
+MIRADOR GROCERY CO-OP
+8442 HARBOR WAY   CA
                          EARNINGS STATEMENT
- Employee: TYLER WHITE        Emp 1D: 98737
-   Position: Laborer
-Pay Peri0d: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
-Pay Frequency: Bi-Weekly
+Employee: WILLIAM BRYANT        Emp ID: 97989
+Position: Cashier
+    Pay Period: 09/02/2026 - 09/08/2026     Pay Date: 09/13/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             18.05     49.75         897.99     16,163.82
-GROSS PAY                                    897.99     16,163.82
-     DEDUCTIONS
-   Federal Income Tax                        98.77
-  Social Security                           55.67
-  Medicare                                  13.02
-  CA SDI                                     9.87
-NET PAY                                    720.66
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.76     40.00       1,950.40     72,164.80
+GROSS PAY                                  1,950.40     72,164.80
+DEDUCTIONS
+  Federal Income Tax                       175.53
+  Social Security                          120.92
+  Medicare                                  28.28
+  CA SDI                                    21.45
+NET PAY                                  1,604.22
 --------------------------------------------------------------
 
-RECEIVED SEP 21 2026  - mailroom
+FAX RECEIVED 09/20/2026 10:34   P.01

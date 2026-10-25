@@ -1,18 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 09/01/2026 - 09/13/2026
-Member: TYLER WHITE        Account ending 2648
+MIRADOR GROCERY CO-OP
+8972 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: WILLIAM BRYANT        Emp ID: 97989
+Position: Cashier
+Pay Period: 08/26/2026 - 09/01/2026      Pay Date: 09/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             48.76     40.00       1,950.40     70,214.40
+GROSS PAY                                  1,950.40     70,214.40
+DEDUCTIONS
+  Federal Income Tax                       175.53
+  Social Security                          120.92
+  Medicare                                  28.28
+  CA SDI                                    21.45
+NET PAY                                  1,604.22
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,886.40
-      Deposits                     1,400.86
-~ ~ .  ,
-  Withdrawals                 -1,232.75
-  Ending balance               2,054.51
-
-   DEPOSITS AND CREDITS
-  09/13  PAYROLL DIR DEP TIDEWATER CONSTRUC         700.43
-  08/30  PAYROLL DIR DEP TIDEWATER CONSTRUC         700.43
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/21/2026]
+RECEIVED SEP 20 2026  - mailroom

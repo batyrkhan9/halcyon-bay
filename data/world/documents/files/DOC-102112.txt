@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+679 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN LE        Emp ID: 30052
+Position: Line worker
+Pay Period: 06/13/2026 - 06/26/2026     Pay Date: 07/01/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.59     80.00       1,407.20     18,293.60
+GROSS PAY                                  1,407.20     18,293.60
+DEDUCTIONS
+  Federal Income Tax                       140.72
+  Social Security                           87.24
+  Medicare                                  20.40
+  CA SDI                                    15.47
+NET PAY                                  1,143.37
+ --------------------------------------------------------------
+
+FAX RECEIVED 07/18/2026 10:42   P.01

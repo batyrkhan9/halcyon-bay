@@ -1,20 +1,19 @@
-SANTA LUCITA FARMS
-5537 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: PEDRO CARTER        Emp ID: 46648
-Position: Field supervisor
-Pay Period: 06/10/2026 - 07/09/2026     Pay Date: 07/14/2026
-Pay Frequency: Monthly
- --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             45.69    173.33       7,919.45     55,436.15
-GROSS PAY                                  7,919.45     55,436.15
-DEDUCTIONS
-  Federal Income Tax                       871.13
-  Social Security                          491.00
-     Medicare                                 114.83
-  CA SDI                                    87.11
-NET PAY                                  6,355.38
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 06/01/2026 - 06/30/2026
+Member: SUNITA LE       Account ending 3873
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/19/2026]
+CHECKING SUMMARY
+  Beginning balance            1,778.84
+  Deposits                     2,142.60
+  Withdrawals                 -1,928.34
+  Ending balance               1,993.10
+
+DEPOS1TS AND CREDITS
+  06/01  PAYROLL DIR DEP MARISOL CLEANING S         714.20
+~ ~ .  ,
+     06/15  PAYROLL DIR DEP MARISOL CLEANING S         714.20
+  06/29  PAYROLL DIR DEP MARISOL CLEANING S         714.20
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 07/16/2026 HBCH mailroom  pg 1/1 --

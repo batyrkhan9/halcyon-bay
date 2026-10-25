@@ -1,20 +1,16 @@
-    SANTA LUC1TA FARMS
-4102 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: TUAN WU        Emp ID: 74659
-P0sition: Fie1d supervisor
-Pay Period: 05/31/2026 - 06/06/2026      Pay Date: 06/11/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                      1,815.17     43,564.08
-   GROSS PAY                                  1,815.17     43,564.08
-DEDUCT1ONS
-  Federal Income Tax                       127.06
-  Social Security                          112.54
-  Medicare                                  26.32
-  CA SDI                                    19.96
-NET PAY                                  1,529.29
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+NOTICE OF ACTION
+CalFresh Approval
+Date: 06/11/2026
+Case name: DESTINY HADDAD
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/05/2026]
+Your application for CalFresh dated 05/27/2026 is APPROVED.
+Number of people in your CalFresh household: 2
+Your monthly CalFresh benefit: $535.00
+Benefits are issued t0 your EBT card beginning 06/01/2026.
+Certification period: 12 months. You must report changes as required.
+
+  . : .
+Questions? Call your eligibility worker.
+
+RECEIVED JUL 03 2026  - mailroom

@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-   Filing Status: Single
-Your first name and middle initial / Last name:  BRANDON GALLAGHER
-Your social security number: XXX-XX-4932
-   Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    57,772.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    57,772.00
-     10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    57,772.00
- 12  Standard deduction ..............................    14,600.00
+BAYLINE LOGISTICS INC
+ 8031 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI CHEN        Emp ID: 88954
+Position: Warehouse associate
+Pay Period: 06/30/2025 - 07/29/2025     Pay Date: 08/03/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,603.65     12,829.20
+GROSS PAY                                  1,603.65     12,829.20
+DEDUCTIONS
+  Federal Income Tax                       144.32
+  Social Security                           99.42
+  Medicare                                  23.25
+      CA SDI                                    17.64
+NET PAY                                  1,319.02
+ --------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Brandon Gallagher        Date: 04/08/2025
-
--- scanned 09/18/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/19/2025]

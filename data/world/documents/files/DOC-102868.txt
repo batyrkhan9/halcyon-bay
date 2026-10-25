@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+2296 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMINA COLEMAN        Emp ID: 71686
+Position: Medical receptionist
+Pay Period: 07/20/2026 - 08/02/2026     Pay Date: 08/07/2026
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     7,341.94    117,471.04
+   GROSS PAY                                  7,341.94    117,471.04
+DEDUCTIONS
+  Federal Income Tax                       440.51
+     Social Security                          455.20
+  Medicare                                 106.45
+  CA SDI                                    80.76
+NET PAY                                  6,259.02
+--------------------------------------------------------------
+
+-- scanned 09/07/2026 HBCH mailroom  pg 1/1 --

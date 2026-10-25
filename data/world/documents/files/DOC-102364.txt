@@ -1,20 +1,22 @@
-SANTA LUCITA FARMS
-    952 HARBOR WAY   CA
+HALCYON BAY UNIFIED SCH0OL DIST
+7564 HARBOR WAY   CA
                          EARNINGS STATEMENT
- Employee: JENNIFER FLORES        Emp ID: 73378
-Position: Field supervisor
-Pay Period: 06/22/2026 - 07/06/2026     Pay Date: 07/11/2026
-Pay Frequency: Semi-Monthly
+Employee: MARQUIS SUZUKI        Emp ID: 74036
+Position: Instructional aide
+Pay Period: 07/07/2026 - 07/13/2026     Pay Date: 07/18/2026
+   Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.96     12.50         212.00      2,756.00
-GROSS PAY                                    212.00      2,756.00
-DEDUCTIONS
-  Federal Income Tax                        10.60
-  S0cial Security                           13.14
-  Medicare                                   3.07
-  CA SDI                                     2.33
-NET PAY                                    182.86
---------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             25.73     40.00       1,029.20     29,846.80
+~ ~ .  ,
+GROSS PAY                                  1,029.20     29,846.80
+    DEDUCTIONS
+  Federal Income Tax                        92.62
+     Social Security                           63.81
+  Medicare                                  14.92
+  CA SDI                                    11.32
+NET PAY                                    846.53
+    --------------------------------------------------------------
+  includes overtime 4.00 hrs
 
-FAX RECEIVED 08/05/2026 10:16   P.01
+-- scanned 07/31/2026 HBCH mailroom  pg 1/1 --

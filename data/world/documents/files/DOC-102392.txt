@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-465 HARBOR WAY   CA
+    COASTAL VALLEY ENERGY
+2793 INDUSTRIAL WAY    CA
                          EARNINGS STATEMENT
-Employee: YUSUF PATEL        Emp ID: 37774
-Position: Warehouse associate
-Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Employee: RAMON O'BRIEN        Emp ID: 25458
+Position: Field technician
+Pay Period: 07/02/2026 - 07/15/2026     Pay Date: 07/20/2026
 Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             68.80     80.00       5,504.00     77,056.00
-GROSS PAY                                  5,504.00     77,056.00
-DEDUCTION5
-  Federal Income Tax                       330.24
-  Social Security                          341.24
-  Medicare                                  79.80
-  CA 5DI                                    60.54
-  NET PAY                                  4,692.18
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,485.04     52,275.60
+GROSS PAY                                  3,485.04     52,275.60
+DEDUCTIONS
+  Federal Income Tax                       243.95
+  S0cial Security                          216.07
+  Medicare                                  50.53
+  CA SDI                                    38.33
+NET PAY                                  2,936.16
 --------------------------------------------------------------
 
-FAX RECEIVED 08/08/2026 10:26   P.01
+RECEIVED AUG 01 2026  - mailroom

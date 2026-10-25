@@ -1,0 +1,21 @@
+GOLDEN HOUR SENIOR LIVING
+3853 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: THAO DIAZ        Emp ID: 59182
+Position: Caregiver
+ Pay Period: 07/01/2026 - 07/15/2026     Pay Date: 07/20/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+  . : .
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             18.69     55.50       1,037.30     14,522.20
+GROSS PAY                                  1,037.30     14,522.20
+DEDUCTIONS
+  Federal Income Tax                       114.10
+  Social Security                           64.31
+  Medicare                                  15.04
+  CA 5DI                                    11.41
+NET PAY                                    832.44
+--------------------------------------------------------------
+
+-- scanned 08/19/2026 HBCH mailroom  pg 1/1 --

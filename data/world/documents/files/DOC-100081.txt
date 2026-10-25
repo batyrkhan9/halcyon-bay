@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2023
-(copy - summary page)
-Filing Status: Married filing jointly
-  Your first name and middle initial / Last name:  DARNELL LOPEZ
-  . : .
-Your social security number: XXX-XX-2726
-  Dependents: 0
-Income
- 1a   Total amount fr0m Form(s) W-2, box 1 ...........    62,298.00
-  8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    62,298.00
- 10  Adjustments to income ...........................         0.00
-   11  Adjusted gross income ...........................    62,298.00
- 12  Standard deduction ..............................    21,900.00
+    OTTER BAY AQUARIUM
+    1225 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: DEBORAH PHAM        Emp ID: 17304
+Position: Guest services
+Pay Period: 12/11/2024 - 12/24/2024     Pay Date: 12/29/2024
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             22.47     80.00       1,797.60     46,737.60
+GROSS PAY                                  1,797.60     46,737.60
+DEDUCTION5
+  Federal Income Tax                       143.80
+~ ~ .  ,
+  Social Security                          111.45
+  Medicare                                  26.06
+  CA SDI                                    19.77
+NET PAY                                  1,496.52
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Darnell Lopez        Date: 04/12/2024
-
-RECEIVED JAN 09 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/01/2025]

@@ -1,21 +1,21 @@
-SEASIDE DENTAL GROUP
-8642 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: HOA DESAI        Emp ID: 95422
-Position: Dental assistant
-Pay Period: 10/14/2025 - 11/12/2025     Pay Date: 11/17/2025
-Pay Frequency: Monthly
+SUNSET COAST HOME CARE
+2430 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: KENJI LIN        Emp ID: 62676
+Position: Home care aide
+Pay Period: 11/19/2025 - 12/02/2025     Pay Date: 12/07/2025
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.25     99.50       1,815.88     19,974.68
-GROSS PAY                                  1,815.88     19,974.68
-DEDUCTIONS
-  Federal Income Tax                       163.42
-  Social Security                          112.58
-  Medicare                                  26.33
-   CA SDI                                    19.97
-NET PAY                                  1,493.58
-  . : .
+Salary                                     3,491.10     87,277.50
+   GROSS PAY                                  3,491.10     87,277.50
+    DEDUCTIONS
+  Federal Income Tax                       279.28
+  Social Security                          216.44
+  Medicare                                  50.62
+  CA SDI                                    38.40
+~ ~ .  ,
+NET PAY                                  2,906.36
 --------------------------------------------------------------
 
--- scanned 11/28/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/22/2025]

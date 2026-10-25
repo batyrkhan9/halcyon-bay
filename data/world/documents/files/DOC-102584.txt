@@ -1,22 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/09/2026
-Member: LOGAN RAHMAN       Account ending 1334
+ BAYLINE LOGISTICS INC
+1935 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: VICTOR ANAND        Emp ID: 48834
+Position: Warehouse associate
+Pay Period: 07/10/2026 - 07/23/2026      Pay Date: 07/28/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.07     51.00         921.57     13,823.55
+GROSS PAY                                    921.57     13,823.55
+DEDUCTIONS
+  Federal Income Tax                        82.94
+  Social Security                           57.13
+  Medicare                                  13.36
+  CA SDI                                    10.13
+NET PAY                                    758.01
+--------------------------------------------------------------
 
-  CHECKING SUMMARY
-  Beginning balance              661.17
-  Deposits                     3,007.68
-_ _ _ _
-    Withdrawals                 -2,706.91
-   Ending balance                 961.94
-
-DEPOSITS AND CREDITS
-  08/09  PAYROLL DIR DEP POINT CORRIN BOATW       1,503.84
-  07/26  PAYROLL DIR DEP POINT CORRIN BOATW       1,503.84
-
-SAVINGS SUMMARY   (Share Savings ending 1049)
-  Ending balance              16,231.39
-  Dividends paid                   6.49
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 08/21/2026 10:17   P.01
+-- scanned 08/16/2026 HBCH mailroom  pg 1/1 --

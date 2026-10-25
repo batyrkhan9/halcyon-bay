@@ -1,20 +1,21 @@
-VISTA SERENA MEDICAL OFFICES
-    5143 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: MANUEL WA5HINGTON        Emp 1D: 41678
-Position: Medical receptionist
-Pay Period: 03/21/2025 - 04/04/2025     Pay Date: 04/09/2025
-Pay Frequency: Semi-Monthly
+   PORT ELLERY CANNERY CO
+5298 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+   Employee: ELENA SULLIVAN        Emp ID: 22336
+   Position: Line worker
+Pay Period: 04/14/2025 - 04/27/2025     Pay Date: 05/02/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             29.32     86.67       2,541.16     17,788.12
-GROSS PAY                                  2,541.16     17,788.12
+Salary                                        669.37      6,024.33
+GR0SS PAY                                     669.37      6,024.33
 DEDUCTIONS
-  Federal Income Tax                       177.88
-  Social Security                          157.55
-  Medicare                                  36.84
-     CA SDI                                    27.95
-    NET PAY                                  2,140.94
+   Federal Income Tax                        73.63
+  Social Security                           41.50
+  Medicare                                   9.70
+  CA SDI                                     7.36
+NET PAY                                    537.18
+| |   .
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/22/2025]
+FAX RECEIVED 05/09/2025 10:21   P.01

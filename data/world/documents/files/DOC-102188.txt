@@ -1,20 +1,20 @@
-   SANTA LUCITA FARMS
-4614 MARKET WAY   CA
+  VISTA SERENA MEDICAL OFFICES
+678 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: PRISCILLA JUNG        Emp ID: 87679
-P0sition: Field supervisor
-Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
-  Pay Frequency: Weekly
+Employee: AUSTIN CASTILLO        Emp ID: 88404
+Position: Medical receptionist
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.35     21.50         373.02     10,071.54
-GROSS PAY                                    373.02     10,071.54
-DEDUCTION5
-  Federal Income Tax                        41.03
-  Social Security                           23.12
-  Medicare                                   5.40
-  CA SDI                                     4.10
-  NET PAY                                    299.37
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,379.49     17,933.37
+GROSS PAY                                  1,379.49     17,933.37
+DEDUCTIONS
+  Federal Income Tax                       151.74
+  Social Security                           85.52
+  Medicare                                  20.00
+    CA SDI                                    15.17
+NET PAY                                  1,107.06
 --------------------------------------------------------------
 
-FAX RECEIVED 07/25/2026 10:48   P.01
+RECEIVED JUL 22 2026  - mailroom

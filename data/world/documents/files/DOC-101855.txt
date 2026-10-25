@@ -1,20 +1,20 @@
-5ANDPIPER CHILD CARE CENTER
-8342 COMMERCE WAY   CA
+VISTA SERENA MEDICAL OFFICES
+7941 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MARIO THOMAS        Emp ID: 49894
-Position: Teacher
-Pay Period: 06/02/2026 - 06/08/2026     Pay Date: 06/13/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
+Empl0yee: JESSICA BRYANT        Emp ID: 72554
+Position: Medical receptionist
+ Pay Period: 04/10/2026 - 04/24/2026     Pay Date: 04/29/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,627.24     39,053.76
-GROSS PAY                                  1,627.24     39,053.76
-   DEDUCTIONS
-  Federal Income Tax                       178.99
-  Social Security                          100.88
-  Medicare                                  23.59
-  CA SDI                                    17.90
-NET PAY                                  1,305.88
+Regular             17.01     52.75         897.28      7,178.24
+GROSS PAY                                    897.28      7,178.24
+DEDUCTIONS
+  Federal Income Tax                        98.70
+   Social Security                           55.63
+      Medicare                                  13.01
+      CA SDI                                     9.87
+NET PAY                                    720.07
 --------------------------------------------------------------
 
-FAX RECEIVED 07/01/2026 10:51   P.01
+RECEIVED MAY 29 2026  - mailroom

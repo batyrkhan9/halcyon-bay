@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-5347 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: KAREN THOMPSON        Emp ID: 66864
-Position: Field technician
-Pay Period: 06/28/2026 - 07/11/2026     Pay Date: 07/16/2026
-Pay Frequency: Bi-Weekly
+PORT ELLERY CANNERY CO
+2446 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: ASHLEY IBARRA        Emp ID: 67405
+Position: Line worker
+Pay Period: 06/14/2026 - 06/27/2026     Pay Date: 07/02/2026
+ Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.52     80.00       2,121.60     31,824.00
-GROSS PAY                                  2,121.60     31,824.00
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,615.50     22,617.00
+GROSS PAY                                   1,615.50     22,617.00
 DEDUCTIONS
-  Federal Income Tax                       190.94
-  Social Security                          131.53
-     Medicare                                  30.76
-  CA SDI                                    23.33
-NET PAY                                  1,745.04
+  Federal Income Tax                        96.93
+    Social Security                          100.16
+  Medicare                                  23.42
+     CA SDI                                    17.77
+NET PAY                                  1,377.22
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/25/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]

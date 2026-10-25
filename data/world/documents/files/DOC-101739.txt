@@ -1,21 +1,21 @@
-   MIRADOR GROCERY CO-OP
-1572 INDUSTRIAL WAY   CA
+LAS BRISAS RESTAURANT GROUP
+8069 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL HUANG        Emp ID: 99348
-Position: Cashier
-Pay Period: 04/09/2026 - 04/15/2026     Pay Date: 04/20/2026
-Pay Frequency: Weekly
+Employee: RAJNI MOORE        Emp ID: 57329
+Position: Line cook
+Pay Period: 04/16/2026 - 04/29/2026     Pay Date: 05/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Salary                                     3,410.94     54,575.04
- GROSS PAY                                  3,410.94     54,575.04
-  DEDUCTIONS
-  Federal Income Tax                       306.98
-    Social Security                          211.47
-  Medicare                                  49.45
-   CA SDI                                    37.52
-NET PAY                                  2,805.52
---------------------------------------------------------------
+Regular             25.55     80.00       2,044.00     18,396.00
+GROSS PAY                                  2,044.00     18,396.00
+DEDUCTIONS
+  Federal Income Tax                       163.52
+  Social Security                          126.72
+     Medicare                                  29.63
+   CA SDI                                    22.48
+NET PAY                                   1,701.65
+ --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-RECEIVED MAY 08 2026  - mailroom
+FAX RECEIVED 05/12/2026 10:22   P.01

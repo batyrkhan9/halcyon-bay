@@ -1,21 +1,20 @@
-MIRADOR PUBLIC LIBRARY
-3483 HARBOR WAY   CA
+BAYLINE LOGISTICS INC
+2472 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-   Employee: LINDA CASTILLO        Emp ID: 87575
-_ _ _ _
-  Position: Library assistant
-Pay Period: 12/03/2024 - 12/09/2024     Pay Date: 12/14/2024
-Pay Frequency: Weekly
+Emp1oyee: NOOR MILLER        Emp ID: 70721
+Position: Warehouse associate
+Pay Period: 12/11/2024 - 12/25/2024     Pay Date: 12/30/2024
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             58.83     40.00       2,353.20    117,660.00
-    GROSS PAY                                  2,353.20    117,660.00
-DEDUCTI0NS
-  Federal Income Tax                        94.12
-  Social Security                          145.89
-   Medicare                                  34.12
-  CA SDI                                    25.88
-NET PAY                                  2,053.19
+Regular             17.52     62.00       1,086.24     27,156.00
+GR0SS PAY                                  1,086.24     27,156.00
+DEDUCTIONS
+  Federal Income Tax                        65.17
+  Social Security                           67.34
+  Medicare                                  15.75
+  CA SDI                                    11.94
+    NET PAY                                    926.04
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/13/2025]
+-- scanned 01/11/2025 HBCH mailroom  pg 1/1 --

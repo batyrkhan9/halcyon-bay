@@ -1,21 +1,20 @@
-MARISOL CLEAN1NG SERVICES
-5920 MARKET WAY   CA
+ARROYO VERDE NURSERY
+3050 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ANJALI LIN        Emp ID: 93053
-Position: Cleaner
-_ _ _ _
-Pay Period: 02/07/2025 - 02/20/2025     Pay Date: 02/25/2025
- Pay Frequency: Bi-Weekly
+  Employee: RODRIGO GARCIA        Emp ID: 43937
+Position: Nursery worker
+  Pay Period: 03/18/2025 - 03/31/2025     Pay Date: 04/05/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,577.74      6,310.96
-GROSS PAY                                  1,577.74      6,310.96
+    Regu1ar             34.30     80.00       2,744.00     19,208.00
+GR0SS PAY                                  2,744.00     19,208.00
 DEDUCTIONS
-  Federal Income Tax                       126.21
-  Social Security                           97.82
-  Medicare                                  22.87
-  CA SDI                                    17.35
-NET PAY                                  1,313.49
-    --------------------------------------------------------------
+   Federal Income Tax                       192.08
+  Social Security                          170.12
+  Medicare                                  39.78
+      CA SDI                                    30.18
+  NET PAY                                  2,311.84
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/11/2025]
+-- scanned 04/21/2025 HBCH mailroom  pg 1/1 --

@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-8789 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+5477 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DONNA HAYES        Emp ID: 32229
-Position: Instructional aide
-Pay Period: 05/25/2026 - 06/23/2026     Pay Date: 06/28/2026
-Pay Frequency: Monthly
+  Employee: KIM RAHMAN        Emp ID: 36588
+Position: Cashier
+Pay Period: 06/04/2026 - 06/17/2026     Pay Date: 06/22/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             34.55    173.33       5,988.55     35,931.30
-GROSS PAY                                  5,988.55     35,931.30
+Salary                                     9,791.23    127,285.99
+GROSS PAY                                  9,791.23    127,285.99
 DEDUCTIONS
-      Federal Income Tax                       239.54
-  Social Security                          371.29
-  Medicare                                  86.83
-  CA SDI                                    65.87
-NET PAY                                  5,225.02
+  Federal Income Tax                     1,077.03
+  Social Security                          607.05
+  Medicare                                 141.97
+  CA SDI                                   107.70
+NET PAY                                  7,857.48
 --------------------------------------------------------------
 
-RECEIVED JUL 14 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/10/2026]

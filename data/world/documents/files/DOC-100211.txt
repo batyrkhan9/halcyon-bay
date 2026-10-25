@@ -1,0 +1,20 @@
+OTTER BAY AQUARIUM
+2909 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: SERGIO XU        Emp ID: 87509
+Position: Guest services
+ Pay Period: 12/25/2024 - 01/23/2025     Pay Date: 01/28/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              16.73     44.75         748.67        748.67
+GROSS PAY                                    748.67        748.67
+DEDUCT1ONS
+  Federal Income Tax                        74.86
+  Social 5ecurity                           46.41
+  Medicare                                  10.85
+      CA SDI                                     8.23
+NET PAY                                    608.32
+--------------------------------------------------------------
+
+FAX RECEIVED 03/02/2025 10:45   P.01

@@ -1,20 +1,18 @@
-POINT CORRIN BOATWORKS
-3959 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: MIGUEL ADAMS        Emp ID: 49949
-Position: Mechanic
-Pay Period: 02/26/2026 - 03/11/2026     Pay Date: 03/16/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,354.59     14,127.54
-GROSS PAY                                  2,354.59     14,127.54
-DEDUCTIONS
-  Federal Income Tax                        94.18
-  Social Security                          145.98
-   Medicare                                  34.14
-  CA SDI                                    25.90
-NET PAY                                  2,054.39
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 03/01/2026 - 03/31/2026
+Member: ROGELIO NAVARRO-CLARK       Account ending 8619
 
-FAX RECEIVED 03/28/2026 10:59   P.01
+CHECKING SUMMARY
+  Beginning balance            2,999.29
+  Deposits                    13,363.96
+  Withdrawals                -11,359.36
+  Ending balance               5,003.89
+
+DEPOSITS AND CREDITS
+  03/14  PAYROLL DIR DEP MARISOL CLEANING 5       6,681.98
+  03/28  PAYROLL DIR DEP MARISOL CLEANING S       6,681.98
+  . : .
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED APR 10 2026  - mailroom

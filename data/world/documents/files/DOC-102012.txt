@@ -1,21 +1,20 @@
-TIDEWATER CONSTRUCTION
-6562 COMMERCE WAY   CA
-                             EARNINGS STATEMENT
-   Employee: CALEB MARTINEZ        Emp ID: 61500
-Position: Laborer
-Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
-Pay Frequency: Bi-Weekly
+SUNSET COAST HOME CARE
+3063 COMMERCE WAY    CA
+                            EARNINGS STATEMENT
+Employee: DESTINY PARK        Emp ID: 65232
+Position: Home care aide
+   Pay Period: 05/29/2026 - 06/12/2026     Pay Date: 06/17/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              93.33     80.00       7,466.40    104,529.60
-GROSS PAY                                  7,466.40    104,529.60
-~ ~ .  ,
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.80     49.00         921.20     11,054.40
+GROSS PAY                                    921.20     11,054.40
 DEDUCTIONS
-  Federal Income Tax                       373.32
-  Social Security                          462.91
-  Medicare                                 108.26
-  CA SDI                                    82.13
-NET PAY                                  6,439.78
+  Federal Inc0me Tax                       101.33
+  Social Security                           57.11
+  Medicare                                  13.35
+  CA SDI                                    10.13
+NET PAY                                    739.28
 --------------------------------------------------------------
 
-RECEIVED JUL 15 2026  - mailroom
+-- scanned 07/12/2026 HBCH mailroom  pg 1/1 --

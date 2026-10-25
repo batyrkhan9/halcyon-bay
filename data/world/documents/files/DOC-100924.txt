@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-    Statement Period 08/01/2025 - 08/17/2025
-Member: RAYMOND ALMEIDA       Account ending 2302
+MARISOL CLEANING SERVICES
+9690 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: MARIA VALENCIA        Emp ID: 75298
+Position: Cleaner
+Pay Period: 08/30/2025 - 09/05/2025     Pay Date: 09/10/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.95      8.00         143.60      5,313.20
+GROSS PAY                                    143.60      5,313.20
+   DEDUCTIONS
+  Federal Income Tax                        11.48
+      Social 5ecurity                            8.90
+  Medicare                                   2.08
+  CA SDI                                     1.58
+NET PAY                                    119.56
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,088.15
-  Deposits                     2,291.32
-    Withdrawals                 -2,130.92
-  Ending balance               2,248.55
-
-DEPOSITS AND CREDITS
-  08/17  PAYROLL DIR DEP SUNSET COAST HOME        1,145.66
-  08/03  PAYROLL DIR DEP SUNSET COAST HOME        1,145.66
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/21/2025 HBCH mailroom  pg 1/1 --
+RECEIVED SEP 22 2025  - mailroom

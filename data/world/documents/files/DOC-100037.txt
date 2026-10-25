@@ -1,20 +1,18 @@
-CALDER FREIGHT LINES
-2475 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: SUSAN FUENTES        Emp ID: 68423
-Position: Driver
-Pay Period: 09/01/2024 - 09/30/2024     Pay Date: 10/05/2024
-Pay Frequency: Monthly
---------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.59     64.75       1,203.70     12,037.00
-GROSS PAY                                  1,203.70     12,037.00
-DEDUCTIONS
-  Federal Income Tax                        72.22
-  Social Security                           74.62
-  Medicare                                  17.45
-   CA SDI                                    13.24
-    NET PAY                                  1,026.17
---------------------------------------------------------------
+    Form 1040   U.S. Individual Income Tax Return   2023
+(copy - summary page)
+ Filing Status: Married filing jointly
+    Your first name and middle initial / Last name:  DEEPA DESAI
+Your social security number: XXX-XX-2259
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    45,618.00
+  8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    45,618.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    45,618.00
+ 12  Standard deduction ..............................    21,900.00
 
-RECEIVED DEC 20 2024  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Deepa Desai        Date: 04/08/2024
+
+-- scanned 12/19/2024 HBCH mailroom  pg 1/1 --

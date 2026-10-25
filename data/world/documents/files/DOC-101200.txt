@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+8486 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: AMINA COSTA        Emp ID: 50016
+Position: Driver
+Pay Period: 11/15/2025 - 11/21/2025     Pay Date: 11/26/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,833.29     87,997.92
+GROSS PAY                                  1,833.29     87,997.92
+  DEDUCTIONS
+  Federal Income Tax                       164.99
+  Social Security                          113.66
+  Medicare                                  26.58
+  CA SDI                                    20.16
+NET PAY                                  1,507.90
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/13/2025]

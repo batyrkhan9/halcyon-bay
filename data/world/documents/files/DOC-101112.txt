@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-243 INDUSTRIAL WAY   CA
+ARROYO VERDE NURSERY
+8311 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: ANDREW LEE        Emp 1D: 44052
-Position: Technician
-    Pay Period: 09/18/2025 - 10/01/2025     Pay Date: 10/06/2025
-Pay Frequency: Bi-Weekly
+Employee: ARJUN SINGH        Emp ID: 54681
+    Position: Nursery worker
+Pay Period: 09/21/2025 - 10/05/2025     Pay Date: 10/10/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular              20.86     80.00       1,668.80     33,376.00
-GROSS PAY                                  1,668.80     33,376.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       485.95      9,233.05
+GROSS PAY                                    485.95      9,233.05
 DEDUCTIONS
-~ ~ .  ,
-  Federal Income Tax                       150.19
-  Socia1 Security                          103.46
-  Medicare                                  24.19
-  CA SDI                                    18.35
-NET PAY                                  1,372.61
+  Federal Income Tax                        48.59
+  Social Security                           30.12
+  Medicare                                   7.04
+     CA SDI                                     5.34
+ NET PAY                                    394.86
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/24/2025]
+RECEIVED NOV 11 2025  - mailroom

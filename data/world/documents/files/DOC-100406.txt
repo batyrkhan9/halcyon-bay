@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-1278 COMMERCE WAY   CA
-                           EARNINGS STATEMENT
-Employee: RACHEL VASQUEZ        Emp ID: 60722
-Position: Field technician
-Pay Period: 03/05/2025 - 03/18/2025     Pay Date: 03/23/2025
- Pay Frequency: Bi-Weekly
+    SANDPIPER CHILD CARE CENTER
+9912 MARKET WAY   CA
+                         EARNINGS STATEMENT
+    Employee: THAO CLARK-SANCHEZ        Emp ID: 21319
+Position: Teacher
+Pay Period: 03/03/2025 - 03/16/2025     Pay Date: 03/21/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,450.89      8,705.34
-GROSS PAY                                  1,450.89      8,705.34
-DEDUCT1ONS
-  Federal Income Tax                        58.03
-   Social Security                           89.95
-      Medicare                                  21.03
-  CA SDI                                    15.96
-NET PAY                                  1,265.92
+Salary                                       554.08      3,324.48
+  GROSS PAY                                    554.08      3,324.48
+DEDUCTIONS
+  Federal Income Tax                        27.70
+    Social Security                           34.35
+   Medicare                                   8.03
+  CA SDI                                     6.09
+    NET PAY                                    477.91
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/06/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/19/2025]

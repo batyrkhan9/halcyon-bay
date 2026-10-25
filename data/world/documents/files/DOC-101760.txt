@@ -1,0 +1,20 @@
+ MIRADOR GROCERY CO-OP
+424 INDUSTRIAL WAY   CA
+                          EARNINGS STATEMENT
+Employee: ANJALI NGUYEN        Emp ID: 90412
+Position: Cashier
+Pay Period: 02/20/2026 - 03/21/2026     Pay Date: 03/26/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,388.35      4,165.05
+GROSS PAY                                  1,388.35      4,165.05
+DEDUCTIONS
+  Federal Income Tax                       138.83
+  Social Security                           86.07
+     Medicare                                  20.13
+  CA SDI                                    15.27
+ NET PAY                                  1,128.05
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/13/2026]

@@ -1,21 +1,21 @@
-PACIFIC RIM JANITORIAL
-7828 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: PATRICIA RAMOS        Emp ID: 76760
-Position: Custodian
-| |   .
-  Pay Period: 04/09/2025 - 04/22/2025     Pay Date: 04/27/2025
-   Pay Frequency: Bi-Weekly
+POINT CORRIN BOATWORKS
+  7107 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+ Emp1oyee: ELENA VALENCIA         Emp ID: 61089
+Position: Mechanic
+Pay Period: 04/16/2025 - 04/30/2025     Pay Date: 05/05/2025
+~ ~ .  ,
+    Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Salary                                     2,198.48     19,786.32
-GROSS PAY                                  2,198.48     19,786.32
+Regular             41.87     86.67       3,628.87     32,659.83
+GROSS PAY                                  3,628.87     32,659.83
 DEDUCTIONS
-  Federal Income Tax                       219.84
-  Social Security                          136.30
-  Medicare                                  31.87
-   CA SDI                                    24.18
-NET PAY                                  1,786.29
+  Federal Income Tax                       254.02
+  Social Security                          224.99
+     Medicare                                  52.61
+  CA SDI                                    39.91
+NET PAY                                  3,057.34
 --------------------------------------------------------------
 
-FAX RECEIVED 05/04/2025 10:53   P.01
+FAX RECEIVED 05/23/2025 10:20   P.01

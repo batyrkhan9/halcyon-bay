@@ -1,0 +1,21 @@
+HARBOR POINT HOTEL
+  3656 INDUSTRIAL WAY   CA
+                            EARNINGS STATEMENT
+Employee: ANDREW HAYES        Emp ID: 50556
+| |   .
+Position: Housekeeper
+Pay Period: 03/03/2026 - 04/01/2026     Pay Date: 04/06/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                    16,487.94     65,951.76
+GROSS PAY                                 16,487.94     65,951.76
+DEDUCTIONS
+    Federal Income Tax                     1,154.15
+   Social Security                        1,022.25
+  Medicare                                 239.07
+  CA SDI                                   181.36
+NET PAY                                 13,891.11
+--------------------------------------------------------------
+
+RECEIVED MAY 12 2026  - mailroom

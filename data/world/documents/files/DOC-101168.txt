@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+6445 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: PRISCILLA JUNG        Emp ID: 28147
+Position: Nursery worker
+Pay Period: 11/03/2025 - 11/09/2025     Pay Date: 11/14/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular             17.14     24.50         419.93     19,316.78
+GROSS PAY                                    419.93     19,316.78
+DEDUCTIONS
+  Federal Income Tax                        20.99
+  Social Security                           26.03
+  Medicare                                   6.08
+  CA SDI                                     4.61
+NET PAY                                    362.22
+--------------------------------------------------------------
+
+-- scanned 12/02/2025 HBCH mailroom  pg 1/1 --

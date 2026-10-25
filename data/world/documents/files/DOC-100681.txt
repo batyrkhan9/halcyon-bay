@@ -1,21 +1,20 @@
-COASTAL VALLEY ENERGY
-  3543 COMMERCE WAY   CA
-| |   .
+LAS BRISAS RESTAURANT GROUP
+6095 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: LUIS BUI        Emp ID: 46652
-Position: Field technician
-Pay Period: 05/24/2025 - 06/06/2025     Pay Date: 06/11/2025
-Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
+Employee: HANNAH PARK        Emp ID: 46809
+Position: Line cook
+Pay Period: 06/21/2025 - 06/27/2025     Pay Date: 07/02/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.65     80.00       1,732.00     20,784.00
-GROSS PAY                                  1,732.00     20,784.00
-DEDUCTIONS
-  Federal 1ncome Tax                        86.60
-  Social Security                          107.38
-  Medicare                                  25.11
-  CA SDI                                    19.05
-NET PAY                                  1,493.86
-  --------------------------------------------------------------
+Regular            121.20     40.00       4,848.00    130,896.00
+GROSS PAY                                  4,848.00    130,896.00
+ DEDUCTIONS
+  Federal Income Tax                       193.92
+  Social Security                          300.57
+   Medicare                                  70.29
+  CA SDI                                    53.32
+NET PAY                                  4,229.90
+--------------------------------------------------------------
 
-FAX RECEIVED 06/19/2025 10:25   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/14/2025]

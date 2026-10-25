@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-8182 1NDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: ARACELI WILLIAMS        Emp ID: 47820
-Position: Medical receptionist
-Pay Period: 12/21/2024 - 01/19/2025     Pay Date: 01/24/2025
-Pay Frequency: Monthly
+CYPRESS FLATS AUTO BODY
+5624 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+Employee: LINH BUI        Emp ID: 78166
+Position: Technician
+Pay Period: 03/20/2025 - 04/03/2025     Pay Date: 04/08/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-   EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-  Regular             18.40     32.50         598.00        598.00
-GROSS PAY                                    598.00        598.00
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Salary                                     1,451.60     10,161.20
+   GROSS PAY                                  1,451.60     10,161.20
 DEDUCTIONS
-  Federal Income Tax                        65.78
-  Social Security                           37.07
-  Medicare                                   8.67
-  CA SDI                                     6.57
-NET PAY                                    479.91
-_ _ _ _
+  Federal Income Tax                       101.61
+     Social Security                           89.99
+  Medicare                                  21.04
+  CA SD1                                    15.96
+NET PAY                                  1,223.00
 --------------------------------------------------------------
 
-FAX RECEIVED 04/04/2025 10:12   P.01
+FAX RECEIVED 04/17/2025 10:14   P.01

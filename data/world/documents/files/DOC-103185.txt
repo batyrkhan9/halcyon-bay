@@ -1,0 +1,20 @@
+SANDP1PER CHILD CARE CENTER
+2273 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: NICOLE CHEN        Emp ID: 89870
+Position: Teacher
+Pay Period: 09/11/2026 - 09/17/2026     Pay Date: 09/22/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       556.49     21,146.62
+    GROSS PAY                                    556.49     21,146.62
+DEDUCTIONS
+  Federal Income Tax                        55.64
+   Social Security                           34.50
+  Medicare                                   8.06
+  CA SDI                                     6.12
+   NET PAY                                    452.17
+    --------------------------------------------------------------
+
+FAX RECEIVED 09/28/2026 10:58   P.01

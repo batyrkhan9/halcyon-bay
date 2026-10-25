@@ -1,20 +1,20 @@
-MIRADOR GROCERY CO-OP
- 2355 INDUSTRIAL WAY   CA
-                           EARNINGS STATEMENT
-Employee: LEILA O'BRIEN        Emp ID: 45578
-Position: Cashier
-Pay Period: 03/25/2025 - 03/31/2025      Pay Date: 04/05/2025
+VISTA SERENA MEDICAL OFFICES
+1543 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAJNI NAVARRO        Emp ID: 54456
+Position: Medical receptionist
+   Pay Period: 03/28/2025 - 04/03/2025     Pay Date: 04/08/2025
 Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.49     11.50         201.14      2,815.96
-GROSS PAY                                    201.14      2,815.96
-    DEDUCTIONS
-  Federal Income Tax                        16.09
-  Social Security                           12.47
-  Medicare                                   2.91
-  CA SDI                                     2.21
-NET PAY                                     167.46
-   --------------------------------------------------------------
+    --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular            107.31     40.00       4,292.40     60,093.60
+GROSS PAY                                  4,292.40     60,093.60
+DEDUCTIONS
+  Federal Income Tax                       300.46
+  Social Security                          266.12
+   Medicare                                  62.24
+   CA SDI                                    47.21
+NET PAY                                  3,616.37
+  --------------------------------------------------------------
 
--- scanned 04/18/2025 HBCH mailroom  pg 1/1 --
+-- scanned 04/23/2025 HBCH mailroom  pg 1/1 --

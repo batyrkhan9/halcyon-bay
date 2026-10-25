@@ -1,21 +1,20 @@
-CALDER FREIGHT LINES
-3206 HARBOR WAY   CA
+BLUE KELP SOFTWARE LLC
+2661 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-    Employee: ABIGAIL THOMPSON        Emp ID: 55251
-Position: Driver
-Pay Period: 10/28/2025 - 11/03/2025     Pay Date: 11/08/2025
+Employee: WEI WALKER-MURPHY        Emp ID: 63069
+Position: Software engineer
+Pay Period: 12/06/2025 - 12/12/2025     Pay Date: 12/17/2025
 Pay Frequency: Weekly
-   --------------------------------------------------------------
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             27.74     40.00       1,109.60     49,932.00
-GROSS PAY                                  1,109.60     49,932.00
+Salary                                       313.52     15,989.52
+    GROSS PAY                                    313.52     15,989.52
 DEDUCTIONS
-  Federal Income Tax                        44.38
-| |   .
-    Social Security                           68.79
-  Medicare                                  16.08
-  CA SDI                                    12.20
-NET PAY                                    968.15
+  Federal Income Tax                        25.08
+  Social Security                           19.43
+  Medicare                                   4.54
+   CA SDI                                     3.44
+NET PAY                                    261.03
 --------------------------------------------------------------
 
-RECEIVED DEC 02 2025  - mailroom
+FAX RECEIVED 12/27/2025 10:31   P.01

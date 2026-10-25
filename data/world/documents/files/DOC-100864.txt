@@ -1,20 +1,10 @@
-BAYLINE LOGISTICS INC
-  7377 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: HIROSHI TRAN        Emp ID: 88625
-Position: Warehouse associate
-Pay Period: 06/26/2025 - 07/09/2025     Pay Date: 07/14/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.46     14.75         272.28      3,811.92
-GROSS PAY                                    272.28      3,811.92
-DEDUCTIONS
-  Federal Income Tax                        24.50
-  5ocial Security                           16.88
-     Medicare                                   3.94
-  CA SDI                                     2.99
-NET PAY                                    223.97
---------------------------------------------------------------
+COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
+   NOTICE OF ACTION
+Medi-Cal Approval
+Date: 05/31/2025
+Beneficiary: HOA CLARK
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/08/2025]
+You are approved for full scope Medi-Cal with no share of cost beginning 05/01/2025.
+Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+
+RECEIVED SEP 04 2025  - mailroom

@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-2090 HARBOR WAY   CA
+SANTA LUCITA FARMS
+3205 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: AMANDA GONZALEZ        Emp ID: 21731
-Position: Field technician
-Pay Period: 08/17/2025 - 08/23/2025     Pay Date: 08/28/2025
+Employee: NOAH GALLAGHER        Emp ID: 81632
+Position: Field supervisor
+Pay Period: 09/27/2025 - 10/03/2025     Pay Date: 10/08/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.60     18.75         348.75     12,206.25
-    GROSS PAY                                    348.75     12,206.25
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                     1,145.35     46,959.35
+GROSS PAY                                  1,145.35     46,959.35
 DEDUCTIONS
-    Federal Income Tax                        27.90
-      Social Security                           21.62
-  Medicare                                   5.05
-  CA SDI                                     3.83
-NET PAY                                    290.35
---------------------------------------------------------------
+   Federal Income Tax                       125.98
+  Social Security                           71.01
+  Medicare                                  16.60
+  CA SDI                                    12.59
+NET PAY                                    919.17
+   --------------------------------------------------------------
 
-FAX RECEIVED 09/21/2025 10:50   P.01
+-- scanned 10/22/2025 HBCH mailroom  pg 1/1 --

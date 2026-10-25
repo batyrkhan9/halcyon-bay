@@ -1,0 +1,21 @@
+POINT CORRIN BOATWORKS
+9395 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+   Employee: ANA DAVIS        Emp ID: 49626
+Position: Mechanic
+  Pay Period: 06/07/2026 - 07/06/2026     Pay Date: 07/11/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             35.69    173.33       6,186.15     43,303.05
+   GROSS PAY                                  6,186.15     43,303.05
+DEDUCTIONS
+   Federal Income Tax                       433.03
+  . : .
+   Social Security                          383.54
+  Medicare                                  89.69
+  CA SDI                                    68.04
+NET PAY                                  5,211.85
+--------------------------------------------------------------
+
+FAX RECEIVED 07/28/2026 10:57   P.01

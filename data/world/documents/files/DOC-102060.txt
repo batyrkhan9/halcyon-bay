@@ -1,18 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 07/01/2026 - 07/11/2026
-Member: FRANCISCO DO       Account ending 4947
+ARROYO VERDE NURSERY
+9902 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: RONALD FLORES        Emp ID: 97214
+ Position: Nursery worker
+Pay Period: 06/02/2026 - 06/15/2026     Pay Date: 06/20/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             26.45     80.00       2,116.00     27,508.00
+GROSS PAY                                  2,116.00     27,508.00
+  DEDUCTIONS
+  Federal Income Tax                       211.60
+  Social Security                          131.19
+  Medicare                                  30.68
+  CA SDI                                    23.27
+NET PAY                                  1,719.26
+--------------------------------------------------------------
 
-  CHECKING SUMMARY
-_ _ _ _
-  Beginning balance            1,720.01
-  Deposits                       958.98
-  Withdrawals                   -978.15
-  Ending balance               1,700.84
-
-DEPOSITS AND CREDITS
-  07/11  PAYROLL DIR DEP T1DEWATER CONSTRUC         479.49
-    07/04  PAYROLL DIR DEP TIDEWATER CONSTRUC         479.49
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 07/18/2026 10:31   P.01
+RECEIVED JUL 15 2026  - mailroom

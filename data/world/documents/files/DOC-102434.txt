@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-8108 HARBOR WAY   CA
+VI5TA SERENA MEDICAL OFFICES
+   4033 HARB0R WAY   CA
                          EARNINGS STATEMENT
-Employee: AALIYAH HO         Emp ID: 13074
-Position: Line worker
-Pay Period: 07/10/2026 - 07/23/2026     Pay Date: 07/28/2026
-Pay Frequency: Bi-Weekly
+Employee: MALIA KANG        Emp ID: 97537
+Position: Medical receptionist
+Pay Period: 07/02/2026 - 07/16/2026     Pay Date: 07/21/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       729.20     10,938.00
-    GROSS PAY                                    729.20     10,938.00
+Salary                                     4,331.97     60,647.58
+GROSS PAY                                  4,331.97     60,647.58
 DEDUCTIONS
-  Federal Income Tax                        29.16
-     Social Security                           45.21
-  Medicare                                  10.57
-  CA SDI                                     8.02
-NET PAY                                    636.24
+  Federal Income Tax                       433.19
+  Socia1 Security                          268.58
+  Medicare                                  62.81
+  CA SDI                                    47.65
+NET PAY                                  3,519.74
 --------------------------------------------------------------
 
--- scanned 08/09/2026 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 05 2026  - mailroom

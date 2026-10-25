@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-   1109 HARBOR WAY   CA
+    PACIFIC RIM JANITORIAL
+8479 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: DYLAN ZHANG        Emp ID: 69994
-Position: Line worker
-Pay Period: 02/11/2025 - 02/17/2025     Pay Date: 02/22/2025
-Pay Frequency: Weekly
+Employee: AIKO LI        Emp ID: 92372
+Position: Custodian
+Pay Period: 03/09/2025 - 03/22/2025     Pay Date: 03/27/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-~ ~ .  ,
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       550.98      4,407.84
-GROSS PAY                                    550.98      4,407.84
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             55.74     80.00       4,459.20     31,214.40
+GROSS PAY                                  4,459.20     31,214.40
 DEDUCTIONS
-  Federal Income Tax                        33.05
-  5ocial Security                           34.16
-  Medicare                                   7.98
-  CA SDI                                     6.06
-    NET PAY                                    469.73
+  Federal Income Tax                       401.32
+  Social Security                          276.47
+  Medicare                                  64.65
+  CA SDI                                    49.05
+    NET PAY                                  3,667.71
 --------------------------------------------------------------
 
-FAX RECEIVED 03/17/2025 10:56   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/07/2025]

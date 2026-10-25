@@ -1,20 +1,21 @@
-PACIFIC RIM JANITORIAL
-1231 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: SOFIA FLORES        Emp ID: 30871
-Position: Custodian
-Pay Period: 12/07/2024 - 12/13/2024     Pay Date: 12/18/2024
+BAYLINE LOGISTICS INC
+  9775 INDUSTRIAL WAY   CA
+                         EARNING5 STATEMENT
+Employee: JIAN GALLAGHER         Emp ID: 62957
+Position: Warehouse associate
+   Pay Period: 11/30/2024 - 12/06/2024     Pay Date: 12/11/2024
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             18.18     28.75         522.68     26,656.68
-    GROSS PAY                                    522.68     26,656.68
+Salary                                     1,290.88     64,544.00
+GROSS PAY                                  1,290.88     64,544.00
 DEDUCTIONS
-  Federal Income Tax                        57.49
-  Social Security                           32.40
-  Medicare                                   7.57
-  CA SDI                                     5.74
-NET PAY                                    419.48
+  Federal Income Tax                        64.54
+  Social Security                           80.03
+  Medicare                                  18.71
+  CA SDI                                    14.20
+NET PAY                                  1,113.40
+_ _ _ _
 --------------------------------------------------------------
 
-FAX RECEIVED 12/31/2024 10:57   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/28/2024]

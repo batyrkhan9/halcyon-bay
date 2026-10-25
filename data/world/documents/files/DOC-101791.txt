@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+4220 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILANI NOVAK        Emp ID: 17918
+P0sition: Instructional aide
+Pay Period: 04/15/2026 - 04/21/2026     Pay Date: 04/26/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             44.74     40.00       1,789.60     30,423.20
+GROSS PAY                                  1,789.60     30,423.20
+DEDUCTIONS
+  Federal Income Tax                       178.96
+  Social Security                          110.95
+  Medicare                                  25.94
+  CA SDI                                    19.68
+NET PAY                                  1,454.07
+--------------------------------------------------------------
+
+-- scanned 05/14/2026 HBCH mailroom  pg 1/1 --

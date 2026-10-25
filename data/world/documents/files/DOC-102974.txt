@@ -1,20 +1,18 @@
-  PORT ELLERY CANNERY CO
-4015 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: DEEPA BANKS        Emp ID: 57914
-   Position: Line worker
-Pay Period: 07/28/2026 - 08/11/2026     Pay Date: 08/16/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             19.09     86.67       1,654.53     26,472.48
-   GROSS PAY                                  1,654.53     26,472.48
-   DEDUCTIONS
-      Federal Income Tax                        99.27
-  5ocial Security                          102.58
-  Medicare                                  23.99
-  CA SDI                                    18.20
-NET PAY                                  1,410.49
- --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  RICARDO WU
+Your social security number: XXX-XX-6232
+Dependents: 2
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........   127,466.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................   127,466.00
+ 10  Adjustments to income ...........................         0.00
+     11  Adjusted gross income ...........................   127,466.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/14/2026]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Ricardo Wu        Date: 04/01/2026
+
+-- scanned 09/12/2026 HBCH mailroom  pg 1/1 --

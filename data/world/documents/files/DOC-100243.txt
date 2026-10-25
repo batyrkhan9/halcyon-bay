@@ -1,21 +1,20 @@
-MIRADOR GROCERY CO-OP
-6071 INDUSTRIAL WAY    CA
-| |   .
-                         EARNINGS STATEMENT
-Employee: JOSE PHAM        Emp ID: 27103
-Position: Cashier
-Pay Period: 02/02/2025 - 02/08/2025     Pay Date: 02/13/2025
+MARISOL CLEANING SERVICES
+5230 MARKET WAY   CA
+                         EARN1NGS STATEMENT
+   Employee: MINH CRUZ        Emp ID: 66242
+Position: Cleaner
+Pay Period: 02/13/2025 - 02/19/2025     Pay Date: 02/24/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                       616.06      4,312.42
-   GROSS PAY                                    616.06      4,312.42
+   Regular             18.56      8.50         157.76      1,262.08
+  GROSS PAY                                    157.76      1,262.08
 DEDUCTIONS
-     Federal Income Tax                        67.76
-  Social Security                           38.19
-  Medicare                                   8.93
-      CA SDI                                     6.77
-NET PAY                                    494.41
+  Federal Income Tax                        17.35
+  Social Security                            9.78
+   Medicare                                   2.28
+  CA SDI                                     1.73
+NET PAY                                    126.62
 --------------------------------------------------------------
 
-FAX RECEIVED 02/26/2025 10:29   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2025]

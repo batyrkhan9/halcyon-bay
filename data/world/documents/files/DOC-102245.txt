@@ -1,20 +1,11 @@
-POINT CORRIN BOATWORKS
-965 MARKET WAY   CA
-                         EARNINGS STATEMENT
-    Employee: KAVYA WALSH        Emp ID: 40083
-Position: Mechanic
-Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                    10,127.58    141,786.12
-GROSS PAY                                 10,127.58    141,786.12
-DEDUCTIONS
-  Federal Income Tax                     1,012.75
-  Social Security                          627.91
-  Medicare                                 146.85
-  CA SDI                                   111.40
-NET PAY                                  8,228.67
---------------------------------------------------------------
+ EMPLOYMENT DEVELOPMENT DEPARTMENT - STATE OF CALIFORNIA
+| |   .
+NOTICE OF UNEMPLOYMENT INSURANCE AWARD
+Date mailed: 07/21/2026
+Claimant: DESTINY CLARK
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/30/2026]
+Weekly benefit amount: $208.84
+Maximum benefit amount: $5,429.84
+Claim effective date: 06/11/2026
+
+-- scanned 07/26/2026 HBCH mailroom  pg 1/1 --

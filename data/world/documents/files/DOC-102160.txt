@@ -1,21 +1,20 @@
-MARISOL CLEANING SERVICES
-4706 INDUSTRIAL WAY   CA
+HALCYON BAY UNIFIED SCHOOL DIST
+7712 HARBOR WAY   CA
                          EARNINGS STATEMENT
-_ _ _ _
-Employee: AMANDA GUTIERREZ        Emp ID: 11352
-Position: Cleaner
-Pay Period: 06/05/2026 - 06/18/2026     Pay Date: 06/23/2026
-Pay Frequency: Bi-Weekly
+Employee: LEILANI ITO        Emp ID: 52408
+Position: Instructional aide
+Pay Period: 06/20/2026 - 07/04/2026     Pay Date: 07/09/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             48.79     80.00       3,903.20     50,741.60
-GROSS PAY                                  3,903.20     50,741.60
-DEDUCTIONS
-     Federal Income Tax                       312.25
-  Social Security                          241.99
-   Medicare                                  56.59
-  CA SDI                                    42.93
-NET PAY                                  3,249.44
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             52.54     86.67       4,553.64     59,197.32
+GROSS PAY                                  4,553.64     59,197.32
+   DEDUCTIONS
+  Federal Income Tax                       364.29
+  Social Security                          282.32
+  Medicare                                  66.02
+  CA SDI                                    50.09
+NET PAY                                   3,790.92
 --------------------------------------------------------------
 
--- scanned 07/24/2026 HBCH mailroom  pg 1/1 --
+RECEIVED JUL 21 2026  - mailroom

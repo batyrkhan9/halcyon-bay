@@ -1,20 +1,18 @@
-COASTAL VALLEY ENERGY
-193 MARKET WAY   CA
-                          EARNINGS STATEMENT
-Employee: GARY MITCHELL        Emp ID: 64667
-Position: Field technician
-   Pay Period: 05/05/2025 - 05/18/2025     Pay Date: 05/23/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.64     17.75         330.86      3,639.46
-   GROSS PAY                                    330.86      3,639.46
-DEDUCTIONS
-  Federal Income Tax                        33.08
-  Social Security                           20.51
-  Medicare                                   4.79
-  CA SDI                                     3.63
-   NET PAY                                    268.85
---------------------------------------------------------------
+PACIFIC TIDE BANK
+    Statement Period 06/01/2025 - 06/30/2025
+Member: STEVEN AGUILAR       Account ending 1517
 
-RECEIVED JUN 07 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance            2,783.01
+  Deposits                     4,654.46
+  Withdrawals                 -4,514.82
+  Ending balance               2,922.65
+
+DEPOSITS AND CREDITS
+      06/03  PAYROLL DIR DEP PACIFIC RIM JANIT0       2,327.23
+  06/17  PAYROLL DIR DEP PACIFIC RIM JANITO       2,327.23
+| |   .
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JUL 02 2025  - mailroom

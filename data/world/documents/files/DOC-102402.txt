@@ -1,20 +1,20 @@
-SANTA LUCITA FARMS
-1148 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-   Employee: AIKO FITZGERALD        Emp ID: 27777
-Position: Field supervisor
-Pay Period: 07/02/2026 - 07/08/2026     Pay Date: 07/13/2026
-Pay Frequency: Weekly
+ARROYO VERDE NURSERY
+5075 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Employee: DANIELA BROWN        Emp ID: 88938
+Position: Nursery worker
+Pay Period: 07/19/2026 - 07/25/2026     Pay Date: 07/30/2026
+   Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       957.82     26,818.96
-GROSS PAY                                    957.82     26,818.96
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             22.22     40.00         888.80     27,552.80
+GROSS PAY                                    888.80     27,552.80
 DEDUCTIONS
-  Federal Income Tax                        47.89
-  S0cial Security                           59.38
-  Medicare                                  13.88
-  CA SDI                                    10.53
-NET PAY                                    826.14
+    Federal Income Tax                        62.21
+  Social Security                           55.10
+  Medicare                                  12.88
+   CA SDI                                     9.77
+NET PAY                                    748.84
 --------------------------------------------------------------
 
-FAX RECEIVED 08/08/2026 10:19   P.01
+FAX RECEIVED 08/02/2026 10:55   P.01

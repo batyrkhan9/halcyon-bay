@@ -1,20 +1,21 @@
-   ARROYO VERDE NURSERY
-9533 HARBOR WAY   CA
-                           EARNINGS STATEMENT
- Employee: ERNESTO ALLEN        Emp ID: 35730
-Position: Nursery worker
-Pay Period: 01/27/2025 - 02/09/2025     Pay Date: 02/14/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     5,367.84     21,471.36
-GRO5S PAY                                  5,367.84     21,471.36
+ELLERY HARDWARE SUPPLY
+4287 COMMERCE WAY   CA
+  . : .
+                         EARNINGS STATEMENT
+Employee: PEDRO CHAVEZ        Emp ID: 42136
+Position: Sales associate
+Pay Period: 02/14/2025 - 02/20/2025     Pay Date: 02/25/2025
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             75.26     40.00       3,010.40     24,083.20
+GROSS PAY                                  3,010.40     24,083.20
 DEDUCTIONS
-  Federal Income Tax                       536.78
-  Social Security                          332.80
-      Medicare                                  77.83
-  CA SDI                                    59.04
-NET PAY                                  4,361.39
+  Federal Income Tax                       120.41
+   Social Security                          186.64
+  Medicare                                  43.65
+    CA SDI                                    33.11
+NET PAY                                  2,626.59
 --------------------------------------------------------------
 
-RECEIVED MAR 10 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/21/2025]

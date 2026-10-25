@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+4799 MARKET WAY   CA
+                         EARNINGS STATEMENT
+| |   .
+  Employee: AHMED CASTILLO        Emp ID: 22061
+Position: Guest services
+Pay Period: 08/16/2026 - 08/29/2026     Pay Date: 09/03/2026
+  Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             16.92     18.50         313.02      5,634.36
+GROSS PAY                                    313.02      5,634.36
+DEDUCTIONS
+    Federal Income Tax                        15.65
+  Social Security                           19.40
+  Medicare                                   4.53
+     CA SD1                                     3.44
+    NET PAY                                    270.00
+--------------------------------------------------------------
+
+-- scanned 09/29/2026 HBCH mailroom  pg 1/1 --

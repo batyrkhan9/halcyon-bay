@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
-6910 HARBOR WAY   CA
+HARBOR POINT HOTEL
+5188 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: GARY FREEMAN        Emp ID: 80800
- Position: Warehouse associate
-Pay Period: 10/12/2025 - 10/26/2025     Pay Date: 10/31/2025
-Pay Frequency: Semi-Monthly
+Employee: PATRICIA ADAMS        Emp ID: 48883
+Position: Housekeeper
+Pay Period: 10/23/2025 - 11/05/2025     Pay Date: 11/10/2025
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             36.16     86.67       3,133.99     65,813.79
-GROSS PAY                                  3,133.99     65,813.79
-  DEDUCTIONS
-  Federal Income Tax                       125.35
-  Social Security                          194.30
-  Medicare                                  45.44
-  CA SDI                                    34.47
-   NET PAY                                  2,734.43
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+    Salary                                       947.30     21,787.90
+GROSS PAY                                    947.30     21,787.90
+DEDUCTIONS
+   Federal Income Tax                       104.20
+      Social Security                           58.73
+  Medicare                                  13.73
+  CA SDI                                    10.42
+NET PAY                                    760.22
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/06/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/01/2025]

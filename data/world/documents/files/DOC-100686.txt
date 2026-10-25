@@ -1,0 +1,22 @@
+ PORT ELLERY CANNERY CO
+   705 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE DAV1S        Emp ID: 59446
+Position: Line worker
+Pay Period: 06/17/2025 - 06/23/2025     Pay Date: 06/28/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             23.65     40.00         946.00     24,596.00
+GROSS PAY                                    946.00     24,596.00
+DEDUCTIONS
+    Federal Income Tax                        37.84
+  Social Security                           58.65
+  Medicare                                  13.71
+   CA SDI                                    10.40
+~ ~ .  ,
+NET PAY                                    825.40
+--------------------------------------------------------------
+   includes overtime 3.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/15/2025]

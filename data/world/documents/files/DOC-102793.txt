@@ -1,0 +1,20 @@
+SEAS1DE DENTAL GROUP
+  5939 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: WEI COSTA        Emp ID: 90287
+Position: Dental assistant
+Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
+Pay Frequency: Bi-Weekly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       377.75      6,421.75
+GROSS PAY                                    377.75      6,421.75
+DEDUCTIONS
+  Federal Income Tax                        22.66
+  Social Security                           23.42
+  Medicare                                   5.47
+      CA SDI                                     4.15
+NET PAY                                    322.05
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/04/2026]

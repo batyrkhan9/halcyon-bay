@@ -1,20 +1,20 @@
-OTTER BAY AQUARIUM
-5620 INDUSTRIAL WAY   CA
+COASTAL VALLEY ENERGY
+6928 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: LINDA JEFFERSON        Emp ID: 62804
-Position: Guest services
-Pay Period: 07/09/2026 - 08/07/2026     Pay Date: 08/12/2026
- Pay Frequency: Monthly
+Emp1oyee: SARAH KUMAR        Emp ID: 24605
+Position: Field technician
+ Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.53    173.33       2,865.14     22,921.12
-  GROSS PAY                                  2,865.14     22,921.12
-DEDUCTI0NS
-  Federal Income Tax                       229.21
-  Social Security                          177.63
-  Medicare                                  41.54
-  CA SDI                                    31.51
-NET PAY                                  2,385.25
+ EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,548.04     56,768.64
+GROSS PAY                                   3,548.04     56,768.64
+DEDUCTIONS
+  Federal Income Tax                       283.84
+     Social Security                          219.97
+  Medicare                                  51.44
+  CA SDI                                    39.02
+NET PAY                                  2,953.77
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/18/2026]
+-- scanned 08/13/2026 HBCH mailroom  pg 1/1 --

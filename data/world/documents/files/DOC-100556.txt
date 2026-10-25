@@ -1,0 +1,20 @@
+POINT CORR1N BOATWORKS
+533 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS KAHANANUI        Emp ID: 25286
+Position: Mechanic
+Pay Period: 04/22/2025 - 05/05/2025     Pay Date: 05/10/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Regular              16.70     28.75         480.12      4,801.20
+GROSS PAY                                    480.12      4,801.20
+DEDUCTIONS
+  Federal Income Tax                        33.60
+  Social Security                           29.76
+  Medicare                                   6.96
+  CA SDI                                     5.28
+NET PAY                                    404.52
+--------------------------------------------------------------
+
+-- scanned 06/07/2025 HBCH mailroom  pg 1/1 --

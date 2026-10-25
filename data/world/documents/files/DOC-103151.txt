@@ -1,20 +1,21 @@
-  MIRADOR PUBLIC LIBRARY
-   2958 INDUSTRIAL WAY   CA
+ COASTAL VALLEY ENERGY
+696 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ANTONIO KHALIL        Emp ID: 32359
-Position: Library assistant
-Pay Period: 08/07/2026 - 08/21/2026     Pay Date: 08/26/2026
-Pay Frequency: Semi-Monthly
+Employee: JOSHUA TAYLOR        Emp ID: 64081
+Position: Field technician
+Pay Period: 08/20/2026 - 09/18/2026     Pay Date: 09/23/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,381.61     54,105.76
-  GROSS PAY                                  3,381.61     54,105.76
-DEDUCTIONS
-  Federal Income Tax                       371.97
-  Social Security                          209.66
-  Medicare                                  49.03
-  CA SDI                                    37.19
-NET PAY                                  2,713.76
+  . : .
+Regular             17.16    156.50       2,685.54     24,169.86
+GROSS PAY                                  2,685.54     24,169.86
+ DEDUCTIONS
+  Federal Income Tax                       295.40
+  Social Security                          166.50
+  Medicare                                  38.94
+  CA SDI                                    29.54
+     NET PAY                                  2,155.16
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/29/2026]
+RECEIVED SEP 27 2026  - mailroom

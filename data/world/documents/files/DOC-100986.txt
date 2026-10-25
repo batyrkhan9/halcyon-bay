@@ -1,20 +1,20 @@
-CALDER FREIGHT L1NES
-1757 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: ALYSSA CASTILLO        Emp ID: 16957
-Position: Driver
-Pay Period: 08/04/2025 - 08/17/2025     Pay Date: 08/22/2025
-Pay Frequency: Bi-Weekly
+    COASTAL VALLEY ENERGY
+1102 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: KAREN FUENTES        Emp ID: 23193
+Position: Field technician
+ Pay Period: 09/29/2025 - 10/05/2025     Pay Date: 10/10/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Salary                                     1,072.50     18,232.50
-GROSS PAY                                  1,072.50     18,232.50
- DEDUCTIONS
-  Federal Income Tax                       107.25
-  Social Security                           66.49
-  Medicare                                  15.55
-   CA SDI                                    11.79
-NET PAY                                    871.42
+EARNINGS            RATE      HOURS     TH1S PERI0D        YTD
+Regular             17.98     40.00         719.20     29,487.20
+GROSS PAY                                    719.20     29,487.20
+DEDUCTIONS
+  Federal Income Tax                        64.72
+  Social Security                           44.59
+  Medicare                                  10.42
+  CA SDI                                     7.91
+NET PAY                                    591.56
 --------------------------------------------------------------
 
-FAX RECEIVED 09/08/2025 10:30   P.01
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 10/13/2025]

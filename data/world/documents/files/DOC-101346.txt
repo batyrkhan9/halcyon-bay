@@ -1,20 +1,20 @@
- LAS BRISAS RESTAURANT GROUP
-1476 HARBOR WAY   CA
+    MIRADOR PUBLIC LIBRARY
+2205 1NDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
- Employee: RODRIGO SULLIVAN        Emp ID: 13205
-Position: Line cook
-Pay Period: 12/26/2025 - 01/09/2026     Pay Date: 01/14/2026
-Pay Frequency: Semi-Monthly
+   Employee: DENNIS VALENCIA        Emp ID: 10593
+Position: Library assistant
+Pay Period: 12/10/2025 - 12/23/2025     Pay Date: 12/28/2025
+  Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            116.15     86.67      10,066.72     10,066.72
-GROSS PAY                                 10,066.72     10,066.72
-  DEDUCTIONS
-  Federal Income Tax                     1,006.67
-     Social Security                          624.13
-  Medicare                                 145.96
-  CA SDI                                   110.73
-NET PAY                                  8,179.23
+Regular              17.35     14.50         251.58      6,541.08
+GROSS PAY                                     251.58      6,541.08
+    DEDUCTIONS
+  Federal Income Tax                        22.64
+     Social Security                           15.59
+   Medicare                                   3.64
+  CA SDI                                     2.76
+NET PAY                                    206.95
 --------------------------------------------------------------
 
-FAX RECEIVED 01/22/2026 10:54   P.01
+FAX RECEIVED 01/28/2026 10:33   P.01

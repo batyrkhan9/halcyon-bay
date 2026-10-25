@@ -1,20 +1,19 @@
-OTTER BAY AQUARIUM
-   8002 C0MMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: RAVI JONES        Emp ID: 21158
-Position: Guest services
-Pay Period: 06/04/2026 - 06/18/2026     Pay Date: 06/23/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.24     86.67       3,054.25     36,651.00
-GROSS PAY                                  3,054.25     36,651.00
-DEDUCTIONS
-  Federal Income Tax                       274.88
-      Social Security                          189.36
-  Medicare                                  44.28
-  CA SDI                                    33.59
-NET PAY                                   2,512.14
-   --------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+(copy - summary page)
+Filing Status: Head of household
+Your first name and middle initial / Last name:  ANA JOSHI
+Your social security number: XXX-XX-2444
+Dependents: 2
+Income
+_ _ _ _
+     1a  Total amount from Form(s) W-2, box 1 ...........    75,987.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    75,987.00
+    10  Adjustments to income ...........................         0.00
+    11  Adjusted gross income ...........................    75,987.00
+ 12  Standard deduction ..............................    21,900.00
 
--- scanned 07/24/2026 HBCH mailroom  pg 1/1 --
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Ana Joshi        Date: 04/06/2026
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/20/2026]

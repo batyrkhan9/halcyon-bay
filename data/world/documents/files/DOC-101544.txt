@@ -1,0 +1,21 @@
+MIRADOR PUBLIC LIBRARY
+2375 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND CHOI        Emp ID: 24465
+   Position: Library assistant
+Pay Period: 02/23/2026 - 03/01/2026     Pay Date: 03/06/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+| |   .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       298.10      2,981.00
+    GROSS PAY                                    298.10      2,981.00
+DEDUCTIONS
+  Federal Income Tax                        17.88
+  Social Security                           18.48
+  Medicare                                   4.32
+    CA SDI                                     3.27
+NET PAY                                    254.15
+--------------------------------------------------------------
+
+-- scanned 03/27/2026 HBCH mailroom  pg 1/1 --

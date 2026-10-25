@@ -1,18 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 08/01/2026 - 08/22/2026
-Member: DANIELA ZHANG       Account ending 9618
+BLUE KELP SOFTWARE LLC
+6991 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: SOFIA TAYLOR        Emp ID: 77757
+  Position: Software engineer
+   Pay Period: 07/16/2026 - 07/29/2026     Pay Date: 08/03/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     4,042.60     64,681.60
+ GROSS PAY                                  4,042.60     64,681.60
+DEDUCTIONS
+     Federal Income Tax                       363.83
+  Social Security                          250.64
+  Medicare                                  58.61
+     CA SDI                                    44.46
+NET PAY                                  3,325.06
+--------------------------------------------------------------
 
-~ ~ .  ,
- CHECKING SUMMARY
-  Beginning balance              741.17
-  Deposits                     2,202.08
-  Withdrawa1s                 -1,893.78
-  Ending balance               1,049.47
-
-DEPOSITS AND CREDITS
-  08/22  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,101.04
-  08/15  PAYROLL DIR DEP BLUE KELP SOFTWARE       1,101.04
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/25/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/25/2026 10:22   P.01

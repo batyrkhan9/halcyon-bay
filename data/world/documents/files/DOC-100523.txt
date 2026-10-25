@@ -1,0 +1,20 @@
+5UNSET COA5T HOME CARE
+8150 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO RAHMAN        Emp ID: 85846
+Position: Home care aide
+Pay Period: 05/09/2025 - 05/15/2025     Pay Date: 05/20/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             56.34     40.00       2,253.60     45,072.00
+GR0SS PAY                                  2,253.60     45,072.00
+ DEDUCTIONS
+  Federal Income Tax                       247.89
+  Social Security                          139.72
+  Medicare                                  32.67
+  CA SDI                                    24.79
+   NET PAY                                  1,808.53
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/30/2025]

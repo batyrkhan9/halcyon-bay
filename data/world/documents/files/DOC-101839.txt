@@ -1,21 +1,20 @@
-MIRADOR GROCERY CO-OP
-9273 HARBOR WAY   CA
+PACIFIC RIM JANITORIAL
+6372 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: TERRELL MOORE        Emp ID: 14307
-  Position: Cashier
-  Pay Period: 04/20/2026 - 05/03/2026     Pay Date: 05/08/2026
+Employee: KEISHA JACKSON        Emp ID: 69649
+Position: Custodian
+Pay Period: 04/02/2026 - 04/15/2026     Pay Date: 04/20/2026
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             21.64     80.00       1,731.20     17,312.00
-GROSS PAY                                  1,731.20     17,312.00
-  . : .
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             28.12     80.00       2,249.60     17,996.80
+  GROSS PAY                                  2,249.60     17,996.80
 DEDUCTIONS
-  Federal Income Tax                       138.49
-  Social Security                          107.33
-  Medicare                                  25.10
-  CA SDI                                    19.04
-NET PAY                                  1,441.24
---------------------------------------------------------------
+  Federal Income Tax                        89.98
+  Social Security                          139.47
+     Medicare                                  32.61
+  CA SDI                                    24.74
+NET PAY                                  1,962.80
+    --------------------------------------------------------------
 
-FAX RECEIVED 05/31/2026 10:30   P.01
+FAX RECEIVED 05/22/2026 10:34   P.01

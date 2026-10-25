@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-8983 HARBOR WAY   CA
+HALCYON BAY UNIFIED SCHOOL DI5T
+4270 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: PATRICIA RUIZ        Emp ID: 77360
-Position: Medical receptionist
-_ _ _ _
-Pay Period: 08/17/2026 - 08/30/2026     Pay Date: 09/04/2026
+Employee: YESENIA CLARK        Emp ID: 19766
+Position: Instructional aide
+Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             18.54     48.75         903.82     16,268.76
-    GROSS PAY                                    903.82     16,268.76
- DEDUCTIONS
-  Federal Income Tax                        90.38
-   Social Security                           56.03
-     Medicare                                  13.10
-  CA SDI                                     9.94
-NET PAY                                    734.37
+Regular             17.63     32.75         577.38     10,970.22
+GROSS PAY                                    577.38     10,970.22
+DEDUCTIONS
+     Federal Income Tax                        63.51
+  Social Security                           35.79
+  Medicare                                   8.37
+  CA SDI                                     6.35
+NET PAY                                    463.36
 --------------------------------------------------------------
 
-RECEIVED SEP 20 2026  - mailroom
+-- scanned 09/20/2026 HBCH mailroom  pg 1/1 --

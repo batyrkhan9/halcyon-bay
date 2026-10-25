@@ -1,20 +1,17 @@
-LA5 BRISAS RESTAURANT GROUP
-2349 INDUSTRIAL WAY   CA
-                            EARNINGS STATEMENT
-Employee: RODRIGO SULLIVAN        Emp ID: 13205
-Position: Line cook
-Pay Period: 12/11/2025 - 12/25/2025     Pay Date: 12/30/2025
-Pay Frequency: Semi-Monthly
- --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            116.15     86.67      10,066.72    251,668.00
-GROSS PAY                                 10,066.72    251,668.00
-DEDUCTIONS
-  Federal Income Tax                       805.33
-  Social Security                          624.13
-  Medicare                                 145.96
-  CA SDI                                   110.73
-NET PAY                                  8,380.57
-   --------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 12/01/2025 - 12/31/2025
+Member: DENNIS VALENCIA       Account ending 1701
 
-FAX RECEIVED 01/22/2026 10:17   P.01
+CHECKING SUMMARY
+  Beginning balance            1,273.22
+  Deposits                       413.90
+  Withdrawals                   -355.95
+      Ending balance               1,331.17
+
+DEPOSITS AND CREDITS
+  12/14  PAYROLL DIR DEP MIRADOR PUBLIC LIB         206.95
+  12/28  PAYROLL DIR DEP MIRADOR PUBLIC L1B         206.95
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 01/28/2026 10:29   P.01

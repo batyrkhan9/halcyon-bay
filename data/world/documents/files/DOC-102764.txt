@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+3378 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: RAVI RODRIGUEZ        Emp ID: 10021
+   Position: Mechanic
+Pay Period: 07/12/2026 - 07/26/2026      Pay Date: 07/31/2026
+Pay Frequency: Semi-Monthly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            109.32     86.67       9,474.76    142,121.40
+ GROSS PAY                                  9,474.76    142,121.40
+DEDUCTIONS
+  Federal Income Tax                       378.99
+  Social Security                          587.43
+  Medicare                                 137.38
+  CA SDI                                   104.22
+NET PAY                                  8,266.74
+--------------------------------------------------------------
+
+-- scanned 09/02/2026 HBCH mailroom  pg 1/1 --

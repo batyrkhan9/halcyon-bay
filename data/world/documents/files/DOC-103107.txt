@@ -1,20 +1,21 @@
-  BAYLINE LOGISTICS INC
-9474 MARKET WAY   CA
+BAYLINE LOGISTICS INC
+1404 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: MICHAEL GREEN        Emp ID: 74093
+Employee: SARAH PEREZ        Emp ID: 32502
 Position: Warehouse associate
-Pay Period: 08/08/2026 - 08/21/2026     Pay Date: 08/26/2026
-Pay Frequency: Bi-Weekly
+Pay Period: 07/19/2026 - 08/02/2026     Pay Date: 08/07/2026
+ Pay Frequency: Semi-Monthly
+~ ~ .  ,
 --------------------------------------------------------------
-    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             75.00     80.00       6,000.00    102,000.00
-GROSS PAY                                  6,000.00    102,000.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             37.25     86.67       3,228.46     48,426.90
+  GROSS PAY                                  3,228.46     48,426.90
 DEDUCTIONS
-  Federal Income Tax                       540.00
-  Social Security                          372.00
-  Medicare                                  87.00
-  CA SDI                                    66.00
-  NET PAY                                  4,935.00
-  --------------------------------------------------------------
+  Federa1 Income Tax                       193.70
+  Social Security                          200.16
+  Medicare                                  46.81
+  CA SDI                                    35.51
+NET PAY                                  2,752.28
+--------------------------------------------------------------
 
--- scanned 09/24/2026 HBCH mailroom  pg 1/1 --
+-- scanned 09/22/2026 HBCH mailroom  pg 1/1 --

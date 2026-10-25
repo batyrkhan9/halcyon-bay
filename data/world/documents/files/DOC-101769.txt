@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+ 8331 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: NOAH HERRERA        Emp ID: 84009
+Position: Mechanic
+Pay Period: 04/19/2026 - 05/02/2026     Pay Date: 05/07/2026
+    Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             17.76     74.00       1,314.24     13,142.40
+ GROSS PAY                                  1,314.24     13,142.40
+DEDUCTIONS
+  Federal Income Tax                       118.28
+     Social Security                           81.48
+  Medicare                                  19.05
+  CA SDI                                    14.45
+NET PAY                                  1,080.98
+--------------------------------------------------------------
+
+FAX RECEIVED 05/13/2026 10:43   P.01

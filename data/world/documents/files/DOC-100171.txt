@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+   6055 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LETICIA GONZALEZ        Emp ID: 32509
+Position: Mechanic
+Pay Period: 01/05/2025 - 01/19/2025     Pay Date: 01/24/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,388.37      4,776.74
+     GROSS PAY                                  2,388.37      4,776.74
+DEDUCTIONS
+  Federal Income Tax                       167.18
+  Social Security                          148.07
+  Medicare                                  34.63
+  CA SDI                                    26.27
+NET PAY                                  2,012.22
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/07/2025]

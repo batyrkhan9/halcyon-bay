@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-5985 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: CAROL MEDINA        Emp ID: 79080
-Position: Teacher
-Pay Period: 12/02/2025 - 12/16/2025     Pay Date: 12/21/2025
-Pay Frequency: Semi-Monthly
+MARISOL CLEANING SERVICES
+9921 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: ELENA JOSHI        Emp ID: 64646
+Position: Cleaner
+   Pay Period: 01/14/2026 - 01/20/2026     Pay Date: 01/25/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.49     86.67       2,122.55     50,941.20
-GROSS PAY                                  2,122.55     50,941.20
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             59.27     40.00       2,370.80      9,483.20
+GROSS PAY                                  2,370.80      9,483.20
 DEDUCTIONS
-  Federal Income Tax                       212.25
-  Social Security                          131.59
-  Medicare                                  30.77
-  CA SDI                                    23.34
-NET PAY                                  1,724.60
+  Federal Income Tax                       118.54
+  Social Security                          146.99
+  Medicare                                  34.37
+    CA SDI                                    26.07
+NET PAY                                  2,044.83
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/23/2026]
+-- scanned 01/29/2026 HBCH mailroom  pg 1/1 --

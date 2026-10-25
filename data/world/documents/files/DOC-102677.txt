@@ -1,20 +1,21 @@
-TIDEWATER CONSTRUCTION
-7355 COMMERCE WAY   CA
+BLUE KELP SOFTWARE LLC
+2615 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: CHLOE WASHINGTON        Emp ID: 89915
-Position: Laborer
-   Pay Period: 07/10/2026 - 07/24/2026     Pay Date: 07/29/2026
-Pay Frequency: Semi-Monthly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.11     86.67       1,569.59     21,974.26
-GROSS PAY                                  1,569.59     21,974.26
-DEDUCTIONS
-  Federal Income Tax                       172.65
-  Social Security                           97.31
-  Medicare                                  22.75
-  CA SDI                                    17.26
-NET PAY                                  1,259.62
+Employee: DANIELA ZHANG        Emp ID: 16410
+_ _ _ _
+Position: Software engineer
+Pay Period: 08/11/2026 - 08/17/2026     Pay Date: 08/22/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             69.67     40.00       2,786.80     94,751.20
+GROSS PAY                                  2,786.80     94,751.20
+DEDUCTIONS
+  Federal Income Tax                       195.07
+  Social Security                          172.78
+  Medicare                                  40.40
+      CA SDI                                    30.65
+NET PAY                                  2,347.90
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2026]
+RECEIVED AUG 25 2026  - mailroom

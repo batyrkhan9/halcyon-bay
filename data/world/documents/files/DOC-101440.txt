@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+4094 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: VERONICA NGUYEN-LIU        Emp ID: 21452
+Position: Line worker
+Pay Period: 01/23/2026 - 02/05/2026     Pay Date: 02/10/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     6,602.59     19,807.77
+GROSS PAY                                  6,602.59     19,807.77
+DEDUCTIONS
+      Federal Income Tax                       264.10
+  Social Security                          409.36
+  Medicare                                  95.73
+    CA SDI                                    72.62
+  NET PAY                                  5,760.78
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/14/2026]

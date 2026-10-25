@@ -1,0 +1,21 @@
+  GOLDEN HOUR SENIOR LIVING
+440 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAI MCCARTHY        Emp ID: 93185
+Position: Caregiver
+Pay Period: 01/04/2026 - 01/10/2026      Pay Date: 01/15/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              18.09     15.25         275.87        827.61
+  . : .
+  GROSS PAY                                    275.87        827.61
+DEDUCT1ONS
+  Federal Income Tax                        16.55
+  Social Security                           17.10
+  Medicare                                   4.00
+  CA SDI                                     3.03
+NET PAY                                    235.19
+ --------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/30/2026]

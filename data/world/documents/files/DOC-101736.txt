@@ -1,20 +1,20 @@
-  MIRADOR GROCERY CO-OP
-9110 HARBOR WAY   CA
+MARISOL CLEANING SERVICES
+7920 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL HUANG        Emp ID: 99348
-Position: Cashier
-Pay Period: 04/16/2026 - 04/22/2026     Pay Date: 04/27/2026
-Pay Frequency: Weekly
+Employee: GARY LEE        Emp ID: 23974
+  Position: Cleaner
+Pay Period: 04/07/2026 - 04/13/2026     Pay Date: 04/18/2026
+ Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Salary                                     3,410.94     57,985.98
-GROSS PAY                                  3,410.94     57,985.98
-    DEDUCTIONS
-    Federal Income Tax                       204.65
-      Social Security                          211.47
-  Medicare                                  49.45
-  CA SDI                                    37.52
-NET PAY                                  2,907.85
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,593.46     25,495.36
+GROSS PAY                                   1,593.46     25,495.36
+DEDUCTIONS
+    Federal Income Tax                       127.47
+  Social Security                           98.79
+  Medicare                                  23.10
+  CA SDI                                    17.52
+    NET PAY                                  1,326.58
 --------------------------------------------------------------
 
--- scanned 05/08/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]

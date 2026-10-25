@@ -1,20 +1,20 @@
-POINT CORRIN B0ATWORKS
-5811 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: LOGAN RAHMAN        Emp ID: 29702
-Position: Mechanic
-Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+COASTAL VALLEY ENERGY
+2101 MARKET WAY   CA
+                            EARN1NGS STATEMENT
+Employee: RODRIGO TUIASOSOPO        Emp ID: 76627
+  Position: Field technician
+    Pay Period: 06/30/2026 - 07/13/2026     Pay Date: 07/18/2026
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             24.10     80.00       1,928.00     30,848.00
-GROSS PAY                                  1,928.00     30,848.00
-DEDUCTIONS
-  Federal Income Tax                        96.40
-     Social Security                          119.53
-  Medicare                                  27.95
-  CA SDI                                    21.20
-NET PAY                                  1,662.92
+    --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             42.42     80.00       3,393.60     50,904.00
+   GROSS PAY                                  3,393.60     50,904.00
+  DEDUCTIONS
+  Federal Income Tax                       203.61
+  Social Security                          210.40
+  Medicare                                  49.20
+  CA SDI                                    37.33
+NET PAY                                  2,893.06
 --------------------------------------------------------------
 
-RECEIVED AUG 21 2026  - mailroom
+FAX RECEIVED 08/16/2026 10:27   P.01

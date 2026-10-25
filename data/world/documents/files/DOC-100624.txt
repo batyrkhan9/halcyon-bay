@@ -1,21 +1,21 @@
-MIRADOR PUBLIC LIBRARY
-4472 COMMERCE WAY   CA
+POINT CORRIN BOATWORKS
+5688 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: MINH DANG        Emp ID: 32642
-Position: Library assistant
-Pay Period: 05/04/2025 - 05/17/2025     Pay Date: 05/22/2025
-Pay Frequency: Bi-Weekly
+Employee: LINH LI        Emp ID: 72453
+| |   .
+ Position: Mechanic
+Pay Period: 05/15/2025 - 05/29/2025     Pay Date: 06/03/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.75     64.75       1,084.56     11,930.16
-GROSS PAY                                  1,084.56     11,930.16
+Salary                                     2,979.22     32,771.42
+GROSS PAY                                  2,979.22     32,771.42
 DEDUCTIONS
-~ ~ .  ,
-  Federal Income Tax                       119.30
-  Social Security                           67.24
-  Medicare                                  15.72
-  CA SDI                                    11.93
-NET PAY                                    870.37
+  Federal Income Tax                       268.12
+  Social Security                          184.71
+  Medicare                                  43.19
+  CA SDI                                    32.77
+NET PAY                                  2,450.43
 --------------------------------------------------------------
 
-RECEIVED JUN 01 2025  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/21/2025]

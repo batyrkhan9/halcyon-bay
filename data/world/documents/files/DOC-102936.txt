@@ -1,20 +1,21 @@
-ELLERY HARDWARE SUPPLY
-1289 MARKET WAY   CA
+    ARROYO VERDE NUR5ERY
+9288 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: XIMENA NAVARRO        Emp ID: 99480
-Position: Sales associate
-Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
+Employee: RAMON LEWIS        Emp ID: 15253
+Position: Nursery worker
+Pay Period: 07/31/2026 - 08/13/2026     Pay Date: 08/18/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.56     70.75       1,313.12     21,009.92
-GROSS PAY                                  1,313.12     21,009.92
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       339.27      5,767.59
+    GROSS PAY                                    339.27      5,767.59
+| |   .
 DEDUCTIONS
-  Federal Income Tax                        91.91
-  Social Security                           81.41
-  Medicare                                  19.04
-   CA SDI                                    14.44
-NET PAY                                  1,106.32
+  Federal Income Tax                        27.14
+  Social Security                           21.03
+     Medicare                                   4.91
+  CA SDI                                     3.73
+NET PAY                                    282.46
 --------------------------------------------------------------
 
 -- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+VISTA SERENA MEDICAL OFFICES
+3176 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Emp1oyee: MIN-JI NAVARRO        Emp ID: 12885
+Position: Medica1 receptionist
+Pay Period: 08/10/2026 - 08/16/2026     Pay Date: 08/21/2026
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             24.43     40.00         977.20     33,224.80
+GROSS PAY                                    977.20     33,224.80
+DEDUCTIONS
+  Federal Income Tax                        58.63
+    Social Security                           60.58
+  Medicare                                  14.16
+  CA SDI                                    10.74
+NET PAY                                    833.09
+--------------------------------------------------------------
+
+-- scanned 09/02/2026 HBCH mailroom  pg 1/1 --

@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-   (copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  DANIELA SANCHEZ
-   Your social security number: XXX-XX-1775
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    88,257.00
- 8    Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    88,257.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    88,257.00
-   12  Standard deduction ..............................    21,900.00
+PORT ELLERY CANNERY CO
+728 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE DAVIS        Emp ID: 59446
+    Position: Line worker
+  Pay Period: 06/03/2025 - 06/09/2025     Pay Date: 06/14/2025
+ Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regu1ar             23.65     40.00         946.00     22,704.00
+GROSS PAY                                    946.00     22,704.00
+  DEDUCTIONS
+  Federal Income Tax                        37.84
+  Social Security                           58.65
+  Medicare                                  13.71
+  CA SDI                                    10.40
+NET PAY                                    825.40
+--------------------------------------------------------------
+   includes overtime 3.00 hrs
 
-_ _ _ _
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Daniela Sanchez        Date: 04/04/2025
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/22/2025]
+FAX RECEIVED 07/15/2025 10:31   P.01

@@ -1,20 +1,18 @@
-MIRADOR PUBLIC LIBRARY
-6107 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: JENNIFER NGUYEN        Emp ID: 88720
-Position: Library assistant
-Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.70     80.00       1,496.00     16,456.00
-GROSS PAY                                  1,496.00     16,456.00
-DEDUCTI0NS
-  Federal Income Tax                       164.56
-  S0cial Security                           92.75
-  Medicare                                  21.69
-  CA SDI                                    16.45
-NET PAY                                  1,200.55
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+Statement Period 06/01/2026 - 06/30/2026
+Member: LOGAN DAVIS       Account ending 6750
 
-FAX RECEIVED 07/05/2026 10:33   P.01
+CHECKING SUMMARY
+   Beginning balance            2,688.80
+  Deposits                     9,177.20
+  Withdrawals                 -7,984.16
+  Ending balance               3,881.84
+| |   .
+
+DEPOSITS AND CREDITS
+  06/03  PAYROLL DIR DEP SANTA LUCITA FARMS       4,588.60
+   06/17  PAYROLL DIR DEP SANTA LUCITA FARMS       4,588.60
+
+Thank you for banking with us.  Page 1 0f 2
+
+FAX RECEIVED 07/05/2026 10:52   P.01

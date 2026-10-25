@@ -1,10 +1,19 @@
-COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-NOTICE 0F ACTION
-Medi-Cal Approval
-   Date: 02/11/2025
-Beneficiary: GRACE ZAMORA
+Form 1040   U.S. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Single
+Your first name and middle initial / Last name:  KIM WALSH
+Your social security number: XXX-XX-8211
+Dependents: 0
+Income
+| |   .
+ 1a  Total amount from Form(s) W-2, b0x 1 ...........     3,983.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................     3,983.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................     3,983.00
+ 12  Standard deduction ..............................    14,600.00
 
-    You are approved for full scope Medi-Cal with no share of cost beginning 02/01/2025.
-Keep this notice. Your Benefits Identification Card (BIC) will be mailed separately.
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Kim Walsh        Date: 04/09/2025
 
-FAX RECEIVED 04/19/2025 10:31   P.01
+-- scanned 05/07/2025 HBCH mailroom  pg 1/1 --

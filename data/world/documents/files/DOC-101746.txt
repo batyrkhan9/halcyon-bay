@@ -1,19 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Head of household
- Your first name and middle initial / Last name:   GUADALUPE VALENCIA
-Your social security number: XXX-XX-5133
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    23,077.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    23,077.00
- 10  Adjustments to income ...........................         0.00
-  11  Adjusted gross income ...........................    23,077.00
- 12  Standard deduction ..............................    21,900.00
+COASTAL VALLEY ENERGY
+399 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: DAVID RAMOS        Emp ID: 76879
+  Position: Field technician
+Pay Period: 04/26/2026 - 05/02/2026     Pay Date: 05/07/2026
+  Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.65     22.25         414.96      7,884.24
+GROSS PAY                                    414.96      7,884.24
+DEDUCTIONS
+  Federal 1ncome Tax                        33.19
+  Social Security                           25.72
+  Medicare                                   6.01
+  CA SDI                                     4.56
+NET PAY                                    345.48
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-  . : .
-Your signature: /s/ Guadalupe Valencia        Date: 04/01/2026
-
--- scanned 05/12/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 05/12/2026 10:43   P.01

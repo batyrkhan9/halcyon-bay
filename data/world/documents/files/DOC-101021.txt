@@ -1,19 +1,21 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  BARBARA PARK
-  . : .
-Your social security number: XXX-XX-8155
-Dependents: 1
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........     9,390.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
-     9   Total income ....................................     9,390.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................     9,390.00
- 12  Standard deduction ..............................    21,900.00
+BAYLINE LOGISTICS 1NC
+585 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAVI CHEN        Emp ID: 88954
+Position: Warehouse associate
+Pay Period: 08/29/2025 - 09/27/2025     Pay Date: 10/02/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,603.65     16,036.50
+GROSS PAY                                  1,603.65     16,036.50
+ DEDUCTIONS
+  Federal Income Tax                       144.32
+  Social Security                           99.42
+  Medicare                                  23.25
+  CA SDI                                    17.64
+~ ~ .  ,
+NET PAY                                  1,319.02
+--------------------------------------------------------------
 
-    Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Barbara Park        Date: 04/04/2025
-
--- scanned 09/16/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 10/19/2025 10:15   P.01

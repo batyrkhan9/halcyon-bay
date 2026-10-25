@@ -1,20 +1,21 @@
-PACIFIC RIM JANITORIAL
-3332 MARKET WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: LINH FUENTES        Emp ID: 51492
-Position: Custodian
-Pay Period: 06/26/2026 - 07/09/2026     Pay Date: 07/14/2026
-Pay Frequency: Bi-Weekly
+ CALDER FREIGHT LINES
+8771 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+ Employee: LETICIA YOUNG        Emp ID: 31358
+Position: Driver
+Pay Period: 07/12/2026 - 07/26/2026     Pay Date: 07/31/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            107.30     80.00       8,584.00    120,176.00
-  GROSS PAY                                  8,584.00    120,176.00
+Regular             17.06     66.50       1,134.49     17,017.35
+| |   .
+GROSS PAY                                  1,134.49     17,017.35
 DEDUCTIONS
-  Federal Income Tax                       600.88
-  Social Security                          532.20
-  Medicare                                 124.46
-  CA SDI                                    94.42
-NET PAY                                  7,232.04
+      Federal 1ncome Tax                       124.79
+    Social Security                           70.33
+  Medicare                                  16.45
+    CA SD1                                    12.47
+NET PAY                                    910.45
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/14/2026]
+RECEIVED AUG 08 2026  - mailroom

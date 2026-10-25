@@ -1,18 +1,20 @@
-Form 1040   U.S. Individual Income Tax Return   2025
-(copy - summary page)
-Filing Status: Single
-Your first name and middle initial / Last name:  HASSAN HAYES
-Your social security number: XXX-XX-5742
-Dependents: 0
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    48,334.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    48,334.00
-    10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    48,334.00
- 12  Standard deduction ..............................    14,600.00
-
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Hassan Hayes        Date: 04/11/2026
+SEASIDE DENTAL GROUP
+6836 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KAREN MOORE         Emp ID: 78196
+Position: Dental assistant
+Pay Period: 08/02/2026 - 08/08/2026     Pay Date: 08/13/2026
+    Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.96     21.00         356.16     11,753.28
+GROSS PAY                                    356.16     11,753.28
+DEDUCTIONS
+  Federal Income Tax                        14.24
+  Social Security                           22.08
+  Medicare                                   5.16
+  CA SDI                                     3.91
+NET PAY                                    310.77
+--------------------------------------------------------------
 
 -- scanned 08/29/2026 HBCH mailroom  pg 1/1 --

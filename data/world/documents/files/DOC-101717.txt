@@ -1,0 +1,21 @@
+ARROYO VERDE NURSERY
+  . : .
+5314 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+ Employee: JOSE DESAI         Emp ID: 56905
+Position: Nursery worker
+Pay Period: 04/07/2026 - 04/21/2026     Pay Date: 04/26/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,840.54     30,724.32
+GROSS PAY                                  3,840.54     30,724.32
+DEDUCTIONS
+  Federal Income Tax                       268.83
+  Social Security                          238.11
+  Medicare                                  55.68
+  CA SDI                                    42.24
+NET PAY                                  3,235.68
+   --------------------------------------------------------------
+
+-- scanned 05/12/2026 HBCH mailroom  pg 1/1 --

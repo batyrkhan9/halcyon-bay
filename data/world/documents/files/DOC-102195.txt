@@ -1,20 +1,22 @@
-COASTAL VALLEY ENERGY
-9952 INDUSTRIAL WAY   CA
+ARROYO VERDE NURSERY
+7907 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KAREN THOMPSON        Emp ID: 66864
-Position: Field technician
-Pay Period: 05/31/2026 - 06/13/2026     Pay Date: 06/18/2026
-Pay Frequency: Bi-Weekly
+Employee: KEISHA BAKER        Emp ID: 71430
+Position: Nursery worker
+Pay Period: 06/29/2026 - 07/05/2026      Pay Date: 07/10/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.52     80.00       2,121.60     27,580.80
-GROSS PAY                                  2,121.60     27,580.80
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                       733.54     20,539.12
+GROSS PAY                                    733.54     20,539.12
+| |   .
 DEDUCTIONS
-  Federal Income Tax                       233.37
-  Social Security                          131.53
-  Medicare                                  30.76
-  CA SDI                                    23.33
-NET PAY                                  1,702.61
- --------------------------------------------------------------
+  Federal Income Tax                        80.68
+  Social Security                           45.47
+  Medicare                                  10.63
+     CA SDI                                     8.06
+NET PAY                                    588.70
+--------------------------------------------------------------
+  includes overtime 2.00 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/25/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/23/2026]

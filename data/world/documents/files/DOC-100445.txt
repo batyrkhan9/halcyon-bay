@@ -1,20 +1,18 @@
-CALDER FREIGHT LINES
- 6109 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: HUNG KING        Emp ID: 93115
-Position: Driver
-Pay Period: 04/02/2025 - 04/08/2025      Pay Date: 04/13/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  Regular             16.99     26.75         454.48      6,817.20
-    GROSS PAY                                    454.48      6,817.20
-   DEDUCTIONS
-  Federal Income Tax                        22.72
-  Social Security                           28.17
-  Medicare                                   6.59
-  CA SDI                                     4.99
-    NET PAY                                    392.01
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2023
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  JENNIFER HO
+Your social security number: XXX-XX-5821
+Dependents: 0
+Inc0me
+ 1a  Total amount from Form(s) W-2, box 1 ...........    30,673.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    30,673.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    30,673.00
+ 12  Standard deduction ..............................    21,900.00
 
-FAX RECEIVED 04/18/2025 10:30   P.01
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Jennifer Ho        Date: 04/02/2024
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/25/2025]

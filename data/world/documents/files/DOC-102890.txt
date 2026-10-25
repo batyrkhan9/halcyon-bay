@@ -1,0 +1,20 @@
+POINT CORRIN BOATWORKS
+8901 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: SARAH KELLY        Emp ID: 86654
+Position: Mechanic
+Pay Period: 08/11/2026 - 08/25/2026     Pay Date: 08/30/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,753.93     97,816.81
+   GROSS PAY                                  5,753.93     97,816.81
+DEDUCTIONS
+  Federal Income Tax                       402.77
+  Social Security                          356.74
+  Medicare                                  83.43
+  CA SDI                                    63.29
+NET PAY                                  4,847.70
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/09/2026]

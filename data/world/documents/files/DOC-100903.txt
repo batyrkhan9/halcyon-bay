@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 08/01/2025 - 08/05/2025
-Member: TUAN MENDOZA       Account ending 6547
+CALDER FREIGHT LINES
+5116 COMMERCE WAY   CA
+                             EARN1NGS STATEMENT
+    Employee: LEILANI FITZGERALD        Emp ID: 67598
+Position: Driver
+Pay Period: 08/01/2025 - 08/15/2025     Pay Date: 08/20/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,425.47     38,807.52
+GROSS PAY                                  2,425.47     38,807.52
+DEDUCTIONS
+  Federal Income Tax                       242.54
+  Social Security                          150.37
+    Medicare                                  35.16
+  CA SDI                                    26.68
+NET PAY                                  1,970.72
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,251.84
-  Deposits                       453.54
-  Withdrawals                   -421.79
-  Ending balance               1,283.59
-
-DEPOSITS AND CREDITS
-  08/05  PAYROLL DIR DEP MARISOL CLEANING S         226.77
-  07/22  PAYROLL DIR DEP MARISOL CLEANING S         226.77
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 08/17/2025 10:15   P.01
+FAX RECEIVED 09/13/2025 10:41   P.01

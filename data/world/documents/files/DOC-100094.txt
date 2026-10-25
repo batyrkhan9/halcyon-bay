@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+3591 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: JOSE KEALOHA        Emp ID: 84898
+  Position: Warehouse associate
+Pay Period: 12/10/2024 - 12/24/2024     Pay Date: 12/29/2024
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              28.14     86.67       2,438.89     60,972.25
+GROSS PAY                                  2,438.89     60,972.25
+DEDUCTIONS
+  Federal Income Tax                       219.50
+  Social Security                          151.21
+  Medicare                                  35.36
+  CA 5DI                                    26.82
+NET PAY                                  2,006.00
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/03/2025]

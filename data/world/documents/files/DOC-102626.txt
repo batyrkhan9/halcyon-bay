@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-9284 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+ 7666 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: CALEB ZHOU        Emp ID: 76532
-Position: Software engineer
-Pay Period: 08/01/2026 - 08/15/2026      Pay Date: 08/20/2026
-Pay Frequency: Semi-Month1y
-    --------------------------------------------------------------
+    Employee: JENNIFER PETROV        Emp ID: 53204
+Position: Mechanic
+ Pay Period: 07/17/2026 - 07/30/2026     Pay Date: 08/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       638.61     10,217.76
-GROSS PAY                                    638.61     10,217.76
+Regular             45.79     80.00       3,663.20     58,611.20
+GROSS PAY                                  3,663.20     58,611.20
 DEDUCTIONS
-  Federal Income Tax                        25.54
-  Social Security                           39.59
-  Medicare                                   9.26
-  CA 5DI                                     7.02
-   NET PAY                                    557.20
+  Federal Income Tax                       183.16
+  Social Security                          227.11
+  Medicare                                  53.11
+      CA SDI                                    40.29
+NET PAY                                  3,159.53
 --------------------------------------------------------------
 
-RECEIVED AUG 23 2026  - mailroom
+RECEIVED AUG 22 2026  - mailroom

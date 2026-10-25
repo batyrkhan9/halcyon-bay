@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
-4802 INDUSTRIAL WAY   CA
-                             EARNINGS STATEMENT
-Employee: EMILY ZAMORA        Emp ID: 93323
-Position: Field technician
-   Pay Period: 03/31/2026 - 04/13/2026     Pay Date: 04/18/2026
+LAS BRISAS RESTAURANT GROUP
+1623 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+   Employee: OL1VIA PATEL        Emp ID: 67192
+  Position: Line cook
+Pay Period: 04/19/2026 - 05/02/2026     Pay Date: 05/07/2026
 Pay Frequency: Bi-Weekly
---------------------------------------------------------------
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.64     48.00         846.72      6,773.76
-GROSS PAY                                    846.72      6,773.76
+  Regular             44.70     80.00       3,576.00     35,760.00
+ GROSS PAY                                  3,576.00     35,760.00
 DEDUCTIONS
-  Federal Income Tax                        93.13
-  Social Security                           52.49
-  Medicare                                  12.27
-  CA SDI                                     9.31
-NET PAY                                     679.52
+  Federal Income Tax                       357.60
+  Social Security                          221.71
+  Medicare                                  51.85
+   CA SDI                                    39.33
+NET PAY                                   2,905.51
 --------------------------------------------------------------
 
-RECEIVED MAY 15 2026  - mailroom
+FAX RECEIVED 05/15/2026 10:38   P.01

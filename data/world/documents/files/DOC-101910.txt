@@ -1,0 +1,21 @@
+  M1RADOR GROCERY CO-OP
+5535 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Empl0yee: TYLER BANKS        Emp ID: 47557
+Position: Cashier
+Pay Period: 06/03/2026 - 06/16/2026     Pay Date: 06/21/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,326.72     17,247.36
+GROSS PAY                                  1,326.72     17,247.36
+DEDUCTIONS
+  Federal Income Tax                        66.33
+  Social Security                           82.25
+  . : .
+  Medicare                                  19.23
+  CA SDI                                    14.59
+   NET PAY                                  1,144.32
+--------------------------------------------------------------
+
+FAX RECEIVED 07/04/2026 10:33   P.01

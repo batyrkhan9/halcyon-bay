@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+  4286 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: MALIA CONTRERAS        Emp ID: 15125
+Position: Driver
+Pay Period: 07/04/2026 - 07/10/2026     Pay Date: 07/15/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.90     40.00         756.00     21,168.00
+GROSS PAY                                    756.00     21,168.00
+_ _ _ _
+DEDUCTIONS
+  Federal Inc0me Tax                        68.04
+  Social Security                           46.87
+      Medicare                                  10.96
+  CA SDI                                     8.31
+NET PAY                                    621.82
+--------------------------------------------------------------
+
+-- scanned 07/30/2026 HBCH mailroom  pg 1/1 --

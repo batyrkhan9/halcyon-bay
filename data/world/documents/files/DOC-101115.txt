@@ -1,20 +1,21 @@
-CYPRESS FLATS AUTO BODY
-9566 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANDREW LEE        Emp ID: 44052
- Position: Technician
-Pay Period: 09/04/2025 - 09/17/2025     Pay Date: 09/22/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar              20.86     80.00       1,668.80     31,707.20
-GROSS PAY                                  1,668.80     31,707.20
-  DEDUCTIONS
-  Federal Income Tax                        83.44
-  Social Security                          103.46
-  Medicare                                  24.19
-  CA SDI                                    18.35
-NET PAY                                  1,439.36
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 10/01/2025 - 10/31/2025
+Member: ARJUN SINGH       Account ending 8405
 
-RECEIVED OCT 24 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance              424.49
+  Deposits                       789.72
+  Withdrawals                   -734.43
+  Ending balance                 479.78
+
+DEPOSITS AND CREDITS
+  10/10  PAYROLL DIR DEP ARROYO VERDE NURSE         394.86
+     10/25  PAYROLL DIR DEP ARROYO VERDE NURSE         394.86
+
+SAVINGS SUMMARY  (Share Savings ending 5341)
+  Ending balance              34,185.62
+  Dividends paid                  13.67
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/11/2025]

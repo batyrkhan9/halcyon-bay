@@ -1,20 +1,20 @@
-  POINT CORRIN BOATWORKS
-5879 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: BAO JACKSON        Emp ID: 66988
-Position: Mechanic
- Pay Period: 11/14/2024 - 12/13/2024     Pay Date: 12/18/2024
-Pay Frequency: Monthly
+SUNSET COAST HOME CARE
+3595 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: ANDRE ROMERO        Emp ID: 79128
+ Position: Home care aide
+Pay Period: 11/16/2024 - 11/29/2024     Pay Date: 12/04/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Regular             79.64    173.33      13,804.00    165,648.00
-GROSS PAY                                 13,804.00    165,648.00
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             21.38     80.00       1,710.40     42,760.00
+GR0SS PAY                                  1,710.40     42,760.00
 DEDUCTIONS
-      Federal Income Tax                     1,242.36
-    Social Security                          855.84
-  Medicare                                 200.15
-      CA SDI                                   151.84
-NET PAY                                 11,353.81
---------------------------------------------------------------
+     Federal Income Tax                       102.62
+  Social Security                          106.04
+  Medicare                                  24.80
+  CA SDI                                    18.81
+NET PAY                                  1,458.13
+   --------------------------------------------------------------
 
--- scanned 12/29/2024 HBCH mailroom  pg 1/1 --
+-- scanned 12/27/2024 HBCH mailroom  pg 1/1 --

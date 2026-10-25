@@ -1,18 +1,20 @@
-Form 1040    U.S. Individual Income Tax Return   2025
-(copy - summary page)
-  Filing Status: Married filing jointly
-Your first name and middle initial / Last name:  JAMAL KING
-Your s0cial security number: XXX-XX-3178
-Dependents: 4
-  Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   316,701.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   316,701.00
- 10  Adjustments t0 income ...........................         0.00
- 11  Adjusted gross income ...........................   316,701.00
- 12  Standard deduction ..............................    21,900.00
+MIRADOR PUBLIC LIBRARY
+1026 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: MADISON DESAI        Emp ID: 62209
+  Position: Library assistant
+Pay Period: 04/30/2026 - 05/29/2026     Pay Date: 06/03/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.28    173.33       3,168.47     19,010.82
+GROSS PAY                                   3,168.47     19,010.82
+DEDUCTIONS
+      Federal Income Tax                       158.42
+  Social Security                          196.44
+   Medicare                                  45.94
+  CA SDI                                    34.85
+NET PAY                                   2,732.82
+    --------------------------------------------------------------
 
-   Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Jamal King        Date: 04/11/2026
-
-RECEIVED JUL 15 2026  - mailroom
+RECEIVED JUL 13 2026  - mailroom

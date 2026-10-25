@@ -1,20 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-8929 HARBOR WAY   CA
+CYPRESS FLATS AUTO BODY
+9523 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Emp1oyee: SERGIO TORRES        Emp ID: 90860
-Position: Instructional aide
-Pay Period: 03/11/2025 - 03/24/2025     Pay Date: 03/29/2025
-Pay Frequency: Bi-Weekly
+Employee: KENJI ALVAREZ        Emp ID: 19465
+Position: Technician
+Pay Period: 03/14/2025 - 03/20/2025     Pay Date: 03/25/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.73     38.25         716.42      5,014.94
-GROSS PAY                                    716.42      5,014.94
-DEDUCTION5
-  Federal Income Tax                        28.65
-  Social Security                           44.41
-  Medicare                                  10.38
-     CA SDI                                     7.88
-NET PAY                                    625.10
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             19.08     40.00         763.20      9,158.40
+GROSS PAY                                    763.20      9,158.40
+DEDUCTIONS
+  Federal Income Tax                        61.05
+    Social Security                           47.31
+  Medicare                                  11.06
+  CA SDI                                     8.39
+NET PAY                                    635.39
+    --------------------------------------------------------------
 
-FAX RECEIVED 04/02/2025 10:21   P.01
+RECEIVED APR 13 2025  - mailroom

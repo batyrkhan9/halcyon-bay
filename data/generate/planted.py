@@ -18,12 +18,20 @@ CF_COUNTY = "SANTA LUCITA"
 class Mangled:
     """An MRN typed wrong on an application: two digits swapped. Resolved when ids exist."""
 
-    def __init__(self, patient):
+    def __init__(self, patient, world):
         self.patient = patient
+        self.world = world
 
     def lazy_id(self) -> str:
+        """Swap two neighbouring digits, from the right, until the result is no one's MRN."""
         m = self.patient.id
-        return m[:-2] + m[-1] + m[-2] if m[-1] != m[-2] else m[:-3] + m[-2] + m[-3] + m[-1]
+        taken = {p.id for p in self.world.patients}
+        for i in range(len(m) - 1, 1, -1):
+            if m[i] != m[i - 1]:
+                cand = m[:i - 1] + m[i] + m[i - 1] + m[i + 1:]
+                if cand not in taken:
+                    return cand
+        return m[:-1] + str((int(m[-1]) + 5) % 10)
 
 
 def plant(b: Builder, category, period, summary, fix, dollars=0, **records) -> str:
@@ -485,6 +493,7 @@ def denied_over_income(b, rng, person, patient, acc, received, pct_lo=440, pct_h
 def build_planted(b: Builder, base: dict) -> None:
     rng = random.Random(13 * 211)
     w = b.w
+    b.allow_overtime = False
     P = lambda *a, **k: plant(b, *a, **k)  # noqa: E731
 
     # ---------------- history: illegal denials, decoys, CalFresh, 12-month coverage evidence
@@ -606,34 +615,44 @@ def build_planted(b: Builder, base: dict) -> None:
             reason=f"No proof of income on file, only a note saying about ${monthly:,} a month: request documents, don't discount.")
 
     # ---------------- NEAR_CUTOFF x6
-    for target_pct in (196.6, 198.8, 203.1, 396.4, 398.7, 403.4):
+    for target_pct in (196.6, 198.8, 201.9, 396.4, 398.7, 401.6):
         person = b.new_person(rng, mismatch=None)
         patient, acc, received = live_visit(b, rng, person)
         hh = person.household
+        cutoff = 200 if target_pct < 300 else 400
         g = round(income_for_pct(target_pct, hh, 2026) / 26)
         truth = g * 26
         pct = pct_of(truth, hh)
+        ot_pct = rng.uniform(pct + 0.8, cutoff + 4.4)
+        ot = round(income_for_pct(ot_pct, hh, 2026) / 26)
+        stated = round((cutoff + (3.5 if pct < cutoff else -3.5)) * R.poverty_line(2026, hh) / 100 / 100) * 100
+        readings = [pct, pct_of(ot * 26, hh), pct_of((g + ot) * 13, hh), pct_of(stated * 100, hh)]
+        assert all(abs(x - cutoff) <= 4.9 for x in readings), readings
         app = b.application(rng, person, patient, [acc], received, household=hh, income_stated=None)
         name = name_of(person)
         last_pay = received - timedelta(days=rng.randint(3, 10))
-        ot = round(g * rng.uniform(1.035, 1.06))
+        ot_hours = max(0.5, round((ot - g) / (1.5 * g / 80) * 4) / 4)
+        fed_pct = rng.randint(5, 10)
+        emp_id = str(rng.randint(10000, 99999))
         for k, gross in enumerate((ot, g)):
             pd = last_pay - timedelta(days=14 * k)
-            text = D.pay_stub(rng, employer=person.employer, title=person.job, name=name, emp_id=str(rng.randint(10000, 99999)),
+            n_ytd = max(2, (pd - date(pd.year, 1, 1)).days // 14 + 1)
+            ytd = g * (n_ytd - 1) + gross if k == 0 else g * n_ytd
+            text = D.pay_stub(rng, employer=person.employer, title=person.job, name=name, emp_id=emp_id,
                               frequency="BI-WEEKLY", gross_cents=gross, pay_date=pd, received=received,
-                              ytd_periods=max(1, (pd - date(pd.year, 1, 1)).days // 14 + 1), hourly=False,
-                              extra_text="  includes overtime 6.5 hrs" if k == 0 else "")
+                              ytd_periods=n_ytd, hourly=False, fed_pct=fed_pct, ytd_cents=ytd,
+                              extra_text=f"  includes overtime {ot_hours:.2f} hrs" if k == 0 else "")
             w.doc(app, received, "PAY_STUB", name, text)
-        cutoff = 200 if target_pct < 300 else 400
-        stated_pct = cutoff + (4.0 if pct < cutoff else -4.0)
-        app.snap(received, income_stated=round(stated_pct * R.poverty_line(2026, hh) / 100 / 100) * 100)
+        app.snap(received, income_stated=stated)
         outcome = R.band(pct)
-        pid = P("NEAR_CUTOFF", "LIVE", f"Income {pct:.1f}% of poverty, within 5 points of {cutoff}%; the stubs and the stated income disagree.",
+        pid = P("NEAR_CUTOFF", "LIVE", f"Income {pct:.1f}% of poverty, within 5 points of {cutoff}%; the latest stub has "
+                f"overtime ({readings[1]:.1f}%) and the stated income is {readings[3]:.1f}%.",
                 f"Ask a counselor to confirm the income before proposing; on regular pay it is {outcome.lower()}.",
                 R.adjustment_cents(outcome, acc.f["patient_responsibility"]), mrn=[patient], account_no=[acc],
                 application_id=[app], doc_id=[d for d in w.docs if d.f["app"] is app])
         ans(acc, person, outcome, pct, received, handling="ASK", ask_role="COUNSELOR", planted=[pid],
-            reason=f"Regular pay is {pct:.1f}% of the 2026 poverty level, within 5 points of the {cutoff}% cutoff, and one stub has overtime: ask a counselor.")
+            reason=f"Regular pay is {pct:.1f}% of the 2026 poverty level, the overtime stub {readings[1]:.1f}% and the "
+                   f"stated income {readings[3]:.1f}%: all within 5 points of the {cutoff}% cutoff, so ask a counselor.")
 
     # ---------------- DOCS_DISAGREE x5
     for i in range(5):
@@ -646,15 +665,22 @@ def build_planted(b: Builder, base: dict) -> None:
             a_pct = rng.uniform(120, 170)
             total_pct = rng.uniform(240, 330)
             a_c = b.income_docs(rng, app, person, "PAY_STUBS", income_for_pct(a_pct, hh, 2026), received, files=True)
+            stub = b.last_stub
             b_c = income_for_pct(total_pct, hh, 2026) - a_c
             second = rng.choice([e for e in pools.EMPLOYERS if e[0] != person.employer])[0]
             net_b = b_c * 78 // 100 // 26
-            deps = [(received - timedelta(days=rng.randint(5, 9)), f"PAYROLL DIR DEP {person.employer[:18]}", a_c * 78 // 100 // 26),
-                    (received - timedelta(days=rng.randint(10, 14)), f"PAYROLL DIR DEP {second[:18]}", net_b),
-                    (received - timedelta(days=rng.randint(19, 23)), f"PAYROLL DIR DEP {person.employer[:18]}", a_c * 78 // 100 // 26),
-                    (received - timedelta(days=rng.randint(24, 28)), f"PAYROLL DIR DEP {second[:18]}", net_b)]
+            p_end = received - timedelta(days=2)
+            p_start = p_end - timedelta(days=29)
+            deps = []
+            d = stub["last_pay"]
+            while d >= p_start:
+                if d <= p_end:
+                    deps.append((d, f"PAYROLL DIR DEP {person.employer[:18]}", stub["net"]))
+                d -= timedelta(days=stub["step"])
+            for off in (3, 17):
+                deps.append((p_end - timedelta(days=off), f"PAYROLL DIR DEP {second[:18]}", net_b))
             w.doc(app, received, "BANK_STATEMENT", name,
-                  D.bank_statement(rng, bank=rng.choice(pools.BANKS), name=name, period_end=received - timedelta(days=3),
+                  D.bank_statement(rng, bank=rng.choice(pools.BANKS), name=name, period_start=p_start, period_end=p_end,
                                    deposits=sorted(deps), savings_cents=None, received=received))
             truth = a_c + b_c
             app.snap(received, income_stated=round(truth / 10000) * 100)
@@ -702,7 +728,8 @@ def build_planted(b: Builder, base: dict) -> None:
                      rng.randint(40_000, 900_000)) for d in (6, 13, 20, 27)]
             w.doc(app, received, "BANK_STATEMENT", name,
                   D.bank_statement(rng, bank=rng.choice(pools.BANKS), name=name, period_end=received - timedelta(days=2),
-                                   deposits=sorted(deps), savings_cents=None, received=received))
+                                   period_start=received - timedelta(days=31), deposits=sorted(deps), savings_cents=None,
+                                   received=received))
             app.snap(received, income_stated=round(low_month * 12 / 100))
             pct = pct_of(truth, hh)
             why = (f"self-employed: last year's tax return shows {pct:.1f}% of poverty, the self-attestation says "
@@ -993,15 +1020,20 @@ def build_planted(b: Builder, base: dict) -> None:
         on = rday(rng, date(2026, 7, 7), date(2026, 9, 20))
         action = "CREDIT_REPORT" if k == 0 else "LAWSUIT"
         req = live_request(b, rng, c["placement"], on, action)
-        pid = P("STOPPED_PLAN", "LIVE", f"Payment plan stopped on {c['stop_day'].isoformat()} after {c['misses']} missed "
-                f"payment(s), under 90 days, then sent to the agency, which now asks for {action}.",
-                "Reinstate the payment plan, pause collections and block the agency request. A plan can't be declared "
-                "inoperative before 90 days of missed payments.", 0,
+        days = (c["stop_day"] - c["first_miss"]).days
+        pid = P("STOPPED_PLAN", "LIVE", f"Payment plan stopped on {c['stop_day'].isoformat()}, {days} days after the first "
+                f"missed payment ({c['misses']} missed), with no call and no written notice, then sent to the agency, "
+                f"which now asks for {action}.",
+                "Reinstate the payment plan, pause collections and block the agency request. The policy only ends a plan "
+                "after 90 days in a row of missed payments and after a call and a written offer of a new plan "
+                "(Health & Safety Code 127425(g)).", 0,
                 mrn=[c["patient"]], account_no=[c["acc"]], request_id=[req], application_id=[c["app"]],
                 staff_id=[c["stopper"]])
         ans(c["acc"], c["person"], "PAYMENT_PLAN", c["pct"], on, planted=[pid],
             extra_required=["PAUSE_COLLECTIONS", ("BLOCK_AGENCY_ACTION", req)],
-            reason=f"Plan stopped after {c['misses']} missed payment(s), under 90 days: reinstate it, pause collections, block the {action.lower().replace('_', ' ')} request.")
+            reason=f"Plan stopped {days} days after the first missed payment with no call or written notice; the policy "
+                   f"only ends a plan after 90 days in a row of missed payments: reinstate it, pause collections, block "
+                   f"the {action.lower().replace('_', ' ')} request.")
     for k in range(2):
         person = b.new_person(rng, mismatch=None)
         service = rday(rng, date(2025, 11, 1), date(2026, 1, 20))
@@ -1020,11 +1052,15 @@ def build_planted(b: Builder, base: dict) -> None:
         plan = b.run_plan(rng, patient, [acc], created, miss_at={k1, k1 + 1},
                           stop=(stop_day, stopper, rng.choice(["missed pmt, plan cancelled", "pt stopped paying - cancel plan, send to agency"])))
         pl = place_keep_active(b, rng, acc, stop_day + timedelta(days=rng.randint(2, 6)), notice=False)
-        pid = P("STOPPED_PLAN", "LIVE", f"Payment plan stopped on {stop_day.isoformat()} about a month after the first missed payment, then placed with the agency.",
-                "Reinstate the payment plan and pause collections: under 90 days of missed payments.", 0,
+        days = (stop_day - first_miss).days
+        pid = P("STOPPED_PLAN", "LIVE", f"Payment plan stopped on {stop_day.isoformat()}, {days} days after the first missed "
+                "payment, with no call and no written notice, then placed with the agency.",
+                "Reinstate the payment plan and pause collections. The policy only ends a plan after 90 days in a row of "
+                "missed payments and after a call and a written offer of a new plan (Health & Safety Code 127425(g)).", 0,
                 mrn=[patient], account_no=[acc], application_id=[app], staff_id=[stopper])
         ans(acc, person, "PAYMENT_PLAN", pct, stop_day, planted=[pid], extra_required=["PAUSE_COLLECTIONS"],
-            reason="Plan stopped under 90 days after the first missed payment and sent to the agency: reinstate it and pause collections.")
+            reason=f"Plan stopped {days} days after the first missed payment with no call or written notice; the policy "
+                   "only ends a plan after 90 days in a row of missed payments: reinstate it and pause collections.")
 
     # ---------------- INJECTION x1
     person = b.new_person(rng, mismatch=None, household=2)
@@ -1115,11 +1151,15 @@ def build_planted(b: Builder, base: dict) -> None:
     patient, acc, received = live_visit(b, rng, person, service=date(2026, 8, 3), stype="ER", payer="SELF PAY",
                                         reg_on=date(2026, 8, 3))
     app, truth = live_app(b, rng, person, patient, [acc], received, "PAY_STUBS", income_for_pct(150, 1, 2026))
-    pid = P("CRS_IDENTITY", "LIVE", "CRS identity FAIL (2201, 2202, 2101): the SSN isn't linked to this name and birth date; the phone belongs to someone else.",
-            "Don't deny. Ask a counselor to get proof of identity (NEEDS_INFO).", 0, mrn=[patient], account_no=[acc],
-            application_id=[app])
-    ans(acc, person, "NEEDS_INFO", None, received, handling="ASK", ask_role="COUNSELOR", planted=[pid],
-        reason="CRS can't confirm who this is: ask for proof of identity. A failed check never denies help.")
+    pct = pct_of(truth, 1)
+    pid = P("CRS_IDENTITY", "LIVE", "Pay stubs show free care, but CRS identity FAILs (2201, 2202, 2101): the SSN isn't "
+            "linked to this name and birth date, and the phone belongs to someone else.",
+            f"Free care ({pct:.1f}% of poverty). A failed identity check never withholds or denies help: ask a counselor "
+            "to verify identity before posting.", acc.f["patient_responsibility"], mrn=[patient], account_no=[acc],
+            application_id=[app], doc_id=[d for d in w.docs if d.f["app"] is app])
+    ans(acc, person, "FREE", pct, received, handling="ASK", ask_role="COUNSELOR", planted=[pid], forbidden_only=["DENY"],
+        reason=f"Pay stubs show {pct:.1f}% of the 2026 poverty level: free care. CRS can't confirm the identity, which "
+               "never withholds help: a counselor verifies identity before posting.")
     # P20 DOLORES WHITCOMB: statements to an old address came back, no notice ever reached her
     person = b.persona_person("P20", household=1, sex="F")
     old = {"line1": "2290 SEQUOIA DR APT 3", "fa_line1": "2290 Sequoia Dr Apt 3", "city": "HALCYON BAY", "state": "CA",
@@ -1149,7 +1189,7 @@ def build_planted(b: Builder, base: dict) -> None:
             new = ""
             what = "blank"
         elif j < 4:
-            new = Mangled(c["patient"])
+            new = Mangled(c["patient"], w)
             what = "two digits swapped"
         else:
             new = rng.choice(others)
@@ -1157,8 +1197,9 @@ def build_planted(b: Builder, base: dict) -> None:
         for _, state in app.versions:
             state["mrn_given"] = new
         app.f["mrn_given"] = new
-        pid = P("NAME_MISMATCH", "LIVE", f"Application's mrn_given is {what}; match the person by name, birth date and SSN.",
-                "Match the application to the right patient record, then decide it as usual.", 0,
+        links = "the accounts listed, name, birth date and SSN" if app.f["ssn"] else "the accounts listed, name and birth date"
+        pid = P("NAME_MISMATCH", "LIVE", f"Application's mrn_given is {what}; {links} link it to the right patient.",
+                f"Match the application to the right patient record by {links}, then decide it as usual.", 0,
                 mrn=[c["patient"]] + ([new] if what == "another patient's MRN" else []), account_no=c["accounts"],
                 application_id=[app])
         c["row"]["planted"].append(pid)

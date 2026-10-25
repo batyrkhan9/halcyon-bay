@@ -1,21 +1,20 @@
-HARBOR POINT HOTEL
-3402 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-  Employee: DEBORAH BELL        Emp ID: 31323
-   Position: Housekeeper
-Pay Period: 03/15/2026 - 03/28/2026     Pay Date: 04/02/2026
+BLUE KELP SOFTWARE LLC
+7980 COMMERCE WAY   CA
+                           EARNINGS STATEMENT
+Employee: GREGORY RAO        Emp ID: 23295
+Position: Software engineer
+Pay Period: 03/14/2026 - 03/27/2026     Pay Date: 04/01/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,243.92     15,707.44
-GROSS PAY                                  2,243.92     15,707.44
-    DEDUCTIONS
-  Federal Income Tax                       112.19
-      Social Security                          139.12
-  Medicare                                  32.53
-  CA SDI                                    24.68
-_ _ _ _
-NET PAY                                  1,935.40
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.41     30.00         552.30      3,866.10
+GROSS PAY                                    552.30      3,866.10
+ DEDUCTIONS
+  Federal Income Tax                        49.70
+  Social Security                           34.24
+    Medicare                                   8.00
+  CA SDI                                     6.07
+NET PAY                                    454.29
 --------------------------------------------------------------
 
-FAX RECEIVED 04/16/2026 10:38   P.01
+FAX RECEIVED 04/26/2026 10:45   P.01

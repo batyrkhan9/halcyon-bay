@@ -1,18 +1,20 @@
-    Form 1040   U.S. Individual Income Tax Return   2023
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  JAMES CASTILLO
-Your social security number: XXX-XX-4679
-Dependents: 3
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........   135,698.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................   135,698.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................   135,698.00
- 12  Standard deduction ..............................    21,900.00
+MIRADOR GROCERY CO-OP
+3616 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: TYLER FITZGERALD        Emp ID: 93076
+Position: Cashier
+ Pay Period: 03/28/2025 - 04/10/2025     Pay Date: 04/15/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regu1ar             16.74     25.50         426.87      3,414.96
+   GROSS PAY                                    426.87      3,414.96
+DEDUCTIONS
+  Federal Income Tax                        29.88
+  Social Security                           26.46
+  Medicare                                   6.19
+  CA SDI                                     4.69
+NET PAY                                    359.65
+--------------------------------------------------------------
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ James Castillo         Date: 04/11/2024
-
-RECEIVED APR 26 2025  - mailroom
+-- scanned 05/12/2025 HBCH mailroom  pg 1/1 --

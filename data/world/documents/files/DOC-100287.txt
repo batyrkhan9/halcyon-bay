@@ -1,21 +1,19 @@
-SANDPIPER CHILD CARE CENTER
-5893 HARBOR WAY   CA
-                            EARNINGS STATEMENT
-   Employee: GREGORY PETROV        Emp ID: 76682
-    Position: Teacher
-Pay Period: 02/03/2025 - 02/16/2025     Pay Date: 02/21/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-_ _ _ _
-Salary                                     4,706.37     18,825.48
-GROSS PAY                                  4,706.37     18,825.48
-DEDUCTIONS
-  Federal 1ncome Tax                       329.44
-  Social Security                          291.79
-   Medicare                                  68.24
-  CA SDI                                    51.77
-NET PAY                                  3,965.13
---------------------------------------------------------------
+HALCYON BAY FEDERAL CREDIT UNION
+Statement Period 02/01/2025 - 02/28/2025
+Member: ASHLEY MITCHELL       Account ending 5332
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2025]
+ CHECKING SUMMARY
+    Beginning balance              921.30
+  Deposits                     4,210.04
+  Withdrawals                 -3,620.63
+  Ending balance               1,510.71
+
+DEPOSITS AND CREDITS
+  02/02  PAYROLL DIR DEP SANTA LUCITA FARMS       1,052.51
+  02/09  PAYROLL DIR DEP SANTA LUCITA FARMS       1,052.51
+  02/16  PAYROLL DIR DEP SANTA LUCITA FARMS       1,052.51
+  02/23  PAYROLL DIR DEP SANTA LUCITA FARMS       1,052.51
+
+Thank you for banking with us.  Page 1 of 2
+
+-- scanned 03/18/2025 HBCH mailroom  pg 1/1 --

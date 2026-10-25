@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-    3910 COMMERCE WAY   CA
+CALDER FREIGHT LINES
+6556 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: HASSAN MITCHELL        Emp ID: 70511
-Position: Line worker
-Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Employee: MEGAN LEWIS        Emp ID: 83340
+Position: Driver
+Pay Period: 06/23/2026 - 07/06/2026     Pay Date: 07/11/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     4,566.64     77,632.88
-GROSS PAY                                  4,566.64     77,632.88
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             17.29     69.00       1,193.01     16,702.14
+GROSS PAY                                  1,193.01     16,702.14
 DEDUCTIONS
-      Federal Income Tax                       319.66
-  Social Security                          283.13
-  Medicare                                  66.21
-  CA SDI                                    50.23
-NET PAY                                  3,847.41
+      Federal Income Tax                        71.58
+  Social Security                           73.96
+      Medicare                                  17.29
+  CA SDI                                    13.12
+NET PAY                                  1,017.06
 --------------------------------------------------------------
 
-RECEIVED AUG 25 2026  - mailroom
+RECEIVED AUG 23 2026  - mailroom

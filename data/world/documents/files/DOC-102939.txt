@@ -1,21 +1,20 @@
-  LAS BRISAS RESTAURANT GROUP
-6616 HARBOR WAY   CA
+ GOLDEN HOUR SENIOR LIVING
+3491 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: JUAN RAO        Emp ID: 84338
-Position: Line cook
-Pay Period: 08/22/2026 - 08/28/2026     Pay Date: 09/02/2026
-Pay Frequency: Weekly
+Employee: MANUEL JACKSON        Emp ID: 99480
+  Position: Caregiver
+Pay Period: 08/05/2026 - 08/18/2026     Pay Date: 08/23/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-  . : .
-Salary                                       180.31      6,310.85
-GROSS PAY                                    180.31      6,310.85
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56     60.25       1,118.24     19,010.08
+GROSS PAY                                  1,118.24     19,010.08
 DEDUCTIONS
-  Federal Income Tax                        10.81
-  Social Security                           11.17
-  Medicare                                   2.61
-  CA SDI                                     1.98
-NET PAY                                    153.74
- --------------------------------------------------------------
+   Federal Income Tax                        89.45
+  Social Security                           69.33
+  Medicare                                  16.21
+      CA SDI                                    12.30
+NET PAY                                     930.95
+   --------------------------------------------------------------
 
-FAX RECEIVED 09/11/2026 10:53   P.01
+-- scanned 09/10/2026 HBCH mailroom  pg 1/1 --

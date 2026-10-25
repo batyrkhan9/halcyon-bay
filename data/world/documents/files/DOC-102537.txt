@@ -1,21 +1,20 @@
- VISTA SERENA MEDICAL OFFICES
-1331 INDUSTRIAL WAY    CA
+LAS BRISAS RESTAURANT GROUP
+8334 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: SHARON ALLEN        Emp ID: 68291
-Position: Medical receptionist
-Pay Period: 07/22/2026 - 08/04/2026     Pay Date: 08/09/2026
-Pay Frequency: Bi-Weekly
+Employee: SOFIA WALSH        Emp ID: 29024
+Position: Line cook
+Pay Period: 07/26/2026 - 08/01/2026     Pay Date: 08/06/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,632.37     42,117.92
-GROSS PAY                                  2,632.37     42,117.92
+Regular              54.07     40.00       2,162.80     69,209.60
+  GROSS PAY                                  2,162.80     69,209.60
 DEDUCTIONS
-  Federal Income Tax                       131.61
-   Social Security                          163.20
-  Medicare                                  38.16
-  CA SDI                                    28.95
-NET PAY                                  2,270.45
---------------------------------------------------------------
-  includes overtime 6.5 hrs
+  Federal Income Tax                       216.28
+  Social Security                          134.09
+  Medicare                                  31.36
+    CA SDI                                    23.79
+     NET PAY                                  1,757.28
+ --------------------------------------------------------------
 
--- scanned 08/15/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/10/2026 10:43   P.01

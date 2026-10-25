@@ -1,20 +1,21 @@
-   SUNSET COAST HOME CARE
-1141 MARKET WAY   CA
+ELLERY HARDWARE SUPPLY
+5048 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: JOSHUA COSTA         Emp ID: 36025
-Position: Home care aide
-Pay Period: 02/02/2026 - 02/15/2026     Pay Date: 02/20/2026
- Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
+ Employee: JESSICA BROWN-PHAM        Emp ID: 99821
+_ _ _ _
+Position: Sales associate
+Pay Period: 02/20/2026 - 03/05/2026     Pay Date: 03/10/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.34     69.50       1,205.13      4,820.52
-GROSS PAY                                  1,205.13      4,820.52
-    DEDUCTIONS
-  Federal Income Tax                        96.41
-   Social Security                           74.71
-  Medicare                                  17.47
-  CA SDI                                    13.25
-NET PAY                                  1,003.29
+Regular             57.00     80.00       4,560.00     22,800.00
+GROSS PAY                                  4,560.00     22,800.00
+DEDUCTIONS
+  Federal Income Tax                       501.60
+  Social Security                          282.72
+  Medicare                                  66.12
+  CA SDI                                    50.16
+    NET PAY                                  3,659.40
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/10/2026]
+FAX RECEIVED 03/18/2026 10:53   P.01

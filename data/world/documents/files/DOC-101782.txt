@@ -1,21 +1,21 @@
-HARBOR POINT HOTEL
-6940 HARBOR WAY   CA
+    MARISOL CLEANING SERVICES
+5734 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-   Employee: ANA VALENCIA        Emp ID: 10209
-~ ~ .  ,
-Position: Housekeeper
-Pay Period: 02/28/2026 - 03/29/2026     Pay Date: 04/03/2026
-Pay Frequency: Monthly
+Employee: GRACE MARTIN-FONOTI        Emp ID: 57805
+Position: Cleaner
+Pay Period: 04/07/2026 - 04/21/2026     Pay Date: 04/26/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.52    173.33       2,863.41     11,453.64
-GROSS PAY                                  2,863.41     11,453.64
+Regular             18.30     33.50         613.05      4,904.40
+GROSS PAY                                    613.05      4,904.40
 DEDUCTIONS
-  Federal Income Tax                       171.80
-     Social Security                          177.53
-   Medicare                                  41.51
-  CA SDI                                    31.49
-NET PAY                                  2,441.08
+      Federal Income Tax                        30.65
+  Social Security                           38.00
+  Medicare                                   8.88
+  CA SDI                                     6.74
+NET PAY                                    528.78
 --------------------------------------------------------------
+  includes overtime 2.50 hrs
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/12/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/14/2026]

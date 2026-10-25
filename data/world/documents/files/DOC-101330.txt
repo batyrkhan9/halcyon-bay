@@ -1,20 +1,20 @@
-HALCY0N BAY UNIFIED SCHOOL DIST
-5456 INDUSTRIAL WAY   CA
+POINT CORRIN BOATWORKS
+2346 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: ROGELIO LIN        Emp ID: 96686
- Position: Instructional aide
-Pay Period: 12/12/2025 - 12/25/2025     Pay Date: 12/30/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular             76.13     80.00       6,090.40    158,350.40
-GROSS PAY                                  6,090.40    158,350.40
-DEDUCTIONS
-  Federal Income Tax                       669.94
-  Social Security                          377.60
-  Medicare                                  88.31
-  CA SDI                                    66.99
-  NET PAY                                  4,887.56
-   --------------------------------------------------------------
+Employee: ROGELIO GARCIA        Emp ID: 59577
+Position: Mechanic
+Pay Period: 12/16/2025 - 12/29/2025     Pay Date: 01/03/2026
+  Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNING5            RATE      H0URS     THIS PERIOD        YTD
+Regular             31.01     80.00       2,480.80      2,480.80
+GROSS PAY                                  2,480.80      2,480.80
+  DEDUCTION5
+   Federal Income Tax                       124.04
+  S0cial Security                          153.81
+  Medicare                                  35.97
+  CA SDI                                    27.28
+   NET PAY                                  2,139.70
+  --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/13/2026]
+FAX RECEIVED 01/25/2026 10:55   P.01

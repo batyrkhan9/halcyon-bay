@@ -1,21 +1,18 @@
-    SANDPIPER CHILD CARE CENTER
-1731 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: LETICIA CRUZ        Emp ID: 16235
-Position: Teacher
-Pay Period: 08/11/2026 - 08/24/2026     Pay Date: 08/29/2026
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Salary                                       613.41     11,041.38
-GROSS PAY                                    613.41     11,041.38
-   DEDUCTIONS
-  Federal Income Tax                        67.47
-  Social Security                           38.03
-     Medicare                                   8.89
-| |   .
-  CA SDI                                     6.74
-NET PAY                                    492.28
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2025
+  (copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:   JAE FREEMAN
+Your social security number: XXX-XX-7321
+Dependents: 1
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    10,702.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9    Total income ....................................    10,702.00
+  10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    10,702.00
+    12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/01/2026]
+ Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Jae Freeman        Date: 04/04/2026
+
+FAX RECEIVED 08/30/2026 10:16   P.01

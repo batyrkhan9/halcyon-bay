@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+4104 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: NOOR MILLER        Emp ID: 70721
+Position: Warehouse associate
+Pay Period: 11/26/2024 - 12/10/2024     Pay Date: 12/15/2024
+Pay Frequency: Semi-Monthly
+| |   .
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             17.52     62.00       1,086.24     26,069.76
+GROSS PAY                                  1,086.24     26,069.76
+DEDUCTIONS
+  Federal Income Tax                        65.17
+  Social Security                           67.34
+  Medicare                                  15.75
+  CA SDI                                    11.94
+NET PAY                                    926.04
+--------------------------------------------------------------
+
+-- scanned 01/11/2025 HBCH mailroom  pg 1/1 --

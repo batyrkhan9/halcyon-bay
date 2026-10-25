@@ -1,0 +1,20 @@
+MIRADOR PUBLIC LIBRARY
+   3460 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ETHAN WATANABE        Emp ID: 89499
+Position: Library assistant
+Pay Period: 08/10/2025 - 08/23/2025     Pay Date: 08/28/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                     1,292.38     23,262.84
+   GROSS PAY                                  1,292.38     23,262.84
+  DEDUCTIONS
+  Federal Income Tax                        90.46
+  Social Security                           80.12
+  Medicare                                  18.74
+  CA SDI                                    14.21
+NET PAY                                   1,088.85
+--------------------------------------------------------------
+
+RECEIVED SEP 10 2025  - mailroom

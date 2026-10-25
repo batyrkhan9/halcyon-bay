@@ -1,21 +1,20 @@
-HALCYON BAY UNIFIED SCHOOL DIST
-622 COMMERCE WAY   CA
+HARBOR POINT HOTEL
+4071 HARBOR WAY   CA
                          EARNINGS STATEMENT
-| |   .
-Employee: ROBERT ANDERSON        Emp ID: 79657
-   Position: Instructional aide
-Pay Period: 08/01/2026 - 08/15/2026     Pay Date: 08/20/2026
-Pay Frequency: Semi-Monthly
+Employee: GARY IVANOVA        Emp ID: 39673
+Position: Housekeeper
+Pay Period: 08/01/2026 - 08/14/2026     Pay Date: 08/19/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             49.28     86.67       4,271.10     68,337.60
-GROSS PAY                                  4,271.10     68,337.60
+Regular             18.29     31.50         576.14      9,794.38
+GROSS PAY                                    576.14      9,794.38
 DEDUCTIONS
-  Federal Income Tax                       298.97
-   Social Security                          264.80
-  Medicare                                  61.93
-  CA SDI                                    46.98
-NET PAY                                  3,598.42
+     Federal Income Tax                        40.32
+  Social Security                           35.72
+  Medicare                                   8.35
+  CA SDI                                     6.33
+NET PAY                                    485.42
 --------------------------------------------------------------
 
-FAX RECEIVED 08/24/2026 10:51   P.01
+RECEIVED AUG 23 2026  - mailroom

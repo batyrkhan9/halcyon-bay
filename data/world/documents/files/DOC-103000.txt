@@ -1,17 +1,20 @@
- HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 09/01/2026 - 09/10/2026
-Member: EDUARDO MCCARTHY       Account ending 3777
-
-CHECKING SUMMARY
-     Beginning balance            1,567.33
-  Deposits                     2,005.28
-    Withdrawals                 -2,105.54
-   Ending balance               1,467.07
-
-DEPOSITS AND CREDIT5
-   09/10  PAYROLL DIR DEP MIRADOR GROCERY CO       1,002.64
-  08/27  PAYROLL DIR DEP MIRADOR GROCERY CO       1,002.64
-
-Thank you for banking with us.  Page 1 of 2
+GOLDEN HOUR SENIOR LIVING
+2276 MARKET WAY   CA
+                         EARNINGS STATEMENT
+  Employee: DONNA RODRIGUEZ        Emp ID: 22421
+Position: Caregiver
+Pay Period: 08/24/2026 - 09/06/2026     Pay Date: 09/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Regular             29.29     80.00       2,343.20     44,520.80
+  GROSS PAY                                  2,343.20     44,520.80
+ DEDUCTIONS
+  Federal Income Tax                       117.16
+  Social Security                          145.27
+  Medicare                                  33.97
+  CA SDI                                    25.77
+NET PAY                                   2,021.03
+--------------------------------------------------------------
 
 -- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

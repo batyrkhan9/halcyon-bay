@@ -1,20 +1,20 @@
-HARBOR POINT HOTEL
-7654 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+    6838 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: LINH HADDAD        Emp ID: 41120
-Position: Housekeeper
-Pay Period: 03/29/2026 - 04/11/2026     Pay Date: 04/16/2026
+Employee: PRISCILLA SMITH        Emp ID: 55584
+Position: Mechanic
+Pay Period: 04/19/2026 - 05/02/2026     Pay Date: 05/07/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             18.07     54.25         980.30      7,842.40
-GROSS PAY                                    980.30      7,842.40
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             32.13     80.00       2,570.40     25,704.00
+GROSS PAY                                  2,570.40     25,704.00
 DEDUCTIONS
-  Federal Inc0me Tax                        68.62
-  Social 5ecurity                           60.77
-  Medicare                                  14.21
-  CA SDI                                    10.78
-NET PAY                                    825.92
+  Federal Income Tax                       231.33
+     Social Security                          159.36
+  Medicare                                  37.27
+      CA SDI                                    28.27
+NET PAY                                  2,114.17
 --------------------------------------------------------------
 
-RECEIVED MAY 15 2026  - mailroom
+FAX RECEIVED 05/15/2026 10:56   P.01

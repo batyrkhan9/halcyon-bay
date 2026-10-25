@@ -1,17 +1,21 @@
-5EASIDE COMMUNITY CREDIT UNION
-Statement Period 01/01/2026 - 01/31/2026
-Member: CALEB JONES-MURPHY       Account ending 6064
+PAC1FIC RIM JANITORIAL
+7211 HARB0R WAY    CA
+                         EARNINGS STATEMENT
+   Employee: JOHN IVANOVA        Emp ID: 44270
+Position: Custodian
+    Pay Peri0d: 12/25/2025 - 01/07/2026     Pay Date: 01/12/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,759.05      2,759.05
+GROSS PAY                                  2,759.05      2,759.05
+DEDUCTIONS
+   Federal Income Tax                       165.54
+  Social Security                          171.06
+  Medicare                                  40.00
+  CA SDI                                    30.35
+  . : .
+NET PAY                                  2,352.10
+--------------------------------------------------------------
 
-   CHECKING SUMMARY
-  Beginning balance              994.43
-  Deposits                       921.66
-  Withdrawals                   -949.30
-   Ending balance                 966.79
-
-    DEPOSITS AND CREDITS
-  01/31  PAYROLL DIR DEP HARBOR POINT HOTEL         460.83
-  01/17  PAYROLL DIR DEP HARBOR POINT HOTEL         460.83
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/06/2026]
+-- scanned 02/08/2026 HBCH mailroom  pg 1/1 --

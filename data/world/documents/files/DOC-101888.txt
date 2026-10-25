@@ -1,17 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-  Statement Period 06/01/2026 - 06/23/2026
-Member: SUSAN ROBINSON       Account ending 6029
+PACIFIC RIM JANITORIAL
+3804 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: NICOLE MARTINEZ        Emp ID: 68965
+Position: Custodian
+Pay Period: 06/03/2026 - 06/09/2026     Pay Date: 06/14/2026
+  Pay Frequency: Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular             17.14     31.50         539.91     12,957.84
+GROSS PAY                                    539.91     12,957.84
+DEDUCTIONS
+  Federal Income Tax                        43.19
+  Social Security                           33.47
+  Medicare                                   7.82
+   CA SDI                                     5.93
+NET PAY                                    449.50
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              294.61
-  Deposits                     1,752.80
-  Withdrawals                 -1,700.21
-   Ending balance                 347.20
-
-DEPOSITS AND CREDITS
-  06/23  PAYROLL DIR DEP HARBOR POINT HOTEL         876.40
-  06/16  PAYROLL DIR DEP HARBOR POINT HOTEL         876.40
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED JUL 03 2026  - mailroom
+RECEIVED JUL 01 2026  - mailroom

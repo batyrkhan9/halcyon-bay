@@ -1,20 +1,23 @@
-   SANTA LUCITA FARMS
-8703 COMMERCE WAY   CA
-                         EARNING5 STATEMENT
-Employee: AIKO FITZGERALD        Emp ID: 27777
-Position: Field supervisor
-Pay Period: 07/09/2026 - 07/15/2026     Pay Date: 07/20/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Salary                                       957.82     27,776.78
-   GROSS PAY                                    957.82     27,776.78
-DEDUCTIONS
-  Federal Income Tax                        47.89
-  Social Security                           59.38
-  Medicare                                  13.88
-  CA SDI                                    10.53
-  NET PAY                                    826.14
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 07/01/2026 - 07/31/2026
+Member: LAUREN SANCHEZ       Account ending 4793
 
--- scanned 08/08/2026 HBCH mailroom  pg 1/1 --
+CHECKING SUMMARY
+  Beginning balance            2,124.82
+  Deposits                     4,713.84
+  Withdrawals                 -4,902.39
+  Ending balance               1,936.27
+
+DEPOSITS AND CREDITS
+  07/02  PAYROLL DIR DEP COASTAL VALLEY ENE       1,178.46
+  07/09  PAYROLL DIR DEP COASTAL VALLEY ENE       1,178.46
+  07/16  PAYROLL DIR DEP COASTAL VALLEY ENE       1,178.46
+  07/23  PAYROLL DIR DEP COASTAL VALLEY ENE       1,178.46
+
+SAVINGS SUMMARY  (Share Savings ending 4478)
+  Ending balance              36,082.33
+  Dividends paid                  14.43
+
+Thank y0u for banking with us.  Page 1 of 2
+
+-- scanned 08/01/2026 HBCH mailroom  pg 1/1 --

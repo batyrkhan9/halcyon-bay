@@ -1,20 +1,20 @@
-PACIFIC RIM JANITORIAL
-8329 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: MANUEL ADAMS        Emp ID: 91385
-Position: Custodian
-Pay Period: 07/23/2026 - 08/05/2026     Pay Date: 08/10/2026
+HALCYON BAY UNIFIED SCHOOL DIST
+6453 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+Employee: YESENIA CLARK        Emp ID: 19766
+Position: Instructional aide
+Pay Period: 08/12/2026 - 08/25/2026     Pay Date: 08/30/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             21.32     80.00       1,705.60     27,289.60
-GROSS PAY                                  1,705.60     27,289.60
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.63     32.75         577.38     10,392.84
+GROSS PAY                                    577.38     10,392.84
 DEDUCTIONS
-  Federal Income Tax                        68.22
-  Social Security                          105.74
-  Medicare                                  24.73
-  CA SDI                                    18.76
-NET PAY                                  1,488.15
+  Federal Income Tax                        63.51
+  Social Security                           35.79
+     Medicare                                   8.37
+  CA SDI                                     6.35
+NET PAY                                    463.36
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/20/2026]
+FAX RECEIVED 09/20/2026 10:19   P.01

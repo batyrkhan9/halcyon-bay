@@ -1,21 +1,20 @@
-PACIFIC RIM JANITORIAL
-5275 MARKET WAY   CA
+OTTER BAY AQUARIUM
+9727 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: ISABEL MITCHELL-LEWIS        Emp ID: 31303
-Position: Custodian
-Pay Period: 06/06/2026 - 07/05/2026      Pay Date: 07/10/2026
-Pay Frequency: Monthly
+Employee: LOGAN LI        Emp ID: 71240
+  Position: Guest services
+Pay Period: 06/18/2026 - 06/24/2026     Pay Date: 06/29/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Regular             16.86     63.50       1,070.61      7,494.27
-GROSS PAY                                  1,070.61      7,494.27
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             88.40     40.00       3,536.00     91,936.00
+GROSS PAY                                  3,536.00     91,936.00
 DEDUCTIONS
-_ _ _ _
-  Federal Income Tax                        74.94
-  Social Security                           66.37
-  Medicare                                  15.52
-  CA SDI                                    11.77
-NET PAY                                    902.01
+  Federal Income Tax                       212.16
+  Social Security                          219.23
+  Medicare                                  51.27
+  CA SDI                                    38.89
+NET PAY                                  3,014.45
 --------------------------------------------------------------
 
-FAX RECEIVED 07/21/2026 10:32   P.01
+RECEIVED JUL 19 2026  - mailroom

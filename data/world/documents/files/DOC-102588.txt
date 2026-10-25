@@ -1,17 +1,20 @@
-HALCYON BAY FEDERAL CREDIT UNION
-   Statement Period 07/01/2026 - 07/31/2026
-Member: JAMAL ANDERSON       Account ending 7795
+POINT CORRIN BOATWORKS
+3913 HARBOR WAY   CA
+                         EARNING5 STATEMENT
+Employee: AHMED RAMOS        Emp ID: 66761
+Position: Mechanic
+Pay Period: 07/08/2026 - 07/21/2026     Pay Date: 07/26/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERI0D        YTD
+Salary                                     2,859.54     42,893.10
+GROSS PAY                                  2,859.54     42,893.10
+DEDUCTIONS
+  Federal Income Tax                       228.76
+      Social Security                          177.29
+  Medicare                                  41.46
+  CA SDI                                    31.45
+NET PAY                                  2,380.58
+     --------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance              968.09
-  Deposits                       401.51
-  Withdrawals                   -377.41
-  Ending balance                 992.19
-
-  . : .
-DEPOSITS AND CREDITS
-  08/04  PAYROLL DIR DEP HARBOR POINT HOTEL         401.51
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/22/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/17/2026 10:50   P.01

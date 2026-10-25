@@ -1,20 +1,21 @@
-PORT ELLERY CANNERY CO
-7949 INDUSTRIAL WAY   CA
+BAYLINE LOGISTICS INC
+1415 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: ARTURO SMITH        Emp ID: 53052
-Position: Line worker
-Pay Period: 06/16/2026 - 06/22/2026     Pay Date: 06/27/2026
+Employee: STEVEN MENDOZA        Emp ID: 51554
+Position: Warehouse associate
+Pay Period: 06/25/2026 - 07/01/2026     Pay Date: 07/06/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      H0URS     THIS PERIOD        YTD
-Salary                                       406.30     10,563.80
- GROSS PAY                                     406.30     10,563.80
-DEDUCTIONS
-  Federal Income Tax                        32.50
-  Social Security                           25.19
-  Medicare                                   5.89
-  CA SDI                                     4.46
-NET PAY                                    338.26
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.18     40.00       2,327.20     62,834.40
+GROSS PAY                                  2,327.20     62,834.40
+   DEDUCTIONS
+  Federal Income Tax                       255.99
+| |   .
+  Socia1 Security                          144.28
+  Medicare                                  33.74
+  CA SDI                                    25.59
+NET PAY                                  1,867.60
 --------------------------------------------------------------
 
-RECEIVED JUL 15 2026  - mailroom
+FAX RECEIVED 07/14/2026 10:19   P.01

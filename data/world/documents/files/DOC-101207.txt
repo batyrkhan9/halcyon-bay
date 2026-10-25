@@ -1,20 +1,20 @@
-  SANDPIPER CHILD CARE CENTER
-881 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Employee: ALYSSA BRYANT        Emp ID: 18859
-Position: Teacher
-Pay Period: 10/27/2025 - 11/09/2025     Pay Date: 11/14/2025
+GOLDEN HOUR SENIOR LIVING
+7414 MARKET WAY   CA
+                         EARNINGS STATEMENT
+ Employee: MANUEL GOMEZ        Emp ID: 71465
+  Position: Caregiver
+Pay Period: 11/16/2025 - 11/29/2025     Pay Date: 12/04/2025
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
-Regular              46.18     80.00       3,694.40     84,971.20
-GROSS PAY                                  3,694.40     84,971.20
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,765.77     94,144.25
+GROSS PAY                                  3,765.77     94,144.25
 DEDUCTIONS
-  Federal Income Tax                       406.38
-   Social Security                          229.05
-     Medicare                                  53.56
-  CA SDI                                    40.63
-NET PAY                                  2,964.78
-  --------------------------------------------------------------
+  Federal Income Tax                       263.60
+  Social Security                          233.47
+  Medicare                                  54.60
+  CA SDI                                    41.42
+NET PAY                                  3,172.68
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/18/2025]
+FAX RECEIVED 12/16/2025 10:27   P.01

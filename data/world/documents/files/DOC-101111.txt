@@ -1,0 +1,20 @@
+ARROYO VERDE NURSERY
+2646 INDU5TRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARJUN SINGH        Emp ID: 54681
+Position: Nursery worker
+Pay Period: 10/06/2025 - 10/20/2025     Pay Date: 10/25/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                       485.95      9,719.00
+GROSS PAY                                    485.95      9,719.00
+DEDUCTIONS
+  Federal Income Tax                        48.59
+  Social Security                           30.12
+  Medicare                                   7.04
+  CA SDI                                     5.34
+NET PAY                                    394.86
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 11/11/2025]

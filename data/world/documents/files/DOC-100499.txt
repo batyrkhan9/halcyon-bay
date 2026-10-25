@@ -1,20 +1,17 @@
-ELLERY HARDWARE SUPPLY
-3026 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: JESSICA FONOTI        Emp ID: 19674
-Position: Sales associate
-Pay Period: 04/06/2025 - 04/12/2025     Pay Date: 04/17/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             20.00     40.00         800.00     12,800.00
-GROSS PAY                                    800.00     12,800.00
-  DEDUCTIONS
-  Federal Inc0me Tax                        88.00
-  Social Security                           49.60
-  Medicare                                  11.60
-  CA SDI                                     8.80
-NET PAY                                    642.00
---------------------------------------------------------------
+COASTLINE SAVINGS BANK
+    Statement Period 04/01/2025 - 04/30/2025
+Member: JOHN WILSON       Account ending 8198
 
-FAX RECEIVED 05/03/2025 10:44   P.01
+CHECKING SUMMARY
+  Beginning balance            1,095.56
+  Deposits                     2,315.68
+  Withdrawals                 -2,014.64
+  Ending balance               1,396.60
+
+DEPOSITS AND CREDITS
+  04/11  PAYROLL DIR DEP COASTAL VALLEY ENE       1,157.84
+  04/25  PAYROLL DIR DEP COASTAL VALLEY ENE       1,157.84
+
+Thank you for banking with us.  Page 1 of 2
+
+FAX RECEIVED 05/23/2025 10:18   P.01

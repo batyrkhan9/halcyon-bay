@@ -1,0 +1,21 @@
+OTTER BAY AQUARIUM
+4118 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUIS GUPTA        Emp ID: 62779
+P0sition: Guest services
+Pay Period: 03/28/2026 - 04/10/2026     Pay Date: 04/15/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                     1,374.23     10,993.84
+GROSS PAY                                   1,374.23     10,993.84
+ DEDUCTIONS
+  Federal Income Tax                        82.45
+  Social Security                           85.20
+  Medicare                                  19.92
+  CA SDI                                    15.11
+ NET PAY                                  1,171.55
+_ _ _ _
+--------------------------------------------------------------
+
+-- scanned 05/14/2026 HBCH mailroom  pg 1/1 --

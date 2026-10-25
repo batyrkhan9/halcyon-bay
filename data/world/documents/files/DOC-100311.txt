@@ -1,20 +1,21 @@
-ARROYO VERDE NURSERY
-6743 INDUSTRIAL WAY   CA
-                             EARNINGS STATEMENT
-Employee: PEDRO RODRIGUEZ        Emp ID: 99945
-Position: Nursery worker
-Pay Period: 02/26/2025 - 03/04/2025     Pay Date: 03/09/2025
-Pay Frequency: Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERI0D        YTD
-Regular             18.26     29.00         529.54      5,295.40
-GROSS PAY                                    529.54      5,295.40
+PORT ELLERY CANNERY CO
+2612 C0MMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: YESENIA WASHINGTON-XU        Emp ID: 16344
+Position: Line worker
+Pay Period: 02/07/2025 - 02/20/2025     Pay Date: 02/25/2025
+    Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     4,957.43     19,829.72
+~ ~ .  ,
+GROSS PAY                                  4,957.43     19,829.72
 DEDUCTIONS
-  Federal Income Tax                        37.06
-   Social Security                           32.83
-     Medicare                                   7.67
-  CA SDI                                     5.82
-NET PAY                                    446.16
+  Federal Income Tax                       396.59
+     Social Security                          307.36
+     Medicare                                  71.88
+      CA SDI                                    54.53
+NET PAY                                  4,127.07
 --------------------------------------------------------------
 
-RECEIVED MAR 14 2025  - mailroom
+RECEIVED MAR 27 2025  - mailroom

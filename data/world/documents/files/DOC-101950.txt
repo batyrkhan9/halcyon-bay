@@ -1,20 +1,21 @@
-HALCYON BAY UNIFIED SCH0OL DIST
-8996 COMMERCE WAY   CA
+SANDPIPER CHILD CARE CENTER
+929 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: KENNETH RIVERA        Emp ID: 76230
-Position: 1nstructional aide
-Pay Period: 05/23/2026 - 06/05/2026     Pay Date: 06/10/2026
-Pay Frequency: Bi-Week1y
+Employee: PATRICIA AGUILAR        Emp ID: 86069
+   Position: Teacher
+~ ~ .  ,
+Pay Period: 05/27/2026 - 06/09/2026     Pay Date: 06/14/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
-Salary                                     4,604.96     55,259.52
-GROSS PAY                                  4,604.96     55,259.52
-DEDUCTION5
-  Federal Income Tax                       460.49
-  Social Security                          285.50
-      Medicare                                  66.77
-  CA SDI                                    50.65
-   NET PAY                                  3,741.55
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,088.93     25,067.16
+GROSS PAY                                  2,088.93     25,067.16
+DEDUCTIONS
+  Federal Income Tax                       188.00
+  Social Security                          129.51
+    Medicare                                  30.28
+  CA SDI                                    22.97
+NET PAY                                  1,718.17
 --------------------------------------------------------------
 
-FAX RECEIVED 07/07/2026 10:23   P.01
+FAX RECEIVED 07/08/2026 10:43   P.01

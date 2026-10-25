@@ -1,20 +1,21 @@
-SANTA LUCITA FARMS
-1986 HARBOR WAY   CA
+BLUE KELP SOFTWARE LLC
+6310 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: WILLIAM PEREZ        Emp ID: 81562
-Position: Field supervisor
-Pay Period: 05/31/2026 - 06/13/2026     Pay Date: 06/18/2026
-Pay Frequency: Bi-Weekly
+Employee: TERESA KOWALSKI        Emp ID: 98925
+Position: Software engineer
+Pay Period: 05/07/2026 - 05/21/2026     Pay Date: 05/26/2026
+   Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              17.43     44.00         766.92      9,969.96
-GROSS PAY                                    766.92      9,969.96
+Regular             55.04     86.67       4,770.32     47,703.20
+GROSS PAY                                   4,770.32     47,703.20
 DEDUCTIONS
-    Federal Income Tax                        84.36
-    Social Security                           47.54
-   Medicare                                  11.12
-  CA SDI                                     8.43
-NET PAY                                    615.47
+  Federal Income Tax                       333.92
+  Social Security                          295.76
+   Medicare                                  69.17
+    CA SDI                                    52.47
+  . : .
+NET PAY                                  4,019.00
 --------------------------------------------------------------
 
-RECEIVED JUL 06 2026  - mailroom
+FAX RECEIVED 07/07/2026 10:33   P.01

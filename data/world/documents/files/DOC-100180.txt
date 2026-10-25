@@ -1,21 +1,20 @@
-   COASTAL VALLEY ENERGY
-115 MARKET WAY   CA
+P0INT CORRIN BOATWORKS
+2587 MARKET WAY   CA
                          EARNINGS STATEMENT
-    Employee: JUAN HAYES        Emp ID: 16527
-Position: Field technician
-Pay Period: 12/17/2024 - 12/30/2024     Pay Date: 01/04/2025
-_ _ _ _
+Employee: LEILA TANAKA        Emp ID: 12318
+Position: Mechanic
+Pay Period: 01/08/2025 - 01/21/2025     Pay Date: 01/26/2025
 Pay Frequency: Bi-Weekly
   --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             66.03     80.00       5,282.40      5,282.40
-GROSS PAY                                  5,282.40      5,282.40
-DEDUCTIONS
-  Federal Income Tax                       528.24
-  Socia1 Security                          327.50
-     Medicare                                  76.59
-  CA SDI                                    58.10
-NET PAY                                  4,291.97
---------------------------------------------------------------
+Regular             16.79     80.00       1,343.20      2,686.40
+GROSS PAY                                  1,343.20      2,686.40
+DEDUCTI0NS
+  Federal Income Tax                        67.16
+  Social Security                           83.27
+  Medicare                                  19.47
+  CA SDI                                    14.77
+NET PAY                                  1,158.53
+  --------------------------------------------------------------
 
--- scanned 02/05/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/10/2025]

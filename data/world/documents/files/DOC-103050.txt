@@ -1,16 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 09/01/2026 - 09/05/2026
-   Member: RAVI FUENTES       Account ending 3061
+    MIRADOR PUBLIC LIBRARY
+5475 HARBOR WAY   CA
+                           EARNINGS STATEMENT
+Employee: GARY PHAM        Emp ID: 37302
+Position: Library assistant
+Pay Period: 07/06/2026 - 08/04/2026     Pay Date: 08/09/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              16.66     51.25         853.82      6,830.56
+GROSS PAY                                    853.82      6,830.56
+DEDUCTIONS
+  Federal Income Tax                        34.15
+  Social Security                           52.93
+  Medicare                                  12.38
+  CA SDI                                     9.39
+NET PAY                                    744.97
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,572.90
-  Deposits                     3,497.13
-    Withdrawals                 -2,972.56
-    Ending balance               2,097.47
-
-DEPOSITS AND CREDITS
-  09/05  PAYROLL DIR DEP ELLERY HARDWARE SU       3,497.13
-
-   Thank you for banking with us.  Page 1 of 2
-
--- scanned 09/18/2026 HBCH mailroom  pg 1/1 --
+-- scanned 09/19/2026 HBCH mailroom  pg 1/1 --

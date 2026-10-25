@@ -1,20 +1,20 @@
-    SANTA LUCITA FARMS
-8754 INDUSTRIAL WAY   CA
+COASTAL VALLEY ENERGY
+617 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: BRANDON D0YLE        Emp ID: 19525
- Position: Field supervisor
-  Pay Period: 06/12/2025 - 06/25/2025     Pay Date: 06/30/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             46.97     80.00       3,757.60     48,848.80
-GR0SS PAY                                  3,757.60     48,848.80
+  Employee: KAI TUIASOSOPO        Emp ID: 53465
+Position: Field technician
+Pay Period: 07/11/2025 - 07/17/2025     Pay Date: 07/22/2025
+Pay Frequency: Weekly
+    --------------------------------------------------------------
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.56      8.00         148.48      4,305.92
+GROSS PAY                                    148.48      4,305.92
 DEDUCTIONS
-  Federal Income Tax                       187.88
-  Social Security                          232.97
-  Medicare                                  54.48
-  CA SDI                                    41.33
-NET PAY                                  3,240.94
---------------------------------------------------------------
+  Federal Income Tax                         8.90
+  Social Security                            9.20
+  Medicare                                   2.15
+     CA SDI                                     1.63
+NET PAY                                    126.60
+ --------------------------------------------------------------
 
-FAX RECEIVED 07/17/2025 10:47   P.01
+RECEIVED AUG 07 2025  - mailroom

@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+5367 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN CHAVEZ        Emp ID: 15827
+  P0sition: Line worker
+Pay Period: 03/22/2025 - 04/04/2025     Pay Date: 04/09/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.57     14.50         269.26      2,154.08
+GROSS PAY                                    269.26      2,154.08
+DEDUCTIONS
+   Federal Income Tax                        18.84
+   Social Security                           16.69
+  Medicare                                   3.90
+  CA SDI                                     2.96
+NET PAY                                    226.87
+--------------------------------------------------------------
+
+FAX RECEIVED 04/18/2025 10:12   P.01

@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+3751 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+ Employee: DARNELL ADAMS        Emp ID: 41133
+Position: Field technician
+Pay Period: 11/27/2025 - 12/03/2025     Pay Date: 12/08/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             28.01     40.00       1,120.40     54,899.60
+GROSS PAY                                  1,120.40     54,899.60
+DEDUCTIONS
+  Federal Income Tax                        44.81
+  Social Security                           69.46
+  Medicare                                  16.24
+  CA SDI                                    12.32
+NET PAY                                    977.57
+--------------------------------------------------------------
+
+-- scanned 12/29/2025 HBCH mailroom  pg 1/1 --

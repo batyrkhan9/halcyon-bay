@@ -1,21 +1,20 @@
-CYPRESS FLATS AUTO BODY
-8446 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAMAL ZAMORA        Emp ID: 47341
-P0sition: Technician
-Pay Period: 02/20/2026 - 03/21/2026     Pay Date: 03/26/2026
-Pay Frequency: Monthly
-~ ~ .  ,
+BLUE KELP SOFTWARE LLC
+6023 INDUSTRIAL WAY   CA
+                         EARN1NGS STATEMENT
+Employee: MINH JOSHI        Emp ID: 69090
+  Position: Software engineer
+Pay Period: 04/14/2026 - 04/27/2026     Pay Date: 05/02/2026
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.20    173.33       4,541.25     13,623.75
-GROSS PAY                                  4,541.25     13,623.75
+Regular             54.31     80.00       4,344.80     39,103.20
+GROSS PAY                                  4,344.80     39,103.20
 DEDUCTIONS
-  Federal Income Tax                       317.88
-  Social Security                          281.55
-  Medicare                                  65.84
-  CA SDI                                    49.95
-NET PAY                                  3,826.03
+  Federal Income Tax                       477.92
+    Socia1 Security                          269.37
+  Medicare                                  63.00
+  CA SDI                                    47.79
+NET PAY                                  3,486.72
 --------------------------------------------------------------
 
-RECEIVED MAY 12 2026  - mailroom
+-- scanned 05/13/2026 HBCH mailroom  pg 1/1 --

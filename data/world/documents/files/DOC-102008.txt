@@ -1,21 +1,21 @@
-BLUE KELP SOFTWARE LLC
-3028 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
+MIRADOR GROCERY CO-OP
 ~ ~ .  ,
-Employee: MARGARET OKAFOR        Emp ID: 34688
-Position: Engineering manager
-Pay Period: 06/17/2026 - 06/30/2026     Pay Date: 07/05/2026
-Pay Frequency: Bi-Weekly
+ 8464 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: KIM RAHMAN        Emp ID: 36588
+    Position: Cashier
+Pay Period: 05/07/2026 - 05/20/2026     Pay Date: 05/25/2026
+Pay Frequency: Bi-Week1y
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             73.13     80.00       5,850.40     81,905.60
-GROSS PAY                                  5,850.40     81,905.60
+EARNINGS            RATE      H0URS     THIS PERIOD        YTD
+Salary                                     9,791.23    107,703.53
+    GROSS PAY                                  9,791.23    107,703.53
 DEDUCTIONS
-  Federal Income Tax                       409.52
-  Social Security                          362.72
-  Medicare                                  84.83
-  CA SDI                                    64.35
-NET PAY                                  4,928.98
-  --------------------------------------------------------------
+  Federal Income Tax                     1,077.03
+  Social Security                          607.05
+  Medicare                                 141.97
+  CA SDI                                   107.70
+NET PAY                                  7,857.48
+--------------------------------------------------------------
 
-FAX RECEIVED 07/14/2026 10:31   P.01
+RECEIVED JUL 10 2026  - mailroom

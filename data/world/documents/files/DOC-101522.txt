@@ -1,15 +1,20 @@
-COUNTY OF SANTA LUCITA - DEPARTMENT OF SOCIAL SERVICES
-    NOTICE OF ACTION
-CalFresh Approval
-Date: 12/09/2025
-Case name: ROBERT IBARRA-ZHANG
+BLUE KELP SOFTWARE LLC
+6852 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: DAVID COSTA        Emp ID: 12408
+Position: Software engineer
+Pay Period: 02/21/2026 - 03/07/2026     Pay Date: 03/12/2026
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             47.48     86.67       4,115.09     20,575.45
+GROSS PAY                                  4,115.09     20,575.45
+   DEDUCTIONS
+  Federal Income Tax                       329.20
+     Social Security                          255.13
+       Medicare                                  59.66
+    CA SDI                                    45.26
+NET PAY                                  3,425.84
+--------------------------------------------------------------
 
-   Your application for CalFresh dated 11/09/2025 is APPROVED.
-Number of people in your CalFresh household: 4
-Your monthly CalFresh benefit: $916.00
-   Benefits are issued to your EBT card beginning 12/01/2025.
-Certification period: 12 months. You must report changes as required.
-
-   Questions? Call your eligibility worker.
-
-FAX RECEIVED 03/10/2026 10:54   P.01
+RECEIVED MAR 19 2026  - mailroom

@@ -1,20 +1,20 @@
-POINT CORRIN BOATWORKS
-2428 COMMERCE WAY   CA
-                          EARNINGS STATEMENT
-Emp1oyee: ROHAN LIU        Emp ID: 34282
-Position: Mechanic
-   Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
+CALDER FREIGHT LINES
+531 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DENNIS KIM        Emp ID: 74653
+Position: Driver
+Pay Period: 07/15/2026 - 07/28/2026     Pay Date: 08/02/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.43     80.00       1,874.40     26,241.60
-GROSS PAY                                  1,874.40     26,241.60
-    DEDUCTIONS
-  Federal Income Tax                        74.97
-  Social Security                          116.21
-  Medicare                                  27.17
-  CA SDI                                    20.61
-NET PAY                                  1,635.44
+EARNING5            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,027.89     32,446.24
+GROSS PAY                                  2,027.89     32,446.24
+DEDUCTIONS
+  Federal Income Tax                       101.39
+    Social Security                          125.72
+  Medicare                                  29.40
+  CA SDI                                    22.30
+NET PAY                                  1,749.08
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/09/2026]
+FAX RECEIVED 08/05/2026 10:47   P.01

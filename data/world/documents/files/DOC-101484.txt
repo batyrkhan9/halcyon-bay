@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-154 MARKET WAY   CA
-                             EARNINGS STATEMENT
- Employee: JAMAL WILSON         Emp ID: 84122
-Position: Driver
-Pay Period: 02/01/2026 - 02/15/2026     Pay Date: 02/20/2026
-Pay Frequency: Semi-Monthly
-  --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             30.30     86.67       2,626.10     10,504.40
-GROSS PAY                                  2,626.10     10,504.40
+SUNSET COAST HOME CARE
+5309 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MEI 5OUZA        Emp ID: 55681
+Position: Home care aide
+Pay Period: 02/22/2026 - 02/28/2026     Pay Date: 03/05/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.81     11.75         197.52      1,975.20
+GROSS PAY                                     197.52      1,975.20
 DEDUCTIONS
-    Federal Income Tax                       210.08
-  Social Security                          162.81
-  Medicare                                  38.07
-  CA SDI                                    28.88
-NET PAY                                  2,186.26
- --------------------------------------------------------------
+  Federal Income Tax                        13.82
+  Social Security                           12.24
+  Medicare                                   2.86
+  CA SDI                                     2.17
+NET PAY                                    166.43
+--------------------------------------------------------------
 
-RECEIVED FEB 25 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/08/2026]

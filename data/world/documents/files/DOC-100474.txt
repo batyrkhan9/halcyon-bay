@@ -1,22 +1,20 @@
-SEASIDE COMMUNITY CREDIT UNION
-Statement Period 04/01/2025 - 04/19/2025
- Member: HASSAN FITZGERALD-DOYLE       Account ending 5024
+MIRADOR PUBLIC LIBRARY
+8225 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHRISTOPHER JACKSON        Emp ID: 85813
+Position: Library assistant
+Pay Period: 04/16/2025 - 04/30/2025     Pay Date: 05/05/2025
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.91     19.25         344.77      3,102.93
+GROSS PAY                                    344.77      3,102.93
+DEDUCTIONS
+  Federal Income Tax                        24.13
+  Social Security                           21.37
+  Medicare                                   4.99
+  CA SDI                                     3.79
+NET PAY                                    290.49
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,233.40
-  Deposits                     2,257.62
-  Withdrawals                 -2,280.19
-  Ending balance               2,210.83
-
-DEPOSITS AND CREDITS
-  04/19  PAYROLL DIR DEP SANTA LUCITA FARMS       1,128.81
-  04/05  PAYROLL DIR DEP SANTA LUCITA FARMS       1,128.81
-
-    SAVINGS SUMMARY  (Share Savings ending 4003)
-  Ending balance              33,335.41
-  Dividends paid                  13.33
-
-  . : .
-Thank you for banking with us.   Page 1 of 2
-
-RECEIVED APR 23 2025  - mailroom
+RECEIVED MAY 11 2025  - mailroom

@@ -1,20 +1,21 @@
-   SEASIDE DENTAL GROUP
-9078 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: ARJUN GUPTA        Emp ID: 72908
+SEASIDE DENTAL GROUP
+1700 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUIS JACKSON        Emp ID: 46487
 Position: Dental assistant
-Pay Period: 06/27/2025 - 07/10/2025     Pay Date: 07/15/2025
-Pay Frequency: Bi-Weekly
+Pay Period: 07/17/2025 - 07/23/2025     Pay Date: 07/28/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    11,751.42    164,519.88
-GROSS PAY                                 11,751.42    164,519.88
+   Regular             37.70     40.00       1,508.00     45,240.00
+| |   .
+   GRO5S PAY                                  1,508.00     45,240.00
 DEDUCTIONS
-  Federal Income Tax                     1,292.65
-   Social Security                          728.58
-  Medicare                                 170.39
-  CA SDI                                   129.26
-NET PAY                                  9,430.54
+  Federal Income Tax                        90.48
+  Social Security                           93.49
+  Medicare                                  21.86
+  CA SDI                                    16.58
+NET PAY                                   1,285.59
 --------------------------------------------------------------
 
--- scanned 07/20/2025 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/09/2025 10:47   P.01

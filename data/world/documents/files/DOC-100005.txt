@@ -1,20 +1,21 @@
-    ARROYO VERDE NURSERY
-8326 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-  Employee: MARIA JUNG        Emp ID: 54301
-Position: Nursery worker
-  Pay Period: 09/09/2024 - 09/22/2024     Pay Date: 09/27/2024
-Pay Frequency: Bi-Weekly
+MARISOL CLEANING SERVICES
+ 8555 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: TUAN GALLAGHER        Emp ID: 84143
+    Position: Cleaner
+Pay Period: 10/23/2024 - 10/29/2024     Pay Date: 11/03/2024
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             33.94     80.00       2,715.20     54,304.00
-GROSS PAY                                  2,715.20     54,304.00
- DEDUCTIONS
-  Federal Income Tax                       271.52
-  Social Security                          168.34
-   Medicare                                  39.37
-  CA SDI                                    29.86
-NET PAY                                  2,206.11
-   --------------------------------------------------------------
+    Regular             90.18     40.00       3,607.20    158,716.80
+GROSS PAY                                  3,607.20    158,716.80
+~ ~ .  ,
+DEDUCTIONS
+  Federal Income Tax                       324.64
+  Social Security                          223.64
+   Medicare                                  52.30
+  CA SDI                                    39.67
+NET PAY                                  2,966.95
+    --------------------------------------------------------------
 
-RECEIVED OCT 18 2024  - mailroom
+FAX RECEIVED 11/17/2024 10:19   P.01

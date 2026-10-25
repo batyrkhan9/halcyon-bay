@@ -1,20 +1,19 @@
-SANTA LUCITA FARMS
-4333 INDUSTRIAL WAY    CA
-                         EARNINGS STATEMENT
-Employee: RAYMOND XU         Emp ID: 91082
-Position: Field supervisor
-Pay Period: 11/16/2025 - 11/29/2025     Pay Date: 12/04/2025
-Pay Frequency: Bi-Weekly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             80.50     80.00       6,440.00    161,000.00
-GROSS PAY                                  6,440.00    161,000.00
-DEDUCTIONS
-  Federal Income Tax                       257.60
-  Social Security                          399.28
-  Medicare                                  93.38
-   CA SDI                                    70.84
-NET PAY                                   5,618.90
---------------------------------------------------------------
+Form 1040   U.S. Individual Income Tax Return   2024
+  (copy - summary page)
+Filing Status: Head of household
+Your first name and midd1e initial / Last name:  JOSE GUPTA
+Your social security number: XXX-XX-3787
+_ _ _ _
+Dependents: 3
+Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    50,426.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    50,426.00
+ 10  Adjustments to income ...........................         0.00
+    11  Adjusted gross income ...........................    50,426.00
+ 12  Standard deduction ..............................    21,900.00
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/29/2025]
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+  Your signature: /s/ Jose Gupta        Date: 04/14/2025
+
+RECEIVED JAN 07 2026  - mailroom

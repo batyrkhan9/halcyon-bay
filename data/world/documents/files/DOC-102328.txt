@@ -1,0 +1,21 @@
+BAYLINE LOGISTICS INC
+2178 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA KELLY        Emp ID: 17585
+  . : .
+Position: Warehouse associate
+Pay Period: 07/07/2026 - 07/13/2026     Pay Date: 07/18/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             16.68     14.25         237.69      6,893.01
+GROSS PAY                                    237.69      6,893.01
+DEDUCTIONS
+  Federal 1ncome Tax                        26.14
+  Social Security                           14.73
+   Medicare                                   3.44
+     CA SDI                                     2.61
+NET PAY                                    190.77
+--------------------------------------------------------------
+
+-- scanned 07/30/2026 HBCH mailroom  pg 1/1 --

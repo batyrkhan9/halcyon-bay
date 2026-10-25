@@ -1,0 +1,20 @@
+HALCYON BAY UNIFIED SCHOOL DIST
+1576 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANK LI        Emp ID: 45658
+Position: Instructional aide
+Pay Period: 11/21/2024 - 12/20/2024     Pay Date: 12/25/2024
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             35.68    173.33       6,184.41     74,212.92
+  GROSS PAY                                  6,184.41     74,212.92
+  DEDUCTIONS
+  Federal Income Tax                       309.22
+  Social Security                          383.43
+  Medicare                                  89.67
+  CA SDI                                    68.02
+NET PAY                                  5,334.07
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/01/2025]

@@ -1,0 +1,20 @@
+SUNSET COAST HOME CARE
+1951 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: DANIELA GARCIA        Emp ID: 98078
+Position: Home care aide
+Pay Period: 02/14/2026 - 02/27/2026     Pay Date: 03/04/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,652.52     18,262.60
+GROSS PAY                                  3,652.52     18,262.60
+    DEDUCT1ONS
+  Federal Income Tax                       365.25
+  Social Security                          226.45
+  Medicare                                  52.96
+  CA SDI                                    40.17
+   NET PAY                                  2,967.69
+--------------------------------------------------------------
+
+-- scanned 03/28/2026 HBCH mailroom  pg 1/1 --

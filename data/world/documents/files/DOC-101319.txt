@@ -1,21 +1,21 @@
-   CYPRESS FLATS AUTO BODY
-8213 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-    Employee: DEBORAH ITO        Emp ID: 28569
-Position: Technician
-Pay Period: 12/14/2025 - 12/28/2025     Pay Date: 01/02/2026
-Pay Frequency: Semi-Monthly
-_ _ _ _
+VISTA SERENA MEDICAL OFFICES
+    3266 HARBOR WAY   CA
+                            EARNINGS STATEMENT
+Empl0yee: VALERIA FUENTES        Emp ID: 66859
+Position: Medical receptionist
+Pay Period: 12/05/2025 - 01/03/2026     Pay Date: 01/08/2026
+~ ~ .  ,
+   Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             59.09     86.67       5,121.33      5,121.33
-GROSS PAY                                  5,121.33      5,121.33
+Salary                                     3,047.74      3,047.74
+GROSS PAY                                  3,047.74      3,047.74
 DEDUCTIONS
-  Federal Income Tax                       307.27
-  Socia1 5ecurity                          317.52
-  Medicare                                  74.25
-  CA SDI                                    56.33
-NET PAY                                  4,365.96
+   Federal Income Tax                       304.77
+  Social Security                          188.96
+  Medicare                                  44.19
+  CA SDI                                    33.52
+ NET PAY                                  2,476.30
 --------------------------------------------------------------
 
--- scanned 01/11/2026 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 01/21/2026]

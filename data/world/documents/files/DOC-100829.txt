@@ -1,18 +1,17 @@
-Form 1040   U.S. Individual Income Tax Return   2024
-(copy - summary page)
-Filing Status: Head of household
-Your first name and middle initial / Last name:  LOGAN MOORE
-Your social security number: XXX-XX-5320
-Dependents: 2
-Income
- 1a  Total amount from Form(s) W-2, box 1 ...........    74,283.00
- 8   Additional income from Schedule 1, line 10 ......         0.00
- 9   Total income ....................................    74,283.00
- 10  Adjustments to income ...........................         0.00
- 11  Adjusted gross income ...........................    74,283.00
- 12  Standard deduction ..............................    21,900.00
+HALCYON BAY FEDERAL CREDIT UNION
+   Statement Period 07/01/2025 - 07/31/2025
+Member: SARAH JOSHI       Account ending 4046
 
-Sign Here   Under penalties of perjury, I declare that I have examined this return...
-Your signature: /s/ Logan Moore        Date: 04/05/2025
+CHECKING SUMMARY
+  Beginning balance            2,452.87
+  Deposits                     7,536.78
+  Withdrawals                 -7,310.67
+  Ending balance               2,678.98
 
--- scanned 07/31/2025 HBCH mailroom  pg 1/1 --
+  DEPOSITS AND CREDIT5
+  07/04  PAYROLL DIR DEP HALCYON BAY UNIFIE       3,768.39
+  07/19  PAYROLL DIR DEP HALCYON BAY UNIFIE       3,768.39
+
+Thank you for banking with us.  Page 1 of 2
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2025]

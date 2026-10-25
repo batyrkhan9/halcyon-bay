@@ -1,17 +1,19 @@
-PACIFIC TIDE BANK
-Statement Period 04/01/2025 - 04/05/2025
-Member: LEILA O'BRIEN       Account ending 2936
+COASTLINE SAVINGS BANK
+  Statement Period 03/01/2025 - 03/31/2025
+   Member: RAJNI NAVARRO       Account ending 6734
 
-CHECKING SUMMARY
-  Beginning balance              800.52
-     Deposits                       313.76
-  Withdrawals                   -329.44
-      Ending balance                 784.84
+ CHECKING SUMMARY
+  Beginning balance            2,571.62
+  Deposits                    14,465.48
+     Withdrawals                -12,874.27
+   Ending balance               4,162.83
 
 DEPOSITS AND CREDITS
-  04/05  PAYROLL DIR DEP MIRADOR GROCERY CO         156.88
-  03/29  PAYROLL DIR DEP MIRADOR GROCERY CO         156.88
+  03/04  PAYROLL DIR DEP VISTA SERENA MEDIC       3,616.37
+  03/11  PAYROLL DIR DEP VISTA SERENA MEDIC       3,616.37
+  03/18  PAYROLL DIR DEP VISTA SERENA MEDIC       3,616.37
+  03/25  PAYROLL DIR DEP VISTA SERENA MEDIC       3,616.37
 
-  Thank you for banking with us.  Page 1 of 2
+Thank you for banking with us.  Page 1 of 2
 
-RECEIVED APR 18 2025  - mailroom
+-- scanned 04/23/2025 HBCH mailroom  pg 1/1 --

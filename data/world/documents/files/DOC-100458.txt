@@ -1,20 +1,20 @@
-PORT ELLERY CANNERY CO
-859 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-Employee: RAJNI JUNG        Emp ID: 96460
-Position: Line worker
- Pay Period: 02/10/2025 - 03/11/2025      Pay Date: 03/16/2025
-Pay Frequency: Monthly
+SEAS1DE DENTAL GROUP
+   5991 COMMERCE WAY   CA
+                             EARNINGS STATEMENT
+Employee: BRANDON DOYLE        Emp ID: 60778
+ Position: Dental assistant
+Pay Period: 04/05/2025 - 04/18/2025     Pay Date: 04/23/2025
+   Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             23.37    173.33       4,050.72     12,152.16
-    GROSS PAY                                  4,050.72     12,152.16
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Salary                                     3,767.28     33,905.52
+GROSS PAY                                  3,767.28     33,905.52
 DEDUCTIONS
-  Federal 1ncome Tax                       283.55
-  5ocial Security                          251.14
-  Medicare                                  58.73
-  CA SDI                                    44.55
-NET PAY                                  3,412.75
+  Federal Income Tax                       263.70
+  Social Security                          233.57
+  Medicare                                  54.62
+  CA SDI                                    41.44
+NET PAY                                  3,173.95
 --------------------------------------------------------------
 
--- scanned 04/20/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/08/2025]

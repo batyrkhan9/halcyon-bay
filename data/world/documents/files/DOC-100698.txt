@@ -1,21 +1,20 @@
-OTTER BAY AQUARIUM
-   6274 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: PEDRO GREEN        Emp ID: 99362
-Position: Guest services
-Pay Period: 05/10/2025 - 05/23/2025     Pay Date: 05/28/2025
-Pay Frequency: Bi-Weekly
+CYPRESS FLATS AUTO BODY
+3124 COMMERCE WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: MALIA BUI        Emp ID: 65498
+Position: Technician
+Pay Period: 06/19/2025 - 06/25/2025      Pay Date: 06/30/2025
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            104.16     80.00       8,332.80     91,660.80
-GROSS PAY                                  8,332.80     91,660.80
-DEDUCTI0NS
-  Federal Income Tax                       416.64
-  Social Security                          516.63
-~ ~ .  ,
-   Medicare                                 120.82
-  CA 5DI                                    91.66
-NET PAY                                  7,187.05
-    --------------------------------------------------------------
+ Regular             73.14     40.00       2,925.60     76,065.60
+GROSS PAY                                   2,925.60     76,065.60
+DEDUCTIONS
+   Federal Income Tax                       263.30
+     Social Security                          181.38
+   Medicare                                  42.42
+  CA 5DI                                    32.18
+NET PAY                                  2,406.32
+--------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/26/2025]
+RECEIVED JUL 18 2025  - mailroom

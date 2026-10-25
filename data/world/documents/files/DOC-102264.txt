@@ -1,21 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-4789 COMMERCE WAY   CA
+SEASIDE DENTAL GROUP
+8590 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: JESSICA KANG        Emp ID: 88473
-Position: Medical receptionist
-    Pay Period: 06/13/2026 - 06/27/2026     Pay Date: 07/02/2026
-Pay Frequency: Semi-Monthly
+Employee: BRIANNA MARTIN        Emp ID: 51634
+Position: Dental assistant
+Pay Period: 07/11/2026 - 07/17/2026     Pay Date: 07/22/2026
+Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     6,730.34     87,494.42
-_ _ _ _
-GROSS PAY                                  6,730.34     87,494.42
+Salary                                       244.38      7,087.02
+GROSS PAY                                     244.38      7,087.02
 DEDUCTIONS
-   Federal Income Tax                       403.82
-  Social Security                          417.28
-   Medicare                                  97.59
-  CA SDI                                    74.03
-NET PAY                                  5,737.62
---------------------------------------------------------------
+  Federal Income Tax                         9.77
+  Social Security                           15.15
+  Medicare                                   3.54
+   CA SDI                                     2.68
+NET PAY                                    213.24
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/31/2026]
+-- scanned 07/28/2026 HBCH mailroom  pg 1/1 --

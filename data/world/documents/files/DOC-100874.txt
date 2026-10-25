@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-3014 INDUSTRIAL WAY   CA
-                           EARNINGS STATEMENT
-Employee: SANJAY ORTIZ        Emp ID: 93522
-  Position: Teacher
-Pay Period: 06/29/2025 - 07/13/2025     Pay Date: 07/18/2025
+OTTER BAY AQUARIUM
+   9515 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: MICHAEL JACKSON        Emp ID: 93322
+Position: Guest services
+Pay Period: 07/23/2025 - 08/06/2025     Pay Date: 08/11/2025
 Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Sa1ary                                     2,223.33     31,126.62
-GROSS PAY                                  2,223.33     31,126.62
-DEDUCTIONS
-  Federal Income Tax                       133.39
-  Social Security                          137.84
-  Medicare                                  32.23
-  CA SDI                                    24.45
-NET PAY                                  1,895.42
+Salary                                     1,245.44     18,681.60
+GR0SS PAY                                  1,245.44     18,681.60
+ DEDUCTIONS
+  Federal Income Tax                       136.99
+  Social Security                           77.21
+  Medicare                                  18.05
+  CA SDI                                    13.70
+NET PAY                                    999.49
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/09/2025]
+FAX RECEIVED 09/06/2025 10:23   P.01

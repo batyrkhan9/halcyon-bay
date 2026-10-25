@@ -1,21 +1,16 @@
-POINT CORRIN BOATWORKS
-5356 MARKET WAY    CA
-                         EARNINGS STATEMENT
-Employee: BRIANNA ZHANG        Emp ID: 13422
-P0sition: Mechanic
-    Pay Period: 10/08/2025 - 11/06/2025     Pay Date: 11/11/2025
-Pay Frequency: Monthly
-   --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
- Regular              48.33    173.33       8,377.04     92,147.44
-GROSS PAY                                  8,377.04     92,147.44
-    DEDUCTIONS
-| |   .
-  Federal Income Tax                       670.16
-      Social Security                          519.37
-  Medicare                                 121.46
-   CA SDI                                    92.14
-NET PAY                                  6,973.91
---------------------------------------------------------------
+PORT ELLERY CANNERY CO
+    7097 MISSION ST
 
-FAX RECEIVED 11/18/2025 10:46   P.01
+November 28, 2025
+
+To Whom It May Concern:
+
+This letter confirms that Abigail Tanaka has been employed with Port Ellery Cannery Co since
+December 2022 in the position of Line worker. Their rate of pay is $211.22 per hour, for a regular schedule of 24 hours per week.
+Employment is ongoing. Please contact our office with any questions.
+
+Sincerely,
+Gary Ramos
+Human Resources
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 12/16/2025]

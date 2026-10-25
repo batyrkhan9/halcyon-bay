@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+4944 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: CARLOS SANCHEZ        Emp ID: 43700
+Position: Technician
+Pay Peri0d: 02/10/2025 - 02/16/2025     Pay Date: 02/21/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.12     15.75         285.39      2,283.12
+GROSS PAY                                    285.39      2,283.12
+DEDUCTIONS
+  Federal Income Tax                        17.12
+  Social Security                           17.69
+  Medicare                                   4.13
+  CA SDI                                     3.13
+NET PAY                                     243.32
+--------------------------------------------------------------
+
+RECEIVED MAR 12 2025  - mailroom

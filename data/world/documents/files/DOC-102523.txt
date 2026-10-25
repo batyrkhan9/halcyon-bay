@@ -1,21 +1,20 @@
-    LAS BRISAS RESTAURANT GROUP
-4396 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: JAE RIVERA        Emp ID: 94041
- Position: Line cook
-  . : .
-Pay Period: 07/17/2026 - 07/23/2026     Pay Date: 07/28/2026
-Pay Frequency: Weekly
---------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regular             16.79     16.00         268.64      8,059.20
-GROSS PAY                                    268.64      8,059.20
- DEDUCTIONS
-    Federal Income Tax                        16.11
-  Social Security                           16.65
-  Medicare                                   3.89
-  CA SDI                                     2.95
-NET PAY                                    229.04
+OTTER BAY AQUARIUM
+9689 MARKET WAY   CA
+                         EARNING5 STATEMENT
+Employee: TERESA PETROV        Emp ID: 80133
+Position: Guest services
+Pay Period: 06/19/2026 - 07/03/2026     Pay Date: 07/08/2026
+Pay Frequency: Semi-Monthly
+   --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             66.30     86.67       5,746.22     74,700.86
+GROSS PAY                                  5,746.22     74,700.86
+DEDUCTIONS
+  Federal Income Tax                       229.84
+  Social Security                          356.26
+  Medicare                                  83.32
+  CA SDI                                    63.20
+NET PAY                                  5,013.60
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/15/2026]
+-- scanned 08/10/2026 HBCH mailroom  pg 1/1 --

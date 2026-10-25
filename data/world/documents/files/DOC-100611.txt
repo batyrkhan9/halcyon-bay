@@ -1,20 +1,20 @@
-COASTAL VALLEY ENERGY
- 9374 HARBOR WAY   CA
+   PACIFIC RIM JANITORIAL
+8586 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: TANISHA PETROV        Emp ID: 20100
-Position: Field technician
-Pay Period: 03/28/2025 - 04/10/2025     Pay Date: 04/15/2025
-Pay Frequency: Bi-Weekly
+Employee: VERONICA WATANABE        Emp ID: 11521
+Position: Custodian
+Pay Period: 05/27/2025 - 06/10/2025     Pay Date: 06/15/2025
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             41.17     80.00       3,293.60     26,348.80
-GROSS PAY                                  3,293.60     26,348.80
- DEDUCTIONS
-  Federal Income Tax                       197.61
-  Social Security                          204.20
-   Medicare                                  47.75
-  CA SDI                                    36.23
-NET PAY                                  2,807.81
+Regular             24.78     86.67       2,147.68     25,772.16
+GROSS PAY                                  2,147.68     25,772.16
+DEDUCTIONS
+      Federal Income Tax                       236.24
+  Social Security                          133.15
+  Medicare                                  31.14
+  CA SDI                                    23.62
+   NET PAY                                  1,723.53
 --------------------------------------------------------------
 
--- scanned 05/30/2025 HBCH mailroom  pg 1/1 --
+-- scanned 06/19/2025 HBCH mailroom  pg 1/1 --

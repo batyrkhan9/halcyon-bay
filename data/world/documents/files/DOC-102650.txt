@@ -1,20 +1,20 @@
-   HARBOR POINT HOTEL
-1137 INDUSTRIAL WAY   CA
+CALDER FREIGHT LINES
+4278 HARBOR WAY   CA
                          EARNINGS STATEMENT
- Employee: ARTURO KHALIL        Emp ID: 75144
-   Position: Housekeeper
+Employee: MEGAN LEWIS        Emp ID: 83340
+Position: Driver
  Pay Period: 07/21/2026 - 08/03/2026     Pay Date: 08/08/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,609.58     25,753.28
-GROSS PAY                                  1,609.58     25,753.28
-    DEDUCTIONS
-  Federal Income Tax                       144.86
-  Social Security                           99.79
-  Medicare                                  23.33
-  CA 5DI                                    17.70
-NET PAY                                  1,323.90
+Regular             17.29     69.00       1,193.01     19,088.16
+GROSS PAY                                  1,193.01     19,088.16
+DEDUCTIONS
+  Federal Income Tax                        71.58
+  Social Security                           73.96
+  Medicare                                  17.29
+  CA SDI                                    13.12
+NET PAY                                  1,017.06
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/25/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/23/2026]

@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-5324 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: KEISHA SANCHEZ        Emp ID: 59911
-Position: Home care aide
-Pay Period: 12/31/2025 - 01/13/2026     Pay Date: 01/18/2026
+SANTA LUCITA FARMS
+5927 HARBOR WAY   CA
+                          EARNINGS STATEMENT
+Employee: MARISOL KING         Emp ID: 80688
+Position: Field supervisor
+Pay Period: 01/17/2026 - 01/30/2026     Pay Date: 02/04/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
- EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,841.23      3,682.46
-    GROSS PAY                                  1,841.23      3,682.46
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+    Salary                                     5,548.30     16,644.90
+GROSS PAY                                  5,548.30     16,644.90
 DEDUCTIONS
-  Federal Income Tax                       184.12
-  Social Security                          114.15
-  Medicare                                  26.69
-  CA SDI                                    20.25
-NET PAY                                  1,496.02
+  Federal Income Tax                       610.31
+  Social Security                          343.99
+  Medicare                                  80.45
+  CA SDI                                    61.03
+NET PAY                                  4,452.52
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/19/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/28/2026]

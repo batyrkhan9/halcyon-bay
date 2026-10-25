@@ -1,20 +1,20 @@
 VISTA SERENA MEDICAL OFFICES
-8380 HARBOR WAY   CA
+7673 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: FRANCISCO JACKSON        Emp ID: 70283
+Employee: MANUEL ZHOU        Emp ID: 74667
 Position: Medical receptionist
-Pay Period: 12/25/2025 - 01/23/2026     Pay Date: 01/28/2026
-Pay Frequency: Monthly
+Pay Period: 01/16/2026 - 01/29/2026     Pay Date: 02/03/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-Regular             55.53    173.33       9,625.01      9,625.01
-  GROSS PAY                                  9,625.01      9,625.01
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,517.85      4,553.55
+GROSS PAY                                  1,517.85      4,553.55
 DEDUCTIONS
-  Federal Income Tax                       866.25
-     Social Security                          596.75
-  Medicare                                 139.56
-  CA SDI                                   105.87
-NET PAY                                  7,916.58
+    Federal Income Tax                        91.07
+  Social Security                           94.10
+  Medicare                                  22.00
+  CA SDI                                    16.69
+NET PAY                                  1,293.99
 --------------------------------------------------------------
 
-RECEIVED MAR 09 2026  - mailroom
+FAX RECEIVED 03/18/2026 10:17   P.01

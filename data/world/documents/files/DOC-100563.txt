@@ -1,20 +1,20 @@
-POINT CORRIN BOATWORKS
-6070 INDUSTRIAL WAY   CA
+   LAS BRISAS RESTAURANT GROUP
+3732 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: CHRISTOPHER VO        Emp ID: 34986
-P0sition: Mechanic
-Pay Period: 04/26/2025 - 05/09/2025     Pay Date: 05/14/2025
-Pay Frequency: Bi-Week1y
+Employee: TUAN SOUZA        Emp ID: 99207
+    Position: Line cook
+   Pay Period: 04/07/2025 - 04/20/2025     Pay Date: 04/25/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             99.93     80.00       7,994.40     79,944.00
-GROSS PAY                                  7,994.40     79,944.00
+    Regular             53.11     80.00       4,248.80     38,239.20
+GROSS PAY                                  4,248.80     38,239.20
 DEDUCTIONS
-  Federal Inc0me Tax                       639.55
-  Social Security                          495.65
-     Medicare                                 115.91
-  CA SDI                                    87.93
-NET PAY                                  6,655.36
+  Federal Income Tax                       382.39
+  Social Security                          263.42
+  Medicare                                  61.60
+  CA SDI                                    46.73
+  NET PAY                                  3,494.66
 --------------------------------------------------------------
 
--- scanned 05/22/2025 HBCH mailroom  pg 1/1 --
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/09/2025]

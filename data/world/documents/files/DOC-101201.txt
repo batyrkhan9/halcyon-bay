@@ -1,0 +1,20 @@
+   TIDEWATER CONSTRUCTION
+4137 MARKET WAY   CA
+                          EARNINGS STATEMENT
+ Employee: ANDRE COSTA        Emp ID: 90260
+Position: Laborer
+Pay Period: 11/16/2025 - 11/29/2025     Pay Date: 12/04/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            117.91     80.00       9,432.80    235,820.00
+GROSS PAY                                  9,432.80    235,820.00
+DEDUCTIONS
+  Federa1 Income Tax                       848.95
+  Social Security                          584.83
+  Medicare                                 136.77
+  CA SDI                                   103.76
+  NET PAY                                  7,758.49
+--------------------------------------------------------------
+
+-- scanned 12/13/2025 HBCH mailroom  pg 1/1 --

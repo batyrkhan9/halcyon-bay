@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+2323 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAYMOND WALKER        Emp ID: 29911
+Position: Sales associate
+Pay Period: 04/05/2026 - 05/04/2026     Pay Date: 05/09/2026
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             16.60     49.00         813.40      4,067.00
+GROSS PAY                                    813.40      4,067.00
+   DEDUCTIONS
+  Federal Income Tax                        56.93
+      Social Security                           50.43
+  Medicare                                  11.79
+  CA SDI                                     8.94
+NET PAY                                    685.31
+--------------------------------------------------------------
+
+-- scanned 05/19/2026 HBCH mailroom  pg 1/1 --

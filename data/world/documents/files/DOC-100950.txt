@@ -1,21 +1,20 @@
-COASTAL VALLEY ENERGY
-    1504 COMMERCE WAY   CA
+POINT CORRIN BOATWORKS
+4772 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: HANNAH MITCHELL        Emp ID: 78592
-Position: Field technician
-Pay Period: 07/17/2025 - 08/15/2025     Pay Date: 08/20/2025
-Pay Frequency: Monthly
---------------------------------------------------------------
+Employee: CARLOS NAVARRO        Emp ID: 31236
+Position: Mechanic
+Pay Period: 08/16/2025 - 08/29/2025     Pay Date: 09/03/2025
+Pay Frequency: Bi-Weekly
+  --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                    20,839.67    166,717.36
-GROSS PAY                                 20,839.67    166,717.36
+Salary                                     1,552.50     27,945.00
+  GROSS PAY                                  1,552.50     27,945.00
 DEDUCTIONS
-~ ~ .  ,
-  Federal Income Tax                     1,458.77
-  Social Security                        1,292.06
-  Medicare                                 302.17
-  CA SDI                                   229.23
-NET PAY                                 17,557.44
+  Federal Income Tax                        93.15
+   Social Security                           96.25
+  Medicare                                  22.51
+  CA SDI                                    17.07
+NET PAY                                  1,323.52
 --------------------------------------------------------------
 
-FAX RECEIVED 08/29/2025 10:11   P.01
+FAX RECEIVED 10/05/2025 10:30   P.01

@@ -1,10 +1,21 @@
-SOCIAL SECURITY ADMINISTRATI0N
-Retirement, Survivors and Disability Insurance
-Date: 07/14/2026
-MARIO WILLIAMS
+CALDER FREIGHT LINES
+  9572 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LUIS ORTIZ        Emp ID: 91127
+Position: Driver
+Pay Period: 07/02/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular            120.48     40.00       4,819.20    134,937.60
+GROSS PAY                                  4,819.20    134,937.60
+DEDUCTIONS
+| |   .
+  Federal Income Tax                       240.96
+  Social Security                          298.79
+  Medicare                                  69.87
+  CA SDI                                    53.01
+NET PAY                                  4,156.57
+--------------------------------------------------------------
 
-This letter is proof of the benefits you receive.
-Beginning December 2025, the full monthly Social Security benefit is $1,532.79.
-   We deduct $0.00 for medical insurance premiums each month.
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/04/2026]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/30/2026]

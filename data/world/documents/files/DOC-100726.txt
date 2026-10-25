@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-7311 INDUSTRIAL WAY   CA
-                         EARN1NGS STATEMENT
-Employee: DEBORAH GOMEZ        Emp ID: 97719
-Position: Software engineer
-   Pay Period: 06/02/2025 - 06/08/2025     Pay Date: 06/13/2025
+VISTA SERENA MEDICAL OFFICES
+3565 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: CHLOE KHALIL        Emp ID: 82229
+Position: Medical receptionist
+Pay Period: 06/30/2025 - 07/06/2025      Pay Date: 07/11/2025
 Pay Frequency: Weekly
 --------------------------------------------------------------
-  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regu1ar             54.58     40.00       2,183.20     52,396.80
-GROSS PAY                                  2,183.20     52,396.80
- DEDUCTIONS
-  Federal Income Tax                       130.99
-    Social Security                          135.35
-      Medicare                                  31.65
-  CA SDI                                    24.01
-NET PAY                                  1,861.20
---------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Regular             35.31     40.00       1,412.40     39,547.20
+GROSS PAY                                  1,412.40     39,547.20
+DEDUCTIONS
+   Federal Income Tax                       127.11
+  Social Security                           87.56
+  Medicare                                  20.48
+  CA SDI                                    15.53
+NET PAY                                  1,161.72
+    --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 07/01/2025]
+RECEIVED JUL 25 2025  - mailroom

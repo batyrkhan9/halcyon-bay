@@ -1,0 +1,20 @@
+COASTAL VALLEY ENERGY
+2020 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIO NGUYEN        Emp ID: 56109
+    Position: Field technician
+Pay Period: 04/07/2025 - 04/20/2025     Pay Date: 04/25/2025
+Pay Frequency: Bi-Weekly
+    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.90     35.25         666.22      5,995.98
+GROSS PAY                                    666.22      5,995.98
+DEDUCTIONS
+  Federal Income Tax                        66.62
+  Social Security                           41.30
+  Medicare                                   9.66
+  CA SDI                                     7.32
+  NET PAY                                    541.32
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 04/30/2025]

@@ -1,20 +1,20 @@
-SUNSET COAST HOME CARE
-5862 MARKET WAY   CA
-                             EARNINGS STATEMENT
-Employee: RAYMOND ALMEIDA        Emp ID: 19890
-Position: Home care aide
-  Pay Period: 07/30/2025 - 08/12/2025     Pay Date: 08/17/2025
-Pay Frequency: Bi-Weekly
-    --------------------------------------------------------------
-EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
-Regular             18.36     80.00       1,468.80     24,969.60
-   GROSS PAY                                  1,468.80     24,969.60
+MARISOL CLEANING SERVICES
+6733 MARKET WAY   CA
+                           EARNINGS STATEMENT
+Employee: MARIA VALENCIA        Emp ID: 75298
+Position: Cleaner
+    Pay Period: 09/06/2025 - 09/12/2025     Pay Date: 09/17/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THI5 PERIOD        YTD
+Regular             17.95      8.00         143.60      5,456.80
+GROSS PAY                                    143.60      5,456.80
 DEDUCTIONS
-  Federal Income Tax                       146.88
-  Social Security                           91.06
-  Medicare                                  21.29
-  CA SDI                                    16.15
-  NET PAY                                  1,193.42
+  Federal Income Tax                        11.48
+  Social Security                            8.90
+  Medicare                                   2.08
+      CA SDI                                     1.58
+NET PAY                                    119.56
 --------------------------------------------------------------
 
-FAX RECEIVED 08/21/2025 10:50   P.01
+-- scanned 09/22/2025 HBCH mailroom  pg 1/1 --

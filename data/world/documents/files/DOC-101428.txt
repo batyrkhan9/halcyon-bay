@@ -1,21 +1,20 @@
-BAYLINE LOGISTICS INC
-974 MARKET WAY   CA
-  . : .
-                         EARNINGS STATEMENT
-Employee: HOA CHOI        Emp ID: 44870
-Position: Warehouse associate
-Pay Period: 12/24/2025 - 01/06/2026     Pay Date: 01/11/2026
+POINT CORRIN BOATWORKS
+4412 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: JOSHUA ANDERSON-ESPINOZA        Emp ID: 67002
+Position: Mechanic
+Pay Period: 12/18/2025 - 12/31/2025     Pay Date: 01/05/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             77.68     80.00       6,214.40      6,214.40
-GROSS PAY                                  6,214.40      6,214.40
+Regular             68.75     80.00       5,500.00      5,500.00
+GROSS PAY                                  5,500.00      5,500.00
 DEDUCTIONS
-  Federal Income Tax                       248.57
-  Social Security                          385.29
-  Medicare                                  90.10
-  CA SDI                                    68.35
-NET PAY                                  5,422.09
+  Federal Income Tax                       275.00
+  Social Security                          341.00
+  Medicare                                  79.75
+  CA SDI                                    60.50
+NET PAY                                  4,743.75
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/08/2026]
+-- scanned 02/10/2026 HBCH mailroom  pg 1/1 --

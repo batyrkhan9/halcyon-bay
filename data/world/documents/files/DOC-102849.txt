@@ -1,17 +1,21 @@
-  PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/21/2026
-Member: SANJAY ALMEIDA       Account ending 4008
+  CYPRESS FLATS AUTO BODY
+5699 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: FRANCISCO TAYLOR        Emp ID: 95723
+  Position: Technician
+Pay Period: 07/27/2026 - 08/09/2026     Pay Date: 08/14/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular              17.94     70.50       1,264.77     21,501.09
+GROSS PAY                                  1,264.77     21,501.09
+DEDUCTIONS
+  Federal Income Tax                       139.12
+  Social Security                           78.41
+_ _ _ _
+     Medicare                                  18.33
+  CA SDI                                    13.91
+NET PAY                                  1,015.00
+--------------------------------------------------------------
 
- CHECKING SUMMARY
-  Beginning balance            1,519.13
-  Deposits                     5,323.96
-     Withdrawals                 -4,525.36
-  Ending balance               2,317.73
-
-DEPOSITS AND CREDITS
-  08/21  PAYROLL DIR DEP VISTA SERENA MEDIC       2,661.98
-  08/07  PAYROLL DIR DEP VISTA SERENA MEDIC       2,661.98
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/06/2026]
+-- scanned 09/07/2026 HBCH mailroom  pg 1/1 --

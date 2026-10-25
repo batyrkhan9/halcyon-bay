@@ -1,0 +1,20 @@
+PORT ELLERY CANNERY CO
+8887 MARKET WAY   CA
+                          EARNINGS STATEMENT
+Employee: NOAH CHAVEZ        Emp ID: 17303
+Position: Line worker
+Pay Period: 08/03/2025 - 09/01/2025     Pay Date: 09/06/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                    10,312.26     92,810.34
+GROSS PAY                                 10,312.26     92,810.34
+DEDUCTION5
+    Federal Income Tax                       824.98
+  Social Security                          639.36
+  Medicare                                 149.52
+  CA SDI                                   113.43
+    NET PAY                                  8,584.97
+--------------------------------------------------------------
+
+FAX RECEIVED 10/17/2025 10:34   P.01

@@ -1,0 +1,20 @@
+CALDER FREIGHT LINES
+419 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: HANNAH VALENCIA        Emp ID: 54819
+Position: Driver
+    Pay Period: 09/03/2025 - 09/16/2025     Pay Date: 09/21/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     8,429.35    160,157.65
+GROSS PAY                                  8,429.35    160,157.65
+DEDUCTIONS
+  Federal Income Tax                       421.46
+  Social Security                          522.62
+      Medicare                                 122.22
+  CA SDI                                    92.72
+NET PAY                                  7,270.33
+--------------------------------------------------------------
+
+FAX RECEIVED 10/09/2025 10:13   P.01

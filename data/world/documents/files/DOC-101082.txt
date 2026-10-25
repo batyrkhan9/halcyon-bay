@@ -1,17 +1,20 @@
 BAYLINE LOGISTICS INC
-3608 FRONT ST
+    1884 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: ERNESTO LEWIS        Emp ID: 33606
+Position: Warehouse associate
+ Pay Period: 10/06/2025 - 10/19/2025     Pay Date: 10/24/2025
+ Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Salary                                       961.28     21,148.16
+GROSS PAY                                    961.28     21,148.16
+DEDUCTIONS
+  Federal Income Tax                        38.45
+  Social Security                           59.59
+  Medicare                                  13.93
+  CA SDI                                    10.57
+NET PAY                                    838.74
+--------------------------------------------------------------
 
-September 28, 2025
-
-To Whom It May Concern:
-
-~ ~ .  ,
-    This letter confirms that Anjali Faleolo has been employed with Bayline Logistics Inc since
-January 2025 in the position of Warehouse associate. Their rate of pay is $54.30 per hour, for a regular schedule of 24 hours per week.
-Employment is ongoing. Please contact our office with any questions.
-
-    Sincerely,
-Kenji Gonzalez
-Human Resources
-
-FAX RECEIVED 10/07/2025 10:32   P.01
+-- scanned 11/01/2025 HBCH mailroom  pg 1/1 --

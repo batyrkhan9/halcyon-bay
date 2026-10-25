@@ -1,18 +1,20 @@
-PACIFIC T1DE BANK
-Statement Period 07/01/2025 - 07/25/2025
-Member: AMINA FITZGERALD       Account ending 9035
+SUNSET COAST HOME CARE
+ 2149 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: LEILANI PETROV        Emp ID: 97306
+   Position: Home care aide
+Pay Period: 07/26/2025 - 08/24/2025     Pay Date: 08/29/2025
+Pay Frequency: Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular            150.76    173.33      26,131.23    235,181.07
+GROSS PAY                                 26,131.23    235,181.07
+DEDUCTIONS
+  Federal Income Tax                     1,045.24
+  Social Security                        1,620.13
+  Medicare                                 378.90
+  CA SDI                                   287.44
+NET PAY                                 22,799.52
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,208.47
-_ _ _ _
-  Deposits                    12,192.96
-    Withdrawals                -11,705.24
-  Ending balance               2,696.19
-
-  DEPOSITS AND CREDITS
-  07/25  PAYROLL DIR DEP PACIFIC RIM JANITO       6,096.48
-  07/11  PAYROLL DIR DEP PACIFIC RIM JANITO       6,096.48
-
-Thank you for banking with us.  Page 1 of 2
-
--- scanned 08/06/2025 HBCH mailroom  pg 1/1 --
+-- scanned 09/01/2025 HBCH mailroom  pg 1/1 --

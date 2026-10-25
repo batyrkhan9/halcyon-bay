@@ -1,0 +1,20 @@
+  BLUE KELP SOFTWARE LLC
+8094 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: TERESA KOWALSKI        Emp ID: 98925
+Position: Software engineer
+    Pay Period: 06/06/2026 - 06/20/2026     Pay Date: 06/25/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             55.04     86.67       4,770.32     57,243.84
+    GROSS PAY                                  4,770.32     57,243.84
+DEDUCTI0NS
+  Federal Income Tax                       333.92
+     Social Security                          295.76
+  Medicare                                  69.17
+  CA SDI                                    52.47
+NET PAY                                  4,019.00
+--------------------------------------------------------------
+
+RECEIVED JUL 07 2026  - mailroom

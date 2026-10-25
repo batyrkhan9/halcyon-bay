@@ -1,0 +1,20 @@
+    SEASIDE DENTAL GROUP
+194 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: LINDA SUZUKI        Emp ID: 57970
+Position: Dental assistant
+Pay Period: 03/04/2026 - 03/17/2026     Pay Date: 03/22/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             46.52     80.00       3,721.60     22,329.60
+GROSS PAY                                  3,721.60     22,329.60
+DEDUCTIONS
+  Federal Income Tax                       186.08
+   Social Security                          230.73
+    Medicare                                  53.96
+  CA SDI                                    40.93
+NET PAY                                  3,209.90
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 03/27/2026]

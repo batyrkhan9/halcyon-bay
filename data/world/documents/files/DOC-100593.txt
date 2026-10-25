@@ -1,21 +1,20 @@
-PORT ELLERY CANNERY CO
-   6494 MARKET WAY   CA
+SUNSET COAST HOME CARE
+5092 COMMERCE WAY   CA
                          EARNINGS STATEMENT
-  Employee: DYLAN DOYLE        Emp ID: 24147
-Position: Line worker
-Pay Period: 04/05/2025 - 05/04/2025     Pay Date: 05/09/2025
-Pay Frequency: Monthly
---------------------------------------------------------------
-EARN1NGS            RATE      HOURS     THIS PERIOD        YTD
-~ ~ .  ,
-Salary                                     1,576.15      7,880.75
-GROSS PAY                                  1,576.15      7,880.75
+Employee: CHRISTOPHER VO        Emp ID: 56854
+Position: Home care aide
+Pay Period: 05/16/2025 - 05/29/2025     Pay Date: 06/03/2025
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,601.08     17,611.88
+GROSS PAY                                  1,601.08     17,611.88
 DEDUCTIONS
-  Federal Income Tax                       110.33
-  Social Security                           97.72
-  Medicare                                  22.85
-   CA SDI                                    17.33
-NET PAY                                  1,327.92
+  Federal Income Tax                       128.08
+      Social Security                           99.26
+      Medicare                                  23.21
+  CA SDI                                    17.61
+NET PAY                                  1,332.92
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/27/2025]
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 06/15/2025]

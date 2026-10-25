@@ -1,20 +1,20 @@
-LAS BRISAS RESTAURANT GROUP
-5819 INDUSTRIAL WAY    CA
+MIRADOR PUBLIC LIBRARY
+3818 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: SOFIA TORRES        Emp ID: 45209
-Position: Line cook
-Pay Period: 06/03/2026 - 06/17/2026     Pay Date: 06/22/2026
-Pay Frequency: Semi-Monthly
+Employee: MIN-JI CHOI        Emp ID: 47266
+Position: Library assistant
+Pay Period: 06/18/2026 - 07/01/2026     Pay Date: 07/06/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     2,475.68     29,708.16
-GROSS PAY                                   2,475.68     29,708.16
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             18.01     62.00       1,116.62     15,632.68
+GROSS PAY                                  1,116.62     15,632.68
 DEDUCTIONS
-  Federal Income Tax                       123.78
-  Social Security                          153.49
-  Medicare                                  35.89
-  CA SDI                                    27.23
-NET PAY                                  2,135.29
+  Federal Income Tax                        66.99
+  Social Security                           69.23
+  Medicare                                  16.19
+  CA SDI                                    12.28
+NET PAY                                    951.93
 --------------------------------------------------------------
 
-FAX RECEIVED 07/24/2026 10:22   P.01
+FAX RECEIVED 07/22/2026 10:42   P.01

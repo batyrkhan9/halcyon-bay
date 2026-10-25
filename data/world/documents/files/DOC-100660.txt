@@ -1,20 +1,18 @@
-SANDPIPER CHILD CARE CENTER
-  6374 MARKET WAY   CA
-                         EARNINGS STATEMENT
-Employee: LAUREN COSTA        Emp ID: 53246
-   Position: Teacher
-Pay Period: 03/22/2025 - 04/20/2025     Pay Date: 04/25/2025
-Pay Frequency: Monthly
- --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             29.66    173.33       5,140.97     20,563.88
-GROSS PAY                                  5,140.97     20,563.88
-DEDUCTIONS
-  Federal Income Tax                       359.86
-  Social Security                          318.74
-   Medicare                                  74.54
-  CA SDI                                    56.55
-  NET PAY                                  4,331.28
---------------------------------------------------------------
+Form 1040   U.5. Individual Income Tax Return   2024
+(copy - summary page)
+Filing Status: Married filing jointly
+Your first name and middle initial / Last name:  JOSEFINA IBARRA
+Your social security number: XXX-XX-9630
+Dependents: 2
+   Income
+ 1a  Total amount from Form(s) W-2, box 1 ...........    25,648.00
+ 8   Additional income from Schedule 1, line 10 ......         0.00
+ 9   Total income ....................................    25,648.00
+ 10  Adjustments to income ...........................         0.00
+ 11  Adjusted gross income ...........................    25,648.00
+ 12  Standard deduction ..............................    21,900.00
 
-RECEIVED JUN 10 2025  - mailroom
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+Your signature: /s/ Josefina Ibarra        Date: 04/13/2025
+
+-- scanned 07/06/2025 HBCH mailroom  pg 1/1 --

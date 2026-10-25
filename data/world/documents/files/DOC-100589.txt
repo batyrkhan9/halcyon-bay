@@ -1,20 +1,21 @@
-HARBOR POINT HOTEL
-5311 INDUSTRIAL WAY   CA
-                          EARNINGS STATEMENT
-Employee: AMANDA ZAMORA        Emp ID: 90817
-Position: Housekeeper
-   Pay Period: 04/15/2025 - 04/28/2025     Pay Date: 05/03/2025
-    Pay Frequency: Bi-Weekly
+MIRADOR PUBLIC LIBRARY
+399 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+    Employee: WILLIAM HERNANDEZ        Emp ID: 60330
+Position: Library assistant
+Pay Period: 05/19/2025 - 06/02/2025     Pay Date: 06/07/2025
+~ ~ .  ,
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.21     80.00       1,456.80     13,111.20
-GROSS PAY                                  1,456.80     13,111.20
-   DEDUCTIONS
-  Federal Income Tax                        87.40
-  Social Security                           90.32
-  Medicare                                  21.12
-  CA SDI                                    16.02
-NET PAY                                   1,241.94
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Salary                                     5,122.46     56,347.06
+GROSS PAY                                  5,122.46     56,347.06
+DEDUCTIONS
+  Federal Income Tax                       461.02
+  Social Security                          317.59
+  Medicare                                  74.27
+  CA SDI                                    56.34
+NET PAY                                  4,213.24
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/26/2025]
+RECEIVED JUN 15 2025  - mailroom

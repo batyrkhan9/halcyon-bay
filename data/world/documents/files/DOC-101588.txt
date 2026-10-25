@@ -1,17 +1,20 @@
-COASTLINE SAVINGS BANK
-Statement Period 03/01/2026 - 03/11/2026
-Member: ESPERANZA PHAM       Account ending 1419
+BLUE KELP SOFTWARE LLC
+129 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: OLIVIA GOMEZ        Emp 1D: 32304
+    Position: Software engineer
+Pay Period: 03/07/2026 - 03/13/2026     Pay Date: 03/18/2026
+   Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             33.41     40.00       1,336.40     14,700.40
+GROSS PAY                                  1,336.40     14,700.40
+DEDUCTIONS
+  Federal Income Tax                       106.91
+  Social 5ecurity                           82.85
+  Medicare                                  19.37
+  CA SDI                                    14.70
+NET PAY                                  1,112.57
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,120.86
-  Deposits                       725.20
-      Withdrawals                   -739.70
-  Ending balance               2,106.36
-
-    DEPOSITS AND CREDITS
-  03/11  PAYROLL DIR DEP TIDEWATER C0NSTRUC         362.60
-  03/04  PAYROLL DIR DEP TIDEWATER CONSTRUC         362.60
-
-Thank you for banking with us.  Page 1 of 2
-
-RECEIVED MAR 26 2026  - mailroom
+RECEIVED APR 08 2026  - mailroom

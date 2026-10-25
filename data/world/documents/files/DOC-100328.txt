@@ -1,20 +1,21 @@
 ARROYO VERDE NURSERY
-5985 COMMERCE WAY   CA
+8790 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: THAO LEWIS        Emp ID: 28458
+Employee: PRISCILLA WILSON-FITZGERALD        Emp ID: 61333
 Position: Nursery worker
-Pay Period: 01/30/2025 - 02/12/2025     Pay Date: 02/17/2025
-Pay Frequency: Bi-Week1y
+  Pay Period: 03/15/2025 - 03/28/2025     Pay Date: 04/02/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS             RATE      HOURS     THIS PERIOD        YTD
-    Regular             16.61     17.00         282.37      1,129.48
-   GROSS PAY                                    282.37      1,129.48
-DEDUCTIONS
-  Federal Income Tax                        16.94
-  Social Security                           17.50
-  Medicare                                   4.09
-  CA SDI                                     3.10
-   NET PAY                                    240.74
-    --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             34.71     80.00       2,776.80     19,437.60
+    GROSS PAY                                  2,776.80     19,437.60
+DEDUCTI0NS
+  Federal Income Tax                       305.44
+  Social Security                          172.16
+  Medicare                                  40.26
+  CA SDI                                    30.54
+NET PAY                                  2,228.40
+| |   .
+--------------------------------------------------------------
 
-RECEIVED MAR 15 2025  - mailroom
+FAX RECEIVED 04/05/2025 10:37   P.01

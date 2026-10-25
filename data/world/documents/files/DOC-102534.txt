@@ -1,22 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 08/01/2026 - 08/12/2026
-Member: YUSUF RODRIGUEZ       Account ending 5625
+SANDPIPER CHILD CARE CENTER
+3850 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE VALENCIA        Emp ID: 43459
+Position: Teacher
+Pay Period: 07/05/2026 - 07/18/2026     Pay Date: 07/23/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     3,919.84     58,797.60
+GROSS PAY                                  3,919.84     58,797.60
+DEDUCTIONS
+  Federal Income Tax                       313.58
+  Social Security                          243.03
+  Medicare                                  56.83
+  CA SDI                                    43.11
+NET PAY                                  3,263.29
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,365.57
-  Deposits                     3,026.40
-  Withdrawals                 -2,754.02
-  Ending balance               2,637.95
-
-  DEPOSITS AND CREDITS
-  08/12  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,513.20
-  07/29  PAYROLL DIR DEP CYPRESS FLATS AUTO       1,513.20
-
-SAV1NGS SUMMARY  (Share Savings ending 3215)
-  Ending balance              49,725.57
-  Dividends paid                  19.89
-
-_ _ _ _
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 08/15/2026 10:43   P.01
+FAX RECEIVED 08/10/2026 10:39   P.01

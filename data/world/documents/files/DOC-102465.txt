@@ -1,20 +1,21 @@
- ELLERY HARDWARE SUPPLY
-3498 MARKET WAY   CA
+TIDEWATER CONSTRUCTION
+4819 C0MMERCE WAY   CA
                          EARNINGS STATEMENT
-Employee: AIKO KHALIL        Emp ID: 55392
-Position: Sales associate
-Pay Period: 07/14/2026 - 07/20/2026     Pay Date: 07/25/2026
-Pay Frequency: Weekly
+Employee: ASHLEY ESPINOZA        Emp ID: 30068
+Position: Laborer
+Pay Period: 06/25/2026 - 07/08/2026     Pay Date: 07/13/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
+~ ~ .  ,
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.74     16.25         288.28      8,648.40
-GROSS PAY                                    288.28      8,648.40
-DEDUCTIONS
-  Federal Income Tax                        11.53
-  Social Security                           17.87
-  Medicare                                   4.18
-  CA SDI                                     3.17
-NET PAY                                    251.53
+Salary                                     5,060.42     70,845.88
+GROSS PAY                                  5,060.42     70,845.88
+  DEDUCTIONS
+  Federal Income Tax                       354.22
+  Social Security                          313.74
+   Medicare                                  73.37
+  CA SDI                                    55.66
+NET PAY                                  4,263.43
 --------------------------------------------------------------
 
-FAX RECEIVED 08/10/2026 10:49   P.01
+FAX RECEIVED 08/05/2026 10:51   P.01

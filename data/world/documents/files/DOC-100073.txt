@@ -1,17 +1,21 @@
-HALCYON BAY FEDERAL CREDIT UNION
-Statement Period 12/01/2024 - 12/17/2024
-Member: EDUARDO KING       Account ending 1642
+OTTER BAY AQUARIUM
+3743 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: MARIA FONOTI-NGUYEN        Emp ID: 93382
+Position: Guest services
+Pay Period: 12/04/2024 - 12/10/2024     Pay Date: 12/15/2024
+Pay Frequency: Weekly
+  --------------------------------------------------------------
+| |   .
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.28     17.00         310.76     15,538.00
+GROSS PAY                                    310.76     15,538.00
+DEDUCTIONS
+  Federal Income Tax                        21.75
+     Social Security                           19.26
+  Medicare                                   4.50
+  CA SDI                                     3.41
+NET PAY                                    261.84
+--------------------------------------------------------------
 
-   CHECKING SUMMARY
-  Beginning balance              581.41
-  Deposits                     6,669.06
-  Withdrawals                 -5,935.46
-  Ending balance               1,315.01
-
-DEPOSITS AND CREDITS
-  12/17  PAYROLL DIR DEP BAYLINE LOGISTICS        3,334.53
-      12/10  PAYROLL DIR DEP BAYLINE LOGISTICS        3,334.53
-
-Thank you for banking with us.   Page 1 of 2
-
-FAX RECEIVED 01/01/2025 10:15   P.01
+FAX RECEIVED 01/01/2025 10:42   P.01

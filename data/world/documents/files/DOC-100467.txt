@@ -1,0 +1,20 @@
+ELLERY HARDWARE SUPPLY
+1099 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: GREGORY DOYLE        Emp ID: 37206
+Position: Sales associate
+Pay Period: 04/14/2025 - 04/27/2025     Pay Date: 05/02/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS             RATE      HOURS     THIS PERIOD        YTD
+Regular             20.40     80.00       1,632.00     14,688.00
+GROSS PAY                                  1,632.00     14,688.00
+DEDUCTIONS
+  Federal Income Tax                       114.24
+  Social Security                          101.18
+  Medicare                                  23.66
+   CA SDI                                    17.95
+NET PAY                                  1,374.97
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 05/11/2025]

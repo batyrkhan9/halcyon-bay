@@ -1,20 +1,20 @@
-BAYLINE LOGISTICS INC
- 3354 COMMERCE WAY   CA
-                         EARN1NGS STATEMENT
-Employee: ROGELIO GONZALEZ        Emp ID: 80871
-Position: Warehouse associate
-Pay Period: 03/04/2025 - 03/17/2025     Pay Date: 03/22/2025
-Pay Frequency: Bi-Weekly
-   --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             79.90     80.00       6,392.00     38,352.00
-GROSS PAY                                  6,392.00     38,352.00
-DEDUCTIONS
-  Federal Income Tax                       703.12
-  Social Security                          396.30
-  Medicare                                  92.68
-  CA SDI                                    70.31
-NET PAY                                  5,129.59
+PORT ELLERY CANNERY CO
+3767 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: LOGAN CHAVEZ        Emp ID: 15827
+Position: Line worker
+Pay Period: 03/08/2025 - 03/21/2025      Pay Date: 03/26/2025
+     Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PER1OD        YTD
+Regular             18.57     14.50         269.26      1,884.82
+    GROSS PAY                                    269.26      1,884.82
+   DEDUCTIONS
+  Federal Income Tax                        18.84
+  Social Security                           16.69
+  Medicare                                   3.90
+  CA SDI                                     2.96
+NET PAY                                    226.87
 --------------------------------------------------------------
 
--- scanned 04/06/2025 HBCH mailroom  pg 1/1 --
+RECEIVED APR 18 2025  - mailroom

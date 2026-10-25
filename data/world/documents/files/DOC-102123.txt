@@ -1,21 +1,21 @@
-   CYPRESS FLATS AUTO BODY
-9832 HARBOR WAY   CA
+   COASTAL VALLEY ENERGY
+4520 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: VIKRAM CLARK        Emp ID: 35563
-Position: Technician
-Pay Period: 06/19/2026 - 07/02/2026     Pay Date: 07/07/2026
-Pay Frequency: Bi-Weekly
+Employee: JUAN FLORES        Emp ID: 67362
+Position: Field technician
+  Pay Period: 06/17/2026 - 06/23/2026     Pay Date: 06/28/2026
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.92     14.50         274.34      7,132.84
+GROSS PAY                                    274.34      7,132.84
+DEDUCTI0NS
+  Federal Income Tax                        19.20
 _ _ _ _
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     3,319.96     46,479.44
-GROSS PAY                                  3,319.96     46,479.44
-DEDUCTIONS
-   Federal Income Tax                       199.19
-  Socia1 Security                          205.83
-  Medicare                                  48.13
-    CA SDI                                    36.52
-NET PAY                                  2,830.29
+  Social Security                           17.00
+  Medicare                                   3.97
+  CA SDI                                     3.01
+ NET PAY                                    231.16
 --------------------------------------------------------------
 
-RECEIVED JUL 23 2026  - mailroom
+-- scanned 07/19/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+363 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+    Employee: TANISHA SILVA        Emp ID: 22919
+Position: Warehouse associate
+Pay Period: 09/03/2026 - 09/09/2026     Pay Date: 09/14/2026
+     Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             17.98     18.00         323.64     11,974.68
+GROSS PAY                                    323.64     11,974.68
+DEDUCTIONS
+  Federal Income Tax                        32.36
+  Social Security                           20.06
+  Medicare                                   4.69
+   CA SDI                                     3.56
+NET PAY                                    262.97
+--------------------------------------------------------------
+
+-- scanned 09/18/2026 HBCH mailroom  pg 1/1 --

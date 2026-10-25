@@ -1,20 +1,20 @@
-SANDPIPER CHILD CARE CENTER
-4626 INDUSTRIAL WAY   CA
-                         EARNINGS 5TATEMENT
-Employee: AMINA FLORES        Emp ID: 50451
-Position: Teacher
-Pay Period: 09/04/2026 - 09/10/2026     Pay Date: 09/15/2026
+SUNSET COAST HOME CARE
+982 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+Employee: RAMON SMITH        Emp ID: 18373
+Position: Home care aide
+Pay Period: 08/30/2026 - 09/05/2026     Pay Date: 09/10/2026
 Pay Frequency: Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             50.15     40.00       2,006.00     74,222.00
-GROSS PAY                                  2,006.00     74,222.00
+Regular             29.01     40.00       1,160.40     42,934.80
+GROSS PAY                                  1,160.40     42,934.80
 DEDUCTIONS
-  Federal Income Tax                       100.30
-  Social Security                          124.37
-   Medicare                                  29.08
-  CA SDI                                    22.06
-NET PAY                                  1,730.19
---------------------------------------------------------------
+  Federal Income Tax                        46.41
+   Social Security                           71.94
+      Medicare                                  16.82
+  CA SDI                                    12.76
+NET PAY                                  1,012.47
+ --------------------------------------------------------------
 
-RECEIVED SEP 25 2026  - mailroom
+FAX RECEIVED 09/24/2026 10:20   P.01

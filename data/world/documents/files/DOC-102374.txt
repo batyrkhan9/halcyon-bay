@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-1860 COMMERCE WAY   CA
+ARROYO VERDE NURSERY
+9210 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-    Employee: SHARON IYER        Emp ID: 55437
-Position: Driver
-Pay Period: 06/27/2026 - 07/26/2026     Pay Date: 07/31/2026
- Pay Frequency: Monthly
-   --------------------------------------------------------------
+Employee: CHLOE QUINN        Emp ID: 94209
+Position: Nursery worker
+Pay Period: 07/01/2026 - 07/15/2026     Pay Date: 07/20/2026
+Pay Frequency: Semi-Monthly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             26.75    173.33       4,636.58     37,092.64
-GROSS PAY                                  4,636.58     37,092.64
- DEDUCTIONS
-  Federal Income Tax                       324.56
-  Social Security                          287.46
-  Medicare                                  67.23
-  CA SDI                                    51.00
-NET PAY                                  3,906.33
+Regular             58.09     86.67       5,034.66     70,485.24
+GROSS PAY                                  5,034.66     70,485.24
+DEDUCTIONS
+  Federal 1ncome Tax                       352.42
+  Social Security                          312.14
+  Medicare                                  73.00
+       CA SDI                                    55.38
+ NET PAY                                  4,241.72
 --------------------------------------------------------------
 
-RECEIVED AUG 05 2026  - mailroom
+FAX RECEIVED 08/01/2026 10:15   P.01

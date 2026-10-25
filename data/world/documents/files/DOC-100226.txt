@@ -1,17 +1,20 @@
-PACIFIC TIDE BANK
-Statement Period 02/01/2025 - 02/06/2025
-Member: MARIO KAHANANUI       Account ending 4765
+BAYLINE LOGISTICS INC
+4404 MARKET WAY   CA
+                         EARNINGS 5TATEMENT
+Employee: JESSICA KUMAR        Emp ID: 58216
+Position: Warehouse associate
+Pay Period: 01/26/2025 - 02/08/2025     Pay Date: 02/13/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+  Salary                                       994.23      3,976.92
+GR0SS PAY                                    994.23      3,976.92
+DEDUCTIONS
+  Federal Income Tax                        89.48
+      Social Security                           61.64
+  Medicare                                  14.41
+  CA SDI                                    10.93
+NET PAY                                    817.77
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            2,917.65
-  Deposits                     7,196.06
-  Withdrawals                 -6,908.21
-  Ending balance               3,205.50
-
-DEPOSITS AND CREDITS
-    02/06  PAYROLL DIR DEP ELLERY HARDWARE SU       3,598.03
-  01/23  PAYROLL DIR DEP ELLERY HARDWARE SU       3,598.03
-
-Thank you for banking with us.  Page 1 of 2
-
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/19/2025]
+-- scanned 03/08/2025 HBCH mailroom  pg 1/1 --

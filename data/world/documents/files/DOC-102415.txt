@@ -1,21 +1,21 @@
-SANTA LUCITA FARMS
- 3125 HARBOR WAY   CA
+ELLERY HARDWARE SUPPLY
+8065 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: FATIMA KOWALSKI        Emp ID: 83632
-Position: Field supervisor
-Pay Period: 06/02/2026 - 06/16/2026     Pay Date: 06/21/2026
-Pay Frequency: Semi-Monthly
+Employee: NICOLE VO        Emp ID: 14924
+Position: Sales associate
+   Pay Period: 07/10/2026 - 07/23/2026     Pay Date: 07/28/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            127.59     86.67      11,058.23    132,698.76
-GROSS PAY                                 11,058.23    132,698.76
+   EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.67     35.00         653.45      9,801.75
+GROSS PAY                                    653.45      9,801.75
 DEDUCTIONS
-  Federal Income Tax                     1,105.82
-  . : .
-  Social Security                          685.61
-  Medicare                                 160.34
-  CA SDI                                   121.64
-NET PAY                                  8,984.82
-   --------------------------------------------------------------
+  Federal Income Tax                        71.87
+  Social Security                           40.51
+  Medicare                                   9.47
+     CA SDI                                     7.18
+NET PAY                                    524.42
+--------------------------------------------------------------
+  includes overtime 1.50 hrs
 
-RECEIVED AUG 08 2026  - mailroom
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/04/2026]

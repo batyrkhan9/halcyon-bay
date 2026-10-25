@@ -1,21 +1,21 @@
-CYPRESS FLATS AUTO BODY
-2931 COMMERCE WAY   CA
-                            EARNINGS STATEMENT
-    Employee: DESTINY XU        Emp ID: 23639
-Position: Technician
-Pay Period: 09/10/2025 - 09/24/2025     Pay Date: 09/29/2025
-Pay Frequency: Semi-Monthly
+SANDPIPER CHILD CARE CENTER
+4987 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: KIM BUI        Emp ID: 39335
+Position: Teacher
+Pay Period: 11/03/2025 - 11/16/2025     Pay Date: 11/21/2025
+    Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-   Regu1ar             16.54     75.00       1,240.50     23,569.50
-GROSS PAY                                  1,240.50     23,569.50
-DEDUCTIONS
-    Federal Income Tax                        62.02
-  Social Security                           76.91
-  Medicare                                  17.98
-  CA SDI                                    13.64
-| |   .
-   NET PAY                                  1,069.95
+  . : .
+Salary                                     8,306.48    199,355.52
+GROSS PAY                                  8,306.48    199,355.52
+ DEDUCTIONS
+  Federal Income Tax                       913.71
+  Social Security                          515.00
+  Medicare                                 120.44
+  CA SDI                                    91.37
+NET PAY                                  6,665.96
 --------------------------------------------------------------
 
-FAX RECEIVED 10/28/2025 10:48   P.01
+FAX RECEIVED 11/26/2025 10:38   P.01

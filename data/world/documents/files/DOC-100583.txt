@@ -1,21 +1,25 @@
-TIDEWATER CONSTRUCTION
-1313 HARBOR WAY   CA
-                         EARNINGS STATEMENT
-Employee: YUKI IBARRA        Emp ID: 95745
-Position: Laborer
-Pay Period: 04/19/2025 - 05/03/2025     Pay Date: 05/08/2025
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                       608.62      5,477.58
-GROSS PAY                                    608.62      5,477.58
-  . : .
-DEDUCTIONS
-  Federal Income Tax                        54.77
-  Social Security                           37.73
-  Medicare                                   8.82
-  CA SDI                                     6.69
-NET PAY                                    500.61
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 05/01/2025 - 05/31/2025
+Member: YESENIA GALLAGHER       Account ending 8362
 
-RECEIVED MAY 25 2025  - mailroom
+CHECKING SUMMARY
+  Beginning balance            1,566.31
+  Dep0sits                     2,762.85
+   Withdrawals                 -2,762.85
+  Ending balance               1,566.31
+
+DEPOSITS AND CREDITS
+  05/01  PAYROLL DIR DEP ELLERY HARDWARE SU         552.57
+  05/08  PAYROLL DIR DEP ELLERY HARDWARE SU         552.57
+  05/15  PAYROLL DIR DEP ELLERY HARDWARE SU         552.57
+  05/22  PAYROLL DIR DEP ELLERY HARDWARE SU         552.57
+  05/29  PAYROLL DIR DEP ELLERY HARDWARE SU         552.57
+
+SAVINGS SUMMARY  (Share Savings ending 5623)
+_ _ _ _
+  Ending balance              10,844.25
+  Dividends paid                   4.33
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED JUN 11 2025  - mailroom

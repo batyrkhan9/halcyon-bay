@@ -1,20 +1,20 @@
-VISTA SERENA MEDICAL OFFICES
-1527 HARBOR WAY   CA
+MIRADOR GROCERY CO-OP
+7212 COMMERCE WAY    CA
                          EARNINGS STATEMENT
-    Employee: KAI 5ANCHEZ        Emp ID: 35900
-Position: Medical receptionist
-Pay Period: 06/02/2025 - 07/01/2025     Pay Date: 07/06/2025
-Pay Frequency: Monthly
-  --------------------------------------------------------------
+Employee: MANUEL ABDULLAH        Emp ID: 71343
+Position: Cashier
+Pay Period: 07/16/2025 - 07/29/2025     Pay Date: 08/03/2025
+   Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.58     79.75       1,481.76     10,372.32
-GROSS PAY                                  1,481.76     10,372.32
+Regular             27.29     80.00       2,183.20     34,931.20
+GROSS PAY                                  2,183.20     34,931.20
 DEDUCTIONS
-  Federal Income Tax                       162.99
-  Social Security                           91.86
-  Medicare                                  21.48
-  CA SDI                                    16.29
-NET PAY                                  1,189.14
-   --------------------------------------------------------------
+  Federal Income Tax                       174.65
+      Social Security                          135.35
+  Medicare                                  31.65
+      CA SDI                                    24.01
+   NET PAY                                  1,817.54
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/10/2025]
+FAX RECEIVED 09/07/2025 10:41   P.01

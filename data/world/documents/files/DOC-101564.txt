@@ -1,0 +1,20 @@
+SANDPIPER CHILD CARE CENTER
+8599 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: TOMASZ RAHMAN        Emp ID: 45243
+Position: Teacher
+Pay Period: 01/26/2026 - 02/08/2026     Pay Date: 02/13/2026
+Pay Frequency: Bi-Weekly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             20.36     80.00       1,628.80      6,515.20
+GROSS PAY                                  1,628.80      6,515.20
+DEDUCTIONS
+  Federal Income Tax                       162.88
+  Social Security                          100.98
+    Medicare                                  23.61
+  CA SDI                                    17.91
+NET PAY                                  1,323.42
+--------------------------------------------------------------
+
+RECEIVED MAR 31 2026  - mailroom

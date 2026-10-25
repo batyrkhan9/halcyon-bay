@@ -1,0 +1,22 @@
+CALDER FREIGHT LINES
+1567 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: JAE HAYES        Emp ID: 86841
+Position: Driver
+Pay Period: 08/28/2026 - 09/10/2026     Pay Date: 09/15/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+_ _ _ _
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+    Regular             67.42     80.00       5,393.60    102,478.40
+GROSS PAY                                  5,393.60    102,478.40
+DEDUCTIONS
+  Federal Income Tax                       323.61
+    Social Security                          334.40
+  Medicare                                  78.20
+  CA SDI                                    59.33
+NET PAY                                  4,598.06
+--------------------------------------------------------------
+  includes overtime 3.00 hrs
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/27/2026]

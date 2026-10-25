@@ -1,17 +1,21 @@
-COASTLINE SAVINGS BANK
-Statement Period 10/01/2025 - 10/31/2025
-Member: GARY FREEMAN       Account ending 8506
+ARROYO VERDE NURSERY
+3890 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+  Employee: PRISCILLA JUNG        Emp ID: 28147
+Position: Nursery worker
+Pay Period: 11/10/2025 - 11/16/2025     Pay Date: 11/21/2025
+_ _ _ _
+Pay Frequency: Weekly
+   --------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             17.14     24.50         419.93     19,736.71
+GROSS PAY                                    419.93     19,736.71
+   DEDUCTIONS
+     Federal Income Tax                        20.99
+      Social Security                           26.03
+  Medicare                                   6.08
+     CA SDI                                     4.61
+NET PAY                                    362.22
+--------------------------------------------------------------
 
-CHECKING SUMMARY
-  Beginning balance            1,257.90
-  Deposits                     4,889.02
-  Withdrawals                 -4,595.67
-  Ending balance               1,551.25
-
-  DEPOSITS AND CREDITS
-  10/31  PAYROLL DIR DEP BAYLINE LOGISTICS        2,444.51
-  10/16  PAYROLL DIR DEP BAYLINE LOGISTICS        2,444.51
-
-Thank you for banking with us.  Page 1 of 2
-
-FAX RECEIVED 11/06/2025 10:35   P.01
+RECEIVED DEC 02 2025  - mailroom

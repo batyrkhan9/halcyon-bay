@@ -1,0 +1,20 @@
+CYPRESS FLATS AUTO BODY
+5849 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+Employee: MALIA BUI        Emp ID: 65498
+Position: Technician
+Pay Period: 06/26/2025 - 07/02/2025     Pay Date: 07/07/2025
+Pay Frequency: Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             73.14     40.00       2,925.60     78,991.20
+GROSS PAY                                  2,925.60     78,991.20
+DEDUCTIONS
+  Federal Income Tax                       263.30
+  Social Security                          181.38
+  Medicare                                  42.42
+  CA SDI                                    32.18
+NET PAY                                  2,406.32
+--------------------------------------------------------------
+
+-- scanned 07/18/2025 HBCH mailroom  pg 1/1 --

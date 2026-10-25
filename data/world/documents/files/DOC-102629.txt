@@ -1,21 +1,17 @@
-SEASIDE DENTAL GROUP
-1549 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: DARNELL KAHANANUI        Emp ID: 53086
-Position: Dental assistant
-| |   .
-Pay Period: 07/02/2026 - 07/16/2026     Pay Date: 07/21/2026
-Pay Frequency: Semi-Monthly
---------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,900.96     26,613.44
-GROSS PAY                                  1,900.96     26,613.44
-DEDUCTIONS
-  Federal Inc0me Tax                        95.04
-  Social Security                          117.86
-  Medicare                                  27.56
-  CA SDI                                    20.91
-     NET PAY                                  1,639.59
---------------------------------------------------------------
+PACIFIC TIDE BANK
+Statement Period 07/01/2026 - 07/31/2026
+Member: JENNIFER PETROV       Account ending 9131
 
-RECEIVED AUG 23 2026  - mailroom
+CHECKING SUMMARY
+    Beginning balance            2,702.40
+  Deposits                     6,319.06
+      Withdrawals                 -6,319.06
+  Ending balance               2,702.40
+
+DEPOSITS AND CREDITS
+    07/07  PAYROLL DIR DEP POINT CORRIN BOATW       3,159.53
+  07/21  PAYROLL DIR DEP POINT CORRIN BOATW       3,159.53
+
+Thank you for banking with us.  Page 1 of 2
+
+RECEIVED AUG 22 2026  - mailroom

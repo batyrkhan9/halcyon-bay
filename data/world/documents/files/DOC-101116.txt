@@ -1,0 +1,20 @@
+BAYLINE LOGISTICS INC
+8161 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: KENJI WASHINGTON        Emp ID: 95757
+Position: Warehouse associate
+Pay Period: 10/21/2025 - 11/04/2025     Pay Date: 11/09/2025
+Pay Frequency: Semi-Monthly
+ --------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+   Regular             16.84     86.67       1,459.52     30,649.92
+GROSS PAY                                  1,459.52     30,649.92
+ DEDUCTIONS
+  Federal Income Tax                       145.95
+  Social Security                           90.49
+     Medicare                                  21.16
+  CA SDI                                    16.05
+NET PAY                                  1,185.87
+   --------------------------------------------------------------
+
+FAX RECEIVED 11/14/2025 10:18   P.01

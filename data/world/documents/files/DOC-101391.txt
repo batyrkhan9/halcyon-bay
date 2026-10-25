@@ -1,0 +1,20 @@
+BLUE KELP SOFTWARE LLC
+3971 INDUSTRIAL WAY   CA
+                         EARNINGS STATEMENT
+Employee: ARTURO WRIGHT        Emp ID: 43299
+Position: Software engineer
+Pay Period: 12/24/2025 - 01/06/2026     Pay Date: 01/11/2026
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             21.23     80.00       1,698.40      1,698.40
+GROSS PAY                                  1,698.40      1,698.40
+DEDUCTIONS
+   Federal Income Tax                       152.85
+  Social Security                          105.30
+  Medicare                                  24.62
+  CA SDI                                    18.68
+NET PAY                                  1,396.95
+--------------------------------------------------------------
+
+[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 02/02/2026]

@@ -1,20 +1,20 @@
-BLUE KELP SOFTWARE LLC
-5998 INDUSTRIAL WAY   CA
+HARBOR POINT HOTEL
+6763 MARKET WAY   CA
                          EARNINGS STATEMENT
-Employee: SANJAY LEE        Emp ID: 66459
-Position: Software engineer
-Pay Period: 09/15/2025 - 09/29/2025      Pay Date: 10/04/2025
-Pay Frequency: Semi-Monthly
+  Employee: DONALD WANG        Emp ID: 59888
+Position: Housekeeper
+Pay Period: 10/13/2025 - 10/26/2025     Pay Date: 10/31/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             17.23     72.50       1,249.18     23,734.42
-GROSS PAY                                  1,249.18     23,734.42
+Salary                                     3,966.27     87,257.94
+GRO5S PAY                                  3,966.27     87,257.94
 DEDUCTIONS
-  Federal Income Tax                       124.91
-  Social Security                           77.44
-  Medicare                                  18.11
-  CA SDI                                    13.74
-NET PAY                                   1,014.98
---------------------------------------------------------------
+  Federal Income Tax                       436.28
+  Social 5ecurity                          245.90
+  Medicare                                  57.51
+  CA SDI                                    43.62
+NET PAY                                  3,182.96
+    --------------------------------------------------------------
 
-FAX RECEIVED 10/27/2025 10:21   P.01
+-- scanned 11/19/2025 HBCH mailroom  pg 1/1 --

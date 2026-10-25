@@ -1,0 +1,21 @@
+BLUE KELP SOFTWARE LLC
+  . : .
+9905 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+  Employee: ROBERT DELGADO        Emp ID: 28345
+Position: Software engineer
+Pay Period: 10/24/2025 - 11/06/2025     Pay Date: 11/11/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+ Regular              28.54     80.00       2,283.20     52,513.60
+GROSS PAY                                  2,283.20     52,513.60
+DEDUCTIONS
+  Federal Income Tax                       251.15
+  Social Security                          141.55
+  Medicare                                  33.10
+  CA SDI                                    25.11
+ NET PAY                                  1,832.29
+--------------------------------------------------------------
+
+RECEIVED DEC 05 2025  - mailroom

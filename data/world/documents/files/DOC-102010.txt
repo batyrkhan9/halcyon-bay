@@ -1,21 +1,20 @@
-BLUE KELP SOFTWARE LLC
-7146 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: ANDRE IYER        Emp ID: 82307
-    Position: Software engineer
- Pay Period: 06/18/2026 - 06/24/2026     Pay Date: 06/29/2026
-Pay Frequency: Weekly
+ SUNSET COAST HOME CARE
+175 INDUSTRIAL WAY   CA
+                             EARNINGS STATEMENT
+Employee: DESTINY PARK        Emp ID: 65232
+Position: Home care aide
+Pay Period: 06/13/2026 - 06/27/2026     Pay Date: 07/02/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular              32.38     40.00       1,295.20     33,675.20
-GROSS PAY                                  1,295.20     33,675.20
-  DEDUCTIONS
-  Federal Income Tax                       142.47
-  Social Security                           80.30
-  Medicare                                  18.78
-  CA SDI                                    14.24
-NET PAY                                  1,039.41
-~ ~ .  ,
+  EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             18.80     49.00         921.20     11,975.60
+GROSS PAY                                     921.20     11,975.60
+DEDUCTIONS
+  Federal Income Tax                       101.33
+  Social Security                           57.11
+  Medicare                                  13.35
+  CA SDI                                    10.13
+NET PAY                                    739.28
 --------------------------------------------------------------
 
--- scanned 07/15/2026 HBCH mailroom  pg 1/1 --
+-- scanned 07/12/2026 HBCH mailroom  pg 1/1 --

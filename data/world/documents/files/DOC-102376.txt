@@ -1,21 +1,20 @@
-OTTER BAY AQUARIUM
-| |   .
-9989 COMMERCE WAY   CA
+ARROYO VERDE NURSERY
+4789 HARBOR WAY   CA
                            EARNINGS STATEMENT
-Employee: JIA CHAVEZ        Emp ID: 51367
-Position: Guest services
-Pay Period: 07/06/2026 - 07/19/2026     Pay Date: 07/24/2026
-Pay Frequency: Bi-Weekly
+Employee: CHLOE QUINN        Emp ID: 94209
+    Position: Nursery worker
+Pay Period: 06/16/2026 - 06/30/2026     Pay Date: 07/05/2026
+Pay Frequency: Semi-Monthly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PER1OD        YTD
-Regular             35.68     80.00       2,854.40     42,816.00
-GROSS PAY                                  2,854.40     42,816.00
-DEDUCTIONS
-  Federal Income Tax                       199.80
-     Social Security                          176.97
-  Medicare                                  41.38
-  CA SDI                                    31.39
-NET PAY                                  2,404.86
+EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             58.09     86.67       5,034.66     65,450.58
+GROSS PAY                                  5,034.66     65,450.58
+   DEDUCTIONS
+  Federal Income Tax                       352.42
+  Social Security                          312.14
+  Medicare                                  73.00
+  CA SDI                                    55.38
+  NET PAY                                  4,241.72
 --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 08/05/2026]
+FAX RECEIVED 08/01/2026 10:58   P.01

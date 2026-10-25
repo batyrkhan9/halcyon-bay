@@ -1,21 +1,20 @@
-SANTA LUCITA FARMS
-4882 COMMERCE WAY   CA
-                         EARNINGS STATEMENT
-Employee: LUCIA GUPTA        Emp ID: 90946
-Position: Field supervisor
-Pay Period: 07/25/2026 - 08/08/2026     Pay Date: 08/13/2026
-Pay Frequency: Semi-Monthly
+POINT CORRIN BOATWORKS
+7913 COMMERCE WAY   CA
+                          EARNINGS STATEMENT
+Employee: AHMED RAMOS        Emp ID: 66761
+Position: Mechanic
+Pay Period: 06/24/2026 - 07/07/2026     Pay Date: 07/12/2026
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             48.27     86.67       4,183.56     62,753.40
-GROSS PAY                                  4,183.56     62,753.40
-  . : .
-DEDUCTIONS
-  Federal Income Tax                       292.84
-  Social Security                          259.38
-    Medicare                                  60.66
-  CA SDI                                    46.01
-NET PAY                                  3,524.67
-  --------------------------------------------------------------
+    Salary                                     2,859.54     40,033.56
+GROSS PAY                                  2,859.54     40,033.56
+ DEDUCTIONS
+  Federal Income Tax                       228.76
+  Social Security                          177.29
+  Medicare                                  41.46
+  CA SDI                                    31.45
+NET PAY                                  2,380.58
+--------------------------------------------------------------
 
--- scanned 08/22/2026 HBCH mailroom  pg 1/1 --
+RECEIVED AUG 17 2026  - mailroom

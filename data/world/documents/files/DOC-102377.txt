@@ -1,20 +1,21 @@
-OTTER BAY AQUARIUM
-2418 MARKET WAY   CA
+POINT CORRIN BOATWORKS
+   9460 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: JIA CHAVEZ        Emp ID: 51367
-Position: Guest services
-Pay Period: 06/22/2026 - 07/05/2026     Pay Date: 07/10/2026
+Employee: CARMEN BRYANT        Emp ID: 51065
+Position: Mechanic
+Pay Period: 07/03/2026 - 07/16/2026     Pay Date: 07/21/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             35.68     80.00       2,854.40     39,961.60
-GROSS PAY                                  2,854.40     39,961.60
- DEDUCTIONS
-  Federal Income Tax                       285.44
-  Social Security                          176.97
-  Medicare                                  41.38
-  CA SDI                                    31.39
-NET PAY                                  2,319.22
+ EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     2,091.60     31,374.00
+| |   .
+GROSS PAY                                  2,091.60     31,374.00
+DEDUCTIONS
+  Federal Income Tax                       188.24
+      Social Security                          129.67
+  Medicare                                  30.32
+  CA SDI                                    23.00
+NET PAY                                  1,720.37
 --------------------------------------------------------------
 
--- scanned 08/05/2026 HBCH mailroom  pg 1/1 --
+FAX RECEIVED 08/01/2026 10:58   P.01

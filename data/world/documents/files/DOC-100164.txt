@@ -1,0 +1,21 @@
+CALDER FREIGHT LINES
+3177 COMMERCE WAY   CA
+                         EARNINGS STATEMENT
+   Employee: SUSAN WANG        Emp ID: 43871
+Position: Driver
+Pay Period: 12/27/2024 - 01/09/2025     Pay Date: 01/14/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Regular             27.40     80.00       2,192.00      2,192.00
+GROSS PAY                                  2,192.00      2,192.00
+  DEDUCTIONS
+| |   .
+  Federal Income Tax                       109.60
+  Social Security                          135.90
+  Medicare                                  31.78
+  CA SDI                                    24.11
+NET PAY                                  1,890.61
+--------------------------------------------------------------
+
+FAX RECEIVED 02/06/2025 10:52   P.01

@@ -1,20 +1,20 @@
-CALDER FREIGHT LINES
-6405 HARBOR WAY   CA
+ELLERY HARDWARE SUPPLY
+1762 MARKET WAY    CA
                          EARNINGS STATEMENT
-Employee: SHARON IYER        Emp ID: 26957
-Position: Driver
-Pay Period: 04/17/2026 - 05/01/2026     Pay Date: 05/06/2026
-Pay Frequency: Semi-Monthly
+  Employee: RAYMOND WALKER        Emp ID: 29911
+Position: Sales associate
+ Pay Period: 03/06/2026 - 04/04/2026     Pay Date: 04/09/2026
+Pay Frequency: Monthly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-    Regular             38.19     86.67       3,309.93     29,789.37
-GROSS PAY                                  3,309.93     29,789.37
+    Regular             16.60     49.00         813.40      3,253.60
+GROSS PAY                                    813.40      3,253.60
 DEDUCTIONS
-  Federal Income Tax                       132.39
-  Social Security                          205.21
-   Medicare                                  47.99
-  CA SDI                                    36.40
-NET PAY                                  2,887.94
+  Federal Income Tax                        56.93
+  Social Security                           50.43
+  Medicare                                  11.79
+     CA SDI                                     8.94
+NET PAY                                     685.31
 --------------------------------------------------------------
 
-RECEIVED MAY 29 2026  - mailroom
+-- scanned 05/19/2026 HBCH mailroom  pg 1/1 --

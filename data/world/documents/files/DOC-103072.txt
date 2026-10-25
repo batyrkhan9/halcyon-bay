@@ -1,20 +1,20 @@
-TIDEWATER CONSTRUCTION
-   1576 INDUSTRIAL WAY   CA
-                         EARNINGS STATEMENT
-Employee: TYLER WHITE        Emp ID: 98737
-Position: Laborer
-Pay Period: 08/26/2026 - 09/08/2026     Pay Date: 09/13/2026
+PACIFIC RIM JANITORIAL
+4534 INDUSTRIAL WAY   CA
+                           EARNINGS STATEMENT
+Employee: MAI PEREIRA        Emp ID: 23092
+Position: Custodian
+Pay Period: 08/09/2026 - 08/22/2026     Pay Date: 08/27/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             18.05     49.75         897.99     17,061.81
-GROSS PAY                                    897.99     17,061.81
+EARNINGS            RATE      HOURS     TH1S PERIOD        YTD
+Regular             18.69     51.00         953.19     17,157.42
+GROSS PAY                                    953.19     17,157.42
 DEDUCTIONS
-  Federal Income Tax                        98.77
-      Social Security                           55.67
-      Medicare                                  13.02
-  CA SDI                                     9.87
-NET PAY                                    720.66
---------------------------------------------------------------
+  Federal Income Tax                        95.31
+  Social Security                           59.09
+   Medicare                                  13.82
+  CA SDI                                    10.48
+NET PAY                                    774.49
+  --------------------------------------------------------------
 
-RECEIVED SEP 21 2026  - mailroom
+-- scanned 09/20/2026 HBCH mailroom  pg 1/1 --

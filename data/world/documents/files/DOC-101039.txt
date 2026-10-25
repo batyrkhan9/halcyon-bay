@@ -1,20 +1,21 @@
-SANTA LUCITA FARMS
-1213 COMMERCE WAY   CA
+LAS BRISAS RE5TAURANT GROUP
+9129 HARBOR WAY   CA
                          EARNINGS STATEMENT
-Employee: KENJI COLEMAN        Emp ID: 23702
-Position: Field supervisor
-   Pay Period: 08/15/2025 - 08/21/2025     Pay Date: 08/26/2025
- Pay Frequency: Weekly
+Employee: SERGIO SINGH        Emp ID: 23806
+Position: Line cook
+Pay Period: 10/01/2025 - 10/14/2025     Pay Date: 10/19/2025
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Salary                                     1,561.82     53,101.88
-GROSS PAY                                  1,561.82     53,101.88
+5alary                                     2,535.07     53,236.47
+GROSS PAY                                  2,535.07     53,236.47
 DEDUCTIONS
-   Federal Income Tax                       140.56
-  Social Security                           96.83
-  Medicare                                  22.64
-    CA SDI                                    17.18
-NET PAY                                  1,284.61
+| |   .
+  Federal Income Tax                       177.45
+  Social Security                          157.17
+  Medicare                                  36.75
+  CA SDI                                    27.88
+NET PAY                                  2,135.82
 --------------------------------------------------------------
 
-FAX RECEIVED 09/22/2025 10:59   P.01
+FAX RECEIVED 10/23/2025 10:55   P.01

@@ -1,20 +1,20 @@
-ELLERY HARDWARE SUPPLY
-1490 COMMERCE WAY   CA
-                         EARN1NGS STATEMENT
-Employee: GRACE PATEL        Emp ID: 58238
-Position: 5ales associate
-Pay Period: 11/19/2024 - 12/03/2024     Pay Date: 12/08/2024
-Pay Frequency: Semi-Monthly
+POINT CORR1N BOATWORKS
+3101 HARBOR WAY    CA
+                         EARNINGS STATEMENT
+Employee: JOHN MILLER         Emp ID: 63028
+Position: Mechanic
+Pay Period: 11/05/2024 - 11/18/2024     Pay Date: 11/23/2024
+Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
-EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular            139.83     86.67      12,119.07    278,738.61
-GROSS PAY                                 12,119.07    278,738.61
-DEDUCTI0NS
-  Federal Income Tax                       484.76
-  Social Security                          751.38
-  Medicare                                 175.72
-  CA SDI                                   133.31
-NET PAY                                 10,573.90
+    EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                      1,407.39     33,777.36
+GROSS PAY                                  1,407.39     33,777.36
+DEDUCTIONS
+  Federal Income Tax                        98.51
+    Social Security                           87.25
+  Medicare                                  20.40
+  CA SDI                                    15.48
+   NET PAY                                  1,185.75
 --------------------------------------------------------------
 
-RECEIVED DEC 15 2024  - mailroom
+FAX RECEIVED 12/06/2024 10:59   P.01

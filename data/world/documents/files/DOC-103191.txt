@@ -1,0 +1,21 @@
+    BLUE KELP SOFTWARE LLC
+    8954 MARKET WAY   CA
+                         EARNINGS STATEMENT
+Employee: PRISCILLA WU        Emp ID: 78666
+Position: 5oftware engineer
+    Pay Period: 08/10/2026 - 08/24/2026     Pay Date: 08/29/2026
+Pay Frequency: Semi-Monthly
+    --------------------------------------------------------------
+| |   .
+EARNINGS            RATE      HOUR5     THIS PERIOD        YTD
+Regular             23.76     86.67       2,059.28     35,007.76
+GROSS PAY                                  2,059.28     35,007.76
+DEDUCTIONS
+  Federal Income Tax                       123.55
+  Social Security                          127.67
+      Medicare                                  29.86
+  CA SDI                                    22.65
+NET PAY                                  1,755.55
+--------------------------------------------------------------
+
+FAX RECEIVED 09/28/2026 10:56   P.01

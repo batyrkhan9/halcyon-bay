@@ -1,20 +1,21 @@
-MIRADOR GROCERY CO-OP
-4933 INDUSTRIAL WAY   CA
+SANDPIPER CHILD CARE CENTER
+2968 INDUSTRIAL WAY   CA
                          EARNINGS STATEMENT
-Employee: EDUARDO MCCARTHY        Emp ID: 64213
-Position: Cashier
-  Pay Period: 08/09/2026 - 08/22/2026     Pay Date: 08/27/2026
+Employee: KEISHA MURPHY        Emp ID: 79733
+Position: Teacher
+Pay Period: 07/20/2026 - 08/02/2026     Pay Date: 08/07/2026
 Pay Frequency: Bi-Weekly
 --------------------------------------------------------------
 EARNINGS            RATE      HOURS     THIS PERIOD        YTD
-Regular             16.64     77.25       1,285.44     23,137.92
-GROSS PAY                                  1,285.44     23,137.92
+Regular             18.56     36.50         677.44     10,839.04
+GROSS PAY                                    677.44     10,839.04
 DEDUCTIONS
-   Federal Income Tax                        89.98
-  Social Security                           79.69
-  Medicare                                  18.63
-  CA SDI                                    14.14
-NET PAY                                  1,083.00
---------------------------------------------------------------
+  Federal Income Tax                        47.42
+  Social Security                           42.00
+_ _ _ _
+  Medicare                                   9.82
+  CA SDI                                     7.45
+NET PAY                                    570.75
+ --------------------------------------------------------------
 
-[HBCH PATIENT FINANCIAL SERVICES  RECEIVED 09/16/2026]
+-- scanned 09/16/2026 HBCH mailroom  pg 1/1 --

@@ -1,0 +1,22 @@
+POINT CORRIN BOATWORKS
+    6452 HARBOR WAY   CA
+                         EARNINGS STATEMENT
+   Employee: LETICIA KANG        Emp ID: 73679
+Position: Mechanic
+Pay Period: 06/09/2025 - 06/22/2025     Pay Date: 06/27/2025
+Pay Frequency: Bi-Weekly
+--------------------------------------------------------------
+     EARNINGS            RATE      HOURS     THIS PERIOD        YTD
+Salary                                     1,678.92     21,825.96
+GROSS PAY                                  1,678.92     21,825.96
+DEDUCTIONS
+  Federal Income Tax                       167.89
+  Social Security                          104.09
+  Medicare                                  24.34
+  CA SDI                                    18.46
+    NET PAY                                  1,364.14
+--------------------------------------------------------------
+| |   .
+  includes overtime 3.00 hrs
+
+RECEIVED JUL 06 2025  - mailroom
