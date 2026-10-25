@@ -15,6 +15,3 @@ dist/
 
 # OS
 .DS_Store
-
-# Local copies of team handoffs
-ife-handoff.md
