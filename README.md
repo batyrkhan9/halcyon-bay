@@ -194,7 +194,7 @@ core/.venv/bin/pip install -r core/requirements.txt
 core/.venv/bin/python -m core.demo --day 2026-09-30       # then open http://localhost:8000
 ```
 
-`core.demo` loads Claude's saved replies from `core/fixtures/`, onboards the history with the day-one discovery, replays the live days up to `--day`, builds the screens the first time, and serves the screens and the API together at http://localhost:8000. Nothing calls Claude and nothing is spent. The replay takes about 20 seconds, and the first run also builds the screens.
+`core.demo` loads Claude's saved replies from `core/fixtures/`, onboards the history with the day-one discovery, replays the live days up to `--day`, builds the screens the first time, and serves the screens and the API together at http://localhost:8000. Nothing calls Claude and nothing is spent. The replay takes about 20 seconds.
 
 - `--day 2026-09-30` is the end of the run: every moment above and the final score.
 - `--day 2026-07-14`, the default, starts in mid-July, the way we pitch it: **Run next day** works the next days live, and the score counts only what has arrived so far. Some moments arrive later: Marcus Bellamy's lawsuit request and Tomas Brandt's account on 2026-08-04, the hidden instructions on 2026-09-13.
