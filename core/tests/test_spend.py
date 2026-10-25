@@ -114,6 +114,22 @@ def test_a_refusal_is_still_paid_for_and_reported(guard):
     assert guard.total() == pytest.approx(2_000 * 4.00 / 1e6)
 
 
+def test_busy_answers_are_retried_and_each_attempt_is_booked(guard, monkeypatch):
+    monkeypatch.setattr("core.reader.time.sleep", lambda seconds: None)
+    replies = iter(["busy", "busy", "ok"])
+
+    def flaky():
+        if next(replies) == "busy":
+            raise anthropic.RateLimitError("slow down", response=httpx2.Response(429, request=HTTP_REQUEST,
+                                                                                  headers={"retry-after": "1"}), body=None)
+        return answer()
+
+    client = FakeClient(flaky)
+    ClaudeCaller(client, guard)(REQUEST)
+    assert client.calls == 3
+    assert guard.total() == pytest.approx((2_000 * 4.00 + 1_500 * 20.00) / 1e6)   # the refused tries cost nothing
+
+
 def test_haiku_requests_carry_no_fallback():
     request = build_request(CASE, model="claude-haiku-5-5")
     assert "fallbacks" not in request and "betas" not in request

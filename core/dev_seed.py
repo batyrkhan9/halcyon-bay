@@ -24,7 +24,7 @@ from .agent import Agent, Result
 from .config import DEFAULT_DB, ROOT
 from .gateway import Denied, Gateway
 from .model import AGENT, COMPLIANCE, COUNSELOR, DIRECTOR, REVERSAL, SCREENING, SYNC
-from .reader import NOTE, PAY_STUB, Reader, ReadFailed, call_claude, export_replies, import_replies
+from .reader import NOTE, PAY_STUB, Reader, ReadFailed, ReplyCache, call_claude, export_replies, import_replies
 from .scripted import SEED_SCRIPTS, ScriptedClaude
 from .store import Store
 
@@ -211,9 +211,10 @@ def main() -> None:
     for suffix in ("", "-wal", "-shm"):
         Path(path + suffix).unlink(missing_ok=True)
     store = Store(path)
-    loaded = import_replies(store, FIXTURE)
+    cache = ReplyCache()
+    loaded = import_replies(cache, FIXTURE)
     print(f"Loaded {loaded} saved Claude replies from {FIXTURE.relative_to(ROOT)}")
-    reader = Reader(store, call=ScriptedClaude(SEED_SCRIPTS)) if offline else Reader(store)
+    reader = Reader(store, call=ScriptedClaude(SEED_SCRIPTS)) if offline else Reader(store, cache=cache)
     try:
         results = seed(store, reader)
     except ReadFailed as e:
@@ -225,7 +226,7 @@ def main() -> None:
     if not offline:
         print(call_claude.guard.summary())
     if record:
-        print(f"Saved {export_replies(store, FIXTURE)} Claude replies to {FIXTURE.relative_to(ROOT)}")
+        print(f"Saved {export_replies(cache, FIXTURE, keys=reader.keys)} Claude replies to {FIXTURE.relative_to(ROOT)}")
     print(f"Seeded {path}")
 
 

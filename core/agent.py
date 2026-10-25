@@ -11,21 +11,24 @@ Run every open work item from the repo root:  core/.venv/bin/python -m core.agen
 from __future__ import annotations
 
 import os
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, timedelta
 
 from . import law
 from .config import DEFAULT_DB
 from .gateway import Gateway
 from .model import (
-    AGENT, BLOCK_AGENCY_ACTION, COUNSELOR, DISCOUNT, FREE_CARE, NEW, PAUSE_COLLECTIONS, PAYMENT_PLAN,
+    AGENT, BLOCK_AGENCY_ACTION, COUNSELOR, DISCOUNT, FREE_CARE, NEEDS_INFO, NEW, PAUSE_COLLECTIONS, PAYMENT_PLAN,
     SCREENING,
 )
-from .policy import NEEDS_INFO, STATED, screen
-from .reader import Reader, Reading, ReadFailed, call_claude, case_file
+from .policy import STATED, screen
+from .reader import Reader, Reading, ReadFailed, ReplyCache, call_claude, case_file
 from .store import Store
 
 ASSISTANCE_KINDS = (FREE_CARE, DISCOUNT, PAYMENT_PLAN)
+WAIT_FOR_DOCUMENTS_DAYS = 14
+PARALLEL_READS = 6
 
 
 @dataclass(frozen=True)
@@ -41,19 +44,34 @@ class Agent:
         self.store, self.gateway, self.reader = store, gateway, reader
         self.me = store.actor(AGENT)
 
-    def work_open_items(self) -> list[Result]:
-        rows = self.store.all("SELECT id FROM work_items WHERE state IN (?, ?) ORDER BY id", NEW, SCREENING)
-        return [self.work(row["id"]) for row in rows]
+    def work_open_items(self, parallel: int = PARALLEL_READS) -> list[Result]:
+        ids = [row["id"] for row in self.store.all("SELECT id FROM work_items WHERE state IN (?, ?) ORDER BY id",
+                                                   NEW, SCREENING)]
+        self.prefetch(ids, parallel)
+        return [self.work(item_id) for item_id in ids]
+
+    def prefetch(self, item_ids: list[str], parallel: int) -> None:
+        """Read every case at once, so the work that follows finds each reading saved. Reading changes nothing;
+        all acting stays one item at a time, in order."""
+        if len(item_ids) < 2 or parallel < 2:
+            return
+        cases = [case_file(self.store, self.store.work_item(i)["account_id"]) for i in item_ids]
+        with ThreadPoolExecutor(max_workers=parallel) as pool:
+            for future in [pool.submit(self.reader.read, case) for case in cases]:
+                try:
+                    future.result()
+                except ReadFailed:
+                    pass  # work() reads that case again and reports the failure itself
 
     def work(self, item_id: str) -> Result:
         item = self.store.work_item(item_id)
         if item is None:
             raise KeyError(item_id)
         account = self.store.account(item["account_id"])
+        self.stop_illegal_collections(account, item_id)  # safe, so it never waits for the item's turn
         if item["state"] not in (NEW, SCREENING):
             return Result(item_id, account["id"], "WAITING", f"The work item is {item['state']}, so there is nothing to do.")
 
-        self.stop_illegal_collections(account, item_id)
         reading = self.reader.read(case_file(self.store, account["id"]))
         if item["state"] == NEW:
             self.gateway.move(self.me, item_id, SCREENING, "Checking for financial assistance")
@@ -111,7 +129,9 @@ class Agent:
             return self.ask(account, item_id, f"The documents disagree. {disagreements} Which is right?")
 
         result = screen(reading.applicant, account["billed_cents"], self.store.today(), self.learned_programs())
-        if result.outcome == NEEDS_INFO:
+        if result.outcome == NEEDS_INFO:  # the screening outcome and the work item state share the name
+            if not reading.untrusted_documents and (waiting := self.wait_for_documents(account, item_id)):
+                return waiting
             question = result.question
             if reading.untrusted_documents:
                 ignored = ", ".join(sorted(reading.untrusted_documents))
@@ -122,6 +142,8 @@ class Agent:
 
         pattern = None
         if reading.applicant.income_proof == STATED and result.outcome in (FREE_CARE, DISCOUNT):
+            if waiting := self.wait_for_documents(account, item_id):
+                return waiting
             pattern = f"{result.outcome}_WITHOUT_INCOME_DOCUMENTS"
             if earlier := self.store.rejected_pattern(pattern):
                 return self.ask(account, item_id,
@@ -145,6 +167,23 @@ class Agent:
         question_id = self.gateway.ask(self.me, item_id, COUNSELOR, question)
         return Result(item_id, account["id"], "ASKED", f"{question_id} to the counselor: {question}")
 
+    def wait_for_documents(self, account: dict, item_id: str) -> Result | None:
+        """Documents usually follow a new form within days. Wait for them instead of asking a person or
+        proposing on the applicant's word; sync puts the item back to work when one arrives, or when the wait
+        is over. Returns None when there's no recent application to wait on."""
+        received = self.newest_application(account["id"])
+        if received is None or self.store.today() - received >= timedelta(days=WAIT_FOR_DOCUMENTS_DAYS):
+            return None
+        self.gateway.move(self.me, item_id, NEEDS_INFO,
+                          f"Nothing to decide on yet but the form. Waiting up to {WAIT_FOR_DOCUMENTS_DAYS} days "
+                          "for income documents.")
+        return Result(item_id, account["id"], "WAITING", "Waiting for income documents.")
+
+    def newest_application(self, account_id: str) -> date | None:
+        received = [app["received_on"] for app in (self.store.record("application", a)
+                                                   for a in self.store.applications_for(account_id)) if app]
+        return date.fromisoformat(max(received)) if received else None
+
     def learned_programs(self) -> frozenset[str]:
         """Programs that approved rules add to free care without income documents. Learning fills this in."""
         return frozenset()
@@ -152,7 +191,7 @@ class Agent:
 
 def main() -> None:
     store = Store(os.environ.get("HALCYON_DB", DEFAULT_DB))
-    agent = Agent(store, Gateway(store), Reader(store))
+    agent = Agent(store, Gateway(store), Reader(store, cache=ReplyCache()))
     try:
         for result in agent.work_open_items():
             print(f"{result.account_id}  {result.did:<8}  {result.detail}")

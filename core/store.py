@@ -73,15 +73,31 @@ CREATE TABLE IF NOT EXISTS questions (
     answered_by TEXT,
     answered_on TEXT
 );
+CREATE TABLE IF NOT EXISTS records (
+    kind TEXT NOT NULL,
+    id TEXT NOT NULL,
+    recorded_on TEXT NOT NULL,
+    data TEXT NOT NULL,
+    PRIMARY KEY (kind, id)
+);
+CREATE INDEX IF NOT EXISTS records_by_mrn ON records(kind, json_extract(data, '$.mrn'));
+CREATE INDEX IF NOT EXISTS records_by_account ON records(kind, json_extract(data, '$.account_no'));
 CREATE TABLE IF NOT EXISTS documents (
     id TEXT PRIMARY KEY,
-    account_id TEXT NOT NULL,
+    account_id TEXT,
+    application_id TEXT,
     kind TEXT NOT NULL,
     source TEXT NOT NULL,
     dated TEXT,
     text TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS documents_by_account ON documents(account_id);
+CREATE INDEX IF NOT EXISTS documents_by_application ON documents(application_id);
+CREATE TABLE IF NOT EXISTS application_accounts (
+    application_id TEXT NOT NULL,
+    account_id TEXT NOT NULL,
+    PRIMARY KEY (application_id, account_id)
+);
 CREATE TABLE IF NOT EXISTS agency_requests (
     id TEXT PRIMARY KEY,
     account_id TEXT NOT NULL,
@@ -142,7 +158,7 @@ SYSTEM_ACTORS = {
     GATEWAY: Actor(GATEWAY, GATEWAY, "Gateway"),
 }
 
-JSON_COLUMNS = ("sources", "evidence", "detail", "patient_ids", "reply")
+JSON_COLUMNS = ("sources", "evidence", "detail", "patient_ids", "reply", "data")
 FIRST_SIM_DAY = date(2026, 7, 1)
 
 
@@ -251,14 +267,44 @@ class Store:
 
     # Documents, agency requests and Claude's replies.
 
-    def add_document(self, id: str, account_id: str, kind: str, source: str, dated: date | None,
-                     text: str) -> None:
-        self.run("INSERT OR REPLACE INTO documents (id, account_id, kind, source, dated, text) "
-                 "VALUES (?, ?, ?, ?, ?, ?)", id, account_id, kind, source,
-                 dated.isoformat() if dated else None, text)
+    def add_document(self, id: str, account_id: str | None, kind: str, source: str, dated: date | str | None,
+                     text: str, application_id: str | None = None) -> None:
+        self.run("INSERT OR REPLACE INTO documents (id, account_id, application_id, kind, source, dated, text) "
+                 "VALUES (?, ?, ?, ?, ?, ?, ?)", id, account_id, application_id, kind, source,
+                 dated.isoformat() if isinstance(dated, date) else dated, text)
 
     def documents(self, account_id: str) -> list[dict]:
-        return self.all("SELECT * FROM documents WHERE account_id = ? ORDER BY id", account_id)
+        """Documents filed under the account, or under any application that covers it."""
+        return self.all("SELECT * FROM documents WHERE account_id = ? OR application_id IN "
+                        "(SELECT application_id FROM application_accounts WHERE account_id = ?) ORDER BY id",
+                        account_id, account_id)
+
+    # Source records, exactly as each system exported them. Latest wins per (kind, id).
+
+    def put_record(self, kind: str, id: str, recorded_on: str, data: dict) -> None:
+        self.run("INSERT INTO records (kind, id, recorded_on, data) VALUES (?, ?, ?, ?) "
+                 "ON CONFLICT(kind, id) DO UPDATE SET recorded_on = excluded.recorded_on, data = excluded.data "
+                 "WHERE excluded.recorded_on >= records.recorded_on", kind, id, recorded_on, json.dumps(data))
+
+    def record(self, kind: str, id: str) -> dict | None:
+        row = self.one("SELECT data FROM records WHERE kind = ? AND id = ?", kind, id)
+        return row["data"] if row else None
+
+    def records(self, kind: str, where: str = "", *args) -> list[dict]:
+        sql = "SELECT data FROM records WHERE kind = ?" + (f" AND {where}" if where else "") + " ORDER BY id"
+        return [r["data"] for r in self.all(sql, kind, *args)]
+
+    def link_application(self, application_id: str, account_id: str) -> None:
+        self.run("INSERT OR IGNORE INTO application_accounts (application_id, account_id) VALUES (?, ?)",
+                 application_id, account_id)
+
+    def applications_for(self, account_id: str) -> list[str]:
+        return [r["application_id"] for r in self.all(
+            "SELECT application_id FROM application_accounts WHERE account_id = ? ORDER BY application_id", account_id)]
+
+    def accounts_for(self, application_id: str) -> list[str]:
+        return [r["account_id"] for r in self.all(
+            "SELECT account_id FROM application_accounts WHERE application_id = ? ORDER BY account_id", application_id)]
 
     def add_agency_request(self, id: str, account_id: str, action: str, requested_on: date,
                            notice_sent_on: date | None = None) -> None:
@@ -276,6 +322,9 @@ class Store:
 
     def save_reply(self, key: str, reply: dict) -> None:
         self.run("INSERT OR REPLACE INTO claude_replies (key, reply) VALUES (?, ?)", key, json.dumps(reply))
+
+    def replies(self) -> dict:
+        return {r["key"]: r["reply"] for r in self.all("SELECT key, reply FROM claude_replies ORDER BY key")}
 
     # Audit log.
 

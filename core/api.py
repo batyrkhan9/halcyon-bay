@@ -18,7 +18,8 @@ from .config import DEFAULT_DB
 from .gateway import Denied, Gateway
 from .model import PROPOSED, STAFF_ROLES, WORK_ITEM_STATES
 from .permissions import APPROVE, can
-from .reader import Reader, ReadFailed
+from .reader import Reader, ReadFailed, ReplyCache
+from .score import score
 from .store import Store
 
 
@@ -35,7 +36,7 @@ class AnswerIn(BaseModel):
 
 def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
     gateway = Gateway(store)
-    agent = Agent(store, gateway, reader or Reader(store))
+    agent = Agent(store, gateway, reader or Reader(store, cache=ReplyCache()))
     app = FastAPI(title="Halcyon Bay core")
     app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
@@ -115,6 +116,11 @@ def create_app(store: Store, reader: Reader | None = None) -> FastAPI:
         """The agent works one item now: reads it with Claude, then proposes or asks."""
         result = agent.work(item_id)
         return {"result": asdict(result), "work_item": store.work_item(item_id)}
+
+    @app.get("/score")
+    def current_score():
+        """The live score against the answer key, with every miss."""
+        return score(store)
 
     @app.get("/audit")
     def audit(account_id: str | None = None, actor_id: str | None = None, allowed: bool | None = None,

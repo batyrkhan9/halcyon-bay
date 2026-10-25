@@ -17,6 +17,15 @@ core/.venv/bin/uvicorn core.api:main --factory --port 8000
 
 The API is at http://localhost:8000, and every endpoint is listed at http://localhost:8000/docs. `core.dev_seed` fills `core/state/halcyon.db` with a few made-up accounts and has the agent work them, so you can build screens before the real data lands. Set `HALCYON_DB` to use another file.
 
+To run against the real simulated hospital in `data/world/` instead, load the 18 months of history, then replay live days with the agent working each new case:
+
+```bash
+core/.venv/bin/python -m core.sync onboard
+core/.venv/bin/python -m core.sync day 2026-07-01 --through 2026-07-07 --work
+```
+
+Both write the same `core/state/halcyon.db`, so pick one. On real data, documents include `APPLICATION` (the form as the applicant filled it in), `NOTE` (staff notes), `BILLING` (the registration record) and the mailroom kinds from `data/FORMAT.md`, and `account.sources` holds the billing and patient rows as exported.
+
 The agent reads documents with Claude, which needs `ANTHROPIC_API_KEY` in `.env` at the repo root. Without a key, `--offline` replays hand-written readings instead; they show up as model `scripted` in the audit log. Everything after the reading is the real code either way.
 
 ## Conventions

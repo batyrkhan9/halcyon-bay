@@ -73,6 +73,33 @@ def test_income_statements_that_disagree_are_a_conflict():
     assert result.conflicts and result.conflicts[0]["area"] == "INCOME"
 
 
+def test_bank_deposits_count_only_when_nothing_gives_gross_pay():
+    stub = Document("DOC-8", PAY_STUB, "income_documents", None, "Bi-Weekly\nGROSS PAY 2,000.00")
+    bank = Document("DOC-9", "BANK_STATEMENT", "income_documents", None, "06/12 PAYROLL DEPOSIT 1,560.00")
+    both = reading(where_in(stub, bank), income=[("Wages", [("GROSS PAY 2,000.00", 2000, "BIWEEKLY"),
+                                                            ("PAYROLL DEPOSIT 1,560.00", 1560, "BIWEEKLY")])])
+    result = interpret(case(stub, bank), both, model="m", cached=False)
+    assert result.applicant.annual_income == 52_000 and result.conflicts == []
+    alone = reading(where_in(bank), income=[("Wages", [("PAYROLL DEPOSIT 1,560.00", 1560, "BIWEEKLY")])])
+    assert interpret(case(bank), alone, model="m", cached=False).applicant.annual_income == 40_560
+
+
+def test_last_years_tax_return_does_not_add_to_current_pay():
+    stub = Document("DOC-10", PAY_STUB, "income_documents", None, "Bi-Weekly\nGROSS PAY 1,354.46")
+    tax = Document("DOC-11", "TAX_RETURN", "income_documents", None, "W-2, box 1 .... 35,216.00")
+    output = reading(where_in(stub, tax), income=[("Wages", [("GROSS PAY 1,354.46", 1354.46, "BIWEEKLY")]),
+                                                  ("W-2 wages", [("35,216.00", 35216, "ANNUAL")])])
+    assert interpret(case(stub, tax), output, model="m", cached=False).applicant.annual_income == 35_216
+
+
+def test_a_billing_payer_is_not_proof_of_enrollment():
+    billing = Document("BILL-1", "BILLING", "billing_system", None, "Payer: MEDI-CAL")
+    result = interpret(case(billing), reading(where_in(billing), programs=[("Payer: MEDI-CAL", "MEDI_CAL")]),
+                       model="m", cached=False)
+    assert result.applicant.programs == frozenset()
+    assert result.rejected[0]["why"] == "a billing payer isn't proof of enrollment"
+
+
 def test_notes_only_are_stated_income_and_letters_are_other_proof():
     stated = Document("DOC-5", NOTE, "fa_system", None, "pt says he makes about $85,000 a year")
     result = interpret(case(stated), reading(where_in(stated), income=[("Wages", [("makes about $85,000 a year", 85000, "ANNUAL")])]),
@@ -128,7 +155,8 @@ def test_reader_caches_replies_so_the_same_case_reads_the_same_way():
     fake = ScriptedClaude({"ACC-1": lambda w: reading(w, household=("household of 4", 4))})
     reader = Reader(store, call=fake)
     first = reader.read(case(NOTE_DOC))
-    second = reader.read(case(NOTE_DOC))
+    again = reader.read(case(NOTE_DOC))            # same run: still the reading it just fetched
+    later = Reader(store, call=fake).read(case(NOTE_DOC))   # a later run replays it
     assert len(fake.calls) == 1
-    assert (first.cached, second.cached) == (False, True)
-    assert second.applicant.household == 4
+    assert (first.cached, again.cached, later.cached) == (False, False, True)
+    assert later.applicant.household == 4
