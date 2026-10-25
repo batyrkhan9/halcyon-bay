@@ -9,9 +9,9 @@ Everything here is simulated: the hospital, the patients and the accounts. No re
 | Folder | Owner | What goes there |
 |---|---|---|
 | `core/` | Batyrkhan | The system of work and the agent |
-| `data/` | Teammate 2 | The simulated hospital world and the answer key |
-| `ui/` | Teammate 2 | The screens |
-| `docs/` | Teammate 3 | Pitch, slides, Devpost text, demo script |
+| `data/` | Noriaki | The simulated hospital world, the answer key and the CRS calls |
+| `ui/` | Noriaki | The screens |
+| `docs/` | Ifeoluwa | Pitch, slides, Devpost text, demo script |
 
 ## Setup
 

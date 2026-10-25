@@ -9,9 +9,9 @@ Full context, ownership, contracts and timeline: @PRD.md
 Three people build this at the same time.
 
 - `core/` is the system of work and the agent (Batyrkhan)
-- `data/` is the simulated hospital world and the answer key (teammate 2)
-- `ui/` is the screens (teammate 2)
-- `docs/` is the pitch, slides, Devpost text and demo script (teammate 3)
+- `data/` is the simulated hospital world, the answer key and the CRS calls (Noriaki)
+- `ui/` is the screens (Noriaki)
+- `docs/` is the pitch, slides, Devpost text and demo script (Ifeoluwa)
 
 Only change files in the folders owned by the person you are working with. If something in another folder needs to change, say so instead of editing it. The data format shared by `core/` and `data/` changes only when both owners agree.
 
@@ -21,7 +21,7 @@ Only change files in the folders owned by the person you are working with. If so
 - The AI proposes and never approves. Only the gateway posts changes.
 - All data is synthetic. Never use a real patient, a real hospital or real personal data.
 - API keys live only in `.env`. Never put a key in code or commit it.
-- Run `git pull --rebase` before every push.
+- Work on your own branch, never commit straight to main, and run `git pull --rebase` before every push.
 
 ## Commits
 

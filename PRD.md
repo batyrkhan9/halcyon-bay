@@ -1,6 +1,6 @@
 # Halcyon Bay: Product Requirements
 
-Last updated Oct 25, 2026, 1:50 AM. Owner: Batyrkhan. This is the single source of truth for every teammate and every agent.
+Last updated Oct 25, 2026, 2:00 AM. Owner: Batyrkhan. This is the single source of truth for every teammate and every agent.
 
 ## In one line
 
@@ -123,32 +123,33 @@ Pitch phrases for Hyphenate, each shown live: system of work, learns the job fro
 
 | Area | Owner | Folder |
 |---|---|---|
-| Sync, work items, permissions, gateway, audit log, agent, learning, score script, CRS calls | Batyrkhan | core/ |
-| Simulated world, answer key, data/FORMAT.md | Teammate 2 | data/ |
-| Screens | Teammate 2 | ui/ |
-| Pitch, slides, Devpost, demo video, judge scenarios, CRS and Anthropic checks | Teammate 3 | docs/ |
-| PRD.md, CLAUDE.md, README.md | Batyrkhan (Teammate 3 writes the final README) | root |
+| Sync, work items, permissions, gateway, audit log, agent, learning, score script | Batyrkhan | core/ |
+| Simulated world, answer key, data/FORMAT.md, CRS (sandbox, calls and checks) | Noriaki | data/ |
+| Screens | Noriaki | ui/ |
+| Pitch, slides, Devpost, demo video, judge scenarios, Anthropic checks | Ifeoluwa | docs/ |
+| PRD.md, CLAUDE.md, README.md | Batyrkhan (Ifeoluwa writes the final README) | root |
 
 Contracts between parts
-- data to core: data/FORMAT.md. Teammate 2 writes it, and changes need Batyrkhan's ok.
-- core to ui: core/INTERFACE.md, how the UI reads state and sends approvals. Batyrkhan writes it by 3:20, and changes need Teammate 2's ok.
+- data to core: data/FORMAT.md, including what the CRS calls return. Noriaki writes it, and changes need Batyrkhan's ok.
+- core to ui: core/INTERFACE.md, how the UI reads state and sends approvals. Batyrkhan writes it by 3:20, and changes need Noriaki's ok.
 - Judge box: the UI sends plain English, and the core turns it into a new account and works it live.
 
 How not to conflict
+- Everyone works on their own branch (Batyrkhan on core). Nobody commits straight to main except to merge.
 - Only edit your own folder. If something elsewhere needs to change, tell your person so they can ask the owner.
 - Each owner picks the tech for their own part. The core and UI meet through core/INTERFACE.md.
-- Run git pull --rebase before every push, and push small and often.
+- Merge your branch into main at every handoff in the timeline, then pull main into your branch so you have everyone's latest work. Push small and often.
 - Never commit .env or keys, and never add Claude as a co-author.
 
 ## Timeline
 
-- 2:00: data/FORMAT.md pushed and agreed
-- 2:40: first data batch, and the core starts loading it
-- 3:20: full data, and core/INTERFACE.md ready
-- 3:45: Checkpoint 1, one account flows end to end and shows in the UI
+- 2:00: data/FORMAT.md merged to main and agreed
+- 2:40: first data batch merged to main, and the core starts loading it
+- 3:20: full data and core/INTERFACE.md merged to main
+- 3:45: Checkpoint 1 on main, one account flows end to end and shows in the UI
 - 5:00: Devpost draft submitted
-- 5:30: Checkpoint 2, the full demo flow works
-- 6:30: code freeze, bug fixes only, record the demo
+- 5:30: Checkpoint 2 on main, the full demo flow works
+- 6:30: code freeze, everything merged to main, bug fixes only, record the demo
 - 8:00: everyone at the venue. 8:45: final submit. 10:30: judging.
 
 If behind at 5:30, cut in this order: CRS, visual polish, the judge box. Never cut the day-one discovery, the gateway denial or the audit query.
@@ -162,5 +163,5 @@ If behind at 5:30, cut in this order: CRS, visual polish, the judge box. Never c
 
 ## Open questions
 
-- CRS: which products our sandbox has (Teammate 3). Plan A is income verification to qualify patients with no documents. Plan B is identity verification to catch duplicate accounts.
-- Anthropic prize: how to enter (Teammate 3, asking in #0-ask-directors).
+- CRS: which products our sandbox has (Noriaki). Plan A is income verification to qualify patients with no documents. Plan B is identity verification to catch duplicate accounts.
+- Anthropic prize: how to enter (Ifeoluwa, asking in #0-ask-directors).
